@@ -1,6 +1,6 @@
 * <<<301>>> DISCRETE MATHMATICS
 :properties:
-:author: 
+:author: Dr. R. Sundareswaran and Dr. N. Padmapriya
 :date: 
 :end:
 
@@ -16,6 +16,7 @@
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
+
 
 {{{unit}}}
 |Unit II | <Title> | <Hours> |
