@@ -1,4 +1,4 @@
-* <<<401>>> PROBABILITY AND STTISTICAL METHODS
+* <<<401>>> PROBABILITY AND STATISTICAL METHODS
 :properties:
 :author: Dr. G. Kalpana and Dr. N. Padmapriya
 :date: 
