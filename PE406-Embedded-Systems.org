@@ -1,0 +1,40 @@
+* <<<PE406>>> EMBEDDED SYSTEMS
+:properties:
+:author: Mr. K. R. Sarath Chandran and Ms. S. Angel Deborah
+:date: 
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To have a basic knowledge of the concepts and techniques of machine
+  learning.
+
+{{{unit}}}
+|Unit I | <Title> | <Hours> |
+
+{{{unit}}}
+|Unit II | <Title> | <Hours> |
+
+{{{unit}}}
+|Unit III | <Title> | <Hours> |
+
+{{{unit}}}
+|Unit IV | <Title> | <Hours> |
+
+{{{unit}}}
+|Unit V | <Title> | <Hours> |
+
+
+\hfill *Total: <Total Hours>*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand the basic concepts of machine learning (K2).
+      
+** References
+1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
