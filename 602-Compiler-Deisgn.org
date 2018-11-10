@@ -3,7 +3,7 @@
 :author: Dr. B. Bharathi and Dr. B. Prabavathy
 :end:
 
-#+startup: sathya
+#+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
