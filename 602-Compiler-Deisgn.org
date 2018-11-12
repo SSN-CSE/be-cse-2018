@@ -56,7 +56,6 @@ After the completion of this course, students will be able to:
 
       
 ** References
-REFERENCES
 Text Books
 1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Second Edition, Pearson Education, 2009
 
