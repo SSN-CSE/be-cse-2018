@@ -42,7 +42,7 @@ After the completion of this course, students will be able to:
 - Developing a speech recognition system using statistical approach(K3)
 - Compare the various methods of speech synthesis(K2)
       
-**Text books
+** Text books
 1. L.R. Rabiner and R.W. Schafer, ``Digital Processing of Speech Signals'', Pearson Education, Delhi, India, 2004 
 
 ** References
