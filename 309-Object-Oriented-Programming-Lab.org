@@ -11,31 +11,49 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+- To build software development skills using java programming for real world applications.
+- To Learn the concepts of  classes, packages, interfaces, arraylist, exception handling and I/O streams.
+- To develop applications using  generic programming and event handling.
 
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+** List of experiments
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+1. Develop a Java application to generate Electricity bill. Create a class with following members: Consumer no., consumer name, previous month reading, current month reading, type of EB connection (i.e domestic or commercial). Compute the bill amount using the following tariff.
+      If the type of the EB connection is domestic, calculate the amount to be paid as follows:
+First 100 units    - Rs. 1 per unit
+101-200 units    - Rs. 2.50 per unit
+201 -500 units - Rs. 4 per unit
+> 501  units     - Rs. 6 per unit
+If the type of the EB connection is commercial, calculate the amount to be paid as follows:
+First 100 units    - Rs. 2 per unit
+101-200 units    - Rs. 4.50 per unit
+201 -500 units - Rs. 6 per unit
+> 501  units     - Rs. 7 per unit
+2. Write a program to perform string operations using ArrayList. Write functions for the following
+       a. Append - add at end
+       b. Insert – add at particular index
+       c. Search
+       d. List all string starts with given letter
+3. Develop a java application to implement currency converter (Dollar to INR, EURO to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM and vice versa) , time converter (hours to minutes, seconds and vice versa) using packages.
+4. Develop a java application with Employee class with Emp_name, Emp_id, Address, Mail_id, Mobile_no as members. Inherit the classes, Programmer, Assistant Professor, Associate Professor and Professor from employee class. Add Basic Pay (BP) as the member for all the inherited classes with 97% of BP as DA, 10 % of BP as HRA, 12% of BP as PF, 0.1% of BP for staff club fund. Generate a payslip for the employees with gross and net salary.
+5. Write a Java Program to create an abstract class named Shape which contains a method named printArea(). Provide three classes named Rectangle, Triangle and Circle such that each one of the classes extends the class Shape. Each one of the classes contains only the method printArea() that prints the area of the given shape.
+6. Design a Java interface for ADT Stack. Implement this interface using array. Provide necessary exception handling.
+7. Write a Java program to implement user defined exception handling.
+8. Write a Java program that reads a file name from the user and displays its content (using stream), its existence, permission, type, length in bytes. 
+9. Write a java program that implements a multi-thread application that has three threads. First thread generates random integer every 1 second and if the value is even, second thread computes the square of the number and prints. If the value is odd, the third thread will print the value of cube of the number.
+10. Develop Generic Sorting application which sorts the employee objects based on basic salary and student objects based on total marks using bubble sort algorithm. Create employee class with the members Emp_No, Emp_Name, Address and Basic_Pay. Create student class with the members RollNo, Name, Address and Total_Marks. 
+11. Design a calculator using Swing components and possible layouts (Flow, Grid, etc.) which performs basic as well as scientific calculations.  Use grid to display the numbers and operators for the calculations. Calculations have to be performed based on the necessary events using event-driven programming.
+12. Develop a mini project for any application using Java concepts.
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Develop applications using classes and packages.(K3)
+- Apply interface and inheritance concepts to write programs.(K3)
+- Experiment the concepts of multithreading and exception handling.(K3)
+- Design applications using I/O streams and generic programming.(K3)
+- Apply appropriate features of Java programming paradigm to design mini project. 	(K3)
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
