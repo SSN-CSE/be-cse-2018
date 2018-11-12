@@ -10,32 +10,48 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the classical and symmetric cryptographic techniques.
+- To study about message authentication and hash functions.
+- To acquire knowledge on number theory fundamentals needed by cryptographic algorithms.
+- To understand the various key distribution and management schemes.
+- To understand the concepts of Public key cryptography and digital signatures.
+ 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | <Introduction and Classical Cryptography & Symmetric Cryptography> | <10> |
+Cryptography and Modern Cryptography -- Setting of Private-Key Encryption -- Historical Ciphers and Their Cryptanalysis -- The Basic Principles of Modern Cryptography; Perfectly Secret Encryption: Definitions and Basic Properties -- The One-Time Pad -- Limitations of Perfect Secrecy; Private-Key Encryption: A Computational Approach to Cryptography-- Computationally Secure Encryption  -- Pseudo-randomness -- Constructing Secure Encryption Schemes -- Security Against Chosen-Plaintext Attacks (CPA) -- Constructing CPA-Secure Encryption Schemes -- Security Against Chosen-Ciphertext Attacks (CCA).
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | <Message Authentication Codes and Collision-Resistant Hash Functions> | <8> |
+Secure Communication and Message Integrity -- Encryption vs. Message Authentication -- Message Authentication Codes -- Constructing Secure Message Authentication Codes -- CBC-MAC -- Collision-Resistant Hash Functions -- NMAC and HMAC -- Constructing CCA-Secure Encryption Schemes -- Obtaining Privacy and Message Authentication.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | <Block Ciphers> | <9> |
+Substitution-Permutation Networks -- Feistel Networks  --  DES -- Increasing the Key Length of a Block Cipher – AES -- Differential and Linear Cryptanalysis; One-Way Functions -- From One-Way Functions to Pseudo randomness -- Constructing Pseudorandom Generators -- Constructing Pseudorandom Functions -- Constructing Pseudorandom Permutations --  Necessary Assumptions for Private-Key Cryptography.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | <Number Theory & Key Distribution> | <9> |
+Number Theory: Preliminaries and Basic Group Theory -- Primes, Factoring, and RSA -- Assumptions in Cyclic Groups -- Cryptographic Applications of Number-Theoretic Assumptions; Private-Key Management and the Public-Key Revolution: Limitations of Private-Key Cryptography  -- Key Distribution Centers -- The Public-Key Revolution --  Diffie-Hellman Key Exchange.
 
+{{{unit}}}
+|Unit V | <Public-Key Encryption & Digital Signature> | <9> |
+Public-Key Encryption – An Overview -- Definitions --  Hybrid Encryption -- RSA Encryption – The El Gamal Encryption Scheme -- Security Against Chosen-Ciphertext Attacks; Digital Signatures Schemes : An Overview -- Definitions -- RSA Signatures - -The Hash-and-Sign Paradigm -- Lamport's One-Time Signature Scheme -- Signatures from Collision-Resistant Hashing -- The Digital Signature Standard --Certificates and Public-Key Infrastructures. 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-- Seond CO
-      
+- Describe and implement classical and symmetric ciphers (K2)
+- Classify and discuss various attacks (K3)
+- Compare and contrast symmetric and asymmetric encryption systems (K3)
+- Describe the authentication schemes and  hash algorithms (K2)
+- Illustrate various Public key cryptographic techniques  (K3)
+       
+** Text Book
+1. Jonathan Katz, Yehuda Lindell, ``Introduction to modern cryptography'', Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series), 2014.
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Wenbo Mao, ``Modern Cryptography – Theory and Practice”, Pearson Education, 2004.
+2.	Johannes A. Buchmann, ``Introduction to Cryptography”, 2nd edition, Pearson Education, Springer, 2009.
+3.	Charles P. Pfleeger, Shari Lawrence Pfleeger, ``Security in computing'', Third Edition, Prentice Hall of India, 2006.
+4.	Bruce Schneier and Neils Ferguson, “Practical Cryptography”, First Edition, Wiley Dreamtech India Pvt Ltd, 2003.
+5.	http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep Mukhopadhyay, IIT Kharagpur.
