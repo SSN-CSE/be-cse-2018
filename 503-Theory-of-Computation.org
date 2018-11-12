@@ -11,15 +11,16 @@
 
 ** Course Objectives
 The student should be made to: 
-- To construct finite automata for any given pattern and find its equivalent regular expressions
-- To understand the language hierarchy  and  to design a context free grammar for any given language
-- To construct pushdown automata  for any CFL
-- To understand Turing machines and their capability
-- To understand undecidable problems 
+- To construct finite automata for any given pattern and find its equivalent regular expressions.
+- To understand the language hierarchy  and  to design a context free grammar for any given language.
+- To construct pushdown automata  for any CFL.
+- To understand Turing machines and their capability.
+- To understand undecidable problems.
 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | Finite Automata and Regular Languages  | 10 |
+Introduction-Basic Mathematical Notation and techniques- Finite Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic Finite Automata(NFA) – Finite Automata with Epsilon Transitions- Equivalence of FA’s –Minimization of DFA;  Regular Languages - Regular Expression – Equivalence of finite Automata  and Regular Expressions –  Proving Languages not to be regular – Closure Properties of Regular Languages.
 
 
 {{{unit}}}
