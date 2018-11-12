@@ -42,10 +42,14 @@ After the completion of this course, students will be able to:
 - Developing a speech recognition system using statistical approach(K3)
 - Compare the various methods of speech synthesis(K2)
       
+**Text books
+1. L.R. Rabiner and R.W. Schafer, ``Digital Processing of Speech Signals'', Pearson Education, Delhi, India, 2004 
+
 ** References
-1. L. R. Rabiner and R. W. Schaffer, ``Digital Processing of Speech signals'', Prentice Hall, 1978.
-2. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language Processing – A guide to Theory, Algorithm and System Development'', Prentice Hall PTR, 2001.
-3. Lawrence Rabiner and Biing-Hwang Juang, ``Fundamentals of Speech Recognition'', Prentice Hall Signal Processing Series, 1993.
-4. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'', Pearson Education, 2002.
-5. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'', John Wiley and Sons Inc., Singapore, 2004.
+1. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language Processing – A guide to Theory, Algorithm and System Development'', Prentice  Hall PTR, 2001.
+2. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, ``Fundamentals of speech recognition'', Pearson Education, 2009.
+3. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'', Pearson Education, 2002.
+4. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'', John Wiley and Sons Inc., Singapore, 2004.
+5. J. R. Deller, Jr., J. H. L. Hansen and J. G. Proakis, ``Discrete-Time Processing of Speech Signals'', Wiley-IEEE Press, NY, USA, 1999.
+
 
