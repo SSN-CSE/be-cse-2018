@@ -23,22 +23,34 @@ Introduction to object oriented programming – Classes and objects – Features
 
 {{{unit}}}
 |Unit II | Inheritance and Interfaces	 | 9 |
-
+Inheritance: Super classes, sub classes, protected members, constructors in sub classes -  Object class – Abstract classes and methods- Final classes and methods – Interfaces:  Definition, Implementation - Differences between classes and interfaces - Extending interfaces - Inner classes
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
-
+|Unit III |Exception Handling and I/O	Streams  | 9 |
+Exceptions: Hierarchy, Throwing and catching exceptions, Built-in exceptions, Creating own exception – Streams: Input, Output, Byte and Character streams 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
+|Unit IV | Multithreading and Generic Programming | 8 |
+Multithreading and multitasking – Thread: Life cycle, creation, Synchronization, Inter thread communication - Daemon threads and thread groups - Generic Programming: Classes and methods – Bounded Types – Restrictions and limitations
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | Event Driven Programming  | 9 |
+Introduction to Swing: Frame, Components: Text Fields , Text Area, Button, Check Box, Radio Button, List control, Choice control, Scrollbar, menus, dialog box - Color, Font and Images – Layouts:  Flow, Box, Grid, Grid bag, Border, Card - Event handling: Model, Source and Listener interfaces 
 
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Develop  Java programs using OOP principles (K3)
+- Develop  Java programs  with the concepts  inheritance and interfaces	(K3)
+- Build Java applications using  exceptions and  I/O streams (K3)
+- Develop  Java applications with threads and generics classe(K3)
+- Develop interactive Java programs using swings(K3)
+     
+** Text Books
+1. Herbert Schildt, ``ava The complete reference'', 8th Edition, McGraw Hill Education, 2011.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Cay S. Horstmann, Gary cornell, ``Core Java Volume –I Fundamentals'' 9th Edition, Prentice Hall, 2013.
+2. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd Edition, Pearson, 2015.
+3. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
+4. Timothy Budd, ``Understanding Object-oriented programming with Java'', Updated Edition, Pearson Education, 2000.
+5. C. Thomas Wu, ``An introduction to Object-oriented programming with Java'', Fourth Edition, Tata McGraw-Hill Publishing     company Ltd., 2006.
+
