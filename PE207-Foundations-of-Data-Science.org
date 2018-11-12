@@ -1,7 +1,7 @@
 * <<<PE207>>> FOUNDATIONS OF DATA SCIENCE
 :properties:
 :author: Ms. S. Rajalakshmi  and Dr. J. Bhuvana
-:date: 
+:date: 10-11-2018
 :end:
 
 #+startup: showall
