@@ -35,6 +35,7 @@
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
+- Seond CO
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
