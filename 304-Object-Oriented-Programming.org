@@ -11,15 +11,18 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn Object Oriented Programming concepts and basic characteristics of Java
+- To know the principles of packages,  inheritance and interfaces
+- To define exceptions and use I/O streams 
+- To develop a java application with threads and generics classes
+- To design and build simple Graphical User Interfaces
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
+|Unit I |Introduction to OOP and Java fundamentals | 10 |
+Introduction to object oriented programming – Classes and objects – Features of OOP – Characteristics of Java – The Java Environment -  Fundamental Programming Structures in Java: Datatypes, Comments, Variables, Operators, Control Flow and Arrays – Defining classes in Java,  access specifiers, methods, constructors, static members - Array Lists -  Strings  - Packages - JavaDoc comment
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | Inheritance and Interfaces	 | 9 |
 
 {{{unit}}}
 |Unit III | <Title> | <Hours> |
