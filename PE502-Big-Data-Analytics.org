@@ -1,7 +1,7 @@
 * <<<PE502>>> BIG DATA ANALYTICS
 :properties:
 :author: Ms. S. Rajalakshmi and Ms. R. Priyadharshini
-:date: 
+:date: 12-11-2018
 :end:
 
 #+startup: showall
@@ -11,30 +11,51 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To know the fundamental concepts of big data and analytics.
+-	To explore tools and practices for working with big data
+-	To learn about stream computing.
+-	To know about the research that requires the integration of large amounts of data.
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | INTRODUCTION TO BIG DATA | 9 |
+Evolution of big data -- Best practices for big data analytics -- Big data characteristics; Validating -- Promotion of the value of big data -- Big data use cases -- Characteristics of big data applications -- Perception and quantification of value; Understanding big data storage --  General overview of high-performance architecture -- HDFS -- MapReduce and YARN -- Map Reduce programming model; Review of basic data analytic methods using R.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | REGRESSION AND CLASSIFICATION | 9 |
+Advanced analytical theory and methods -- Regression : Linear regression  -- Logistic regression ; Classification: Decision trees -- Overview of a decision tree -- General algorithm -- Decision tree algorithms -- Evaluating a decision tree -- Decision trees in R -- Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier -- Naïve Bayes in R. 
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | STREAM MEMORY | 9 |
+Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions -- Using graph analytics for big data.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | FREQUENT ITEMSETS AND CLUSTERING  | 9 |
+Mining frequent itemsets : Market based model -- Apriori algorithm  -- Handling large data sets in main memory  -- Limited Pass algorithm  -- Counting frequent itemsets in a stream  -- Clustering techniques : Hierarchical  --  k-Means -- Clustering high dimensional data  -- CLIQUE and PROCLUS  -- Frequent pattern based clustering methods -- Clustering in non-euclidean space --Clustering for streams and  parallelism. 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
-
+|Unit V | NOSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
+NoSQL databases : Schema-less models -- Increasing flexibility for data manipulation -- Key Value stores -- Document stores -- Tabular stores -- Object data stores -- Graph databases  -- Hive -- Sharding –- Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big data for blogs. 
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Work with big data tools and its analysis techniques
+-	Analyze data by utilizing clustering and classification algorithms
+-	Learn and apply different mining algorithms and recommendation systems for large volumes of data
+-	Perform analytics on data streams
+-	Learn NoSQL databases and management.
+
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+** TEXT BOOKS:
+
+1.	Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive Datasets'', Cambridge University Press, 2012. (Unit III, IV)
+2.	David Loshin, ``Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph'', Morgan Kaufmann/El sevier Publishers, 2013. (Unit I, V)
+3.	EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015. (Unit II, III)
+
+
+** REFERENCES:
+1.	Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
+2.	Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical Guide for Managers'', CRC Press, 2015.
+3.	Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with MapReduce'', Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
