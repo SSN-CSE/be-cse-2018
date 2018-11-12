@@ -1,9 +1,10 @@
 * <<<501>>> COMPUTER NETWORKS
 :properties:
 :author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
-:date: 
+:date: 12-11-2018
 :end:
 
+# Edited by SVJ
 #+startup: showall
 
 {{{credits}}}
@@ -11,31 +12,56 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the protocol layering and physical level communication.
+- To analyze the performance of a network.
+- To understand the various components required to build different networks.
+- To learn the functions of network layer and the various routing protocols.
+- To familiarize the functions and protocols of the Transport layer.
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I |Introduction and Physical Layer|9| 	
+Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP Protocol suite -- OSI Model;
+Physical Layer: Performance -- Transmission media -- Switching -- Circuit-switched Networks -- Packet Switching
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | Date-Link Layer and Media Access | 9 |
+Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer Protocols -- HDLC
+-- PPP -- Media Access Control -- Wired LANs: Ethernet -- Wireless LANs -- Introduction --
+IEEE 802.11 -- Bluetooth -- Connecting Devices
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | Network Layer | 9 |
+Network Layer Services -- Packet switching -- Performance -- IPV4 Addresses -- Forwarding
+of IP Packets;  Network Layer Protocols: IP -- ICMP v4 -- Unicast Routing Algorithms --
+Protocols -- Multicasting Basics -- IPV6 Addressing -- IPV6 Protocol.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | Transport Layer | 9 |
+Introduction: Transport Layer Protocols -- Services -- Port Numbers -- User Datagram
+Protocol -- Transmission Control Protocol -- SCTP
+
+{{{unit}}}
+|Unit V | Application Layer | 9 |
+WWW and HTTP -- FTP -- Email --Telnet -- SSH -- DNS -- SNMP
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand the basic layers and its functions in computer networks.(K2)
+- Evaluate the performance of a network (K2)
+- Understand the basics of how data flows from one node to another (K2)
+- Analyze and design routing algorithms (K3)
+- Design protocols for various functions in the network (K2)
+- Understand the working of various application layer protocols (K2).
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Behrouz A. Forouzan, ``Data Communications and Networking'', Fifth Edition TMH, 2013.
+2. Larry L. Peterson, Bruce S. Davie, ``Computer Networks: A Systems Approach'', Fifth Edition, Morgan Kaufmann Publishers Inc., 2012.
+2. William Stallings, ``Data and Computer Communications'', Tenth Edition, Pearson Education, 2013.
+3. Nader F. Mir, ``Computer and Communication Networks'', Second Edition, Prentice Hall, 2014.
+4. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, ``Computer Networks: An Open Source Approach'', McGraw Hill Publisher, 2011.
+5. James F. Kurose, Keith W. Ross, ``Computer Networking, A Top-Down Approach Featuring the Internet'', Sixth Edition, Pearson  
+   Education, 2013.
