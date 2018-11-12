@@ -4,7 +4,6 @@
 :date: 12-11-2018
 :end:
 
-# Edited by SVJ
 #+startup: showall
 
 {{{credits}}}
