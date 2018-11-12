@@ -10,33 +10,60 @@
 | 3 | 0 | 2 | 4 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn various phases of compiler
+- To learn various parsing techniques
+- To understand intermediate code generation 
+- To learn to implement code generator and optimize the code
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-praba
+|Unit I | INTRODUCTION TO COMPILERS | 9 |
+Language processors – Phases of compiler – Role of lexical analyzer – Input buffering – Specification of tokens – Recognition of tokens – Lexical analyzer generator: Structure of lex program, Lookahead operator and conflict resolution 
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | SYNTAX ANALYSIS | 9 |
+Role of Parser – Writing grammars for language constructs – Types of grammars: Ambiguity, deterministic and recursive - Top down parsers: Recursive descent parser, Predictive parser -  Bottom up parsers:  SLR Parser, CLR Parser, LALR Parser - Error handling and recovery in syntax analyzer – Syntax analyzer generator: Structure of yacc program – Creating yacc lexical analyzers with lex
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | INTERMEDIATE CODE GENERATION | 9 |
+Syntax directed definitions: Synthesized attribute, Inherited attribute, dependency graph, Evaluation order of syntax directed definitions, - Intermediate languages: Syntax tree, Three address code – SDD for type checking, declarations, evaluation of expressions and flow of control statements - Bottom-up evaluation of S-attribute definitions 
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | RUNTIME ENVIRONMENTS AND CODE GENERATION | 9 |
+Source language issues - Storage organization - Storage allocation strategies: Static, Stack and Heap – Implementation of symbol table - Issues in code generation - Design of a simple code generator
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | CODE OPTIMIZATION | 9 |
+Principal sources of optimization – Peephole optimization - DAG- Optimization of basic blocks -Global data flow analysis - Efficient data flow algorithm
 
-
-\hfill *Total: <Total Hours>*
+SUGGESTIVE EXPERIMENTS
+1. Implementation of Lexical Analyzer using  Lex Tool 
+2. Implementation of Arithmetic Calculator using LEX and YACC
+3. Generation of TAC for simple program using LEX and YACC
+4. Extend the Lexical Analyzer to implement symbol table
+5. Implementation of Simple Code Optimization Techniques (Constant Folding, Strength reduction and Algebraic transformation)
+6.	Consider a simple program as an input and process this code to print the intermediate code after every phase. It is necessary to print the output of lexical, syntax, semantic, intermediate code generation, code optimization and code generation phases
+\hfill *Theory: <45 Hours>*
+\hfill *Practical: <30 Hours>*
+\hfill *Total: <75 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Design a lexical analyzer for a sample language 						(K3)
+- Apply different parsing algorithm to develop the parsers for the given grammar 		(K3)
+- Write syntax directed translation for programming language constructs 			(K3)
+- Learn  to implement simple code generator 						        (K3)
+- Learn  to implement code optimization techniques 					        (K3)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
-hello
-hi i am
+REFERENCES
+Text Books
+1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Second Edition, Pearson Education, 2009
+
+Reference Books
+1. Randy Allen, Ken Kennedy, Optimizing Compilers for Modern Architectures: A Dependence based Approach, Morgan Kaufmann Publishers, 2002
+2. Steven S. Muchnick, Advanced Compiler Design and Implementation, Morgan Kaufmann Publishers - Elsevier Science, India, Indian Reprint 2003
+3. Keith D Cooper and Linda Torczon, Engineering a Compiler, Morgan Kaufmann Publishers Elsevier Science, 2004
+4. Allen I. Holub, Compiler Design in C, Prentice-Hall Software Series, 1993
+5. Watson, Des, A Practical approach to compiler construction, First edition, Springer-Verlog, 2017
+
