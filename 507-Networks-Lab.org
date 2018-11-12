@@ -6,35 +6,44 @@
 #+startup: showall
 
 {{{credits}}}
-| L | T | P | C |
-| 0 | 0 | 3 | 1.5 |
+|L|T|P|C|
+|0|0|4|2|
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn and use network commands.
+- To learn socket programming.
+- To implement and analyze various network protocols.
+- To learn and use simulation tools.
+- To use simulation tools to analyze the performance of various network protocols.
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+** Suggested Programming Language
+- C / C++ / Java / Python / Equivalent Compiler 
+- Network simulator like NS2/Glomosim/OPNET/ Packet Tracer / Equivalent
 
 
-\hfill *Total: <Total Hours>*
+** Suggestive Exercises
+1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture
+ping and traceroute PDUs using a network protocol analyzer and examine.
+2. Write a HTTP web client program to download a web page using TCP sockets.
+3. Applications using TCP sockets like:
+    applications:
+    1. Echo client and echo server
+    2. Chat
+    3. File Transfer
+4. Simulation of DNS using UDP sockets.
+5. Write a code simulating ARP /RARP protocols.
+6. Study of Network simulator (NS) and Simulation of Congestion Control Algorithms using NS.
+7. Study of TCP/UDP performance using Simulation tool.
+8. Simulation of Distance Vector/ Link State Routing algorithm.
+9. Performance evaluation of Routing protocols using Simulation tool.
+10. Simulation of error correction code (like CRC).
+
+\hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+- Implement various protocols using TCP and UDP (K2)
+- Compare the performance of different transport layer protocols (K2)
+- Use simulation tools to analyze the performance of various network protocols (K3)
+- Analyze various routing algorithms (K3)
+- Implement error correction codes (K2)
