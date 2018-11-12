@@ -11,30 +11,56 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the need for multi-core processors, and their architecture. 
+- To understand the challenges in parallel and multi-threaded programming. 
+- To learn about the various parallel programming paradigms, 
+- To develop multicore programs and design parallel solutions. 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | Multi-Core Processors | 9 |
+Single core to Multi-core architectures; SIMD and MIMD systems;
+Interconnection networks; Symmetric and Distributed Shared Memory Architectures --
+Cache coherence -- Performance Issues – Parallel program design.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | Parallel Program Challenges | 9 |
+Performance -- Scalability; Synchronization and data sharing -- Data races --
+Synchronization primitives (mutexes, locks, semaphores, barriers); deadlocks and livelocks;
+communication between threads (condition variables, signals, message queues and pipes).
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | Shared Memory Programming with OpenMP | 9 |
+OpenMP Execution Model: Memory Model -- OpenMP Directives -- Work-sharing Constructs --
+Library functions -- Handling Data and Functional Parallelism -- Handling Loops --
+Performance Considerations.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | Shared Memory Programming with MPI | 9 |
+MPI program execution: MPI constructs -- libraries; MPI send and receive -- Point-to-point and Collective communication;
+MPI derived datatypes -- Performance evaluation 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | Parallel Program Development | 9 |
+Case studies: n-Body solvers; Tree Search –- OpenMP and MPI implementations and comparison.
 
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Understand the limitations of single core processors and the need for multi-core architectures, discuss the issues related to multi-     processing and suggest solutions.(K3) 
+- Identify the issues in programming Parallel Processors. (K2)
+- Develop the programs using OpenMP. (K3)
+- Develop the programs using MPI. (K3)
+- Compare and contrast programming for serial processors and programming for parallel processors.(K4)
+  
+** Text Books
+1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'', Morgan Kaufmann/Elsevier, 2011. (unit II)
+2.  Carl Hamacher, Zvonko Vranesic, Safwat Zaky and Naraig Manjikian, ``Computer Organization and Embedded Systems'', 
+	Sixth Edition, Tata McGraw Hill, 2012. (unit II)
+	Darryl Gove, ``―Multicore Application Programming for Windows, Linux, and Oracle Solaris'', Pearson, 2011 (unit 2)
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.	Michael J Quinn, ``―Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill,2003.
+2.	Victor Alessandrini, ``Shared Memory Application Programming, Concepts and Strategies in Multicore Application Programming'', 
+	1st Edition, Morgan Kaufmann, 2015. 
+3.  Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'', CRC Press, 2015.
