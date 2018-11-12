@@ -11,30 +11,54 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn fundamentals of data Science and to use Python for carrying out basic statistical modeling and analysis.
+- To identify probability distributions and statistical Inferences used for statistical modeling.
+- To obtain necessary knowledge in supervised and unsupervised methods of machine learning.
+- To explore the algorithms used for analysing  massive data problems and social networks.
+- To learn various dimensionality reduction techniques.. 
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | <Data Science and Python> | <9> |
+Introduction:  Computational tools   --  Why data science?  -- Causality and experiments;
+Python: Array computing  --  Vectors  --  Basics of numerical Python arrays  --  Vectorization  --  Advanced vectorization of functions  --  Matrices and arrays  -- Reading and writing spreadsheet files;  Visualization: Graphs and tables.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | <Probability and Statistics> | <9> |
+Randomness  --   Empirical distributions  --  Bayes theorem;  Testing hypothesis  -- Estimation  --  Why the mean  matters  --  Prediction  --  Inference for regression.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | <Machine learning algorithms> | <9> |
+Perceptron algorithm --   Kernel functions --   Overfitting and uniform convergence --  Regularization --  Support Vector Machines --  Strong and weak learning -- Boosting -- Stochastic Gradient Descent. 
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | <Data streams and Clustering> | <9> |
+Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means clustering --  Spectral clustering  --  Community finding --  Graph partitioning. 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | <Social Networks and  Dimensionality Reduction> | <9> |
+Social networks as graph --  Clustering of social network graphs  --  Direct discovery of communities; Dimensionality reduction:  Principal Component Analysis --   Singular Value Decomposition -- CUR decomposition.
 
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+
+- Write Python programs to perform analysis on data. (K3)
+- Explain various probability distributions and statistical inferences. (K2)
+- Develop applications to demonstrate machine learning algorithms in practice. (K3)
+- Understand the principles of handling data streams. (K2)
+- Apply  various dimensionality reduction techniques in real world problem.(K3)
+ 
+ ** Text Books
+1. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'' (Online).  (Unit- I, II)
+2. Hans Petter Langtangen, ``A Primer on Scientific Programming with Python'', 4th Edition, Springer, 2016. (Unit - I)
+3. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016. (Unit-III, Unit- IV)
+4. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of Massive Datasets'', V2.1, Cambridge University Press, 2014. (Unit-V)
+
+** Reference Books:
+1. Jonathan Dinu, ``Foundations of Data Science: A Practical Introduction to Data Science with Python'', Addison-wesley Data & Analytics Series, 2016.
+2. Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
+3. EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
+4. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly. 2014.
+5. Trevor Hastie, Robert Tibshirani and Jerome Friedman. ``Elements of Statistical Learning'', Second Edition. ISBN 0387952845. 2009.
