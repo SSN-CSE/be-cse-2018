@@ -19,34 +19,34 @@
 - To learn the different ways of communication with I/O devices. 
 
 {{{unit}}}
-|Unit I | <Basi Structure of a Computer System> | <9> |
+|Unit I | Basi Structure of a Computer System | 9 |
 Functional Units -- Basic Operational Concepts -- Performance;
 Instructions: Language of the Computer -- Operations, Operands -- Instruction representation;
 Logical operations -- decision making; MIPS Addressing. 
 
 {{{unit}}}
-|Unit II | <Arithmetic for Computers> | <9> |
+|Unit II | Arithmetic for Computers | 9 |
 Addition and Subtraction; Multiplication; Division; Floating Point Representation:
 Floating Point Operations; Subword Parallelism.
 
 {{{unit}}}
-|Unit III | <Processor and Control Unit> | <9> |
+|Unit III | Processor and Control Unit | 9 |
 A Basic MIPS implementation: Building a Datapath -- Control Implementation Scheme;
 Pipelining: Pipelined datapath and control -- Handling Data Hazards & Control Hazards -- Exceptions.
 
 {{{unit}}}
-|Unit IV | <Parallelism> | <Hours> |
+|Unit IV | Parallelism | Hours |
 Parallel processing challenges; Flynn‘s classification: SISD -- MIMD -- SIMD --SPMD
 and Vector Architectures; Hardware multithreading; Multi-core processors and other Shared Memory Multiprocessors;
 Introduction to Graphics Processing Units; Clusters; Warehouse Scale Computers and other Message-Passing Multiprocessors.
 
 {{{unit}}}
-|Unit V | <Memory & I/O Systems> | <Hours> |
+|Unit V | Memory & I/O Systems | Hours |
 Memory Hierarchy; memory technologies; cache memory: measuring and improving cache performance;
 virtual memory: TLB‘s; Accessing I/O Devices -- Interrupts; Direct Memory Access;
 Bus structure -- Bus operation -- Arbitration; Interface circuits; USB.
 
-\hfill *Total: <45>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
