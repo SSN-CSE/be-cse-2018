@@ -1,17 +1,22 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
-:author: Ms. A. Beulah and Mr. V. Balasubramanian
+:author: Ms. A. Beulah 
 :end:
 
 #+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 2 | 0 | 4 |
+| 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+The student should be made to: 
+- To construct finite automata for any given pattern and find its equivalent regular expressions
+- To understand the language hierarchy  and  to design a context free grammar for any given language
+- To construct pushdown automata  for any CFL
+- To understand Turing machines and their capability
+- To understand undecidable problems 
+
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
