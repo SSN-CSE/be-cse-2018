@@ -35,13 +35,13 @@ A Basic MIPS implementation: Building a Datapath -- Control Implementation Schem
 Pipelining: Pipelined datapath and control -- Handling Data Hazards & Control Hazards -- Exceptions.
 
 {{{unit}}}
-|Unit IV | Parallelism | Hours |
+|Unit IV | Parallelism | 9 |
 Parallel processing challenges; Flynn‘s classification: SISD -- MIMD -- SIMD --SPMD
 and Vector Architectures; Hardware multithreading; Multi-core processors and other Shared Memory Multiprocessors;
 Introduction to Graphics Processing Units; Clusters; Warehouse Scale Computers and other Message-Passing Multiprocessors.
 
 {{{unit}}}
-|Unit V | Memory & I/O Systems | Hours |
+|Unit V | Memory & I/O Systems | 9 |
 Memory Hierarchy; memory technologies; cache memory: measuring and improving cache performance;
 virtual memory: TLB‘s; Accessing I/O Devices -- Interrupts; Direct Memory Access;
 Bus structure -- Bus operation -- Arbitration; Interface circuits; USB.
