@@ -27,7 +27,7 @@ Foundations: Syntax and Semantics – Mathematical Induction – Soundness and C
 Foundations: Syntax and Semantics; Semantic Entailment: Natural Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand’s Theory; Resolution: Ground Resolution -- Unification; Refinements of Resolution: P-resolution – N-resolution – linear resolution – unit resolution --  SLD resolution – LUSH resolution;
 
 {{{unit}}}
-|Unit III|MODAL LOGICS|9|
+|Unit III|MODAL LOGIC|9|
 Modes of truth; Basic modal logic: Syntax – Semantics; Logic engineering: The stock of valid formulas -- Important properties of the accessibility relation -- Correspondence theory – Some Modal Logics; Natural deduction; Reasoning about knowledge in a multi-agent system: Examples – Modal Logic KT45n  -- Natural deduction for KT45n  -- Formalising the examples;  
 
 {{{unit}}}
