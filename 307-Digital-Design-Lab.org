@@ -53,13 +53,13 @@ After the completion of this course, students will be able to:
 - Simulate various combinational and sequential circuits using HDL (K3).
 
       
-** LABORATORY REQUIREMENT FOR BATCH OF 30 STUDENTS HARDWARE:
+** Laboratory requirement for batch of 30 students hardware:
 
 1.	Digital trainer kits  - 30
 
 2.	Digital ICs required for the experiments in sufficient numbers
 
-** SOFTWARE:
+** Software:
 
 1.	HDL simulator.
 
