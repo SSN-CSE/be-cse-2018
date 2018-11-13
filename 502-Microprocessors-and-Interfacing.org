@@ -54,14 +54,14 @@ After the completion of this course, students will be able to:
 -	Apply programming concepts to implement microcontroller interfaces for different applications. (K3)
 
 ** Text Books
- 1. Doughlas V.Hall, Microprocessors and Interfacing, Programming and Hardware,TMH,2012
- 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, The 8051 Microcontroller and Embedded Systems: Using Assembly and C, Second Edition, Pearson education, 2011. 
+ 1. Doughlas V.Hall, "Microprocessors and Interfacing, Programming and Hardware",TMH,2012
+ 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, "The 8051 Microcontroller and Embedded Systems: Using Assembly and C", Second Edition, Pearson education, 2011. 
  
 ** References
 
-1. Yu-Cheng Liu, Glenn A.Gibson, Microcomputer Systems: The 8086 / 8088 Family -  Architecture, Programming and Design, Second Edition, Prentice Hall of India, 2007. 
-2. A.K.Ray,K.M.Bhurchandi, Advanced Microprocessors and Peripherals, 3rd edition, Tata McGrawHill,2012.
-3. Barry B Bray, The Intel Micro processor 8086/8088,80186,80286,80386 and 80486 - Arcitecture, programming and interfacing, PHI,8th Edition,2011.
-4. Mohamed Rafiquazzaman, “Microprocessor and Microcomputer based system design,” Universal Book stall, New Delhi, 2nd Edition,
+1. Yu-Cheng Liu, Glenn A.Gibson, "Microcomputer Systems: The 8086 / 8088 Family -  Architecture, Programming and Design", Second Edition, Prentice Hall of India, 2007. 
+2. A.K.Ray,K.M.Bhurchandi,"Advanced Microprocessors and Peripherals", 3rd edition, Tata McGrawHill,2012.
+3. Barry B Bray,"The Intel Micro processor 8086/8088,80186,80286,80386 and 80486 - Arcitecture, programming and interfacing", PHI,8th Edition,2011.
+4. Mohamed Rafiquazzaman,“Microprocessor and Microcomputer based system design”, Universal Book stall, New Delhi, 2nd Edition,
  1995.
-5. Kenneth J.Ayala, ’The 8051 microcontroller Architecture, Programming and applications‘ second edition ,Penram international.
+5. Kenneth J.Ayala,"The 8051 microcontroller Architecture, Programming and applications", second edition ,Penram international.
