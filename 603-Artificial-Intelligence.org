@@ -62,3 +62,20 @@ After the completion of this course, students will be able to:
 3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition (2016)
 4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition (2017)
 5. Deepak Khamni "A First Course in Artificial Intelligence", McGraw Hill, 2014
+
+**Lab Exercises:
+1. Implementation of Uninformed Search Techniques
+2. Implementation of Informed Search Techniques
+3. Implementation of Hill Climbing algorithms
+4. Implementation of Adversarial Search techniques
+5. Implementation of backtracking search for CSP
+6. Construction of AND-OR graph from knowledge base
+7. Implementation of inference from knowldge base
+8. Implementation of inference using full joint probability distribution
+9. Implementation of inference using Bayesian network
+10. Implementation of Decision tree learning algorithm
+11. Implementation of K-means algorithms
+12. Implementation of passive reinforcment learning algorithm
+
+
+ *Total: 20*
