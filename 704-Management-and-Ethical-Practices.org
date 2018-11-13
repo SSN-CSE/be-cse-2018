@@ -41,10 +41,10 @@ Safety and Risk – Assessment of Safety and Risk – Risk Benefit Analysis and 
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand basic and applied fields of Management
-- Understand Managerial skills 
-- Understand the functional areas of Management, and analytical skills
-- Understand Engineering Ethics and Human Values
+- Understand basic and applied fields of Management(K2)
+- Understand and practice Managerial skills(K3)
+- Understand the functional areas of Management, and analytical skills(K2)
+- Understand and practice Engineering Ethics and Human Values(K3)
       
 ** References
 1.Hellriegel, Slocum & Jackson, “ Management -A Competency Based Approach”, Thomson South W estern, 10th edition, 2007.
