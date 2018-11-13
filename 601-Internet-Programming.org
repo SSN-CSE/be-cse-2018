@@ -14,23 +14,26 @@
   learning.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | Web Essentials | 9 |
+Web Essentials: Clients, Servers and Communication – The Internet – Basic Internet protocols – World wide web – HTTP Request Message – HTTP Response Message – Web Clients – Web Servers – HTML5 – Tables – Lists – Image – HTML5 control elements – Semantic elements – Drag and Drop – Audio – Video controls - CSS3 – Inline, embedded and external style sheets – Rule cascading – Inheritance – Backgrounds – Border Images – Colors – Shadows – Text – Transformations – Transitions – Animations.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | Client side Scripting | 9 |
+Client side programming language – The javascript – Variables – Data types – Statements – Operators – Functions – Objects – Arrays - Built-in objects – Event handling - Introduction to DOM – The document tree – Node object – methods and properties – Document object – Methods and properties – Addition and deletion of elements – Modifying element style.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | Server side Scripting| 9 |
+Server side scripting – Introduction to PHP – PHP basics – Data types, Variables, Strings, Constants, Operators – Program control – Decision making and Looping statements - PHP functions –Arrays – Form handling and validation – File handling – PHP sessions and cookies – Regular expressions  - Connecting to MySQL database  - Model View Controller Architecture - Development of MVC application.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | Recent scripting technologies | 9 |
+Introduction to AngularJS – Data binding, Model, Module, View, Controller, Expressions - Anatomy of AngularJS Application – Scope, Table, Select, Form, Validation, DOM, Event - Analysis of AngularJS Application – Directives -  Introduction to NodeJS – Event Loop – Patterns – Core APIs –  EventEmitter, Callback syntax, Streams, File system, Buffers - Helper APIs – Data Access – NoSQL and Document stores, MongoDB.
 
+{{{unit}}}
+|Unit V | Interactive web application development | 9 |
+Basic XML – XML Schema – XSLT Transformation – XML Parsers – DOM and SAX - Ajax Client Server Architecture - XML Http Request Object - Call Back Methods – Introduction to java web services - Creating, publishing, testing and describing a Web services (WSDL) – SOAP - Consuming a web service, Database driven web service.
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
