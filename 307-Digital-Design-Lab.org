@@ -6,29 +6,40 @@
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the various basic logic gates
+- To design and implement the various combinational circuits
+- To design and implement combinational circuits using MSI devices.
+- To design and implement sequential circuits
+-	To understand  and code with HDL programming
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+** Suggestive Lab Experiments
+1.	Verification of Boolean Theorems using basic gates.
 
+2.	Design and implementation of combinational circuits using basic gates for arbitrary functions, code converters.
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+3.	Design and implement Half/Full Adder and Subtractor.
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+4.	Design and implement combinational circuits using MSI devices:
+•	4 – bit binary adder / subtractor
+•	Parity generator / checker
+•	Magnitude Comparator
+•	Application using multiplexers
+5.	Design and implement shift-registers.
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
+6.	Design and implement synchronous counters.
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+7.	Design and implement asynchronous counters.
+
+8.	Coding combinational circuits using HDL.
+
+9.	Coding sequential circuits using HDL.
+
+10.	Design and implementation of a simple digital system (Mini Project).
 
 
 \hfill *Total: <Total Hours>*
