@@ -30,7 +30,7 @@ The student should be made to:
 11. Develop a mobile application to send an email.
 12. Develop a Mobile application for simple needs (Mini Project)
 
-\hfill *Total: 60*
+\hfill *Total: 60
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
