@@ -1,7 +1,7 @@
 * <<<407>>> OPERATING SYSTEMS LAB
 :properties:
 :author: Mr. H. Shahul Hamead and Ms. S. Lakshmi Priya
-:date: 
+:date: 13-11-2018
 :end:
 
 #+startup: showall
@@ -11,8 +11,12 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn and implement basic Unix commands using system calls
+- To implement various CPU Scheduling Algorithms
+- To implement Process Creation and Inter Process Communication
+- To implement Deadlock Avoidance and Deadlock Detection algorithms
+- To implement Page Replacement Algorithms
+- To implement File Organization and File Allocation Strategies
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
