@@ -56,6 +56,5 @@ After the completion of this course, students will be able to:
 - Manage project schedule, estimate project cost and effort required(K3).
       
 ** Text Books
-1. Roger S. Pressman, "Software Engineering – A Practitioner's Approach", Seventh Edition, Mc
-Graw-Hill International Edition, 2010.
+1. Roger S. Pressman, "Software Engineering – A Practitioner's Approach", Seventh Edition, McGraw-Hill International Edition, 2010.
 2. Ian Sommerville, "Software Engineering", 9th Edition, Pearson Education Asia, 2011.
