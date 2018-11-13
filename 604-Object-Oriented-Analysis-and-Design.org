@@ -60,8 +60,7 @@ After the completion of this course, students will be able to:
 
 ** References
 1. Booch, G., Jacobson, I., Rumbaugh, J., The Unified Modeling Language User Guide, Addison‐Wesely, 2008.
-2. Erich Gamma, a n d Richard Helm, Ralph Johnson, John Vlissides, ―Design patterns: Elements of Reusable Object Oriented
-Software, Addison Wesley, 1995.
+2. Erich Gamma, a n d Richard Helm, Ralph Johnson, John Vlissides, ―Design patterns: Elements of Reusable Object Oriented Software, Addison Wesley, 1995.
 3. Martin Fowler, ―UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third edition, Addison Wesley, 2003.
 4. Srinivasan Desikan and Gopalaswamy Ramesh, ― Software Testing Principles and Practices, Pearson Education, 2006.
 5. Aditya P. Mathur, Foundations of Software Testing - Fundamental Algorithms and Techniques, Dorling Kindersley (India) Pvt. Ltd., Pearson Education, 2008.
