@@ -11,15 +11,16 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To learn fundamentals of XML.
+- To learn the fundamentals of XML.
 - To provide an overview of Service Oriented Architecture and Web services and their importance.
-- To learn web services standards and technologies.
-- To learn service oriented analysis and design for developing SOA based applications. 
+- To learn the web services standards and technologies.
+- To learn the web service extensions.
+- To learn service oriented analysis and design for developing SOA based applications.  
 
 
 {{{unit}}}
-|Unit I|XML|9| 
-XML document structure -- Well-formed and valid documents -- DTD –- XML Schema –- Parsing XML using DOM -- SAX –- XPath -- XML Transformation and XSL –- Xquery.
+|Unit I|XML Technologies|9| 
+XML document structure: Well-formed and valid documents -- DTD –- XML Schema; Parsing XML using DOM -- SAX; XPath -- XML Transformation and XSLT –- Xquery.
 
 
 {{{unit}}}
@@ -28,18 +29,16 @@ Characteristics of SOA -- Benefits of SOA -- Comparing SOA with Client -- Server
 
 {{{unit}}}
 |Unit III|WEB SERVICES (WS) AND STANDARDS|8| 
-Web Services Platform –- Service descriptions –- WSDL –- Messaging with SOAP –- Service discovery –- UDDI –- Service-Level Interaction Patterns –- Orchestration and Choreography 
-
+Web Services Platform –- Service descriptions –- WSDL –- Messaging with SOAP –- Service discovery –- UDDI –- Service-Level Interaction Patterns –- Orchestration and Choreography
 
 {{{unit}}}
 |Unit IV| WEB SERVICES EXTENSIONS|8|
-WS-Addressing -- WS-ReliableMessaging -- WS-Policy –- WS-Coordination -– WS-Transactions -- WS-Security -- Examples .
+WS-Addressing -- WS-ReliableMessaging -- WS-Policy –- WS-Coordination -– WS-Transactions -- WS-Security -- Examples  -- XML Web services for .Net
 
 
 {{{unit}}}
 |Unit V|SERVICE ORIENTED ANALYSIS AND DESIGN|11|
-SOA delivery strategies –- Service oriented analysis -– Service Modelling -– Service oriented design –- Standards and composition guidelines -- Service design –- Business process design –- Case Study.
-
+Service Oriented Enterprise Applications -- Service Oriented Analysis and Design: Need for Models -- Principles of Service Design -- Design of Activity Services -- Design of Data Services -- Design of Cliernt Services -- Design of Business Process Services. 
 
 \hfill *Total: 45*
 
@@ -54,10 +53,12 @@ Upon the completion of the course the students should be able to:
 
 ** Text Books
 1. Thomas Erl, Service Oriented Architecture: Concepts, Technology, and Design, Pearson Education, 2005
-2. Sandeep Chatterjee and James Webber, Developing Enterprise Web Services: An Architect's Guide, Prentice Hall, 2004
+2. Sahankar Kambhampaly, Service0-Oriented Architecture for Enterprise Applications, Wiley India Pvt.Ltd, 2008
 	
 ** References
 1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew, Java Web Services Architecture, Elsevier, 2003.
 2. Ron Schmelzer et al.  XML and Web Services, Pearson Education, 2002.
 3. Frank P.Coyle, XML, Web Services and the Data Revolution, Pearson Education, 2002
+4. Sandeep Chatterjee and James Webber, Developing Enterprise Web Services: An Architect's Guide, Prentice Hall, 2004
+5. Eric Newcomer and Greg Lomow, Understanding SOA with Web Services, Pearson Education, 2005
 
