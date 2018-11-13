@@ -18,7 +18,8 @@
 
 
 
-LIST OF EXPERIMENTS:
+** SUGGESTIVE LIST OF EXPERIMENTS
+
 8086 Programs using kits 
 1. Basic arithmetic and Logical operations
 2. Move a data block without overlap
@@ -50,12 +51,13 @@ After the completion of this course, students will be able to:
 -	Apply 8051 Assembly Language Programming concepts for arithmetic and logical operations (K3)
 
 
- ** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS:
-HARDWARE:
+ ** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS
+ 
+HARDWARE
 8086 development kits - 30 nos
 Interfacing Units - Each 10 nos
 Microcontroller - 30 nos
-SOFTWARE:
+SOFTWARE
 Intel Desktop Systems with MASM - 30 nos
 8086 Assembler
  
