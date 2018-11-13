@@ -10,31 +10,55 @@
 | 3 | 0 | 2 | 4 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To Study the fundamental concepts of AI agents and environments.
+- To Learn the methods of problem solving in AI using various search strategies.
+- To Understand the concepts of knowledge representation and inference using logic.
+- To Understand the concepts of knowledge representation and inference under uncertainty.
+- To Learn the introductory concepts of machine learning in AI.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|FOUNDATIONS|8|
+Introduction to AI; Intelligent Agents: Agents and environments -- Good behavior -- The nature of environments -- 
+Structure of agents -- Agent Components -- Agent Architecture; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence;
+
+
+
+{{{unit}}}
+|Unit II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
+Problem Solving: problem solving agents -- example problems -- searching for solutions -- uninformed search strategies -- 
+Informed search strategies -- heuristic functions; Beyond Classical Search: Local search algorithms and optimization problems; Adversarial Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning; - Constraint satisfaction problems (CSP): Backtracking search and Local search for CSP;
 
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit III|KNOWLEDGE REPRESENTATION & REASONING|9|
+Logical Agents: Knowledge-Based Agents -- Propositional Logic -- First order logic -- Syntax and semantics for first order logic -- Using first order logic -- Knowledge engineering in first order logic -- Inference in First order logic -- 
+propositional versus first order logic -- Unification and Lifting -- Forward Chaining -- Backward Chaining -- Resolution;
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
+Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability Notation -- Inference Using Full Joint Distributions -- Independence -- Bayes’ Rule & its use; Probabilistic Reasoning: Bayesian Networks -- Inference in Bayesian Networks; Other Approaches to Uncertain Reasoning: Certainty Factors -- Dempster-Schafer Theory -- Fuzzy Reasoning;
+
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit V|LEARNING AND ITS APPLICATIONS|9|
+Learning: Forms of learning -- Supervised learning -- Learning decision trees -- Unsupervised Learning -- K-means --
+Reinforcement learning -- Passive reinforcement learning; Applications of Learning in AI; 
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-jjsj
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Identify, formulate, understand and solve AI problems using search techniques (K3)
+- Elucidate the concept of Knowledge Representation and inference using logics (K2)
+- Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
+- Elucidate the concept of learning in AI applications (K3)
+- Implement various search, inference and learning algorithms in AI. (K4)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Stuart Russell, Peter Norvig, “Artificial Intelligence – A Modern Approach”, 3nd Edition, Pearson Education / Prentice Hall of India, 2004.
+2. Elaine Rich and Kevin Knight, “Artificial Intelligence”, 2nd Edition, Tata McGraw-Hill, 2003.
+3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition (2016)
+4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition (2017)
+5. Deepak Khamni "A First Course in Artificial Intelligence", McGraw Hill, 2014
