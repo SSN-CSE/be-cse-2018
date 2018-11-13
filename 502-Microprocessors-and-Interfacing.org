@@ -47,11 +47,11 @@ Programming 8051 Timers -- Serial Port Programming -- Interrupts Programming -- 
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
--	Understand the basic architecture, operation of microprocessor 8086 and apply the same for its programming. (K3)
--	Understand  the basic and multiprocessor system design and its  bus timing (K2)
--	Design the 8086 interfaces with memory, I/O and other peripheral chips.  (K3)
--	Understand the basic architecture and operation of microcontroller 8051 (K2)
--	Apply programming concepts to implement microcontroller interfaces for different applications. (K3)
+-	Understand the basic architecture, operation of microprocessor 8086 and apply the same for its programming (K3).
+-	Understand  the basic and multiprocessor system design and its  bus timing (K2).
+-	Design the 8086 interfaces with memory, I/O and other peripheral chips (K3).
+-	Understand the basic architecture and operation of microcontroller 8051 (K2).
+-	Apply programming concepts to implement microcontroller interfaces for different applications (K3).
 
 ** Text Books
  1. Doughlas V.Hall, "Microprocessors and Interfacing, Programming and Hardware", TMH, 2012.
