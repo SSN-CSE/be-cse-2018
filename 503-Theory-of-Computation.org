@@ -41,13 +41,7 @@ Recursive Enumerable (RE) Language  - Non Recursive Enumerable (RE) Language –
 
 \hfill *Total: <Total Hours>*
 
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Design finite automata and transform regular expressions vs finite automata.(K3)
-- Understand the need of formal languages, and grammars. (K3)
-- Design pushdown automata and grammar for any CFL. (K3)
-- Design Turing machines with its different techniques. (K3)
-- Understand the key notions, such as Recursive Enumerable (RE), Non Recursive Enumerable, decidability and undecidability(K2).
+
 
 ** Text Books 
 1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata Theory, Languages and Computations”, Second Edition, Pearson Education, 2008. (UNIT 1,2,3,4) 
