@@ -10,31 +10,59 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- Explain and illustrate the fundamental concepts of object orientation.
+- Introduce basic concepts of object‐oriented analysis and design and expose to UML diagrams.
+- Apply appropriate design principles.
+- Read, verify, and validate a given specification and implementation using UML.
+- Plan, execute and design test cases.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | OO FUNDAMENTALS | 9 |
+Introduction to OOAD – Defining Software Process – Defining Models - Unified  Process and Phases – Agile  development - 
+Case Study of OOAD - Requirement Process - Use Cases - Object Oriented Development Cycle - UML: Fundamentals and Notations
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | UML DIAGRAMS| 9 |
+UML diagrams – Use Case Modeling  –  Domain Models - Finding conceptual classes and description classes –  
+Domain model refinement – Finding conceptual class Hierarchies - Aggregation and Composition - Class Diagrams– 
+Interaction Diagrams – Relationship between sequence diagrams and use cases- State Diagrams – Activity Diagrams – 
+Package Diagram - Logical architecture and refinement, Component and Deployment Diagrams.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
+|Unit III | DESIGN PATTERNS | 9 |
+GRASP: Designing objects with responsibilities – Creator – Information expert – Low Coupling – High Cohesion – Controller - 
+Design Patterns – creational - factory method - structural – Bridge – Adapter - behavioral – Strategy – observer -  
+Applying GoF design patterns.
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | OO Implementation | 9 |
+Mapping design to code – Creating Class Definitions from Design Class Diagram – Creating Methods from Collaboration Diagram - 
+Updating Class Definitions - Classes in Code – Exception and Error Handling.
+{{{unit}}}
+|Unit V | OO Testing and Maintenance | 9 |
+Testing:   Strategic   Approach   to   software   Testing - Strategic   Issues -  Strategies  for  Conventional  Software,  
+Object  oriented  software,  Web Apps - OO Testing – System Testing - Art of Debugging - Software  Maintenance – 
+Reengineering - Reverse  Engineering - Forward Engineering 
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand the fundamental concepts of object orientation. (K2)
+- Analysis and design using UML diagrams. (K4)
+- Apply appropriate design principles. (K3)
+- Read, verify, and validate a given specification and implement using UML. (K4)
+- Plan, execute and design test cases for the given case study (K3).
       
+** Text Book
+1. 1. Larman, Craig., Applying UML and Patterns, Pearson Education Asia, 2008.
+2. Ali Bahrami, Object Oriented Systems Development, McGraw Hill International Edition, 1999.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Booch, G., Jacobson, I., Rumbaugh, J., The Unified Modeling Language User Guide, Addison‐Wesely, 2008.
+2. Erich Gamma, a n d Richard Helm, Ralph Johnson, John Vlissides, ―Design patterns: Elements of Reusable Object Oriented
+Software, Addison Wesley, 1995.
+3. Martin Fowler, ―UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third edition, Addison Wesley, 2003.
+4. Srinivasan Desikan and Gopalaswamy Ramesh, ― Software Testing Principles and Practices, Pearson Education, 2006.
+5. Aditya P. Mathur, Foundations of Software Testing - Fundamental Algorithms and Techniques, Dorling Kindersley 
+(India) Pvt. Ltd., Pearson Education, 2008.
