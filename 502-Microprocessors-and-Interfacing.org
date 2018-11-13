@@ -11,8 +11,6 @@
 | 3 | 0 | 0 | 3 |
  
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
 - To understand the Architecture of 8086 microprocessor.
 - To learn the design aspects of I/O and Memory Interfacing circuits.
 - To interface microprocessors with supporting chips.
