@@ -1,6 +1,7 @@
 * <<<703>>> COMPUTER GRAPHICS AND MULTIMEDIA
 :properties:
 :author: Ms. S. Lakshmi Priya and Mr. N. Sujaudeen
+:date: 13-11-18
 :end:
 
 #+startup: showall
@@ -10,31 +11,54 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To gain knowledge on different display devices and its working principles
+- To understand the 2D and 3D dimensional graphics representation and object transformations
+- To understand illumination principles and color models used in output devices
+- To understand basic concepts of multimedia
+- To explore Blender graphics tool and design animations.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | Display Systems and Output Primitives | 9 |
+Introduction to computer  graphics -- Applications; Overview  of  graphics  systems: Video  display  devices --  Raster  scan systems --  Random  scan  systems; Output primitives: Points and lines --loading the frame  buffer; Line drawing algorithms: DDA and Bresenham's line drawing algorithms; Circle  and  ellipse  generating  algorithms;  Pixel  addressing  and  object geometry
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | Two Dimensional Graphics | 9 |
+Two dimensional geometric transformations -- Matrix representations and homogeneous coordinates -- Composite transformations; Two dimensional viewing: Viewing pipeline -- viewing coordinate reference frame -- Window to viewport  coordinate  transformation; Clipping 
+operations: point and text clipping -- Line and polygon clipping algorithms.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | Three Dimensional Graphics | 9 |
+Three dimensional concepts; Three dimensional object representations: Polygon surfaces -- Polygon tables -- Plane  equations -- Polygon meshes --  Curved  Lines  and  surfaces -- Quadratic  surfaces-- Blobby objects -- Spline  representations -- Bezier  curves  and  surfaces; Three  dimensional  geometric  and  modeling  transformations: Translation --  Rotation --  Scaling --  composite  transformations;  Three  dimensional  viewing: Viewing pipeline -- Viewing coordinates -- Projections -- View volumes -- Clipping; 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | Illumination Models and Animation | 9 |
+Light  sources; Basic  illumination  models: Ambient, Diffuse, Specular Components of the Phong model; Color Models: Properties of light  
+-- Standard  primaries  and  chromaticity  diagram -- RGB, YIQ, CMY, HSV and HLS color models; Animations: Design of animation sequences -- Keyframe systems -- Motion specifications
 
+{{{unit}}}
+|Unit V | Multimedia | 9 |
+Multimedia  basics -- Multimedia  applications -- Defining objects for multimedia systems − Multimedia data interface standards -- Compression and decompression −- Data and file format standards -- Hypermedia Messaging; Case Study - Blender Graphics: Fundamentals 
+–- Drawing  Basic  Shapes -- Modelling –- Shading & Textures 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+ - Understand 2D and 3D graphics concepts.
+ - Apply 2D and 3D geometric transformations.
+ - Compare and contrast various Illumination and color models.
+ - Apply clipping techniques and projection transformations to graphical objects.
+ - Understand different types of multimedia file formats and compression techniques
+ - Design Basic 3d Scenes using Blender
+
+** Textbook
+1. Donald Hearn and Pauline Baker M, "Computer Graphics", Prentice Hall, New Delhi, 2007 [UNIT I -IV ]
+2. Andleigh, P. K and Kiran Thakrar, "Multimedia Systems and Design", PHI, 2003. [ UNIT V ]
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Foley, Vandam, Feiner and Hughes, "Computer Graphics: Principles and Practice", 2nd Edition, Pearson Education, 2003.
+2. Jeffrey McConnell, "Computer Graphics: Theory into Practice", Jones and Bartlett Publishers,2006. 
+3. Hill F S Jr., "Computer Graphics", Maxwell Macmillan, 1990.
+4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R Marschner, Erik Reinhard, KelvinSung, and AK Peters,"Fundamentals
+of Computer Graphics",CRC Press, 2010.
+5. https://www.blender.org/support/tutorials/
