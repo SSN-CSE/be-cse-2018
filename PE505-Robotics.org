@@ -44,11 +44,11 @@ Application of Machine learning - AI, Expert systems; Tele-robotics and Virtual 
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Explain the concepts of industrial robots in terms of classification, specifications and coordinate systems, along with the need and application of robots & automation
+- Explain the concepts of industrial robots in terms of classification, specifications and coordinate systems, along with the need and application of robots & automation.
 - Examine different sensors and actuators for applications like maze solving and self driving cars.
 - Design a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots.
 - Explain navigation and path planning techniques along with the control architectures adopted for robot motion planning.
-- Describe the impact and progress in AI and other research trends in the field of robotics
+- Describe the impact and progress in AI and other research trends in the field of robotics.
 
 ** Text Books
 
@@ -57,11 +57,11 @@ After the completion of this course, students will be able to:
 
 
 ** References
-1. Richard David Klafter, Thomas A. Chmielewski, Michael Negin, Robotic engineering: an integrated approach, Prentice Hall, 1989
+1. Richard David Klafter, Thomas A. Chmielewski, Michael Negin, Robotic engineering: an integrated approach, Prentice Hall, 1989.
 2. Craig, J. J., Introduction to Robotics: Mechanics and Control, 2nd Edition, Addison-Wesley, 1989.
 3. K.S. Fu, R.C. Gonzalez and C.S.G. Lee, Robotics: Control, Sensing, Vision and Intelligence, McGraw-Hill, 1987.
 4. Wesley E Snyder R, Industrial Robots, Computer Interfacing and Control, Prentice Hall International Edition, 1988.
-5. Robin Murphy, Introduction to AI Robotics, MIT Press, 2000
-6. Ronald C. Arkin, Behavior-based Robotics, MIT Press, 1998
-7. N. P. Padhy, Artificial Intelligence and Intelligent Systems, Oxford University Press, 2005
+5. Robin Murphy, Introduction to AI Robotics, MIT Press, 2000.
+6. Ronald C. Arkin, Behavior-based Robotics, MIT Press, 1998.
+7. N. P. Padhy, Artificial Intelligence and Intelligent Systems, Oxford University Press, 2005.
 8. Stefano Nolfi, Dario Floreano, Evolutionary Robotics – The Biology, Intelligence and Technology of Self–Organizing Machines (Intelligent Robotics and Autonomous Agents series), MIT Press, 2004.
