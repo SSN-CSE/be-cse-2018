@@ -10,31 +10,36 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+The student should be made to:
+- To understand the components and structure of mobile application development frameworks for Android and windows OS based mobiles.
+- To understand how to work with various mobile application development frameworks.
+- To learn the basic and important design concepts and issues of development of mobile applications.
+- To understand the capabilities and limitations of mobile devices.
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+** LIST OF EXPERIMENTS
+1. Develop an application that uses GUI components, Font and Colours
+2. Develop an application that uses Layout Managers and event listeners.
+3. Write an application that draws basic graphical primitives on the screen.
+4. Develop an application that makes use of databases.
+5. Develop an application that makes use of Notification Manager
+6. Implement an application that uses Multi-threading
+7. Develop a native application that uses GPS location information
+8. Implement an application that writes data to the SD card.
+9. Implement an application that creates an alert upon receiving a message
+10. Write a mobile application that makes use of RSS feed
+11. Develop a mobile application to send an email.
+12. Develop a Mobile application for simple needs (Mini Project)
 
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Develop mobile applications using GUI and Layouts.
+- Develop mobile applications using Event Listener.
+- Develop mobile applications using Databases.
+- Develop mobile applications using RSS Feed, Internal/External Storage, SMS, Multithreading and GPS.
+- Analyze and discover own mobile app for simple needs.
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Build Your Own Security Lab, Michael Gregg, Wiley India
