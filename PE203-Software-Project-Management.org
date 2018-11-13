@@ -20,7 +20,8 @@ The student should be made to:
 
 {{{unit}}}
 |Unit I | PROJECT PLANNING| 9 |
-Project management life cycle - project evaluation and programme management - project planning - project models : waterfall, spiral, prototyping, incremental delivery, DSDM, agile, scrum, XP, lean software development - process model selection.
+Project management life cycle: project evaluation and programme management - project planning - project models : waterfall, spiral, prototyping, incremental delivery, DSDM, agile, scrum, XP, lean software development - process model selection.
+
 {{{unit}}}
 |Unit II | ESTIMATION AND SCHEDULING | 9 |
 Effort estimation techniques - Expert judgement - FPA - FP mark II - COSMIC- COCOMO II - cost estimation - project schedules - network model - identifying critical activities.
@@ -36,7 +37,7 @@ Cloud Information Security Objectives - Cloud Security Services - Secure Develop
 {{{unit}}}
 |Unit V | MONITORING AND ORGANIZING TEAMS | 9 |
 Visualizing Progress – Relationship between people and effort, Task Set & Network - Earned Value Analysis - SCM - Managing Contracts – Working in teams - Developing metrics on a software development program - Evaluating performance.
-\hfill *Total: <Total Hours>*
+
 
 ** Course Outcomes
 Upon completion of the course, the student should be able to:
