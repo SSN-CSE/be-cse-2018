@@ -11,30 +11,47 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the design of Parallel algorithms
+- To select suitable procedures for parallel algorithms
+- To explore merging algorithm for various models
+- To comprehend sorting algorithm for various models
+- To comprehend the searching algorithm for various models
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | INTRODUCTION TO PARALLEL ALGORITHMS | 9 |
+The Need for Parallel Computers -- Models of Computation -- Analyzing Algorithms -- Expressing Algorithms 
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | SELECTION | 9 |
+The Problem and a Lower Bound -- A Sequential Algorithm -- Desirable Properties for Parallel Algorithms -- Two Useful Procedures -- An Algorithm for Parallel Selection 
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | MERGING | 9 |
+A Network for Merging -- Merging on the CREW Model -- Merging on the EREW Model -- A better Algorithm for the EREW Model 
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | SORTING | 9 |
+A network for Sorting -- Sorting on a Linear Array -- Sorting on the CRCW Model -- Sorting on the CREW Model -- Sorting on the EREW Model 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | SEARCHING | 9 |
+Searching a Sorted Sequence -- Searching a Random Sequence -- Searching on SM SIMD Computers -- Searching on a Tree  -- Searching on a Mesh 
 
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Describe the theory of parallel algorithms(K2)  
+- Apply suitable procedures for parallel algorithms (K3)
+- Analyze merging techniques for parallel models (K4)
+- Analyze sorting techniques for parallel models (K4)
+- Analyze searching techniques for parallel models (K4)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.	Andrew S. Tanenbaum, Herbert Bos, “The Design and Analysis of Parallel Algorithms”, Prentice Hall, 1989. 
+2.	Henri Casanova, Arnaud Legrand, Yves Robert, "Parallel Algorithms" 1st Edition, CRC Press, 2008.
+3.	Ananth Grama, Anshul Gupta, George Karypis,Vipin Kumar "Introduction to Parallel Computing", 2nd Edition, Pearson, 2003. 
+4.	Fayez Gebali, "Algorithms and Parallel Computing", Wiley, 2011.
+5.	Kai Hwang, Naresh Jotwani, "Advanced Computer Architecture: Parallelism, Scalability, Programmability", Tata McGraw-Hill, 2001.
