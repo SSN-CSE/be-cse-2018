@@ -53,11 +53,10 @@ After the completion of this course, students will be able to:
 
 ** Lab equipment for a batch of 30 students
  
-HARDWARE
+
 - 8086 development kits - 30 nos
 - Interfacing Units - Each 10 nos
-- Microcontroller - 30 nos
-SOFTWARE
-- Intel Desktop Systems with MASM - 30 nos
-- 8086 Assembler
+- Microcontroller kits- 30 nos
+- Intel Desktop Systems with MASM software- 30 nos
+
  
