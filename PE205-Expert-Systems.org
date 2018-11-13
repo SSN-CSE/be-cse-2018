@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
 
 ** References:
 1. Peter J.F. Lucas & Linda C. van der Gaag "Principles of Expert Systems"  Addison-Wesley 1991
-2  Donald Waterman “A Guide to Expert Systems” Pearson Education 1986
+2. Donald Waterman “A Guide to Expert Systems” Pearson Education 1986
 3. Joseph C. Giarratano “Expert Systems: Principle & Programming”, Cengage Learning 4th Edn. 2007
 4  Mathew Beard “Expert Systems: An Introduction”  Self-published 2014
 5. Peter Jackson “Introduction to Expert Systems” Pearson Education 2002
