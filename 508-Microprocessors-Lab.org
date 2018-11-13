@@ -32,12 +32,12 @@
 Peripherals and Interfacing Experiments
 8. Traffic light controller
 9. Stepper motor control
-10. Key board and Display
+10. Key board and Display controller
 11. Serial interface and Parallel interface
 12. A/D and D/A interface and Waveform Generation
 8051 Experiments using kits 
-13. Basic arithmetic and Logical operations
-14. Square and Cube program, Find 2‘s complement of a number
+13. Basic arithmetic and logical operations
+14. Square and Cube program, 2‘s complement of a number
 15. Unpacked BCD to ASCII
 
 
