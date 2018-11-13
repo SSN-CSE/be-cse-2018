@@ -15,7 +15,7 @@
   learning.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | <PROJECT PLANNING> | <9> |
 
 {{{unit}}}
 |Unit II | <Title> | <Hours> |
