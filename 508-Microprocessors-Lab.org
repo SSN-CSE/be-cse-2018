@@ -35,7 +35,7 @@ Peripherals and Interfacing Experiments
 10. Key board and Display
 11. Serial interface and Parallel interface
 12. A/D and D/A interface and Waveform Generation
-8051 Experiments using kits and MASM
+8051 Experiments using kits 
 13. Basic arithmetic and Logical operations
 14. Square and Cube program, Find 2‘s complement of a number
 15. Unpacked BCD to ASCII
