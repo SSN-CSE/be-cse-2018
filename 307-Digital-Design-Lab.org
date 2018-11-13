@@ -25,10 +25,10 @@
 3.	Design and implement Half/Full Adder and Subtractor.
 
 4.	Design and implement combinational circuits using MSI devices:
-•	4 – bit binary adder / subtractor
-•	Parity generator / checker
-•	Magnitude Comparator
-•	Application using multiplexers
+      - 4 – bit binary adder / subtractor
+      - Parity generator / checker
+      - Magnitude Comparator
+      - Application using multiplexers
 5.	Design and implement shift-registers.
 
 6.	Design and implement synchronous counters.
