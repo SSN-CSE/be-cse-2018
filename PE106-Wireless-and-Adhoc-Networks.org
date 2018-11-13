@@ -10,31 +10,65 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn about the issues and challenges in the design of wireless ad hoc networks.
+- To understand the working of MAC and Routing Protocols for ad hoc and sensor networks
+- To learn about the Transport Layer protocols and their QoS for ad hoc and sensor
+networks.
+- To understand various security issues in ad hoc and sensor networks and the
+corresponding solutions.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit I | MAC and Routing in Adhoc Networks | 9 |
+Introduction -- Issues and challenges in ad hoc networks -- MAC Layer Protocols for wireless
+ad hoc networks -- Contention-Based MAC protocols -- MAC Protocols Using Directional
+Antennas -- Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing in Ad
+hoc Networks -- Design Issues -- Proactive, Reactive and Hybrid Routing Protocols 
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit II | Transport and QOS in Adhoc Networks | 9 |
+TCP‟s challenges and Design Issues in Ad Hoc Networks -- Transport protocols for ad hoc
+networks -- Issues and Challenges in providing QoS -- MAC Layer QoS solutions -- Network
+Layer QoS solutions -- QoS Model
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit III | Mac and Routing in Wireless Sensor Networks | 9 |
+Introduction -- Applications -- Challenges -- Sensor network architecture -- MAC Protocols for
+wireless sensor networks -- Low duty cycle protocols and wakeup concepts -- ContentionBased
+protocols -- Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control --
+Routing Protocols
+
+{{{unit}}}
+|Unit IV | Transport and QOS in Wireless Sensor Networks | 9 |
+Data-Centric and Contention-Based Networking -- Transport Layer and QoS in Wireless
+Sensor Networks -- Congestion Control in network processing -- Operating systems for
+wireless sensor networks -- Examples 
+
+{{{unit}}}
+|Unit V | Security in Adhoc and Sensor Networks | 9 |
+Security Attacks -- Key Distribution and Management -- Intrusion Detection -- Software based
+Anti-tamper techniques -- Water marking techniques -- Defense against routing attacks --
+Secure Ad hoc routing protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba --
+Sensor Network Security Protocols -- SPINS 
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Identify different issues in wireless ad hoc and sensor networks .
+- To analyze protocols developed for ad hoc and sensor networks .
+- To identify and understand security issues in ad hoc and sensor networks. 
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks – Architectures and
+Protocols'', Pearson Education, 2006.
+2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',
+ John Wiley & Sons, Inc., 2005.
+3.Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'',
+Auerbach Publications, 2008.
+4. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory
+and Applications (2nd Edition)'', World Scientific Publishing, 2011.
+5. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks
+Theory and Practice'', John Wiley and Sons, 2010
+6. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227
+th edition, Cambridge university Press,2008.
