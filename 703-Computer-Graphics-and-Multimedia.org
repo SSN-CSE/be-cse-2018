@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
  - Demonstrate transformations, representations and clipping on 2D objects and also to map window to viewport transformations.
  - Apply 3 Dimensional concepts like representations, geometric transformations, and projections.
  - Understand the working of different illumination and color models used to render an animation scene.
- - Understand different types of multimedia file formats, compression techniques and design Basic 3d Scenes using Blender.
+ - Understand different types of multimedia file formats, compression techniques and design basic 3d Scenes using Blender.
 
 ** Textbook
 1. Donald Hearn and Pauline Baker M, "Computer Graphics", Prentice Hall, New Delhi, 2007 [UNIT I -IV ]
