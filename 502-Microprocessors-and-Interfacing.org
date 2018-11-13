@@ -9,33 +9,79 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
-
-** Course Objectives
+ ** Course Objectives
 - To have a basic knowledge of the concepts and techniques of machine
   learning.
-
+ - To understand the Architecture of 8086 microprocessor.
+- To learn the design aspects of I/O and Memory Interfacing circuits.
+- To interface microprocessors with supporting chips.
+- To study the Architecture of 8051 microcontroller.
+- To design a microcontroller based system
+-
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+ |Unit I | THE 8086 MICROPROCESSOR | 9 |
+Introduction to 8086 – Microprocessor architecture – Addressing modes - Instruction set and
+assembler directives – Assembly language programming – Stacks - Procedures – Macros – Interrupts and interrupt service routines – Byte and 
 
+String Manipulation
+ {{{unit}}}
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | 8086 SYSTEM BUS STRUCTURE  | 9 |
+8086 signals – Basic configurations – System bus timing –System design using 8086 – I/O
+programming – Introduction to Multiprogramming – System Bus Structure – Multiprocessor
+configurations – Coprocessor, Closely coupled and loosely Coupled configurations – Introduction
+to advanced processors.
+ {{{unit}}}
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | I/O INTERFACING | 9 |
+Memory Interfacing and I/O interfacing - Parallel communication interface – Serial communication
+interface – D/A and A/D Interface - Timer – Keyboard /display controller – Interrupt controller –
+DMA controller – Programming and applications Case studies: Traffic Light control, LED display ,
+LCD display, Keyboard display interface and Alarm Controller.
+ {{{unit}}}
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | THE 8051 MICROCONTROLLER | 9 |
+Architecture of 8051 – Special Function Registers(SFRs) - I/O Pins Ports and Circuits - Instruction
+set - Addressing modes - Assembly language programming
+ {{{unit}}}
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | INTERFACING MICROCONTROLLER | 9 |
+Programming 8051 Timers - Serial Port Programming - Interrupts Programming – LCD &
+Keyboard Interfacing - ADC, DAC & Sensor Interfacing - External Memory Interface- Stepper
+Motor and Waveform generation - Comparison of Microprocessor, Microcontroller, PIC and ARM
+processors
 
-
-\hfill *Total: <Total Hours>*
-
-** Course Outcomes
+\hfill *Total: 45*
+ ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+-	Understand the basic architecture, operation of microprocessor 8086 and apply the same for its programming. ( K3)
+-	Understand  the basic and multiprocessor system design and its  bus timing ( K2)
+-	Design the 8086 interfaces with memory, I/O and other peripheral chips.  ( K3)
+-	Understand the basic architecture and operation of microcontroller 8051 ( K2)
+-	Apply programming concepts to implement microcontroller interfaces for different applications. (K3)
+ ** Text Books
+ 1. Doughlas V.Hall, ?Microprocessors and Interfacing, Programming and
+Hardware?,TMH,2012
+ 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, ?The 8051 Microcontroller and
+Embedded Systems: Using Assembly and C?, Second Edition, Pearson education, 2011. 
+ ** References
+1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern 
+
+Recognition Series, 2014.
+1. Yu-Cheng Liu, Glenn A.Gibson, ?Microcomputer Systems: The 8086 / 8088 Family -
+ Architecture, Programming and Design?, Second Edition, Prentice Hall of India, 2007. 
+ 
+ 2. A.K.Ray,K.M.Bhurchandi,?Advanced Microprocessors and Peripherals ?3rd edition, Tata
+ McGrawHill,2012
+ 
+ 3. Barry B Bray , The Intel Micro processor 8086/8088, 80186,80286,
+ 80386 and 80486
+-Arcitecture, programming and interfacing, PHI,8
+th Edition,2011
+ 4. Mohamed Rafiquazzaman, “Microprocessor and Microcomputer
+ based system design,” Universal Book stall, New Delhi, 2 nd Edition,
+ 1995.
+ 
+ 5. Kenneth J.Ayala, ’The 8051 microcontroller Architecture, Programming and applications‘ second edition ,Penram international.
