@@ -40,7 +40,7 @@ Mass Storage Structure: Overview -- Disk scheduling and management; File System 
 Linux Vs Windows: Design principles -- Process management -- Scheduling -- Memory management -- File systems;  
 Mobile OS: iOS  and  Android -- Introduction and Architecture. 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
