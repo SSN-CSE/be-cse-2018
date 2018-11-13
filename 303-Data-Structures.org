@@ -11,31 +11,52 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- Understand the concepts of ADT 
+- Comprehend the notion of linear and non linear data structures
+- Design a suitable data structure for the given problem and implement them in a high level programming language
+- Understand the need of different types of searching and sorting techniques
+- Learn the introductory concepts of hashing techniques
+
 
 {{{unit}}}
 |Unit I | Linear Data Structure - List | 9 |
 Abstract Data Types (ADT) – List ADT – array-based implementation – linked list implementation – singly linked lists – circular linked list - doubly-linked lists – applications of lists – polynomial manipulations – creation, insertion, deletion, merge, traversal and sorting
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | Linear Data Structures – Stacks & queues | 9 |
+Stack ADT – Operations – Applications – Balancing the symbols, Conversion of infix to postfix expression, Evaluating arithmetic expressions - Queue ADT – Operations - circular queue – Double ended queue – Applications of queues
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | Non Linear Data Structures – Trees   | 9 |
+Tree ADT – Preliminaries - Tree traversals – Binary Tree ADT – expression trees – binary search tree ADT - AVL Trees – Splay Trees – B-Tree – Binary heaps.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | Non Linear Data Structures – Graphs | 9 |
+Definitions – Representation of graph – Types of graph - Breadth-first traversal – Depth first traversal -Topological sort – shortest-path algorithms – biconnectivity – cut vertex - Euler circuits.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
-
+|Unit V | Searching, Sorting and Hashing Techniques  | 9 |
+Searching - Linear search – Binary search – Sorting – Insertion sort- Shell sort – Radix sort – Quick sort – Hashing – Hash functions - Separate chaining – open addressing – rehashing – extendible hashing.
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Analyze a problem statement, identify possible data structures for solving it, and choose and implement an appropriate one within the constraints of the problem specification (K3)
+- Elucidate the concepts of linear and non linear data structures (K2)
+- Differentiate stack, queue, trees and graphs (K3)
+- Elucidate the concept of searching, sorting and hashing techniques (K3)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+
+TEXT BOOK
+1. M. A. Weiss, “Data Structures and Algorithm Analysis in C”, Second Edition , Pearson Education, 2006
+
+REFERENCES
+
+1.	A. V. Aho, J. E. Hopcroft, and J. D. Ullman, “Data Structures and Algorithms”, 
+	Pearson Education, First Edition Reprint 2003.
+2.	R. F. Gilberg, B. A. Forouzan, “Data Structures”, Second Edition, Thomson India        
+	Edition, 2005.
+3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, "Fundamentals of Data 	Structures in C", Second Edition, University Press, 2008
