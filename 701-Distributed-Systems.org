@@ -10,31 +10,60 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To introduce the computation and communication models of distributed systems.
+- To illustrate the issues of synchronization and collection of information in distributed systems
+- To educate distributed mutual exclusion and distributed deadlock detection techniques
+- To elucidate agreement protocols and Fault Tolerance mechanisms in Distributed Systems. 
+- To explain the features of Peer-to-Peer systems and memory consistency models.
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|Introduction|8| 
+Introduction: Definition-Relation to computer system components -- Motivation -- Relation to parallel multiprocessor/multicomputer systems -- Message-passing systems versus shared memory systems -- Primitives for distributed communication -- Synchronous versus asynchronous executions -- Design issues and challenges; A model of distributed computations: A distributed program -- A model of distributed executions -- Models of communication networks -- Global state of a distributed system -- Cuts of a distributed computation -- Past and future cones of an event -- Models of process communications.
+
+
+
+{{{unit}}}
+|Unit II |Logical Time and Global State|12| 
+Logical Time: Physical clock synchronization: NTP -- A framework for a system of logical clocks -- Scalar time -- Vector time; Message ordering and group communication: Message ordering paradigms -- Asynchronous execution with synchronous communication -- Synchronous program order on an asynchronous system -- Group communication -- Causal order (CO) Total order; Global state and snapshot recording algorithms: Introduction -- System model and definitions -- Snapshot algorithms for FIFO channels.
 
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit III|Distributed Mutex and Deadlock|12| 
+Distributed mutual exclusion algorithms: Introduction -- Preliminaries -- Lamport’s algorithm -- Ricart–Agrawala algorithm -- Quorum-based mutual exclusion algorithms -- Maekawa’s algorithm -- Token-based algorithms -- Suzuki–Kasami’s broadcast algorithm; Deadlock detection in distributed systems: Introduction -- System model -- Preliminaries -- Models of deadlocks -- Knapp’s classification of distributed deadlock detection algorithms -- Mitchell and Merritt’s algorithm  for the single resource model -- Chandy–Misra–Haas algorithm for the AND model -- Chandy–Misra–Haas algorithm for the OR model.
+
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit IV| Consensus and Recovery|12|
+Consensus and agreement algorithms: Problem definition -- Overview of results -- Agreement in a failure-free system (synchronous or asynchronous) -- Agreement in (message-passing) synchronous systems with failures; Checkpointing and rollback recovery: Introduction -- Background and definitions -- Issues in failure recovery -- Checkpoint-based recovery -- Log-based rollback recovery -- Koo–Toueg coordinated checkpointing algorithm -- Juang–Venkatesan algorithm for asynchronous checkpointing and recovery.
+#+BEGIN_COMMENT
+
+#+END_COMMENT
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V|Peer to Peer and Distributed Shared Memory|6|
+Peer-to-peer computing and overlay graphs: Introduction -- Data indexing and overlays -- Tapestry; Distributed shared memory: Abstraction and advantages -- Memory consistency models -- Lamport's Bakery Algorithm.
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+Upon the completion of the course the students should be able to: 
+- Realize the foundations of Distributed Systems (K2)
+- Able to solve synchronization and state consistency problems (K3).
+- Demonstrate the resource sharing techniques in Distributed systems (K3).
+- Comprehend the working model of consensus and reliability of Distributed Systems (K3).
+- Identify the fundamentals of Peer-to-Peer Systems(K2).
+
+
+** Text Books
+1. Kshemkalyani, Ajay D., and Mukesh Singhal. Distributed computing: principles, algorithms, and systems. Cambridge University Press, 2011
+	
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. George Coulouris, Jean Dollimore and Tim Kindberg, “Distributed Systems Concepts and Design”, Fifth Edition, Pearson Education, 2012.
+2. Pradeep K Sinha, "Distributed Operating Systems: Concepts and Design", Prentice Hall of India, 2007.
+3. Mukesh Singhal and Niranjan G. Shivaratri. Advanced concepts in operating systems. McGraw-Hill, Inc., 1994.
+4. Tanenbaum A.S., Van Steen M., “Distributed Systems: Principles and Paradigms”, Pearson Education, 2007.
+5. Liu M.L., “Distributed Computing, Principles and Applications”, Pearson Education, 2004.
+6. Nancy A Lynch, “Distributed Algorithms”, Morgan Kaufman Publishers, USA, 2003.
+
