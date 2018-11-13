@@ -11,30 +11,51 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+** Course Objectives
+- To learn Resolution for Propositional and Predicate Logic
+- To learn inference in Production Systems
+- To learn inheritance in Frames
+- To learn the various techniques of handling uncertainty in Expert Systems
+- To learn the use of OPS5 and CENTAUR in building Expert Systems
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|FOUNDATIONS|8|
+Expert Systems & AI: Examples – Separating Knowledge & Inference – A Problem Domain; Introduction to PROLOG: Logic Programming – Overview of PROLOG Language; Introduction to LISP: Fundamental Principles of LISP – Overview of LISP Language;
+
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II|LOGIC & RESOLUTION|10|
+Propositional Logic; First Order Logic; Clausal Form of Logic; Reasoning in Logic: Inference Rules; Reolution in Propositional Logic; Reolution in First Order Logic; Resolution Strategies: SLD Resolution – Implementation of  SLD Resolution; Applying Logic for building Expert Systems;Logic as a representation formalism;
+
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III|PRODUCTION SYSTEMS & FRAMES|10|
+Knowledge representation in a production system; Inference in a production system: Top-down inference and production rules -- Top-down inference in PROLOG & LISP -- Bottom-up inference and production rules; Production rules as a representation formalism; Semantic Nets; Frames and single inheritance: Single inheritance in PROLOG & LISP; Frames and multiple inheritance; Frames as a representation formalism;
+
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV|REASONING WITH UNCERTAINTY|10|
+Production rules, inference and uncertainty; Probability theory: The probability function -- Conditional probabilities and Bayes’ theorem -- Application in rule-based expert systems; The subjective Bayesian method; The certainty factor model; The certainty factor model in PROLOG; The Dempster-Shafer theory; Network models: Knowledge representation in a belief network -- Evidence propagation in a belief network;
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V|OPS5 & CENTAUR|7|
+OPS5: Knowledge representation in OPS5 -- The OPS5 interpreter -- The rete algorithm -- Building expert systems using OPS5; CENTAUR:  Prototypes – Facts -- Reasoning in CENTAUR; 
 
 
-\hfill *Total: <Total Hours>*
+
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+- Implement SLD resolution using LISP (K3)
+- Use OSP5 interpreter (K2)
+- Build a knowledge base for a particular problem domain, using PROLOG and/or LISP (K3)
+
+**References:
+1. Peter J.F. Lucas & Linda C. van der Gaag "Principles of Expert Systems"  Addison-Wesley 1991
+2  Donald Waterman “A Guide to Expert Systems” Pearson Education 1986
+3. Joseph C. Giarratano “Expert Systems: Principle & Programming”, Cengage Learning 4th Edn. 2007
+4  Mathew Beard “Expert Systems: An Introduction”  Self-published 2014
+5. Peter Jackson “Introduction to Expert Systems” Pearson Education 2002
+6. Dan W Patterson “Introduction to Artificial Intelligence and Expert Systems” Pearson Education 2007
+7. V. Daniel Hunt “Artificial Intelligence and Expert Systems Sourcebook” Springer-Verlag 2011
