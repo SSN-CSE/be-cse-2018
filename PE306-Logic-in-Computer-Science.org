@@ -11,30 +11,49 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the role of logic in modeling and reasoning about systems.
+- To learn the syntax and semantics of various logics.
+- To learn the skill of writing formal specifications in various logics.
+- To learn resolution for propositional and predicate logic.
+- To learn natural deduction for modal logic.
+- To learn PROLOG.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|PROPOSITIONAL LOGIC|9|
+Foundations: Syntax and Semantics – Mathematical Induction – Soundness and Completeness; Semantic Entailment: Natural Deduction; Normal Forms; SAT;  Resolution; Horn Logic;  DPLL; CDCL; SAT Solvers;
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II|PREDICATE LOGIC|9|
+Foundations: Syntax and Semantics; Semantic Entailment: Natural Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand’s Theory; Resolution: Ground Resolution -- Unification; Refinements of Resolution: P-resolution – N-resolution – linear resolution – unit resolution --  SLD resolution – LUSH resolution;
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III|MODAL LOGICS|9|
+Modes of truth; Basic modal logic: Syntax – Semantics; Logic engineering: The stock of valid formulas -- Important properties of the accessibility relation -- Correspondence theory – Some Modal Logics; Natural deduction; Reasoning about knowledge in a multi-agent system: Examples – Modal Logic KT45n  -- Natural deduction for KT45n  -- Formalising the examples;  
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV|LOGIC PROGRAMMING|9|
+Foundations: Answer Generation; Horn Clause Programs: Semantics of Logic Program – Procedural Semantics – Model-theoretic Semantics; Evaluation Strategies: Swapping Lemma – PROLOG’s Evaluation Strategy – DFS -- BFS; Programming in PROLOG;
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V|MODEL CHECKING|9|
+Motivation for verification; Linear-time temporal logic: Syntax – Semantics -- Practical patterns of specifications; Model checking: The NuSMV model checker – Case studies; Branching-time logic: Syntax – Semantics -- Practical patterns of specifications; Model-checking algorithms: The CTL model-checking algorithm -- The LTL model-checking algorithm; CTL* and the expressive powers of LTL and CTL;
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+- Write specifications in predicate logic and temporal logics. (K3)
+- Apply resolution to solve semantic entailment. (K3)
+- Write logic programs in PROLOG. (K3)
+- Specify and Verify simple systems using NuSMV(K3).
+- Use Natural Deduction for modal logic theories(K3).
+
+**References:
+1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and Reasoning about systems'', Second Edition, Cambridge University Press, 2004. (Units I,II,III and V)
+2. Uwe Schoning ``Logic for Computer Scientists’’, Birkhauser , 1989 (Units I,II,IV)
+3. M. Ben-Ari, ``Mathematical logic for computer science'', Second Edition, Springer, 2003.
+4. Arindama Singh, ``Logics for Computer Science'', Second edition, PHI, 2018
+5. Stanley N Burris, ``Logic for Mathematics & Computer Science'', Prentice Hall 1998
+6. Herbert Enderton, ``A Mathematical Introduction to Logic'', Second edition, Harcourt Academic Press, 2001
+
