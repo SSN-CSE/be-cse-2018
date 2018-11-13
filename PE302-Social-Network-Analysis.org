@@ -41,10 +41,10 @@ Graph theory - Centrality - Clustering - Node-Edge Diagrams - Matrix representat
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
--	Develop semantic web related applications.
--	Represent knowledge using ontology.
--	Predict human behaviour in social web and related communities.
--	Visualize social networks.
+-	Understand semantic web related applications.(K2)
+-	Represent knowledge using ontology.(K3)
+-	Predict human behaviour in social web and related communities.(K2)
+-	Visualize social networks.(K2)
       
 ** References
 1.	Peter Mika, ―Social Networks and the Semantic Web‖, First Edition, Springer 2007.
