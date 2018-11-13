@@ -20,23 +20,24 @@ The student should be made to:
 
 {{{unit}}}
 |Unit I | PROJECT PLANNING| 9 |
-Project management life cycle: project evaluation and programme management - project planning - project models : waterfall, spiral, prototyping, incremental delivery, DSDM, agile, scrum, XP, lean software development - process model selection.
+Project management life cycle -- project evaluation and programme management - project planning -- project models : waterfall -- spiral -- prototyping -- incremental delivery -- DSDM -- agile -- scrum -- XP; lean software development -- process model selection.
 
 {{{unit}}}
 |Unit II | ESTIMATION AND SCHEDULING | 9 |
-Effort estimation techniques - Expert judgement - FPA - FP mark II - COSMIC- COCOMO II - cost estimation - project schedules - network model - identifying critical activities.
+Effort estimation techniques: Expert judgement -- FPA -- FP mark II -- COSMIC -- COCOMO II -- cost estimation;  project schedules -- network model -- identifying critical activities.
 
 {{{unit}}}
 |Unit III | AGILE AND DEVOPS | 9 |
-SCRUM - organization - estimation - planning - changes in scrum - risk in scrum - product backlog - sprint backlog - release - Identifying Stories and Preparing to Build - DevOps: Motivation - Cloud as a platform - Operations - Deployment Pipeline.
+SCRUM: organization -- estimation -- planning -- changes in scrum -- risk in scrum -- product backlog -- sprint backlog -- release -- Identifying Stories and Preparing to Build; 
+DevOps: Motivation -- Cloud as a platform -- Operations -- Deployment Pipeline.
 
 {{{unit}}}
 |Unit IV | SECURITY AND RISK MANAGEMENT | 9 |
-Cloud Information Security Objectives - Cloud Security Services - Secure Development Practices - Risk culture - risk management process - risk attributes - risk identification - types of risk analysis - responding to risk - risk tracking - risk models.
+Cloud Information Security Objectives -- Cloud Security Services -- Secure Development Practices -- Risk culture -- risk management process -- risk attributes -- risk identification -- types of risk analysis -- responding to risk -- risk tracking -- risk models.
 
 {{{unit}}}
 |Unit V | MONITORING AND ORGANIZING TEAMS | 9 |
-Visualizing Progress – Relationship between people and effort, Task Set & Network - Earned Value Analysis - SCM - Managing Contracts – Working in teams - Developing metrics on a software development program - Evaluating performance.
+Visualizing Progress: Relationship between people and effort -- Task Set & Network -- Earned Value Analysis -- SCM -- Managing Contracts -– Working in teams -- Developing metrics on a software development program -- Evaluating performance.
 
 
 ** Course Outcomes
