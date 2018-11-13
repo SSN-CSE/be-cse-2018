@@ -12,13 +12,10 @@
 
 ** Course Objectives
 The student should be made:
-- To understand the basic concepts associated with the design, functioning, applications
-and social aspects of robots
-- To study about the electrical drive systems and sensors used in robotics for various
-applications
-- To learn about analyzing robot kinematics, dynamics through different methodologies and
-study various design aspects of robot arm manipulator and end-effector
-- To learn about various motion planning techniques and the associated control architecture
+- To understand the basic concepts associated with the design, functioning, applications and social aspects of robots
+- To study about the electrical drive systems and sensors used in robotics for various applications
+- To learn about analyzing robot kinematics, dynamics through different methodologies and study various design aspects of robot arm manipulator and end-effector
+- To learn about various motion planning techniques and the associated control architecture 
 - To understand the implications of AI and other trending concepts of robotics
 
 
