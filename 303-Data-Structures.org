@@ -16,7 +16,7 @@
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
-Saritha
+Saritha praba
 
 {{{unit}}}
 |Unit II | <Title> | <Hours> |
