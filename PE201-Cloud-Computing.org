@@ -19,51 +19,35 @@
 
 {{{unit}}}
 |Unit I|Cloud Architecture Models and Infrastructure|9| 
-Cloud Architecture: System Models for Distributed and Cloud Computing
--- NIST Cloud Computing Reference Architecture -- Cloud deployment
-models -- Cloud service models; Cloud Infrastructure: Architectural
-Design of Compute and Storage Clouds -- Layered Cloud Architecture
-Development -- Design Challenges -- Inter Cloud Resource Management --
-Resource Provisioning and Platform Deployment -- Global Exchange of
-Cloud Resources.
+Cloud Architecture: System Models for Distributed and Cloud Computing -- NIST Cloud Computing Reference Architecture -- Cloud deployment
+models -- Cloud service models; Cloud Infrastructure: Architectural Design of Compute and Storage Clouds -- Layered Cloud Architecture
+Development -- Design Challenges -- Inter Cloud Resource Management -- Resource Provisioning and Platform Deployment -- Global Exchange of Cloud Resources.
 
 
 {{{unit}}}
 |Unit II |Virtualization|9| 
-Basics of Virtualization -- Emulation -- Interpretation -- Binary
-Translation -- Virtualization Advantages -- Virtual Machine Basics --
-Taxonomy of Virtual Machines -- Process Virtual Machines -- System
-Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
-structure -- Implementation levels of virtualization -- Virtualization
-Types: Full Virtualization -- Para Virtualization -- Hardware
-Virtulization.
+Basics of Virtualization -- Emulation -- Interpretation -- Binary Translation -- Virtualization Advantages -- Virtual Machine Basics --
+Taxonomy of Virtual Machines -- Process Virtual Machines -- System Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
+structure -- Implementation levels of virtualization -- Virtualization Types: Full Virtualization -- Para Virtualization -- Hardware
+Virtulization. 
 
 {{{unit}}}
 |Unit III|Virtualization Infrastructure|9| 
-Comprehensive Analysis -- Resource Pool -- Testing Environment --
-Virtual Workloads -- Provision Virtual Machines -- Desktop
-Virtualization -- Network Virtualization -- Server and Machine
-Virtualization -- Storage Virtualization -- System-level of Operating
-Virtualization -- Application Virtualization-- Virtualization of CPU,
-Memory and I/O devices -- Virtual clusters and Resource Management --
-Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
+Comprehensive Analysis -- Resource Pool -- Testing Environment -- Virtual Workloads -- Provision Virtual Machines -- Desktop
+Virtualization -- Network Virtualization -- Server and Machine Virtualization -- Storage Virtualization -- System-level of Operating
+Virtualization -- Application Virtualization-- Virtualization of CPU, Memory and I/O devices -- Virtual clusters and Resource Management -- Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 
 {{{unit}}}
 |Unit IV| Cloud Deployment Environment|9|
-Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software
-Environments -- Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
+Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software Environments -- Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
 
 
 {{{unit}}}
 |Unit V|Cloud Security|9|
-Multi-tenancy Issues: Isolation of users/VMs from each other --
-Virtualization System Vulnerabilities: Management console
-vulnerabilities -- management server vulnerabilities -- administrative
-VM vulnerabilities -- guest VM vulnerabilities, hypervisor
-vulnerabilities -- hypervisor escape vulnerabilities -- configuration
-issues; Virtualization System-Specific Attacks: Guest hopping --
-attacks on the VM (delete the VM, attack on the control of the VM,
-code or file injection into the virtualized file structure) -- VM
+Multi-tenancy Issues: Isolation of users/VMs from each other -- Virtualization System Vulnerabilities: Management console
+vulnerabilities -- management server vulnerabilities -- administrative VM vulnerabilities -- guest VM vulnerabilities, hypervisor
+vulnerabilities -- hypervisor escape vulnerabilities -- configuration issues; Virtualization System-Specific Attacks: Guest hopping --
+attacks on the VM (delete the VM, attack on the control of the VM, code or file injection into the virtualized file structure) -- VM
 migration attack -- hyperjacking.
 
 \hfill *Total: 45*
@@ -78,27 +62,17 @@ Upon the completion of the course the students should be able to:
 
 
 ** Text Books
-1. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
-   Learning and Implementation'', Pearson Education
-   India, 2014. (Units I, II, III, IV)
-2. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
-    To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
+1. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for Learning and Implementation'', Pearson Education India, 2014. (Units I, II, III, IV) 
+2. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
 	
 ** References
-1. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud
-   Computing, From Parallel Processing to the Internet of Things'',
+1. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud Computing, From Parallel Processing to the Internet of Things'',
    Morgan Kaufmann Publishers, 2012. (Units I, II, IV)
-2. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
-   Guide'', McGraw-Hill Osborne Media, 2009. (Units II, III)
-3. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
-   for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units
-   II, III)
-4. William von Hagen, ``Professional Xen Virtualization'', Wrox
-   Publications, January, 2008. (Unit III)
-5. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
-   VMware and Microsoft Platform in the Virtual Data Center'',
+2. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's Guide'', McGraw-Hill Osborne Media, 2009. (Units II, III)
+3. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units II, III)
+4. William von Hagen, ``Professional Xen Virtualization'', Wrox Publications, January, 2008. (Unit III)
+5. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization: VMware and Microsoft Platform in the Virtual Data Center'',
    Auerbach Publications, 2006. (Unit III)
-6. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
-    and Privacy: an enterprise perspective on risks and compliance'',
+6. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security and Privacy: an enterprise perspective on risks and compliance'',
     O‘Reilly Media, Inc., 2009. (Unit V)
     
