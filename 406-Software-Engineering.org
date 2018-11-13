@@ -6,7 +6,6 @@
 
 #+startup: showall
 
-{{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
@@ -16,37 +15,37 @@
 - To understand the various software design methodologies
 - To learn various testing and maintenance measures
 
-|Unit I | <SOFTWARE PROCESS AND AGILE DEVELOPMENT > | <9> |
+|Unit I | SOFTWARE PROCESS AND AGILE DEVELOPMENT | 9 |
 Introduction to Software Engineering, Software Process, Perspective and Specialized Process
 Models –Introduction to Agility-Agile process-Extreme programming-XP Process.
 
 
-|Unit II | <REQUIREMENTS ANALYSIS AND SPECIFICATION > | <9> |
+|Unit II | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
 Software Requirements: Functional and Non-Functional, User requirements, System requirements,
 Software Requirements Document – Requirement Engineering Process: Feasibility Studies,
 Requirements elicitation and analysis, requirements validation, requirements managementClassical
 analysis: Structured system Analysis, Petri Nets- Data Dictionary.
 
-|Unit III | <SOFTWARE DESIGN> | <9> |
+|Unit III | SOFTWARE DESIGN | 9 |
 Design process – Design Concepts-Design Model– Design Heuristic – Architectural Design -
 Architectural styles, Architectural Design, Architectural Mapping using Data Flow- User Interface
 Design: Interface analysis, Interface Design –Component level Design: Designing Class based
 components, traditional Components.
 
-|Unit IV | <TESTING AND MAINTENANCE> | <9> |
+|Unit IV | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of Testing-white box testing - basis
 path testing-control structure testing-black box testing- Regression Testing – Unit Testing –
 Integration Testing – Validation Testing – System Testing And Debugging –Software
 Implementation Techniques: Coding practices-Refactoring-Maintenance and Reengineering-BPR
 model-Reengineering process model-Reverse and Forward Engineering.
 
-|Unit V | <Title> | <9> |
+|Unit V | PROJECT MANAGEMENT | 9 |
 Software Project Management: Estimation – LOC, FP Based Estimation, Make/Buy Decision
 COCOMO I & II Model – Project Scheduling – Scheduling, Earned Value Analysis Planning –
 Project Plan, Planning Process, RFP Risk Management – Identification, Projection - Risk
 Management-Risk Identification-RMMM Plan-CASE TOOLS
 
-\hfill *Total: <45>*
+\hfill Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
