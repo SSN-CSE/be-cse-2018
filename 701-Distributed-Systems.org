@@ -11,8 +11,8 @@
 
 ** Course Objectives
 - To introduce the computation and communication models of distributed systems.
-- To illustrate the issues of synchronization and collection of information in distributed systems
-- To educate distributed mutual exclusion and distributed deadlock detection techniques
+- To illustrate the issues of synchronization and collection of information in distributed systems.
+- To educate distributed mutual exclusion and distributed deadlock detection techniques.
 - To elucidate agreement protocols and Fault Tolerance mechanisms in Distributed Systems. 
 - To explain the features of Peer-to-Peer systems and memory consistency models.
 
@@ -49,7 +49,7 @@ Peer-to-peer computing and overlay graphs: Introduction -- Data indexing and ove
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Realize the foundations of Distributed Systems (K2)
+- Realize the foundations of Distributed Systems (K2).
 - Able to solve synchronization and state consistency problems (K3).
 - Demonstrate the resource sharing techniques in Distributed systems (K3).
 - Comprehend the working model of consensus and reliability of Distributed Systems (K3).
