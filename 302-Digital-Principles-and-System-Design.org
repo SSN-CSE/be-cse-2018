@@ -15,23 +15,37 @@
   learning.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
+Number Systems - Arithmetic Operations - Binary Codes- Boolean Algebra and Logic Gates
+- Theorems and Properties of Boolean Algebra - Boolean Functions - Canonical and
+Standard Forms - Simplification of Boolean Functions using Karnaugh Map - Logic Gates –
+NAND and NOR Implementations
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit II | COMBINATIONAL LOGIC | 9 |
+Combinational Circuits – Analysis and Design Procedures - Binary Adder-Subtractor -
+Decimal Adder - Binary Multiplier - Magnitude Comparator - Decoders – Encoders –
+Multiplexers - Introduction to HDL – HDL Models of Combinational circuits. 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit III | MEMORY AND PROGRAMMABLE LOGIC | 9 |
+RAM – Memory Decoding – Error Detection and Correction - ROM - Programmable Logic
+Array – Programmable Array Logic – Sequential Programmable Devices
 
+{{{unit}}}
+|Unit IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 
-\hfill *Total: <Total Hours>*
+Sequential Circuits - Storage Elements: Latches , Flip-Flops - Analysis of Clocked
+Sequential Circuits - State Reduction and Assignment - Design Procedure - Registers and
+Counters - HDL Models of Sequential Circuits.
+
+{{{unit}}}
+|Unit V | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
+
+Analysis and Design of Asynchronous Sequential Circuits – Reduction of State and Flow
+Tables – Race-free State Assignment – Hazards.
+
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
