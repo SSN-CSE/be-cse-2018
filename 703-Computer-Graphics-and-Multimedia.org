@@ -59,6 +59,6 @@ After the completion of this course, students will be able to:
 1. Foley, Vandam, Feiner and Hughes, "Computer Graphics: Principles and Practice", 2nd Edition, Pearson Education, 2003.
 2. Jeffrey McConnell, "Computer Graphics: Theory into Practice", Jones and Bartlett Publishers,2006. 
 3. Hill F S Jr., "Computer Graphics", Maxwell Macmillan, 1990.
-4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R Marschner, Erik Reinhard, KelvinSung, and AK Peters,"Fundamentals
-of Computer Graphics",CRC Press, 2010.
+4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R Marschner, Erik Reinhard, KelvinSung, and AK Peters,            
+   "Fundamentals of Computer Graphics",CRC Press, 2010.
 5. https://www.blender.org/support/tutorials/
