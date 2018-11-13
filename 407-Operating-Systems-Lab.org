@@ -18,28 +18,35 @@
 - To implement Page Replacement Algorithms
 - To implement File Organization and File Allocation Strategies
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+** List of Experiments
+1. Basics of UNIX commands and study of system calls.
+2. Write programs using the following system calls of UNIX operating system fork, exec, getpid, exit, wait, close, stat, opendir, readdir 
+3. Write C programs to simulate UNIX commands like cp, ls, grep, etc. 
+4. Write C programs to implement the various CPU Scheduling Algorithms
+5. Implementation of Semaphores
+6. Implementation of Shared memory and IPC
+7. Bankers Algorithm for Deadlock Avoidance
+8. Write C program to implement Threading & Synchronization Applications
+9.  Implementation of the following Memory Allocation Methods for fixed partition
+      a) First Fit      b) Worst Fit      c) Best Fit 
+10. Implementation of Paging Technique of Memory Management
+11. Implementation of the following Page Replacement Algorithms
+      a) FIFO     b) LRU      c) LFU
+12. Implementation of the various File Organization Techniques
+      a) Single-level   b) Hierarchical
+13. Implementation of the following File Allocation Strategies
+      a) Sequential     b) Indexed        c) Linked
 
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Compare the performance of various CPU Scheduling Algorithms
+- Implement Deadlock avoidance and Detection Algorithms
+- Implement Semaphores
+- Create processes and implement IPC
+- Analyze the performance of the various Page Replacement Algorithms
+- Implement  File Organization and File Allocation Strategies
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
