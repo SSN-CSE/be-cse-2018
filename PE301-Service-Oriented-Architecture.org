@@ -44,11 +44,11 @@ Service Oriented Enterprise Applications -- Service Oriented Analysis and Design
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand XML technologies (K2)
+- Understand XML technologies (K2).
 - Understand service orientation, benefits of SOA (K2).
 - Understand web services and WS standards (K2).
 - Use web services extensions to develop solutions (K3).
-- Understand and apply service modeling, service oriented analysis and design for application development(K3)
+- Understand and apply service modeling, service oriented analysis and design for application development (K3).
 
 
 ** Text Books
