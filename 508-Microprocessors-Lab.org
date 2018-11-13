@@ -10,31 +10,52 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+- Familiarize Assembly Language Programming concepts and features
+- Expose Assembly Language Programming for 8086 and 8051
+- Understand MASM programming
+- Design different I/O interfaces with Microprocessors
 
 
-\hfill *Total: <Total Hours>*
+
+LIST OF EXPERIMENTS:
+8086 Programs using kits 
+1. Basic arithmetic and Logical operations
+2. Move a data block without overlap
+3. string manipulations and sorting and searching
+4. Code conversion, decimal arithmetic and Matrix operations.
+8086 Programs using MASM
+5. Floating point operations, ,
+6. Password checking, Print system date and time
+7. Counters and Time Delay
+Peripherals and Interfacing Experiments
+8. Traffic light controller
+9. Stepper motor control
+10. Key board and Display
+11. Serial interface and Parallel interface
+12. A/D and D/A interface and Waveform Generation
+8051 Experiments using kits and MASM
+13. Basic arithmetic and Logical operations
+14. Square and Cube program, Find 2‘s complement of a number
+15. Unpacked BCD to ASCII
+
+
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+-	Apply 8086 Assembly Language Programming concepts for arithmetic, logical and string operations. (K3)
+-	Implement BIOS interrupt programming using MASM. (K3)
+-	Design different I/O interfaces with 8086. (K3)
+-	Apply 8051 Assembly Language Programming concepts for arithmetic and logical operations (K3)
+
+
+ ** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS:
+HARDWARE:
+8086 development kits - 30 nos
+Interfacing Units - Each 10 nos
+Microcontroller - 30 nos
+SOFTWARE:
+Intel Desktop Systems with MASM - 30 nos
+8086 Assembler
+ 
