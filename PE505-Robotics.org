@@ -59,10 +59,8 @@ adopted for robot motion planning.
 
 ** Text Books
 
-1. Saeed. B. Niku, Introduction to Robotics, Analysis, system, Applications, Pearson
-educations, 2002
-2. Roland Siegwart, Illah Reza Nourbakhsh, Introduction to Autonomous Mobile Robots, MIT
-Press, 2011
+1. Saeed. B. Niku, Introduction to Robotics, Analysis, system, Applications, Pearson educations, 2002
+2. Roland Siegwart, Illah Reza Nourbakhsh, Introduction to Autonomous Mobile Robots, MIT Press, 2011
 
 
 ** References
