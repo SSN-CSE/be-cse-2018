@@ -1,7 +1,7 @@
 * <<<PE205>>> EXPERT SYSTEMS
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. S. Kavitha
-:date: 
+:date: 13 November 2018
 :end:
 
 #+startup: showall
@@ -10,7 +10,6 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
 ** Course Objectives
 - To learn Resolution for Propositional and Predicate Logic
 - To learn inference in Production Systems
@@ -51,7 +50,7 @@ After the completion of this course, students will be able to:
 - Use OSP5 interpreter (K2)
 - Build a knowledge base for a particular problem domain, using PROLOG and/or LISP (K3)
 
-**References:
+** References:
 1. Peter J.F. Lucas & Linda C. van der Gaag "Principles of Expert Systems"  Addison-Wesley 1991
 2  Donald Waterman “A Guide to Expert Systems” Pearson Education 1986
 3. Joseph C. Giarratano “Expert Systems: Principle & Programming”, Cengage Learning 4th Edn. 2007
