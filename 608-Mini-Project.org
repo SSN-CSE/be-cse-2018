@@ -10,25 +10,24 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- Learn the basics of OO analysis and design skills.
-- Expose to UML diagrams
-- Map design to code
-- Design and generate test cases.
+- To capture the requirements specification for an intended software system
+- To draw the UML diagrams for the given specification
+- To map the design properly to code
+- To test the software system thoroughly for all scenarios
 
 ** Suggestive List of Experiments
 
 Draw standard UML diagrams using an UML modeling tool for a given case study and map design to code and implement a 3 layered architecture and generate test cases.
 1. To develop a problem statement.
+2. Document the Software Requirements Specification (SRS) for the identified system.
 2. Identify Use Cases and develop the Use Case model.
 3. Identify the conceptual classes and develop a domain model with UML Class diagram.
-4. Using the identified scenarios, find the interaction between objects and represent them using
-UML Sequence diagrams.
-5. Draw relevant state charts and activity diagrams.
-6. Identify the User Interface, Domain objects, and Technical services. Draw the partial layered,
+4. Using the identified scenarios, find the interaction between objects and represent them using UML Sequence and Collaboration diagrams.
+5. Draw relevant state charts diagram. 
+6. Draw the activity diagrams for the system.
+7. Identify the User Interface, Domain objects, and Technical services. Draw the partial layered,
 logical architecture diagram with UML package diagram notation.
-7. Develop and test the Technical services layer.
-8. Develop and test the Domain objects layer.
-9. Develop and test the User interface layer.
+8. Test the software system for all the scenarios identified as per the usecase diagram
 
 ** Suggested Domains for Mini Project
 1. Passport automation system.
@@ -46,11 +45,12 @@ logical architecture diagram with UML package diagram notation.
 13. BPO Management System
 14. Library Management System
 15. Student Information System
+
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Perform OO analysis and design for a given problem specification. (K2)
+- Understand the requirements for a given problem specification. (K2)
 - Design and draw UML diagrams. (K3)
 - Map design to code and implement using UML diagrams. (K4)
 - Design and generate test cases. (K3)
@@ -61,7 +61,6 @@ Hardware
 Any standard PC (Pentium) 
 
 Software 
-•     Windows 95/98/2000/NT/XP/Vista 
-•    ArgoUML OR Microsoft Visio OR Rational Rose 2002 OR StarUML OR any tool that supports UML 1.4 and higher  
-
-
+- Windows 7 or higher 
+- ArgoUML that supports UML 1.4 and higher
+- Selenium, JUnit or Apache JMeter
