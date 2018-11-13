@@ -58,7 +58,7 @@ Upon the completion of the course the students should be able to:
 ** References
 1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew, Java Web Services Architecture, Elsevier, 2003.
 2. Ron Schmelzer et al.  XML and Web Services, Pearson Education, 2002.
-3. Frank P.Coyle, XML, Web Services and the Data Revolution, Pearson Education, 2002
-4. Sandeep Chatterjee and James Webber, Developing Enterprise Web Services: An Architect's Guide, Prentice Hall, 2004
-5. Eric Newcomer and Greg Lomow, Understanding SOA with Web Services, Pearson Education, 2005
+3. Frank P.Coyle, XML, Web Services and the Data Revolution, Pearson Education, 2002.
+4. Sandeep Chatterjee and James Webber, Developing Enterprise Web Services: An Architect's Guide, Prentice Hall, 2004.
+5. Eric Newcomer and Greg Lomow, Understanding SOA with Web Services, Pearson Education, 2005.
 
