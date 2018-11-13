@@ -18,13 +18,13 @@
 
 {{{unit}}}
 |Unit I | OO FUNDAMENTALS | 9 |
-Introduction to OOAD – Defining Software Process – Defining Models - Unified  Process and Phases – Agile  development - 
-Case Study of OOAD - Requirement Process - Use Cases - Object Oriented Development Cycle - UML: Fundamentals and Notations
+Introduction to OOAD -- Defining Software Process -- Defining Models -- Unified  Process and Phases -- Agile  development -- 
+Case Study of OOAD -- Requirement Process -- Use Cases -- Object Oriented Development Cycle -- UML: Fundamentals and Notations
 
 {{{unit}}}
 |Unit II | UML DIAGRAMS| 9 |
-UML diagrams – Use Case Modeling  –  Domain Models - Finding conceptual classes and description classes –  
-Domain model refinement – Finding conceptual class Hierarchies - Aggregation and Composition - Class Diagrams– 
+UML diagrams -- Use Case Modeling  --  Domain Models -- Finding conceptual classes and description classes --  
+Domain model refinement -- Finding conceptual class Hierarchies -- Aggregation and Composition - Class Diagrams– 
 Interaction Diagrams – Relationship between sequence diagrams and use cases- State Diagrams – Activity Diagrams – 
 Package Diagram - Logical architecture and refinement, Component and Deployment Diagrams.
 
