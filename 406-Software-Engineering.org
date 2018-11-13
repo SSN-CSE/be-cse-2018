@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
 - Identify the key activities in managing a software project and choose an appropraite process model(K2).
 - Perform requirements engineering and Analysis Modeling(K3).
 - Apply systematic procedure for software design and deployment(K3).
-- Compare and contrast the various testing and maintenance(K3).
+- Compare and contrast the various testing and maintenance(K4).
 - Manage project schedule, estimate project cost and effort required(K3).
       
 ** Text Books
