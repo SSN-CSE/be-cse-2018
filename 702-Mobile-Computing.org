@@ -10,16 +10,20 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+The student should be made to:
+- Understand the basic concepts of mobile computing
+- Be familiar with the network protocol stack
+- Learn the basics of mobile telecommunication system
+- Be exposed to Ad-Hoc networks
+- Gain knowledge about different mobile platforms and application development Environments
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
+|Unit I | Introduction | 9 |
+Mobile Computing: Mobile Computing Vs wireless Networking – Mobile Computing Applications – Characteristics of Mobile computing – Structure of Mobile Computing Application; MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
-
+|Unit II | Mobile Internet Protocol and Transport Layer | 9 |
+Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and encapsulation – Optimizations;  Traditional TCP – Classical TCP improvements: Classical TCP improvements -   Indirect - Snooping - Mobile TCP - Fast retransmit/fast recovery - Transmission/time-out freezing - Selective retransmission -Transaction-oriented TCP.
 {{{unit}}}
 |Unit III | <Title> | <Hours> |
 
