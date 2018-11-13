@@ -1,7 +1,7 @@
 * <<<PE306>>> LOGIC IN COMPUTER SCIENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. R. S. Milton
-:date: 
+:date: 13 November 2018
 :end:
 
 #+startup: showall
@@ -49,7 +49,7 @@ After the completion of this course, students will be able to:
 - Specify and Verify simple systems using NuSMV(K3).
 - Use Natural Deduction for modal logic theories(K3).
 
-**References:
+** References:
 1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and Reasoning about systems'', Second Edition, Cambridge University Press, 2004. (Units I,II,III and V)
 2. Uwe Schoning ``Logic for Computer Scientists’’, Birkhauser , 1989 (Units I,II,IV)
 3. M. Ben-Ari, ``Mathematical logic for computer science'', Second Edition, Springer, 2003.
