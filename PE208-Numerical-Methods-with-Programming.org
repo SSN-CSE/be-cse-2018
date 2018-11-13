@@ -11,13 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand Programming
 
 {{{unit}}}
 |Unit I | COMPUTATIONAL – TECHNIQUES | 7 |
-C Programming:
-Algorithms, effective procedures in problem solving, flowcharts, pseudo-code.
+C Programming: Algorithms, effective procedures in problem solving, flowcharts, pseudo-code.
 C Preliminaries:
 Data types, constants, variables, type specification statements, operators and expressions, Library functions simple C programmes.
 Control Structures:
