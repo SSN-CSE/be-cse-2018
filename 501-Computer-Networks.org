@@ -6,9 +6,11 @@
 :end:
  # Edited by SVJ
 #+startup: showall
- {{{credits}}}
+
+{{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+ 
  ** Course Objectives
 - To have a basic knowledge of the concepts and techniques of machine
   learning.
@@ -17,36 +19,36 @@
 - To understand the various components required to build different networks.
 - To learn the functions of network layer and the various routing protocols.
 - To familiarize the functions and protocols of the Transport layer.
- {{{unit}}}
-|Unit I | <Title> | <Hours> |
- {{{unit}}}
+
+{{{unit}}}
 |Unit I |Introduction and Physical Layer|9| 	
 Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP Protocol suite -- OSI Model;
 Physical Layer: Performance -- Transmission media -- Switching -- Circuit-switched Networks -- Packet Switching
- {{{unit}}}
-|Unit II | <Title> | <Hours> |
+
+{{{unit}}}
 |Unit II | Date-Link Layer and Media Access | 9 |
 Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer Protocols -- HDLC
 -- PPP -- Media Access Control -- Wired LANs: Ethernet -- Wireless LANs -- Introduction --
 IEEE 802.11 -- Bluetooth -- Connecting Devices
- {{{unit}}}
-|Unit III | <Title> | <Hours> |
+
+{{{unit}}}
 |Unit III | Network Layer | 9 |
 Network Layer Services -- Packet switching -- Performance -- IPV4 Addresses -- Forwarding
 of IP Packets;  Network Layer Protocols: IP -- ICMP v4 -- Unicast Routing Algorithms --
 Protocols -- Multicasting Basics -- IPV6 Addressing -- IPV6 Protocol.
- {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+
+{{{unit}}}
 |Unit IV | Transport Layer | 9 |
 Introduction: Transport Layer Protocols -- Services -- Port Numbers -- User Datagram
 Protocol -- Transmission Control Protocol -- SCTP
- {{{unit}}}
-|Unit V | <Title> | <Hours> |
+
+{{{unit}}}
 |Unit V | Application Layer | 9 |
 WWW and HTTP -- FTP -- Email --Telnet -- SSH -- DNS -- SNMP
  \hfill *Total: <Total Hours>*
 \hfill *Total: <45>*
- ** Course Outcomes
+
+** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
 - Understand the basic layers and its functions in computer networks.(K2)
