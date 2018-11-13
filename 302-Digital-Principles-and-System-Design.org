@@ -21,7 +21,7 @@
 
 |Unit I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
 Number Systems - Arithmetic Operations - Binary Codes- Boolean Algebra and Logic Gates - Theorems and Properties of Boolean Algebra - Boolean Functions - Canonical and Standard Forms - Simplification of Boolean Functions using Karnaugh Map - Logic Gates –
-NAND and NOR Implementations
+NAND and NOR Implementations.
 
 
 |Unit II | COMBINATIONAL LOGIC | 9 |
@@ -29,7 +29,7 @@ Combinational Circuits – Analysis and Design Procedures - Binary Adder-Subtrac
 
 
 |Unit III | MEMORY AND PROGRAMMABLE LOGIC | 9 |
-RAM – Memory Decoding – Error Detection and Correction - ROM - Programmable Logic Array – Programmable Array Logic – Sequential Programmable Devices
+RAM – Memory Decoding – Error Detection and Correction - ROM - Programmable Logic Array – Programmable Array Logic – Sequential Programmable Devices.
 
 
 |Unit IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
@@ -45,11 +45,11 @@ Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Simplify Boolean functions using KMap. (K3) 
-- Analyze and design Combinational Circuits. (K4) 
-- Analyze and design Sequential Circuits. (K4)
-- Understand various memories and implement Boolean functions using Programmable Logic Devices. (K3)
-- Write HDL code for combinational and Sequential Circuits. (K3)
+- Simplify Boolean functions using KMap (K3). 
+- Analyze and design Combinational Circuits (K4). 
+- Analyze and design Sequential Circuits (K4).
+- Understand various memories and implement Boolean functions using Programmable Logic Devices (K3).
+- Write HDL code for combinational and Sequential Circuits (K3).
 
 ** Text Books
 1. M. Morris R. Mano, Michael D. Ciletti, "Digital Design: With an Introduction to the Verilog HDL, VHDL, and SystemVerilog", 6th Edition, Pearson Education, 2017.
