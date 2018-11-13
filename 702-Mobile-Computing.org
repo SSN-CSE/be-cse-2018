@@ -24,21 +24,41 @@ Mobile Computing: Mobile Computing Vs wireless Networking – Mobile Computing A
 {{{unit}}}
 |Unit II | Mobile Internet Protocol and Transport Layer | 9 |
 Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and encapsulation – Optimizations;  Traditional TCP – Classical TCP improvements: Classical TCP improvements -   Indirect - Snooping - Mobile TCP - Fast retransmit/fast recovery - Transmission/time-out freezing - Selective retransmission -Transaction-oriented TCP.
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | Mobile Telecommunication System | 9 |
+Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS) – Universal Mobile Telecommunication System (UMTS): UMTS system architecture -UTRAN - Core network – Handover.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | Mobile Adhoc Networks | 9 |
+AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV , Hybrid routing –ZRP, Multicast Routing- ODMRP, Vehicular Ad Hoc networks ( VANET) –MANET Vs VANET – Security.
 
+{{{unit}}}
+|Unit V | Mobile Platforms and Application Environments | 9 |
+iOS – Android – Windows Phone – Mobile Web – Platform-in-Platform – Future of Mobile Platforms
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Explain the basics of mobile telecommunication system
+- Choose the required functionality at each layer for given application
+- Identify solution for each functionality at each layer
+- Use simulator tools and design Ad hoc networks
+- Develop a mobile application.
+
+** Text Books
+1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.
+2.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.	Prasant Kumar Pattnaik, Rajib Mall, “Fundamentals of Mobile Computing”, PHI Learning Pvt. Ltd, New Delhi – 2012.
+2.	Dharma Prakash Agarval, Qing and An Zeng, "Introduction to Wireless and Mobile systems", Thomson Asia Pvt Ltd, 2005.
+3.	Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober, “Principles of Mobile Computing”, Springer, 2003.
+4.	William.C.Y.Lee,“Mobile Cellular Telecommunications-Analog and Digital Systems”, Second Edition,Tata Mc Graw Hill Edition ,2006.
+5.	C.K.Toh, “AdHoc Mobile Wireless Networks”, First Edition, Pearson Education, 2002.
+6.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers
+7.	Android Developers : http://developer.android.com/index.html
+8.	Apple Developer : https://developer.apple.com/
+9.	Windows Phone Dev Center : http://developer.windowsphone.com
+10.	BlackBerry Developer : http://developer.blackberry.com/
