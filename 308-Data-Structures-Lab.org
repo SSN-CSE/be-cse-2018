@@ -17,7 +17,7 @@
 - Learn the introductory concepts of hashing techniques
 
 
-{{{Lab Experiments}}}
+Lab Experiments
 1.	Array implementation of List ADT
 2.	Implement singly and doubly linked list ADTs
 3.	Represent a polynomial as a linked list and write functions for polynomial addition.
