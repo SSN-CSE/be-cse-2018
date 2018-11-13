@@ -1,6 +1,7 @@
 * <<<708>>> GRAPHICS AND MULTIMEDIA LAB
 :properties:
 :author: Ms. S. Lakshmi Priya and Mr. N. Sujaudeen
+:date:13-11-18
 :end:
 
 #+startup: showall
@@ -10,31 +11,39 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- Understand graphics programming in OpenGL using OpenGL and GLUT frameworks
+- Implement algorithms for line and circle drawing
+- Apply 2D, 3D transformations and clipping on objects
+- Learn to draw 3D objects and apply projection techniques
+- Explore image manipulation and enhancement techniques
+- Create 3D animation using Blender tool
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+** List of Experiments
+1. Study of Basic output primitives in OpenGL
+2. Implementation of Algorithms for drawing 2D Primitives –
+  a) Line (DDA, Bresenham) - all slopes   
+  b) Circle (Midpoint)
+3. 2D Geometric transformations –  Translation, Rotation, Scaling, Reflection and Shear
+4. 2D Composite Transformations and Window to viewport mapping
+5. Implementation of Line clipping algorithm
+6. 3D Geometric Transformations - Translation, Rotation and Scaling
+7. 3D Projections - Parallel and Perspective projection
+8. Image Editing and Manipulation - 
+   a) Basic Operations on image like applying masks, filters, adding/removing noise
+   b) Creating gif animated images
+9. Creation of a simple 2D animation
+10. Creation of a simple 3D animation
 
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Demonstrate drawing of basic output primitives (line and circle) using algorithms and hence draw complex shapes using them (K3)
+- Illustrate basic, composite transformations and clipping on 2 dimensional objects (K2)
+- Apply transformations and projections on 3 dimensional objects and construct any scene with features including lighting, textures, shadows, changing camera angles (K6)
+- Illustrate basic operations on images, create GIF animated images and 2D animation sequence (K6)
+- Create simple 3D animation (K6) 
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+** Requirements for a batch of 30 students
+* Hardware: Standalone desktops - 30 Nos (or) Server supporting 30 terminals or more.
+* Software: C/C++/Java, OpenGL, Any image manipulation software, Any 3D animation software
