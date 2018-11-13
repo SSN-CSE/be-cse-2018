@@ -64,5 +64,4 @@ After the completion of this course, students will be able to:
 Software, Addison Wesley, 1995.
 3. Martin Fowler, ―UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third edition, Addison Wesley, 2003.
 4. Srinivasan Desikan and Gopalaswamy Ramesh, ― Software Testing Principles and Practices, Pearson Education, 2006.
-5. Aditya P. Mathur, Foundations of Software Testing - Fundamental Algorithms and Techniques, Dorling Kindersley 
-(India) Pvt. Ltd., Pearson Education, 2008.
+5. Aditya P. Mathur, Foundations of Software Testing - Fundamental Algorithms and Techniques, Dorling Kindersley (India) Pvt. Ltd., Pearson Education, 2008.
