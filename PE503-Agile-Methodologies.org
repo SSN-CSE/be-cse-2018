@@ -43,18 +43,20 @@ Agile Product Development –- Agile Metrics –- Feature Driven Development (FD
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Realize the importance of interacting with business stakeholders in determining the requirements for a software system
-- Perform iterative software development processes: how to plan them, how to execute them.
-- Point out the impact of social aspects on software development success.
-- Develop techniques and tools for improving team collaboration and software quality.
-- Perform Software process improvement as an ongoing task for development teams.
-- Show how agile approaches can be scaled up to the enterprise level.
+- Realize the importance of interacting with business stakeholders in determining the requirements for a software system (K2).
+- Perform iterative software development processes: how to plan them, how to execute them (K3).
+- Point out the impact of social aspects on software development success (K2).
+- Perform Software process improvement as an ongoing task for development teams (K3).
+- Show how agile approaches can be scaled up to the enterprise level (K3).
 
 
 ** Text Books
-1. David J. Anderson and Eli Schragenheim, Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results, Prentice Hall, 2003.
-2. Hazza and Dubinsky, Agile Software Engineering, Series: Undergraduate Topics in Computer Science, Springer, 2009.
+1. David J. Anderson and Eli Schragenheim, ``Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results'', Prentice Hall, 2003.
+2. Hazza and Dubinsky, ``Agile Software Engineering, Series: Undergraduate Topics in Computer Science'', Springer, 2009.
 	
 ** References
-1. Craig Larman, Agile and Iterative Development: A Manager's Guide, Addison-Wesley, 2004.
-2. Kevin C. Desouza, Agile Information Systems: Conceptualization, Construction, and Management, Butterworth-Heinemann, 2007.
+1. Craig Larman, ``Agile and Iterative Development: A Manager's Guide'', Addison-Wesley, 2004.
+2. Kevin C. Desouza, ``Agile Information Systems: Conceptualization, Construction, and Management'', Butterworth-Heinemann, 2007.
+3. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), ``Agile Software Development, Current Research and Future Directions'', Springer-Verlag Berlin Heidelberg, 2010.
+4. Crowder JA, Friess S. Systems engineering agile design methodologies. Springer Science & Business Media; 2013 Feb 26.
+5. Rubin KS. Essential Scrum: A practical guide to the most popular Agile process. Addison-Wesley, 2012.
