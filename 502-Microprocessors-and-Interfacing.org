@@ -43,7 +43,7 @@ Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins Ports and C
 |Unit V | INTERFACING MICROCONTROLLER | 9 |
 Programming 8051 Timers -- Serial Port Programming -- Interrupts Programming -- LCD & Keyboard Interfacing -- ADC, DAC & Sensor Interfacing -- External Memory Interface -- Stepper Motor and Waveform generation -- Comparison of Microprocessor, Microcontroller, PIC and ARM processors
 
-*Total: 45*
+*Total: 45 hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
