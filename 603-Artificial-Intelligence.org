@@ -63,7 +63,7 @@ After the completion of this course, students will be able to:
 4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition (2017)
 5. Deepak Khamni "A First Course in Artificial Intelligence", McGraw Hill, 2014
 
-**Lab Exercises:
+** Lab Exercises:
 1. Implementation of Uninformed Search Techniques
 2. Implementation of Informed Search Techniques
 3. Implementation of Hill Climbing algorithms
