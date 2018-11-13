@@ -25,28 +25,27 @@ Case Study of OOAD -- Requirement Process -- Use Cases -- Object Oriented Develo
 |Unit II | UML DIAGRAMS| 9 |
 UML diagrams -- Use Case Modeling  --  Domain Models -- Finding conceptual classes and description classes --  
 Domain model refinement -- Finding conceptual class Hierarchies -- Aggregation and Composition -- Class Diagrams -- 
-Interaction Diagrams – Relationship between sequence diagrams and use cases- State Diagrams – Activity Diagrams – 
-Package Diagram - Logical architecture and refinement, Component and Deployment Diagrams.
+Interaction Diagrams -- Relationship between sequence diagrams and use cases -- State Diagrams -- Activity Diagrams -- 
+Package Diagram -- Logical architecture and refinement -- Component and Deployment Diagrams.
 
 {{{unit}}}
 
 |Unit III | DESIGN PATTERNS | 9 |
-GRASP: Designing objects with responsibilities – Creator – Information expert – Low Coupling – High Cohesion – Controller - 
-Design Patterns – creational - factory method - structural – Bridge – Adapter - behavioral – Strategy – observer -  
+GRASP: Designing objects with responsibilities -- Creator -- Information expert -- Low Coupling -- High Cohesion -- Controller -- Design Patterns -- creational -- factory method -- structural -- Bridge -- Adapter -- behavioral -- Strategy -- observer --  
 Applying GoF design patterns.
 
 {{{unit}}}
 
 |Unit IV | OO Implementation | 9 |
-Mapping design to code – Creating Class Definitions from Design Class Diagram – Creating Methods from Collaboration Diagram - 
-Updating Class Definitions - Classes in Code – Exception and Error Handling.
+Mapping design to code -- Creating Class Definitions from Design Class Diagram -- Creating Methods from Collaboration Diagram -- 
+Updating Class Definitions -- Classes in Code -- Exception and Error Handling.
 
 {{{unit}}}
 
 |Unit V | OO Testing and Maintenance | 9 |
-Testing:   Strategic   Approach   to   software   Testing - Strategic   Issues -  Strategies  for  Conventional  Software,  
-Object  oriented  software,  Web Apps - OO Testing – System Testing - Art of Debugging - Software  Maintenance – 
-Reengineering - Reverse  Engineering - Forward Engineering 
+Testing:   Strategic   Approach   to   software   Testing -- Strategic   Issues --  Strategies  for  Conventional  Software,  
+Object  oriented  software,  Web Apps -- OO Testing -- System Testing -- Art of Debugging -- Software  Maintenance -- 
+Reengineering -- Reverse  Engineering -- Forward Engineering 
 
 
 \hfill *Total: 45*
