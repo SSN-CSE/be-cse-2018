@@ -11,31 +11,38 @@
 | 0 | 0 | 4 | 2 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+- Understand and apply suitable data structure – linear and non linear
+- Design the data structure for the given problem and implement them in a high level programming language
+- Understand the concepts and differences in searching and sorting techniques
+- Learn the introductory concepts of hashing techniques
 
 
-\hfill *Total: <Total Hours>*
+{{{Lab Experiments}}}
+1.	Array implementation of List ADT
+2.	Implement singly and doubly linked list ADTs
+3.	Represent a polynomial as a linked list and write functions for polynomial addition.
+4.	Array implementation of Stack and Queue ADTs
+5.	Linked list implementation of Stack and Queue ADTs
+6.	Convert infix to postfix expression and evaluate using Stack ADT 
+7.	Implement a double-ended queue (Deque) where insertion and deletion operations are possible at both the ends
+8.	Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
+9.	Implement binary search tree
+10.	Implement AVL trees
+11.	Implement priority queue using binary heaps
+12.	Graph representation and implement traversal algorithms
+13.	Implement Dijkstra's algorithm using graph 
+14.	Implement Binary search, Insertion sort and Quick sort 
+15.	Implement hashing with separate chaining 
+
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Write functions to implement linear and non-linear data structure operations  
+- Suggest and use appropriate linear / non-linear data structure operations for solving a given problem 
+- Gain practical experience in analyzing the real time problems or applications (K3)
+- Apply appropriate hash functions that result in a collision free scenario for data storage and retrieval (K3)
+
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
