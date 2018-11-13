@@ -59,7 +59,7 @@ After the completion of this course, students will be able to:
 - Plan, execute and design test cases for the given case study (K3).
       
 ** Text Book
-1. 1. Larman, Craig., Applying UML and Patterns, Pearson Education Asia, 2008.
+1. Larman, Craig., Applying UML and Patterns, Pearson Education Asia, 2008.
 2. Ali Bahrami, Object Oriented Systems Development, McGraw Hill International Edition, 1999.
 
 ** References
