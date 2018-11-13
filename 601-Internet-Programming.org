@@ -10,8 +10,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand different client and server side technologies
+- To develop interactive web application
+- To be exposed to recent client and server side technologies
 
 {{{unit}}}
 |Unit I | Web Essentials | 9 |
@@ -37,7 +38,18 @@ Basic XML – XML Schema – XSLT Transformation – XML Parsers – DOM and SAX
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Design a basic website using HTML and Cascading Style Sheets  (K3)
+- Design and implement dynamic web page with JavaScript and DOM (K3)
+- Develop MVC based web application using PHP                   (K3)
+- Design rich client presentation using AJAX and to present data in XML format (K3)
+- Develop MVC based web application using AngularJS and NodeJS  (K3)
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+Text Books
+1. Jeffrey C and Jackson, “Web Technologies A Computer Science Perspective”, Pearson Education, 2011.
+2. Deitel and Deitel and Nieto, “Internet and World Wide Web - How to Program”, Prentice Hall, 5th Edition, 2011.
+Reference Books
+1. Brian P. Hogan, “HTML5 and CSS3 Develop with Tomorrow’s Standards Today”, SPD Pvt. Ltd, 2011.
+2. Brad Green and Shyam Seshadri, “AngularJS”, O’Reilly Media, Inc., First Edition, 2013.
+3. Tom Hughes-Crouchers and Mike Wilson, “Node: Up and Running”, O’Reilly Media, Inc., First Edition, 2012.
+4. http://www.w3schools.com/
