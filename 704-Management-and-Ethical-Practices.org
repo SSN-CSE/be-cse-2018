@@ -10,31 +10,46 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To train basic and applied fields of Management
+- To improve the Managerial skills 
+- To prepare the students on the functional areas of Management, and analytical skills
+- To prepare the students to expose to the management world.
+- To enable the students to create an awareness on Engineering Ethics and Human Values
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | OVERVIEW OF MANAGEMENT & PLANNING | 9 |
+Organization - Role of managers - Evolution of Management thought - - Managing globally - Strategies for International Business. Planning process - Types of plans – Decision Making - Types of decision - Decision making Process - Rational Decision Making Process -Decision Making under different conditions.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | ORGANIZING AND DIRECTING | 9 |
+Nature and purpose of organizing - -Line and Staff authority -Departmentation- -Centralization and Decentralization -Delegation of authority -Staffing -Selection and Recruitment -Orientation -Performance Appraisal. Motivation and Satisfaction -Motivation Theories Leadership -Leadership theories - Hurdles to effective communication
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | CONTROLLING | 9 |
+Process of controlling -Types of control -Budgetary and non-budgetary control techniques -Managing Productivity -Cost Control -Purchase Control -Maintenance Control -Quality Control -Planning operations.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | ETHICS IN ENGINEERING | 9 |
+Senses of ‗Engineering Ethics‘ – Variety of moral issues – Types of inquiry – Moral dilemmas – Moral Autonomy – Kohlberg‘s theory – Gilligan‘s theory – Consensus and Controversy – Models of professional roles - Theories about right action – Self-interest – Customs and Religion – Uses of Ethical Theories.
 
+{{{unit}}}
+|Unit V | SAFETY, RESPONSIBILITIES AND RIGHTS | 9 |
+Safety and Risk – Assessment of Safety and Risk – Risk Benefit Analysis and Reducing Risk - Respect for Authority – Collective Bargaining – Confidentiality – Conflicts of Interest – Occupational Crime – Professional Rights – Employee Rights – Intellectual Property Rights (IPR) – Discrimination.
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand basic and applied fields of Management
+- Understand Managerial skills 
+- Understand the functional areas of Management, and analytical skills
+- Understand Engineering Ethics and Human Values
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.Hellriegel, Slocum & Jackson, “ Management -A Competency Based Approach”, Thomson South W estern, 10th edition, 2007.
+2.Harold Koontz, Heinz Weihrich and Mark V Cannice,”'Management-A global & Entrepreneurial Perspective”, Tata Mcgraw Hill, 12th edition, 2007.
+3. Stephen P. Robbins and Mary Coulter, “Management”, Prentice Hall of India,8th edition. 
+4. Charles W L Hill,Steven L McShane,”Principles of Management”, Mcgraw HillEducation, Special Indian Edition, 2007.
+5. Mike W. Martin and Roland Schinzinger, ―Ethics in Engineering‖, Tata McGraw Hill, New Delhi, 2003. 
+6. Govindarajan M, Natarajan S, Senthil Kumar V. S, ―Engineering Ethics‖, Prentice Hall of India, New Delhi, 2004. 
