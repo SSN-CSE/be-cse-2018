@@ -6,31 +6,36 @@
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn the architecture and programming of ARM processor.
+- To become familiar with the embedded computing platform design and analysis.
+- To get thorough knowledge in interfacing concepts.
+- To design an embedded system and to develop programs
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | INTRODUCTION TO EMBEDDED COMPUTING AND ARM PROCESSORS  | 9 |
+Complex systems and micro processors– Embedded system design process –Design example: Model train controller- Instruction sets preliminaries - ARM Processor – CPU: programming input and output- supervisor mode, exceptions and traps – Co-processors- Memory system
+mechanisms – CPU performance- CPU power consumption. 
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | EMBEDDED COMPUTING PLATFORM DESIGN  | 9 |
+The CPU Bus-Memory devices and systems–Designing with computing platforms – consumer electronics architecture – platform-level performance analysis - Components for embedded programs- Models of programs- Assembly, linking and loading – compilation techniques- Program level performance analysis – Software performance optimization – Program level energy and power analysis and optimization – Analysis and optimization of program size- Program validation and testing.
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | SENSOR INTERFACING WITH ARDUINO | 9 |
+Basics of hardware design and functions of basic passive components-sensors and actuatorsArduino code - library file for sensor interfacing-construction of basic applications
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | EMBEDDED FIRMWARE  | 9 |
+Reset Circuit, Brown-out Protection Circuit-Oscillator Unit - Real Time Clock-Watchdog Timer -
+Embedded Firmware Design Approaches and Development Languages.
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | EMBEDDED C PROGRAMMING  | 9 |
+Introduction-Creating ‗hardware delays‘ using Timer 0 and Timer 1-Reading switches-Adding Structure to the code-Generating a minimum and maximum delay-Example: Creating a portable hardware delay- Timeout mechanisms-Creating loop timeouts-Testing loop timeouts- hardware
+timeouts-Testing a hardware timeout
 
 
-\hfill *Total: <Total Hours>*
+*Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
