@@ -6,50 +6,65 @@
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To design digital circuits using simplified Boolean functions 
+- To analyze and design combinational circuits 
+- To analyze and design synchronous and asynchronous sequential circuits 
+- To understand Programmable Logic Devices 
+- To write HDL code for combinational and sequential circuits
 
-{{{unit}}}
+
+
 |Unit I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
 Number Systems - Arithmetic Operations - Binary Codes- Boolean Algebra and Logic Gates
 - Theorems and Properties of Boolean Algebra - Boolean Functions - Canonical and
 Standard Forms - Simplification of Boolean Functions using Karnaugh Map - Logic Gates –
 NAND and NOR Implementations
 
-{{{unit}}}
+
 |Unit II | COMBINATIONAL LOGIC | 9 |
 Combinational Circuits – Analysis and Design Procedures - Binary Adder-Subtractor -
 Decimal Adder - Binary Multiplier - Magnitude Comparator - Decoders – Encoders –
 Multiplexers - Introduction to HDL – HDL Models of Combinational circuits. 
 
-{{{unit}}}
+
 |Unit III | MEMORY AND PROGRAMMABLE LOGIC | 9 |
 RAM – Memory Decoding – Error Detection and Correction - ROM - Programmable Logic
 Array – Programmable Array Logic – Sequential Programmable Devices
 
-{{{unit}}}
+
 |Unit IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 
 Sequential Circuits - Storage Elements: Latches , Flip-Flops - Analysis of Clocked
 Sequential Circuits - State Reduction and Assignment - Design Procedure - Registers and
 Counters - HDL Models of Sequential Circuits.
 
-{{{unit}}}
+
 |Unit V | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 
 Analysis and Design of Asynchronous Sequential Circuits – Reduction of State and Flow
 Tables – Race-free State Assignment – Hazards.
 
-\hfill *Total: 45*
+Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Simplify Boolean functions using KMap. (K3) 
+- Analyze and design Combinational Circuits. (K4) 
+- Analyze and design Sequential Circuits. (K4)
+- Understand various memories and implement Boolean functions using Programmable Logic Devices. (K3)
+- Write HDL code for combinational and Sequential Circuits. (K3)
+
+** Text Books
+1. M. Morris R. Mano, Michael D. Ciletti, "Digital Design: With an Introduction to the Verilog HDL, VHDL, and SystemVerilog", 6th Edition, Pearson Education, 2017.
+2. S.Salivahanan, S.Arivazhagan, "Digital Circuits and Design", fifth edition, Oxford University Press, 2018.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.G. K. Kharate, "Digital Electronics", Oxford University Press, 2010
+2.John F. Wakerly, "Digital Design Principles and Practices", Fifth Edition, Pearson Education, 2017.
+3.Charles H. Roth Jr, Larry L. Kinney,"Fundamentals of Logic Design", Sixth Edition,CENGAGE Learning, 2013
+4.Donald D. Givone,"Digital Principles and Design", Tata Mc Graw Hill, 2003. 
