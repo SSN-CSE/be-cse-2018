@@ -61,15 +61,13 @@ After the completion of this course, students will be able to:
 -	Design the 8086 interfaces with memory, I/O and other peripheral chips.  ( K3)
 -	Understand the basic architecture and operation of microcontroller 8051 ( K2)
 -	Apply programming concepts to implement microcontroller interfaces for different applications. (K3)
- ** Text Books
- 1. Doughlas V.Hall, ?Microprocessors and Interfacing, Programming and
-Hardware?,TMH,2012
- 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, ?The 8051 Microcontroller and
-Embedded Systems: Using Assembly and C?, Second Edition, Pearson education, 2011. 
- ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern 
 
-Recognition Series, 2014.
+ ** Text Books
+ 1. Doughlas V.Hall, Microprocessors and Interfacing, Programming and Hardware,TMH,2012
+ 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, The 8051 Microcontroller and Embedded Systems: Using Assembly and C, Second Edition, Pearson education, 2011. 
+ 
+ ** References
+
 1. Yu-Cheng Liu, Glenn A.Gibson, ?Microcomputer Systems: The 8086 / 8088 Family -
  Architecture, Programming and Design?, Second Edition, Prentice Hall of India, 2007. 
  
