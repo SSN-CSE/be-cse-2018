@@ -16,7 +16,7 @@
 - Apply 2D, 3D transformations and clipping on objects
 - Learn to draw 3D objects and apply projection techniques
 - Explore image manipulation and enhancement techniques
-- Create 3D animation using Blender tool
+- Create 3D animation using any tool
 
 ** List of Experiments
 1. Study of Basic output primitives in OpenGL
@@ -45,5 +45,5 @@ After the completion of this course, students will be able to:
 - Create simple 3D animation (K6) 
       
 ** Requirements for a batch of 30 students
-* Hardware: Standalone desktops - 30 Nos (or) Server supporting 30 terminals or more.
-* Software: C/C++/Java, OpenGL, Any image manipulation software, Any 3D animation software
+*** Hardware: Standalone desktops - 30 Nos (or) Server supporting 30 terminals or more.
+*** Software: C/C++/Java, OpenGL, Any image manipulation software, Any 3D animation software
