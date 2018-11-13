@@ -12,11 +12,11 @@
 
 ** Course Objectives
 The student should be made to: 
-•	Learn the key aspects of managerial process in Software organization.
-•	Apply the practices followed in project planning, estimation, and scheduling
-•	Gain knowledge of the overall project activities in Agile and Devops
-•	Study the various issues in people management
-•	Distinguish between security and risk activities related with software development 
+1. Learn the key aspects of managerial process in Software organization.
+2. Apply the practices followed in project planning, estimation, and scheduling
+3. Gain knowledge of the overall project activities in Agile and Devops
+4. Study the various issues in people management
+5. Distinguish between security and risk activities related with software development 
 
 {{{unit}}}
 |Unit I | PROJECT PLANNING| 9 |
@@ -40,11 +40,11 @@ Visualizing Progress – Relationship between people and effort, Task Set & Netw
 
 ** Course Outcomes
 Upon completion of the course, the student should be able to:
-•	Select a process model for software development.(K2)
-•	Estimate cost to manage the software development (K3)
-•	Develop a project using agile and devops software development practices(K3)
-•	Identify the activities of security and risk in various types of software projects(K1)
-•	Recognize management skills and techniques to develop commercial software projects(K2)  
+1. Select a process model for software development.(K2)
+2. Estimate cost to manage the software development (K3)
+3. Develop a project using agile and devops software development practices(K3)
+4. Identify the activities of security and risk in various types of software projects(K1)
+5. Recognize management skills and techniques to develop commercial software projects(K2)  
 
       
 ** Text Books
