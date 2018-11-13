@@ -11,30 +11,53 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn fundamentals of XML.
+- To provide an overview of Service Oriented Architecture and Web services and their importance.
+- To learn web services standards and technologies.
+- To learn service oriented analysis and design for developing SOA based applications. 
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|XML|9| 
+XML document structure -- Well-formed and valid documents -- DTD –- XML Schema –- Parsing XML using DOM -- SAX –- XPath -- XML Transformation and XSL –- Xquery.
+
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II |SERVICE ORIENTED ARCHITECTURE (SOA) BASICS|9| 
+Characteristics of SOA -- Benefits of SOA -- Comparing SOA with Client -- Server and Distributed architectures -- Principles of Service Orientation -– Service layers 
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III|WEB SERVICES (WS) AND STANDARDS|8| 
+Web Services Platform –- Service descriptions –- WSDL –- Messaging with SOAP –- Service discovery –- UDDI –- Service-Level Interaction Patterns –- Orchestration and Choreography 
+
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV| WEB SERVICES EXTENSIONS|8|
+WS-Addressing -- WS-ReliableMessaging -- WS-Policy –- WS-Coordination -– WS-Transactions -- WS-Security -- Examples .
+
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
-Valli
+|Unit V|SERVICE ORIENTED ANALYSIS AND DESIGN|11|
+SOA delivery strategies –- Service oriented analysis -– Service Modelling -– Service oriented design –- Standards and composition guidelines -- Service design –- Business process design –- Case Study.
 
-\hfill *Total: <Total Hours>*
+
+\hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+Upon the completion of the course the students should be able to: 
+- Understand XML technologies (K2)
+- Understand service orientation, benefits of SOA (K2).
+- Understand web services and WS standards (K2).
+- Use web services extensions to develop solutions (K3).
+- Understand and apply service modeling, service oriented analysis and design for application development(K3)
+
+
+** Text Books
+1. Thomas Erl, Service Oriented Architecture: Concepts, Technology, and Design, Pearson Education, 2005
+2. Sandeep Chatterjee and James Webber, Developing Enterprise Web Services: An Architect's Guide, Prentice Hall, 2004
+	
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew, Java Web Services Architecture, Elsevier, 2003.
+2. Ron Schmelzer et al.  XML and Web Services, Pearson Education, 2002.
+3. Frank P.Coyle, XML, Web Services and the Data Revolution, Pearson Education, 2002
+
