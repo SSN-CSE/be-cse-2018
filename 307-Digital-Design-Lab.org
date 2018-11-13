@@ -42,11 +42,24 @@
 10.	Design and implementation of a simple digital system (Mini Project).
 
 
-\hfill *Total: <Total Hours>*
+Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand basic gates and universal gates to design a digital circuit (K3).
+- Design and Implement various combinational circuits using logic gates (K3).
+- Design and Implement various combinational circuits using MSI devices (K3).
+- Design and Implement various sequential circuits (K3).
+- Simulate various combinational and sequential circuits using HDL (K3).
+
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+** LABORATORY REQUIREMENT FOR BATCH OF 30 STUDENTS HARDWARE:
+
+1.	Digital trainer kits  - 30
+
+2.	Digital ICs required for the experiments in sufficient numbers
+
+** SOFTWARE:
+
+1.	HDL simulator.
+
