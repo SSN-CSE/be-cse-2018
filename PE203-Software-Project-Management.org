@@ -11,30 +11,50 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+The student should be made to: 
+•	Learn the key aspects of managerial process in Software organization.
+•	Apply the practices followed in project planning, estimation, and scheduling
+•	Gain knowledge of the overall project activities in Agile and Devops
+•	Study the various issues in people management
+•	Distinguish between security and risk activities related with software development 
 
 {{{unit}}}
-|Unit I | <PROJECT PLANNING> | <9> |
+|Unit I | PROJECT PLANNING| 9 |
+Project management life cycle - project evaluation and programme management - project planning - project models : waterfall, spiral, prototyping, incremental delivery, DSDM, agile, scrum, XP, lean software development - process model selection.
+{{{unit}}}
+|Unit II | ESTIMATION AND SCHEDULING | 9 |
+Effort estimation techniques - Expert judgement - FPA - FP mark II - COSMIC- COCOMO II - cost estimation - project schedules - network model - identifying critical activities.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit III | AGILE AND DEVOPS | 9 |
+SCRUM - organization - estimation - planning - changes in scrum - risk in scrum - product backlog - sprint backlog - release - Identifying Stories and Preparing to Build - DevOps: Motivation - Cloud as a platform - Operations - Deployment Pipeline.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit IV | SECURITY AND RISK MANAGEMENT | 9 |
+Cloud Information Security Objectives - Cloud Security Services - Secure Development Practices - Risk culture - risk management process - risk attributes - risk identification - types of risk analysis - responding to risk - risk tracking - risk models.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
+|Unit V | MONITORING AND ORGANIZING TEAMS | 9 |
+Visualizing Progress – Relationship between people and effort, Task Set & Network - Earned Value Analysis - SCM - Managing Contracts – Working in teams - Developing metrics on a software development program - Evaluating performance.
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+Upon completion of the course, the student should be able to:
+•	Select a process model for software development.(K2)
+•	Estimate cost to manage the software development (K3)
+•	Develop a project using agile and devops software development practices(K3)
+•	Identify the activities of security and risk in various types of software projects(K1)
+•	Recognize management skills and techniques to develop commercial software projects(K2)  
+
       
+** Text Books
+1.	Bob Hughes, Mike Cotterell, Rajib Mall, “Software Project Management”, Sixth  Edition, Tata McGraw Hill, 2018.
+2.	Ravindranath Pandian, Applied Software Risk Management A Guide for Software Project Managers, Auerbach Publication, 2007
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.	Roger S. Pressman, “Software Engineering – A Practitioner’s Approach”, Seventh Edition, Mc Graw-Hill International Edition, 2010.  
+2.	Rajib Mall, Fundamentals of Software Engineering, 3rd edition, PHI Learning Pvt. Ltd., 2009.
+3.	A Guide to the Scrum Body of Knowledge (SBOK™ Guide) – 2016 edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
+4.	Len Bass, Ingo Weber and Liming Zhu, ―DevOps: A Software Architect‘s Perspective‖, Pearson Education, 2016.
+5.	Ronald L. Krutz, Russell Dean Vines, “Cloud Security – A comprehensive Guide to Secure Cloud Computing”, Wiley – India, 2010.
+
