@@ -40,7 +40,7 @@ Solution of algebraic and transcendental equations – Bisection method, Method 
 |Unit V | Numerical solution of differential equations | 9 |
 Euler’s method, Modified Euler method, Runge-Kutta 4th Order method, Taylor’s Series method, Finite difference methods for ordinary differential equations, Milne’s and Adam’s predictor and corrector methods
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
