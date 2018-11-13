@@ -51,7 +51,7 @@ After the completion of this course, students will be able to:
 -	Apply 8051 Assembly Language Programming concepts for arithmetic and logical operations (K3)
 
 
- ** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS
+** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS
  
 HARDWARE
 - 8086 development kits - 30 nos
