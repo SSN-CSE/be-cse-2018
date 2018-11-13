@@ -27,7 +27,7 @@
 6. Implementation of Shared memory and IPC
 7. Bankers Algorithm for Deadlock Avoidance
 8. Write C program to implement Threading & Synchronization Applications
-9.  Implementation of the following Memory Allocation Methods for fixed partition
+9.  Implementation of the following Memory Allocation Methods for variable sized partition
       a) First Fit      b) Worst Fit      c) Best Fit 
 10. Implementation of Paging Technique of Memory Management
 11. Implementation of the following Page Replacement Algorithms
@@ -41,12 +41,11 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Compare the performance of various CPU Scheduling Algorithms
-- Implement Deadlock avoidance and Detection Algorithms
-- Implement Semaphores
-- Create processes and implement IPC
-- Analyze the performance of the various Page Replacement Algorithms
-- Implement  File Organization and File Allocation Strategies
+- Analyze the performance of various CPU Scheduling Algorithms (K4)
+- Implement Deadlock avoidance and Detection Algorithms (K3)
+- Implement Semaphores and IPC (K3)
+- Analyze the performance of the various Page Replacement Algorithms (K4)
+- Implement  File Organization and File Allocation Strategies (K3)
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+** Requirements for a batch of 30 students
+Desktop with Unix/Linux with C/C++ for every student
