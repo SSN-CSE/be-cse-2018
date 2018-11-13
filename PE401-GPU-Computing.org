@@ -11,30 +11,47 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+-	To understand the basics of GPU architectures.
+- To write programs for massively parallel processors.
+- To understand the issues in mapping algorithms for GPUs.
+-	To introduce different GPU programming models. 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | GPU ARCHITECTURE | 12 |
+Evolution of GPU architectures - Understanding Parallelism with GPU –Typical GPU Architecture - CUDA Hardware Overview - Threads, Blocks, Grids, Warps, Scheduling - Memory Handling with CUDA: Shared Memory, Global Memory, Constant Memory and Texture Memory. 
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | CUDA  PROGRAMMING | 8 |
+Using CUDA - Multi GPU - Multi GPU Solutions - Optimizing CUDA Applications: Problem Decomposition, Memory Considerations, Transfers, Thread Usage, Resource Contentions.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | PROGRAMMING ISSUES  | 8 |
+Common Problems: CUDA Error Handling, Parallel Programming Issues, Synchronization, Algorithmic Issues, Finding and Avoiding Errors. 
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | OPENCL BASICS | 8 |
+OpenCL Standard – Kernels  – Host Device Interaction  – Execution Environment – Memory Model – Basic OpenCL Examples.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | ALGORITHMS ON GPU | 9 |
+Parallel Patterns: Convolution, Prefix Sum, Sparse Matrix - Matrix Multiplication - Programming Heterogeneous Cluster. 
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+-	Describe GPU Architecture (K2)
+-	Write programs using CUDA, identify issues and debug them(K3)
+-	Implement efficient algorithms in GPUs for common application kernels, such as matrix multiplication(K3)
+-	Write simple programs using OpenCL(K3)
+-	Given a problem, identify efficient parallel programming patterns to solve it.(K3)
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Shane Cook, "CUDA Programming: A Developer's Guide to Parallel Computing with GPUs (Applications of GPU Computing)", First Edition, Morgan Kaufmann, 2012.
+2. David R. Kaeli, Perhaad Mistry, Dana Schaa, Dong Ping Zhang, "Heterogeneous computing with OpenCL", 3rd Edition, Morgan Kauffman, 2015.
+3. David B. Kirk, Wen-mei W. Hwu, "Programming Massively Parallel Processors - A Hands-on Approach", 3rd Edition, Morgan Kaufmann, 2016.
+4. Nicholas Wilt, "CUDA Handbook: A Comprehensive Guide to GPU Programming", Addison - Wesley, 2013.
+5. Jason Sanders, Edward Kandrot, "CUDA by Example: An Introduction to General Purpose GPU Programming", Addison - Wesley, 2010.
+6. http://www.nvidia.com/object/cuda_home_new.html	
+8. http://www.openCL.org
