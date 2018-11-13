@@ -19,6 +19,8 @@ The student should be made:
 - To understand the implications of AI and other trending concepts of robotics
 
 
+
+
 |Unit I | FOUNDATION FOR BEGINNERS | 9 |
 Introduction -- brief history, definition, anatomy, types, classification, specification and need based applications; role and need of robots for the immediate problems of the society, future of mankind and automation-ethical issues; industrial scenario local and global, case studies on mobile robot research platform and industrial serial arm manipulator 
 
