@@ -5,7 +5,7 @@
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
@@ -41,7 +41,7 @@ Peripherals and Interfacing Experiments
 15. Unpacked BCD to ASCII
 
 
-\hfill *Total: 45*
+ *Total: 45 hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -51,7 +51,7 @@ After the completion of this course, students will be able to:
 -	Apply 8051 Assembly Language Programming concepts for arithmetic and logical operations (K3)
 
 
-** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS
+** Lab equipment for a batch of 30 students
  
 HARDWARE
 - 8086 development kits - 30 nos
