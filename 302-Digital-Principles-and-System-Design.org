@@ -64,7 +64,7 @@ After the completion of this course, students will be able to:
 2. S.Salivahanan, S.Arivazhagan, "Digital Circuits and Design", fifth edition, Oxford University Press, 2018.
 
 ** References
-1.G. K. Kharate, "Digital Electronics", Oxford University Press, 2010
-2.John F. Wakerly, "Digital Design Principles and Practices", Fifth Edition, Pearson Education, 2017.
-3.Charles H. Roth Jr, Larry L. Kinney,"Fundamentals of Logic Design", Sixth Edition,CENGAGE Learning, 2013.
-4.Donald D. Givone,"Digital Principles and Design", Tata Mc Graw Hill, 2003. 
+1. G. K. Kharate, "Digital Electronics", Oxford University Press, 2010
+2. John F. Wakerly, "Digital Design Principles and Practices", Fifth Edition, Pearson Education, 2017.
+3. Charles H. Roth Jr, Larry L. Kinney,"Fundamentals of Logic Design", Sixth Edition,CENGAGE Learning, 2013.
+4. Donald D. Givone,"Digital Principles and Design", Tata Mc Graw Hill, 2003. 
