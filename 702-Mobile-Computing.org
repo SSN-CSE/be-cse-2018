@@ -37,7 +37,7 @@ AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV , Hyb
 |Unit V | Mobile Platforms and Application Environments | 9 |
 iOS – Android – Windows Phone – Mobile Web – Platform-in-Platform – Future of Mobile Platforms
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
