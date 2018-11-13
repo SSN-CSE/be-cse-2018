@@ -6,7 +6,7 @@
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
  
@@ -17,35 +17,35 @@
 - To study the Architecture of 8051 microcontroller.
 - To design a microcontroller based system
 
-{{{unit}}}
+
 
 |Unit I | THE 8086 MICROPROCESSOR | 9 |
 Introduction to 8086 -- Microprocessor architecture -- Addressing modes -- Instruction set and
 assembler directives -- Assembly language programming -- Stacks -- Procedures -- Macros -- Interrupts and interrupt service routines -- Byte and String Manipulation
  
-{{{unit}}}
+
 
 |Unit II | 8086 SYSTEM BUS STRUCTURE  | 9 |
 8086 signals -- Basic configurations -- System bus timing -- System design using 8086 -- I/O programming -- Introduction to Multiprogramming -- System Bus Structure -- Multiprocessor configurations -- Coprocessor, Closely coupled and loosely Coupled configurations -- Introduction to advanced processors.
  
- {{{unit}}}
+
 
 |Unit III | I/O INTERFACING | 9 |
 Memory Interfacing and I/O interfacing -- Parallel communication interface -- Serial communication interface -- D/A and A/D Interface -- Timer -- Keyboard /display controller -- Interrupt controller -- DMA controller -- Programming and applications Case studies: Traffic Light control, LED display, LCD display, Keyboard display interface and Alarm Controller.
 
- {{{unit}}}
+
 
 |Unit IV | THE 8051 MICROCONTROLLER | 9 |
 Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins Ports and Circuits -- Instruction set -- Addressing modes -- Assembly language programming
  
- {{{unit}}}
+
 
 |Unit V | INTERFACING MICROCONTROLLER | 9 |
 Programming 8051 Timers -- Serial Port Programming -- Interrupts Programming -- LCD & Keyboard Interfacing -- ADC, DAC & Sensor Interfacing -- External Memory Interface -- Stepper Motor and Waveform generation -- Comparison of Microprocessor, Microcontroller, PIC and ARM processors
 
-\hfill *Total: 45*
+*Total: 45*
 
- ** Course Outcomes
+** Course Outcomes
 After the completion of this course, students will be able to: 
 -	Understand the basic architecture, operation of microprocessor 8086 and apply the same for its programming. (K3)
 -	Understand  the basic and multiprocessor system design and its  bus timing (K2)
@@ -53,7 +53,7 @@ After the completion of this course, students will be able to:
 -	Understand the basic architecture and operation of microcontroller 8051 (K2)
 -	Apply programming concepts to implement microcontroller interfaces for different applications. (K3)
 
- ** Text Books
+** Text Books
  1. Doughlas V.Hall, Microprocessors and Interfacing, Programming and Hardware,TMH,2012
  2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, The 8051 Microcontroller and Embedded Systems: Using Assembly and C, Second Edition, Pearson education, 2011. 
  
