@@ -11,30 +11,50 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To provide students with a theoretical as well as practical understanding of agile software development practices and how small teams can apply them to create high-quality software.
+- To provide a good understanding of software design and a set of software technologies and APIs.
+- To do a detailed examination and demonstration of Agile development and testing techniques.
+- To understand the benefits and pitfalls of working in an Agile team.
+- To understand Agile development and testing. 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|AGILE METHODOLOGY|9| 
+Theories for Agile Management –- Agile Software Development –- Traditional Model vs. Agile Model -- Classification of Agile Methods –- Agile Manifesto and Principles -– Agile Project Management -– Agile Team Interactions –- Ethics in Agile Teams -- Agility in Design; Testing –- Agile Documentations –- Agile Drivers; Capabilities and Values.
+
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II |AGILE PROCESSES|9| 
+Lean Production -- SCRUM -- Crystal -- Feature Driven Development -- Adaptive Software Development -- Extreme Programming: Method Overview -– Lifecycle -– Work Products; Roles and Practices.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III|AGILITY AND KNOWLEDGE MANAGEMENT|9| 
+Agile Information Systems –- Agile Decision Making -- Earl'S Schools of KM –- Institutional Knowledge Evolution Cycle –- Development; Acquisition -- Refinement -- Distribution -- Deployment -- Leveraging –- KM in Software Engineering –- Managing Software Knowledge –- Challenges of Migrating to Agile Methodologies –- Agile Knowledge Sharing –- Role of Story-Cards –- Story-Card Maturity Model (SMM).
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV| AGILITY AND REQUIREMENTS ENGINEERING|9|
+Impact of Agile Processes in RE -– Current Agile Practices –- Variance –- Overview of RE Using Agile –- Managing Unstable Requirements –- Requirements Elicitation –- Agile Requirements Abstraction Model –- Requirements Management in Agile Environment; Agile Requirements Prioritization –- Agile Requirements Modeling and Generation –- Concurrency in Agile Requirements Generation.
+
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V|AGILITY AND QUALITY ASSURANCE	|9|
+Agile Product Development –- Agile Metrics –- Feature Driven Development (FDD) –- Financial and Production Metrics in FDD –- Agile Approach to Quality Assurance -- Test Driven Development -– Agile Approach in Global Software Development.
 
-
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+Upon the completion of the course the students should be able to: 
+- Realize the importance of interacting with business stakeholders in determining the requirements for a software system
+- Perform iterative software development processes: how to plan them, how to execute them.
+- Point out the impact of social aspects on software development success.
+- Develop techniques and tools for improving team collaboration and software quality.
+- Perform Software process improvement as an ongoing task for development teams.
+- Show how agile approaches can be scaled up to the enterprise level.
+
+
+** Text Books
+1. David J. Anderson and Eli Schragenheim, Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results, Prentice Hall, 2003.
+2. Hazza and Dubinsky, Agile Software Engineering, Series: Undergraduate Topics in Computer Science, Springer, 2009.
+	
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Craig Larman, Agile and Iterative Development: A Manager's Guide, Addison-Wesley, 2004.
+2. Kevin C. Desouza, Agile Information Systems: Conceptualization, Construction, and Management, Butterworth-Heinemann, 2007.
