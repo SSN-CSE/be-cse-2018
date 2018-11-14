@@ -32,23 +32,6 @@ Coping with the Limitations of Algorithm Power: Backtracking: n-Queens problem �
 
 |Unit V | Limitations of Algorithm Power |9| 
 Limitations of Algorithm Power: Lower-Bound Arguments -- P, NP and NP-Complete Problems; Coping with the Limitations of Algorithm Power: Approximation Algorithms for NP–Hard Problems –- Traveling Salesman problem -– Knapsack problem.
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
