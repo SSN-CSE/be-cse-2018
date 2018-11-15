@@ -12,7 +12,7 @@
 ** Course Objectives
 - To understand the need of machine learning techniques for various problems. 
 - To study the various supervised, unsupervised and reinforcement learning algorithms in machine learning.
-- To understand the different graphical models to represent tha data.
+- To study the graphical models to represent tha data and their dependencies.
 - To design appropriate machine learning algorithms for real world problems.
 
 {{{unit}}}
@@ -41,9 +41,9 @@ Dimensionlity Reduction Techniques: Linear Discriminant analysis, Principal Comp
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
-- Differentiate supervised and unsupervised machine learning approaches (K2).
-- Understand the requirement of dimensionality reduction techniques (K2).
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
+- Understand the use of reinforcement learning techniques to various problems. (K2).
+- Understand the requirement of dimensionality reduction techniques (K2).
 - Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
       
 ** Text Books
