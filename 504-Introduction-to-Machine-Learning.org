@@ -42,6 +42,10 @@ Sentiment analysis using Naive Bayes Classifier -- Finding related posts using K
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
+- Differentiate supervised and unsupervised machine learning approaches (K2).
+- Understand the requirement of dimensionality reduction techniques (K2).
+- Apply supervised and unsupervised learning algorithms for different tasks (K3).
+- Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
       
 ** References
 1. Stephen Marsland, ''Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
