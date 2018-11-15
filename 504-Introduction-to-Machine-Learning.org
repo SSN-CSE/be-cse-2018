@@ -10,11 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the need of machine learning for various problem solving. 
-- To study the various supervised and unsupervised learning algorithms in machine learning.
-- To understand the latest trends in machine learning. 	
+- To understand the need of machine learning techniques for various problems. 
+- To study the various supervised, unsupervised and reinforcement learning algorithms in machine learning.
+- To understand the different graphical models to represent tha data.
 - To design appropriate machine learning algorithms for real world problems.
-
 
 {{{unit}}}
 |Unit I | INTRODUCTION  | 9 |
