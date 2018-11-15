@@ -10,8 +10,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the need of machine learning for various problem solving 
+- To study the various supervised and unsupervised learning algorithms in machine learning 
+- To understand the latest trends in machine learning 	
+- To design appropriate machine learning algorithms for problem solving 
+
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
