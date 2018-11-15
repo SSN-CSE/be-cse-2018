@@ -1,7 +1,7 @@
 * <<<404>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
 :author: Mr. V. Balasubramanian and Dr. S. Kavitha
-:date: 
+:date: 15.11.2018
 :end:
 
 #+startup: showall
@@ -9,38 +9,6 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
-
-** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-|Unit I|Introduction and Analysis |12| 
-Introduction: Notion of an Algorithm –- Fundamentals of Algorithmic Problem Solving –- Important Problem Types; Fundamentals of the Analysis of Algorithm Efficiency: The Analysis Framework –- Asymptotic Notations, properties and Basic Efficiency Classes -– Mathematical analysis for Recursive and Non-recursive algorithms -- Empirical Analysis of Algorithms -- Algorithm Visualization.
-
-|Unit II|Brute Force and Divide and Conquer |9| 
-Brute Force and Exhaustive Search: Brute-Force String Matching -- Closest-Pair and Convex-Hull Problems; Exhaustive Search: Traveling Salesman Problem -- Knapsack Problem -- Assignment problem.
-Divide and conquer: Merge sort –- Quick sort -– Multiplication of Large Integers and Strassen‟s Matrix Multiplication -- Closest-Pair and Convex-Hull Problems.
-
-|Unit III |Dynamic Programming and Greedy Technique |9| 
-Dynamic Programming: Computing a Binomial Coefficient -- Knapsack Problem and Memory functions -- Optimal Binary Search Trees -- Warshall‟s and Floyd‟s algorithm.
-Greedy Technique: Prim‟s algorithm -- Kruskal's Algorithm -- Dijkstra's Algorithm -- Huffman Trees and codes.
-
-|Unit IV | Iterative Improvement|9| 
-Iterative Improvement: The Simplex Method -- The Maximum-Flow Problem –- Maximm Matching in Bipartite Graphs -- The Stable marriage Problem.
-
-|Unit IV | Backtracking and Branch and Bound |9| 
-Coping with the Limitations of Algorithm Power: Backtracking: n-Queens problem –- Hamiltonian Circuit Problem -– Subset Sum Problem; Branch and Bound: Assignment problem –- Knapsack Problem –- Traveling Salesman Problem.
-
-|Unit V | Limitations of Algorithm Power |9| 
-Limitations of Algorithm Power: Lower-Bound Arguments -- P, NP and NP-Complete Problems; Coping with the Limitations of Algorithm Power: Approximation Algorithms for NP–Hard Problems –- Traveling Salesman problem -– Knapsack problem.
-
-\hfill *Total: 60*
-
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
 
 ** Course Objectives
 - Learn the algorithm analysis techniques.
