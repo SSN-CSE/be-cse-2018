@@ -50,8 +50,8 @@ After the completion of this course, students will be able to:
      
 ** Text Books
 
-1. S.N.Sivanandam , S.N.Deepa, “Principles of Soft Computing”, Wiley India Pvt. Ltd., 2nd Edition, 2011. 
-2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ―Neuro-Fuzzy and Soft Computing, Prentice-Hall of India, 2002. 
+1. S.N.Sivanandam , S.N.Deepa, ``Principles of Soft Computing'', Wiley India Pvt. Ltd., 2nd Edition, 2011. 
+2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy and Soft Computing'', Prentice-Hall of India, 2002. 
 
 ** References
 1. Kwang H.Lee, ``First course on Fuzzy Theory and Applications'', Springer, 2005. 
