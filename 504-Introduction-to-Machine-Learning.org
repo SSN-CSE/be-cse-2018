@@ -10,31 +10,31 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the need of machine learning for various problem solving 
-- To study the various supervised and unsupervised learning algorithms in machine learning 
-- To understand the latest trends in machine learning 	
-- To design appropriate machine learning algorithms for problem solving 
+- To understand the need of machine learning for various problem solving. 
+- To study the various supervised and unsupervised learning algorithms in machine learning.
+- To understand the latest trends in machine learning. 	
+- To design appropriate machine learning algorithms for real world problems.
 
 
 {{{unit}}}
 |Unit I | INTRODUCTION  | 9 |
-Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression 
+Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Overfitting – Generalization – Regularization – Bias-Variance tradeoff; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
 
 {{{unit}}}
 |Unit II | SUPERVISED LEARNING  | 9 |
-Multi-layer Perceptron: Forward pass and back-propagation of error ; Support Vector Machines; Decision Trees; Ensemble learning
+Multi-layer Perceptron: Going forward -- Back-propagation of error -- MLP in practice ; Support Vector Machines: Optimal separation -- Kernels; Decision Trees: Constructing decision trees -- Classification and Regression trees; Ensemble learning: Boosting -- Bagging -- Different ways to combine classifiers.
 
 {{{unit}}}
-|Unit III | PROBABILITY AND GRAPHICAL MODELS  | 9 |
-Turning data into probabilities – Naive Bayes classifier -- Basic Statistics -- Gaussian Mixture Model -- EM algorithm -- Nearest neighbour methods; Graphical models: Bayesian networks -- Hidden Markov Models
+|Unit III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
+Probability and Learning: Turning data into probabilities -- Naive Bayes classifier -- Basic Statistics -- Gaussian Mixture Model -- EM algorithm -- Nearest neighbour methods; Graphical models: Bayesian networks -- Hidden Markov Models.
 
 {{{unit}}}
-|Unit IV | UNSUPERVISED LEARNING, REINFORCEMENT LEARNING AND DIMENSIONALITY REDUCTION TECHNIQUES  | 9 |
-Unsupervised: K-means algorithm -- Self-Organising feature map;  Reinforcement learning; Linear Discriminant analysis, Principal Component Analysis
+|Unit IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
+Unsupervised: K-means algorithm -- Self-Organising feature map;  Reinforcement learning: State and action space -- Reward -- Discount -- Action selection -- Policy -- Markov Decision Process -- Q-Learning. 
 
 {{{unit}}}
-|Unit V | CASE STUDIES | 9 |
-Sentiment analysis using Naive Bayes Classifier -- Finding related posts using K-means clustering -- Detecting poor answers using KNN algorithm
+|Unit V | DIMENSIONALITY REDUCTION TECHNIQUES | 9 |
+Dimensionlity Reduction Techniques: Linear Discriminant analysis, Principal Component Analysis; Performance metrics for classification and regression -- Case study: E-mail spam detection -- Sentiment analysis -- Document classification using clustering -- Handwritten character recognition. 
 
 
 \hfill *Total: 45*
@@ -47,12 +47,15 @@ After the completion of this course, students will be able to:
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
 - Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
       
+** Text Books
+1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT Press 2004.
+3. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
+
 ** References
-1. Stephen Marsland, ''Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
-2. Tom M. Mitchell, ''Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
-3. Ethem Alpaydin, ''Introduction to Machine Learning'', The MIT Press 2004. 
-4. Jason Bell, ''Machine learning – Hands on for Developers and Technical Professionals'', First Edition, Wiley, 2014 
-5. Peter Flach, ''Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012. 
+1. Jason Bell, ``Machine learning – Hands on for Developers and Technical Professionals'', First Edition, Wiley, 2014. 
+2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012. 
+3. Richert, Willi, ``Building machine learning systems with Python'', Packt Publishing Ltd, 2013.
 
 
 
