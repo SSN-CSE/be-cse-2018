@@ -1,8 +1,7 @@
 * <<<404>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
-:author: Mr. V. Balasubramanian and Dr. S. Kavitha
-:date: 15.11.2018
-:end:
+:author: S Kavitha and V.Balasubramanian
+:date: 13 November 2018
 
 #+startup: showall
 
