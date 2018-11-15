@@ -11,30 +11,52 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn the basic concepts of Soft Computing 
+- To explore various techniques in Artificial Neural  networks, 
+- To introduce different   techniques of fuzzy sets, fuzzy logic and to familiarize with fuzzy inference system
+- To understand the working of  genetic algorithm for  global optimization.
+- To learn possible hybrids of neuro, fuzzy and genetic algorithm with applications
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | <Introduction to Soft Computing> | <9> |
+Introduction:  Artificial intelligence   --  Artificial neural networks  -- Fuzzy systems -- Genetic algorithm and evolutionary programming --Swarm intelligent Systems -- Classification of ANNs -- McCulloch and Pitts Neuron Model ; Learning Rules: Hebbian and Delta -- Perceptron network -- Adaline network -- Madaline network.
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | <Artifical Neural Networks> | <9> |
+Back propagation neural networks -- Kohonen neural network -- Learning vector quantization -- Hamming neural network -- Hopfield neural network -- Bi-directional associative memory -- Adaptive resonance theory neural networks -- Support Vector Machines -- Spike neuron models.
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | <Fuzzy Systems> | <9> |
+Introduction to Fuzzy logic -- Classical sets and Fuzzy sets -- Classical relations and Fuzzy relations -- Membership functions -- Defuzzification -- Fuzzy arithmetic and Fuzzy measures -- Fuzzy rule base and Approximate reasoning -- Introduction to Fuzzy decision making.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
+|Unit IV | <Genetic Algorithms> | <9> |
+Genetic algorithm and search space: General genetic algorithm -- operators -- Generational cycle -- Stopping condition -- Constraints -- Classification -- Genetic programming ; Multilevel optimization -- Real life problem -- Advances in GA.
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | <Hybrid Soft Computing Techniques & Applications> | <9> |
+Fuzzy neuron -- Fuzzy BP architecture -- Learning in Fuzzy BP -- Inference by Fuzzy BP -- Fuzzy artMap -- Genetic neuro hybrid systems -- Genetic fuzzy hybrid and fuzzy genetic hybrid systems ; Applications: A fusion approach of multispectral images with SAR -- Optimization of traveling salesman problem using genetic algorithm approach -- Soft computing based hybrid fuzzy controllers.	
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Understand various soft computing techniques. (K2)
+- Design and develop different neural network algorithms.(K3)
+- Analyse and apply fuzzy logic and fuzzy inference system. (K3)
+- Solve problems using  optimization techniques.  (K3)
+- Integrate various soft computing techniques for solving complex problems.  (K3)
+     
+** Text Books
+
+1. S.N.Sivanandam , S.N.Deepa, “Principles of Soft Computing”, Wiley India Pvt. Ltd., 2nd Edition, 2011. 
+2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ―Neuro-Fuzzy and Soft Computing, Prentice-Hall of India, 2002. 
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Kwang H.Lee, ``First course on Fuzzy Theory and Applications'', Springer, 2005. 
+2. George J. Klir and Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and Applications'', Prentice Hall, 1996.
+3. James A. Freeman and David M. Skapura, ``Neural Networks Algorithms, Applications, and Programming Techniques'', Addison Wesley, 2003. 
+4. S.Rajasekaran, G.A.Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm, Synthesis and Applications'', PHI Learning Pvt. Ltd., 2017. 
+5. N.P.Padhy, S.P.Simon, ``Soft Computing with MATLAB Programming'', Oxford University Press, 2015. 
+
