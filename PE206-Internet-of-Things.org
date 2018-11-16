@@ -53,12 +53,9 @@ After completion of this course, students should be able to:
 
 
 ** References
-1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to
-   the Internet of Things -- Introduction to a New Age of
+1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to the Internet of Things -- Introduction to a New Age of
    Intelligence'', Elsevier, 2014.
-2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
-   Perspective '', CRC Press, 2012.
-3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet
-   of Things -- Key applications and Protocols'', Wiley, 2012.
-4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A
-   Hands-on Approach'', Universities Press, 2015.
+2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware Perspective '', CRC Press, 2012.
+3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
+4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
+5. Gaston C. Hillar, Internet of Things with Python, Packt Publishing, 2016. 
