@@ -37,7 +37,16 @@ Security Protocols and Technologies: Cryptography – PKI – Transport Security
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand the essentials of computer security. (K2) 
+- Understand various Network Security Applications. (K2) 
+- Understand the essentials of security practices and system security.(K2)
+- Explain the security aspects in designing a datacenter (K2) 
+- Design the security protocols for the infrastructure (K3)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. William Stallings, “Network Security Essentials: Applications and Standards”, Sixth Edition, Pearson, 2017.
+2. Charlie Kaufman, Radia Perlman and Mike Speciner , “Network Security: Private Communication in a Public World”, Second Edition, Pearson Education, 2017.
+3. Wenliang Du, “Computer Security: A Hands-on Approach”, CreateSpace Independent Publishing Platform, First Edition, 2017.
+4. Mauricio Arregoces, Maurizio Portolani, “Data Center Fundamentals”, Cisco Press, 2003.
+
