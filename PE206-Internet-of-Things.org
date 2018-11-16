@@ -51,11 +51,14 @@ After completion of this course, students should be able to:
 - Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
 - Implement an IoT application in cloud environment (K3).
 
-
-** References
+** Text books
 1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to the Internet of Things -- Introduction to a New Age of
    Intelligence'', Elsevier, 2014.
 2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware Perspective '', CRC Press, 2012.
-3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
-4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
-5. Gaston C. Hillar, Internet of Things with Python, Packt Publishing, 2016. 
+
+** References
+
+1. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
+2. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
+3. Gaston C. Hillar, Internet of Things with Python, Packt Publishing, 2016. 
+4. Pethu Raj and Anupama C. Raman, ``The Internet of Things Enabling Technologies, Platforms and Usecases'', Taylor & Francis, CRC Press, 2017.
