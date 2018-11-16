@@ -6,35 +6,59 @@
 
 #+startup: showall
 
-{{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the fundamentals of Internet of Things.
+- To learn about the basics of IOT protocols .
+- To build a small low cost embedded system using Arduino/Raspberry Pi.
+- To apply the concept of Internet of Things in real world scenarios. 
+
+
+
+| Unit I | Introduction | 9 |
+M2M and IoT Technology Fundamentals -- Devices and gateways, Local and wide area networking, Data management, Business processes in IoT, Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge Management. IoT-An Architectural Overview -- Building an architecture, An IoT architecture outline
+
+
+| Unit II | IoT Reference Architecture | 9 |
+IoT Architecture: State of the Art -- Reference Model: Domain model -- information model --functional model -- communication model -- IoT Reference Architecture: Functional View -- Information View 
+
+
+
+| Unit III | IoT Protocols | 9 |
+Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -– IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN -- CoAP  
+
+
+| Unit IV | Building IoT Systems | 9 |
+Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+| Unit V | Case Studeies and Real World Applications | 9 |
+Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
 
 
-\hfill *Total: <Total Hours>*
+*Total: 45 hours*
+
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+After completion of this course, students should be able to:
+- Understand the basic buiding blocks and data management in Internet
+  of Things (K2).
+- Understand different IoT architectures (K2).
+- Understand various protocols for IoT  (K2).
+- Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
+- Implement an IoT application in cloud environment (K3).
+
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to
+   the Internet of Things -- Introduction to a New Age of
+   Intelligence'', Elsevier, 2014.
+2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
+   Perspective '', CRC Press, 2012.
+3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet
+   of Things -- Key applications and Protocols'', Wiley, 2012.
+4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A
+   Hands-on Approach'', Universities Press, 2015.
