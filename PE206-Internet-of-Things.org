@@ -62,3 +62,4 @@ After completion of this course, students should be able to:
 2. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
 3. Gaston C. Hillar, Internet of Things with Python, Packt Publishing, 2016. 
 4. Pethu Raj and Anupama C. Raman, ``The Internet of Things Enabling Technologies, Platforms and Usecases'', Taylor & Francis, CRC Press, 2017.
+5. Peter Waher, “Learning Internet of Things”, PACKT publishing, 2015
