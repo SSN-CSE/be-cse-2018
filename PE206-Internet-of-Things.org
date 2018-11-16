@@ -34,7 +34,7 @@ Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCAD
 Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
 
 
-{{{unit}}}
+
 | Unit V | Case Studeies and Real World Applications | 9 |
 Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
 
