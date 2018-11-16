@@ -64,4 +64,4 @@ After the completion of this course, students will be able to:
 3. Barry B Bray,"The Intel Micro processor 8086/8088,80186,80286,80386 and 80486 - Arcitecture, programming and interfacing", PHI,8th Edition,2011.
 4. Mohamed Rafiquazzaman,“Microprocessor and Microcomputer based system design”, Universal Book stall, New Delhi, 2nd Edition,
  1995.
-5. Kenneth J.Ayala,"The 8051 microcontroller Architecture, Programming and applications", Second edition ,Penram international.
+5. Kenneth J.Ayala,"The 8051 microcontroller Architecture, Programming and applications", Second edition ,Penram international, 1996.
