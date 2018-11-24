@@ -19,15 +19,15 @@
 
 {{{unit}}}
 |Unit I|FOUNDATIONS|9|
-Foundations: Why Unix -- Computer System -- The Unix Environment -- UNIX Structure -- UNIX Commands; Basic vi Editor: Editor concepts – The vi Editor –Modes and Commands; Local Commands in vi; Range Commands in vi – Global Commands in vi; Rearrange Text in vi; ex Editor;
+Foundations: Why Unix -- Computer System -- The Unix Environment -- UNIX Structure -- UNIX Commands; Basic vi Editor: Editor concepts – The vi Editor –Modes and Commands; Local Commands in vi; Range Commands in vi – Global Commands in vi; Rearrange Text in vi; ex Editor; emacs editor;
 
 {{{unit}}}
 |Unit II|FILES & REGULAR EXPRESSIONS|9|
-File Systems: Filenames – File Types – Regular Files -- Directories – File System Implementation – Operations on Files and Directories; Security and File Permissions: Users and Groups – Security Levels – Changing Permissions – User Masks – Changing Ownership and Groups; Regular Expressions: Atoms – Operators;
+File Systems: Filenames – File Types – Regular Files -- Directories – File System Implementation – Operations on Files and Directories; Security and File Permissions: Users and Groups – Security Levels – Changing Permissions – User Masks – Changing Ownership and Groups; Regular Expressions: Atoms – Operators; grep; sed: Scripts -- Operation -- Addresses -- Commands; 
 
 {{{unit}}}
 |Unit III|SHELLS & FILTERS|9|
-Introduction to Shells: UNIX Session – Standard Streams – Redirection – Pipes – Command Execution – Command-Line Editing – Quotes – Command Substitution – Job Control – Aliases – Variables – Options – Shell/Environment Customization; Filters; Communications: Mail – Remote Access – File Transfer;
+Introduction to Shells: UNIX Session – Standard Streams – Redirection – Pipes – Command Execution – Command-Line Editing – Quotes – Command Substitution – Job Control – Aliases – Variables – Options – Shell/Environment Customization; Filters; Communications: Mail – Remote Access – File Transfer; awk: Execution -- Fields & Records -- Operation -- Patterns -- Actions;
 
 {{{unit}}}
 |Unit IV|KORN SHELL|9|
