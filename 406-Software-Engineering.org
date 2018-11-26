@@ -29,7 +29,7 @@ analysis: Structured system Analysis, Petri Nets- Data Dictionary.
 |Unit III | SOFTWARE DESIGN | 9 |
 Design process – Design Concepts-Design Model– Design Heuristic – Architectural Design -
 Architectural styles, Architectural Design, Architectural Mapping using Data Flow- User Interface
-Design: Interface analysis, Interface Design –Component level Design: Designing Class based
+Design: The Golden rules, Interface analysis, Interface Design –Component level Design: Designing Class based
 components, traditional Components.
 
 |Unit IV | TESTING AND MAINTENANCE | 9 |
