@@ -35,14 +35,14 @@ components, traditional Components.
 |Unit IV | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of Testing-white box testing - basis
 path testing-control structure testing-black box testing- Unit Testing –
-Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging –Maintenance and Reengineering-BPR
+Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging – Maintenance and Reengineering-BPR
 model-Reengineering process model-Reverse and Forward Engineering.
 
 |Unit V | PROJECT MANAGEMENT | 9 |
 Software Project Management: Estimation – LOC, FP Based Estimation, Make/Buy Decision
-COCOMO I & II Model – Project Scheduling – Scheduling, Earned Value Analysis Planning –
-Project Plan, Planning Process, RFP Risk Management – Identification, Projection - Risk
-Management-Risk Identification-RMMM Plan-CASE TOOLS
+COCOMO I & II Model – Project Scheduling – Scheduling, Earned Value Analysis - Planning –
+Project Plan, Planning Process - Risk Management: Risk Identification - Risk Projection - Risk
+Management-RMMM Plan- CASE TOOLS
 
 Total: 45
 
