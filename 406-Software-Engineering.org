@@ -34,9 +34,8 @@ components, traditional Components.
 
 |Unit IV | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of Testing-white box testing - basis
-path testing-control structure testing-black box testing- Regression Testing – Unit Testing –
-Integration Testing – Validation Testing – System Testing And Debugging –Software
-Implementation Techniques: Coding practices-Refactoring-Maintenance and Reengineering-BPR
+path testing-control structure testing-black box testing- Unit Testing –
+Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging –Maintenance and Reengineering-BPR
 model-Reengineering process model-Reverse and Forward Engineering.
 
 |Unit V | PROJECT MANAGEMENT | 9 |
