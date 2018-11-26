@@ -23,7 +23,7 @@ Models –Introduction to Agility-Agile process-Extreme programming-XP Process.
 |Unit II | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
 Software Requirements: Functional and Non-Functional, User requirements, System requirements,
 Software Requirements Document – Requirement Engineering Process: Feasibility Studies,
-Requirements elicitation and analysis, requirements validation, requirements managementClassical
+Requirements elicitation and analysis, requirements validation, requirements management -Classical
 analysis: Structured system Analysis, Petri Nets- Data Dictionary.
 
 |Unit III | SOFTWARE DESIGN | 9 |
