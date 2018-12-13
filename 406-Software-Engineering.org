@@ -19,30 +19,31 @@
 Introduction to Software Engineering, Software Process, Perspective and Specialized Process
 Models –Introduction to Agility-Agile process-Extreme programming-XP Process.
 
+|Unit II | PROJECT MANAGEMENT | 9 |
+Software Project Management: Estimation – LOC, FP Based Estimation, Make/Buy Decision
+COCOMO I & II Model – Project Scheduling – Scheduling, Earned Value Analysis - Planning –
+Project Plan, Planning Process - Risk Management: Risk Identification - Risk Projection - Risk
+Management-RMMM Plan- CASE TOOLS
 
-|Unit II | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
+|Unit III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
 Software Requirements: Functional and Non-Functional, User requirements, System requirements,
 Software Requirements Document – Requirement Engineering Process: Feasibility Studies,
 Requirements elicitation and analysis, requirements validation, requirements management -Classical
 analysis: Structured system Analysis, Petri Nets- Data Dictionary.
 
-|Unit III | SOFTWARE DESIGN | 9 |
+|Unit IV | SOFTWARE DESIGN | 9 |
 Design process – Design Concepts-Design Model– Design Heuristic – Architectural Design -
 Architectural styles, Architectural Design, Architectural Mapping using Data Flow- User Interface
 Design: The Golden rules, Interface analysis, Interface Design –Component level Design: Designing Class based
 components, traditional Components.
 
-|Unit IV | TESTING AND MAINTENANCE | 9 |
+|Unit V | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of Testing-white box testing - basis
 path testing-control structure testing-black box testing- Unit Testing –
 Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging – Maintenance and Reengineering-BPR
 model-Reengineering process model-Reverse and Forward Engineering.
 
-|Unit V | PROJECT MANAGEMENT | 9 |
-Software Project Management: Estimation – LOC, FP Based Estimation, Make/Buy Decision
-COCOMO I & II Model – Project Scheduling – Scheduling, Earned Value Analysis - Planning –
-Project Plan, Planning Process - Risk Management: Risk Identification - Risk Projection - Risk
-Management-RMMM Plan- CASE TOOLS
+
 
 Total: 45
 
