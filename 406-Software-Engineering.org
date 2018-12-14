@@ -29,13 +29,11 @@ Requirements elicitation and analysis, requirements validation, requirements man
 analysis: Structured system Analysis, Petri Nets.
 
 |Unit IV | SOFTWARE DESIGN | 9 |
-Design process – Design Concepts-Design Model– Design Heuristic – Architectural Design -
-Architectural styles, Architectural Design, Architectural Mapping using Data Flow- User Interface
-Design: The Golden rules, Interface analysis, Interface Design –Component level Design: Designing Class based components, traditional Components.
+Design Concepts: Design process – Design Concepts -Design Model– Modeling Principles- Architectural Design: Architectural styles - Architectural Design- Architectural Mapping using Data Flow - User Interface Design: The Golden rules - Interface analysis - Interface Design –Component level Design: Designing Class based components - traditional Components.
 
 |Unit V | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of Testing-white box testing - basis
-path testing-control structure testing-black box testing- Unit Testing – Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging – Software Implementation: Coding practices and principles - Maintenance:Reengineering- Reverse Engineering - Restructuring.
+path testing-control structure testing-black box testing- Unit Testing – Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging – Software Implementation: Coding practices and principles - Maintenance:Types - Reengineering- Reverse Engineering - Restructuring.
 
 
 
