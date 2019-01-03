@@ -44,11 +44,11 @@ Multimedia  basics -- Multimedia  applications -- Defining objects for multimedi
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
- - Apply the algorithms to manipulate output primitives such as line, circle, ellipse.
- - Demonstrate transformations, representations and clipping on 2D objects and map window to viewport transformations.
- - Apply 3 Dimensional concepts like representations, geometric transformations, and projections.
- - Understand the working of different illumination and color models used to render an animation scene.
- - Understand different types of multimedia file formats, compression techniques and design basic 3d Scenes using Blender.
+ - Apply the algorithms to manipulate output primitives such as line, circle, ellipse (K3)
+ - Demonstrate transformations, representations and clipping on 2D objects and map window to viewport transformations (K3)
+ - Apply 3 Dimensional concepts like representations, geometric transformations, and projections (K3)
+ - Understand the working of different illumination and color models used to render an animation scene (K2)
+ - Understand different types of multimedia file formats, compression techniques and design basic 3d Scenes using Blender (K2)
 
 ** Textbook
 1. Donald Hearn and Pauline Baker M, "Computer Graphics", Prentice Hall, New Delhi, 2007 [UNIT I -IV ]
