@@ -55,13 +55,18 @@ After the completion of this course, students will be able to:
 - Elucidate the concept of learning in AI applications (K3)
 - Implement various search, inference and learning algorithms in AI. (K4)
 
+
+** Textbooks
+1. Stuart Russell, Peter Norvig, “Artificial Intelligence – A Modern Approach”, 3rd Edition, Pearson Education / Prentice Hall of India, 2015.
+2. Deepak Khemani "A First Course in Artificial Intelligence", McGraw Hill, 2014.
+ 
       
 ** References
-1. Stuart Russell, Peter Norvig, “Artificial Intelligence – A Modern Approach”, 3nd Edition, Pearson Education / Prentice Hall of India, 2004.
+1. Dawn W Patterson, "Introduction to Artificial Intelligence and Expert Systems", Pearson Education India; 1st edition, 2015.
 2. Elaine Rich and Kevin Knight, “Artificial Intelligence”, 2nd Edition, Tata McGraw-Hill, 2003.
-3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition (2016)
-4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition (2017)
-5. Deepak Khamni "A First Course in Artificial Intelligence", McGraw Hill, 2014
+3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition, 2016.
+4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition, 2017.
+5. Prateek Joshi, "Artificial Intelligence with Python", Packt Publishing Limited; 1st edition, 2017.
 
 ** Lab Exercises:
 1. Implementation of Uninformed Search Techniques

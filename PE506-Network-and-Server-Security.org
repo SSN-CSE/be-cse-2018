@@ -11,30 +11,42 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To study about an essential of computer security.
+- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual Private Networks, intrusion detection systems.
+- To understand how various security mechanisms work, and correlate these security mechanisms with security principles.
+- To learn the security aspects of data center.
+- To learn the security protocols and technologies with respect to infrastructure.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
+|Unit I | Introduction | 9 |
+Computer Security Concepts - Security Attacks - Security Services - Security Mechanisms - A Model for Network Security- Standards. Attack on Public Key Cryptography – Public Key Certificates: X.509 Authentication services – Attacks on PKI – Types of Digital Certificates.
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
-
+|Unit II | Security Practice & System Security | 9 |
+Internet Firewalls for Trusted System: Roles of Firewalls – Types of Firewalls – Netfilter – Iptables – Firewall design Principles – DNS Attacks – Cache Poisoning – SET for E-Commerce Transactions. Intruder – Intrusion detection system – Virus and related threats – Countermeasures.
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
-
+|Unit III | E-Mail, IP & Web Security | 9 |
+E-mail Security: Security Services for E-mail-attacks possible through E-mail – establishing keys privacyauthentication of the source – Message Integrity-Non-repudiation – Pretty Good Privacy – S/MIME; IPSecurity: Overview of IPSec – IP and IPv6 – Authentication Header – Encapsulation Security Payload (ESP) – Internet Key Exchange (Phases of IKE, ISAKMP/IKE Encoding); Web Security: SSL/TLS Basic Protocol – Computing the keys – Client authentication – PKI as deployed by SSLAttacks fixed in v3 – Exportability-Encoding-Secure Electronic Transaction (SET).
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
+|Unit IV | Data Center Security Overview | 9 |
+Data center security overview: Need for a secure data center – Vulnerabilities and common attacks; Network Security Infrastructure; Security Fundamentals; Data center security frameworks: Security policies – Security lifecycle; Secure Management Framework.
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
-
+|Unit V | Security Protocols and Technologies | 9 |
+Security Protocols and Technologies: Cryptography – PKI – Transport Security – Authentication Protocols and Technologies; Network management security; Integrating security into the infrastructure: Defining security zone – Internet Edge – Intranet Server Farm – Server-Farm Design Alternative – Management Network.
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Understand the essentials of computer security. (K2) 
+- Understand various Network Security Applications. (K2) 
+- Understand the essentials of security practices and system security.(K2)
+- Explain the security aspects in designing a datacenter (K2) 
+- Design the security protocols for the infrastructure (K3)
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. William Stallings, “Network Security Essentials: Applications and Standards”, Sixth Edition, Pearson, 2017.
+2. Charlie Kaufman, Radia Perlman and Mike Speciner , “Network Security: Private Communication in a Public World”, Second Edition, Pearson Education, 2017.
+3. Wenliang Du, “Computer Security: A Hands-on Approach”, CreateSpace Independent Publishing Platform, First Edition, 2017.
+4. Mauricio Arregoces, Maurizio Portolani, “Data Center Fundamentals”, Cisco Press, 2003.
+

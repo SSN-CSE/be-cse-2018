@@ -7,34 +7,43 @@
 #+startup: showall
 
 {{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+|L|T|P|C|
+|3|0|0|3|
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the basics of deep neural networks
+- To understand CNN and RNN architectures of deep neural networks
+- To comprehend the advanced deep learning models
+- To learn the evaluation metrics for deep learning models
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I|Deep Networks Basics|9| 
+Linear Algebra: Scalars -- Vectors -- Matrices and tensors; Probability Distributions -- Gradient-based Optimization -- Machine Learning Basics: Capacity -- Overfitting and underfitting -- Hyperparameters and validation sets -- Estimators -- Bias and variance -- Stochastic gradient descent -- Challenges motivating deep learning; Deep Networks: Deep feedforward networks; Regularization -- Optimization
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II|Convolutional Neural Networks|9| 
+Convolution Operation -- Sparse Interactions -- Parameter Sharing -- Equivariance -- Pooling -- Convolution Variants: Strided -- Tiled -- Transposed and dilated convolutions; CNN Learning: Nonlinearity Functions -- Loss Functions -- Regularization -- Optimizers -- Gradient Computation
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III|Recurrent Neural Networks|10| 
+Unfolding Graphs -- RNN Design Patterns: Acceptor -- Encoder -- Transducer; Gradient Computation -- Sequence Modeling Conditioned on Contexts -- Bidirectional RNN -- Sequence to Sequence RNN -- Deep Recurrent Networks -- Recursive Neural Networks -- Long Term Dependencies; Leaky Units:  Skip connections and dropouts; Gated Architecture: LSTM
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV|Model Evaluation|8| 
+Performance metrics -- Baseline Models -- Hyperparameters: Manual Hyperparameter -- Automatic Hyperparameter -- Grid search -- Random search -- Debugging strategies
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V|Autoencoders and Generative Models|9| 
+Autoencoders: Undercomplete autoencoders -- Regularized autoencoders -- Stochastic encoders and decoders -- Learning with autoencoders; Deep Generative Models: Variational autoencoders -- Generative adversial networks
 
 
-\hfill *Total: <Total Hours>*
+|Total:|45|
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Understand basics in deep neural networks (K2)
+- Apply Convolution Neural Network for real-world problems in image processing (K3)
+- Apply Recurrent Neural Network and its variants for text analysis (K3)
+- Understand the concepts in autoencoders and generative models (K2)
+
+** Textbook
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning", MIT Press, 2016.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Salman Khan, Hossein Rahmani, Syed Afaq Ali Shah, Mohammed Bennamoun, "A Guide to Convolutional Neural Networks for Computer Vision", Synthesis Lectures on Computer Vision, Morgan & Claypool publishers, 2018.
+2. Yoav Goldberg, "Neural Network Methods for Natural Language Processing", Synthesis Lectures on Human Language Technologies, Morgan & Claypool publishers, 2017.
