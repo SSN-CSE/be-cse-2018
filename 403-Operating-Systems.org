@@ -44,11 +44,10 @@ Mobile OS: iOS  and  Android -- Introduction and Architecture.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
+- Understand the basic services and functionalities of operating systems (K2)
 - Analyze various Scheduling algorithms (K4) 
-- Apply the principles of concurrency (K3)
-- Understand deadlock, prevention and avoidance algorithms (K2)
-- Compare and contrast various memory management schemes (K2)
-- Understand the functionality of file systems (K2)
+- Understand deadlock, prevention and avoidance algorithms and compare and contrast various memory management schemes (K2)
+- Understand the functionality of file systems  (K2)
 - Compare and contrast Linux, Windows and mobile operating systems (K2)
 
 ** Text Book
@@ -59,6 +58,5 @@ After the completion of this course, students will be able to:
 1. Ramaz Elmasri, A. Gil Carrick, David Levine, "Operating Systems A Spiral Approach" , Tata McGraw Hill Edition, 2010.
 2. Achyut S.Godbole, Atul Kahate,"Operating Systems", McGraw Hill Education, 2016.
 3. Andrew S. Tanenbaum, "Modern Operating Systems", Second Edition, Pearson Education, 2004.
-4. Gary Nutt, "Operating Systems", Third Edition, Pearson Education, 2004.
-5. Harvey M. Deitel, "Operating Systems", Third Edition, Pearson Education, 2004.
-6. Daniel P Bovet and Marco Cesati, "Understanding the Linux kernel", 3rd edition, O‘Reilly,2005.
+4. Harvey M. Deitel, "Operating Systems", Third Edition, Pearson Education, 2004.
+5. Daniel P Bovet and Marco Cesati, "Understanding the Linux kernel", 3rd edition, O‘Reilly,2005.
