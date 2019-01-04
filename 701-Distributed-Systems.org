@@ -58,12 +58,12 @@ Upon the completion of the course the students should be able to:
 
 ** Text Books
 1. Kshemkalyani, Ajay D., and Mukesh Singhal. Distributed computing: principles, algorithms, and systems. Cambridge University Press, 2011
+2. Mukesh Singhal and Niranjan G. Shivaratri. Advanced concepts in operating systems. McGraw-Hill, Inc., 1994.
 	
 ** References
 1. George Coulouris, Jean Dollimore and Tim Kindberg, “Distributed Systems Concepts and Design”, Fifth Edition, Pearson Education, 2012.
 2. Pradeep K Sinha, "Distributed Operating Systems: Concepts and Design", Prentice Hall of India, 2007.
-3. Mukesh Singhal and Niranjan G. Shivaratri. Advanced concepts in operating systems. McGraw-Hill, Inc., 1994.
-4. Tanenbaum A.S., Van Steen M., “Distributed Systems: Principles and Paradigms”, Pearson Education, 2007.
-5. Liu M.L., “Distributed Computing, Principles and Applications”, Pearson Education, 2004.
-6. Nancy A Lynch, “Distributed Algorithms”, Morgan Kaufman Publishers, USA, 2003.
+3. Tanenbaum A.S., Van Steen M., “Distributed Systems: Principles and Paradigms”, Pearson Education, 2007.
+4. Liu M.L., “Distributed Computing, Principles and Applications”, Pearson Education, 2004.
+5. Nancy A Lynch, “Distributed Algorithms”, Morgan Kaufman Publishers, USA, 2003.
 
