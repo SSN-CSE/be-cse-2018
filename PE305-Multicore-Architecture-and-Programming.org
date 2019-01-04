@@ -63,4 +63,7 @@ After the completion of this course, students will be able to:
 1.	Michael J Quinn, ``―Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill,2003.
 2.	Victor Alessandrini, ``Shared Memory Application Programming, Concepts and Strategies in Multicore Application Programming'', 
 	1st Edition, Morgan Kaufmann, 2015. 
-3.  Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'', CRC Press, 2015.
+3.  	Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'', CRC Press, 2015.
+4.	Rohit Chandra , Ramesh Menon , Leo Dagum  , David Kohr , Dror Maydan and Jeff McDonald, ``Parallel Programming in  
+	OpenMP'', 1st Edition, Morgan Kaufmann, 2000.
+5.	Gerassimos Barlas, ``Multicore and GPU Programming'', Morgan Kaufmann, 2014.
