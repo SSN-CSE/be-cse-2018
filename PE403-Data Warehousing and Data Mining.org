@@ -1,4 +1,4 @@
-* DATA WAREHOUSING AND DATA MINING
+* PE403 DATA WAREHOUSING AND DATA MINING
 :properties:
 :author: R Priyadharsini
 :date: 5 January 2019
