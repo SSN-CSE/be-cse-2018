@@ -19,7 +19,7 @@
 
 {{{unit}}}
 |Unit I | Digital Image Fundamentals | 9 |
-Steps in Digital Image Processing –- Components -–  Image Sensing and Acquisition -–
+Introduction: Steps in Digital Image Processing –- Components -–  Image Sensing and Acquisition -–
 Image Sampling and Quantization -– Relationships between pixels -- Two-dimensional mathematical preliminaries --
 Image Operations: Arithmetic, Logical, Statistical and Spatial Operations.
 
