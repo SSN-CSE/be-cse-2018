@@ -41,11 +41,11 @@ NoSQL databases : Schema-less models -- Increasing flexibility for data manipula
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Work with big data tools and its analysis techniques
--	Analyze data by utilizing clustering and classification algorithms
--	Learn and apply different mining algorithms and recommendation systems for large volumes of data
--	Perform analytics on data streams
--	Learn NoSQL databases and management.
+-     Work with big data tools and its analysis techniques (K3) 
+-	Analyze data by utilizing clustering and classification algorithms (K4)
+-	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
+-	Perform analytics on data streams (K3)
+-	Learn NoSQL databases and management (K2)
 
       
 ** TEXT BOOKS:
@@ -59,3 +59,4 @@ After the completion of this course, students will be able to:
 1.	Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
 2.	Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical Guide for Managers'', CRC Press, 2015.
 3.	Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with MapReduce'', Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
+4.    Tom White, ``Hadoop: The Definitive Guide'', Third Edition, O'Reilly, 2012.
