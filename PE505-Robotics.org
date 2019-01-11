@@ -64,6 +64,4 @@ After the completion of this course, students will be able to:
 3. K.S. Fu, R.C. Gonzalez and C.S.G. Lee, Robotics: Control, Sensing, Vision and Intelligence, McGraw-Hill, 1987.
 4. Wesley E Snyder R, Industrial Robots, Computer Interfacing and Control, Prentice Hall International Edition, 1988.
 5. Robin Murphy, Introduction to AI Robotics, MIT Press, 2000.
-6. Ronald C. Arkin, Behavior-based Robotics, MIT Press, 1998.
-7. N. P. Padhy, Artificial Intelligence and Intelligent Systems, Oxford University Press, 2005.
-8. Stefano Nolfi, Dario Floreano, Evolutionary Robotics – The Biology, Intelligence and Technology of Self–Organizing Machines (Intelligent Robotics and Autonomous Agents series), MIT Press, 2004.
+
