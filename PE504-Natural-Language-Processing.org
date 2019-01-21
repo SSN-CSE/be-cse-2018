@@ -39,11 +39,16 @@ Upon the completion of the course the students should be able to:
 - Explain levels of knowledge in language processing (K2)
 - Apply computational methods in semantic and discourse processing (K3)
 - Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K3)
+- Describe the language resources (K2)
 
+** Text Books
+1. Daniel Jurafsky and James H Martin, â€œSpeech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognitionâ€,2nd Edition, Prentice Hall, 2008.
      
 ** References
-1. Daniel Jurafsky and James H Martin, â€œSpeech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognitionâ€,2nd Edition, Prentice Hall, 2008.
-2. Tanveer Siddiqui, U.S. Tiwary, â€œNatural Language Processing and Information Retrievalâ€, Oxford University Press, 2008.
-3. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
-4. Nitin Indurkhya, Fred J. Damerau, Handbook of Natural Language Processing, 2nd Edition, CRC Press, 2010.
+1. Tanveer Siddiqui, U.S. Tiwary, â€œNatural Language Processing and Information Retrievalâ€, Oxford University Press, 2008.
+2. Christopher D. Manning, Hinrich Schutze, ``Foundations of Statistical Natural Language Processing'', MIT Press, 1999.
+3. Nitin Indurkhya, Fred J. Damerau, ``Handbook of Natural Language Processing'', 2nd Edition, CRC Press, 2010.
+4. Michael Walker, ``Introduction to Natural Language Processing: Concepts and Fundamentals for Beginners'', AI Sciences Publishing, 2018.
+5. Steven Bird, Ewan Klein, and Edward Loper, ``Natural Language Processing with Python'', O’Reilly, 2009.
+
 
