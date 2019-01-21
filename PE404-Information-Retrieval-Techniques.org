@@ -44,8 +44,18 @@ After the completion of this course, students will be able to:
 - Identify and design the various components of an Information Retrieval system. (K3)
 - Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)
 - Describe various IR applications. (K2)
+- Apply IR evaluation metrics to measure the performance of IR systems. (K3)
 
-** References
+** Text Books
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information Retrieval: The concepts and Technology behind Search'', ACM Press Books, Second Edition, 2011.
 2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze, ``Introduction to Information Retrieval'', Cambridge University Press, First South Asian Edition, 2008.
-3. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
+
+** References
+
+1. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
+2. ChengXiang Zhai and Sean Massung, ``Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining'',  ACM Books, 2016.
+3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media Mining: An Introduction'', 1st Edition, Cambridge University Press,  2014. 
+4. Vipin Tyagi, ``Content-Based Image Retrieval: Ideas, Influences, and Current Trends'', 1st Edition, Springer, 2017. 
+5. Marcia J. Bates, ``Understanding Information Retrieval Systems: Management, Types, and Standards'', CRC Press, 2012.
+
+
