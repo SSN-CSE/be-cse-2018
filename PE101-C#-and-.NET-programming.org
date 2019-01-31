@@ -40,11 +40,11 @@ Assemblies: Application Domains, Shared Assemblies, Versioning; Windows Communic
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Apply object oriented concepts in C# program development.
-- Develop windows based applications using C# Language in the .NET framework using WPF.
--	Develop web applications using ASP.Net
--	Develop database application using ADO.NET Framework.
--	Understand the basic concepts of Assemblies, WCF and WWF.
+- Apply object oriented concepts in C# program development. (K3)
+- Develop windows based applications using C# Language in the .NET framework using WPF. (K6)
+- Develop web applications using ASP.Net (K6)
+- Develop database application using ADO.NET Framework. (K6)
+- Understand the basic concepts of Assemblies, WCF and WWF. (K2)
  
       
 ** Text Book
