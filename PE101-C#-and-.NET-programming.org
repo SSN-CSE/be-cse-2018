@@ -1,6 +1,6 @@
 * <<<PE101>>> C# AND .NET PROGRAMMING
 :properties:
-:author: 
+:author: S.Rajalakshmi & V.S. Felix Enigo
 :end:
 
 #+startup: showall
@@ -10,31 +10,50 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To learn the basic programming and the object oriented programming concepts in C#.
+- To write windows based applications and web applications using WPF, ADO.NET and ASP.NET.
+- To study about assemblies, WCF and WWF. 
+  
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | C# LANGUAGE BASICS (Ch 1 to 7)| 9 |
+.Net Architecture; Core C#:  Variables, Data Types,  Flow control, Enumerations, namespaces, main method, comments ;  Objects and Types ; Inheritance; Generics; Arrays and Tuples; Operators and Casts
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | C# ADVANCED FEATURES (Ch 8, 9,10,15,16,24)| 9 |
+Delegates, Lambdas and Events; Strings and Regular Expressions; Collections;  Reflection; Errors and Exceptions; Manipulating Files: Managing file system, File operations
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | WINDOWS BASED APPLICATIONS AND DATA (Ch 35, 32) | 9 |
+Core WPF: Geometry and transformations, Brushes, Controls, Layouts, Styles and Resources, Triggers, Templates; Core ADO .Net: Overview, Database Connections, Commands, Data Reader, Dataset Class, Data Adapter 
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | ASP .NET (Ch 39, 40) | 9 |
+Core ASP .Net: .Net Framework for Web Applications, Web Technologies, Handlers and Modules, Global Application Class, Request and Response, State Management; ASP .Net Web Forms:  ASPX Page Model, Master Pages, Navigation, Validating User input, Accessing Data
+
+{{{unit}}}
+|Unit V | ASSEMBLIES, WCF AND WWF (Ch 19, 43, 45)  | 9 |
+Assemblies: Application Domains, Shared Assemblies, Versioning; Windows Communication Foundation : Overview, Creating a simple service and client, Contracts; Windows Workflow Foundation: Overview, Activities, Workflows
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Apply object oriented concepts in C# program development.
+- Develop windows based applications using C# Language in the .NET framework using WPF.
+-	Develop web applications using ASP.Net
+-	Develop database application using ADO.NET Framework.
+-	Understand the basic concepts of Assemblies, WCF and WWF.
+ 
       
+** Text Book
+1.	Christian Nagel, Bill Evjen, Jay Glynn, Karli Watson, Morgan Skinner, ``Professional C# 2012 and .NET 4.5'', Wiley, 2012.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1.	Ian Gariffiths, Mathew Adams, Jesse Liberty, ``Programming C# 4.0'', O'Reilly, Fourth Edition, 2010.
+2.	Andrew Troelsen, ``Pro C# 5.0 and the .NET 4.5 Framework'', Apress publication, 2012.
+3.	Andy Wigley, Daniel Moth, Peter Foot, ``Mobile Development Handbook'', Microsoft Press, 2011.
+4.	Harsh Bhasin, ``Programming in C#'', Oxford University Press, 2014.
+5.	Herbert Schildt, ``C# 4.0 The Complete Reference'', 1st Edition, Mc Graw Hill Education, 2010.
+
