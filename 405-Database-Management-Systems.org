@@ -52,16 +52,14 @@ After the completion of this course, students will be able to:
 - Design Databases for applications using normalization and ER to Relational mapping - (K3)
 - Apply transaction processing, concurrency control and recovery mechanisms for practical problems. (K3)
 
-
 ** Text Books
  
 1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database Systems'', Pearson, 7th Edition, 2016. 
-
+2. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011. 
 
 ** Reference Books:
-
-1. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011. 
-2. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database Systems'', Pearson Education, 3rd Edition, 2014.
-3. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database Management Systems '', (Studies in Computational Intelligence), Springer-Verlag, 2007.
-4. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw Hill, 4th Edition, 2010.
+1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database Systems'', Pearson Education, 3rd Edition, 2014.
+2. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database Management Systems '', (Studies in Computational Intelligence), Springer-Verlag, 2007.
+3. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw Hill, 4th Edition, 2010.
+4. C.J.Date, A.Kannan, S.Swamynathan, “An Introduction to Database Systems”, Eighth Edition, Pearson Education, 2006.
 5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, Database Systems:The Complete Book, 2e, Pearson.
