@@ -1,6 +1,6 @@
 * <<<PE502>>> BIG DATA ANALYTICS
 :properties:
-:author: Ms. S. Rajalakshmi and Ms. R. Priyadharshini
+:author: Ms. S. Rajalakshmi and Ms. R. Priyadharsini
 :date: 12-11-2018
 :end:
 
@@ -27,37 +27,35 @@ Advanced analytical theory and methods -- Regression : Linear regression  -- Log
 
 {{{unit}}}
 |Unit III | STREAM MEMORY | 9 |
-Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions -- Using graph analytics for big data.
+Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions.
 
 {{{unit}}}
 |Unit IV | FREQUENT ITEMSETS AND CLUSTERING  | 9 |
-Mining frequent itemsets : Market based model -- Apriori algorithm  -- Handling large data sets in main memory  -- Limited Pass algorithm  -- Counting frequent itemsets in a stream  -- Clustering techniques : Hierarchical  --  k-Means -- Clustering high dimensional data  -- CLIQUE and PROCLUS  -- Frequent pattern based clustering methods -- Clustering in non-euclidean space --Clustering for streams and  parallelism. 
+Mining frequent itemsets : Market based model -- Apriori algorithm  -- Handling large data sets in main memory  -- Limited Pass algorithm  -- Counting frequent itemsets in a stream  -- Clustering techniques : Hierarchical  --  k-Means -- Clustering high dimensional data  -- CLIQUE and PROCLUS  -- Frequent pattern based clustering methods -- Clustering in non-euclidean space -- Clustering for streams and  parallelism. 
 
 {{{unit}}}
 |Unit V | NOSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for data manipulation -- Key Value stores -- Document stores -- Tabular stores -- Object data stores -- Graph databases  -- Hive -- Sharding –- Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big data for blogs. 
 
-\hfill *Total: 45*
+\hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
--     Work with big data tools and its analysis techniques (K3) 
+- 	Work with big data tools and its analysis techniques (K3)
 -	Analyze data by utilizing clustering and classification algorithms (K4)
 -	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
 -	Perform analytics on data streams (K3)
--	Learn NoSQL databases and management (K2)
+-	Learn NoSQL databases and management. (K2)
 
       
 ** TEXT BOOKS:
 
 1.	Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive Datasets'', Cambridge University Press, 2012. (Unit III, IV)
-2.	David Loshin, ``Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph'', Morgan Kaufmann/El sevier Publishers, 2013. (Unit I, V)
-3.	EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015. (Unit II, III)
+2.	David Loshin, ``Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph'', Morgan Kaufmann / Elsevier Publishers, 2013. (Unit I, V)
 
 
 ** REFERENCES:
-1.	Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
-2.	Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical Guide for Managers'', CRC Press, 2015.
-3.	Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with MapReduce'', Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
-4.    Tom White, ``Hadoop: The Definitive Guide'', Third Edition, O'Reilly, 2012.
-5.    P.  J.  Sadalage and  M.  Fowler,  ``NoSQL  Distilled:  A  Brief  Guide  to  the Emerging World of Polyglot Persistence'', Addison - Wesley Professional, 2012.
+1.  EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
+2.	Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
+3.	Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical Guide for Managers'', CRC Press, 2015.
+4.	Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with MapReduce'', Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
