@@ -50,8 +50,8 @@ After the completion of this course, students will be able to:
       
 ** TEXT BOOKS:
 
-1.	Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive Datasets'', Cambridge University Press, 2012. (Unit III, IV)
-2.	David Loshin, ``Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph'', Morgan Kaufmann / Elsevier Publishers, 2013. (Unit I, V)
+1.	Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive Datasets'', Cambridge University Press, 2012.
+2.	David Loshin, ``Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph'', Morgan Kaufmann / Elsevier Publishers, 2013.
 
 
 ** REFERENCES:
