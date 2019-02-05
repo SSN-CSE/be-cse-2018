@@ -11,35 +11,31 @@
 
 ** Course Objectives
 The student should be made to:
-- To understand the components and structure of mobile application development frameworks for Android and windows OS based mobiles.
-- To understand how to work with various mobile application development frameworks.
-- To learn the basic and important design concepts and issues of development of mobile applications.
-- To understand the capabilities and limitations of mobile devices.
+- To understand the components and structure of mobile application development frameworks.
+- To understand how to work with mobile application development framework.
+- To learn the basic and important design concepts in developing mobile applications.
+
 
 ** LIST OF EXPERIMENTS
-1. Develop an application that uses GUI components, Font and Colours
-2. Develop an application that uses Layout Managers and event listeners.
-3. Write an application that draws basic graphical primitives on the screen.
+1. Develop an application that uses GUI components, Layout Managers and event listeners.
+2. Develop an application to simulate a keyboard.
+3. Write an application that uses graphical primitives.
 4. Develop an application that makes use of databases.
-5. Develop an application that makes use of Notification Manager
-6. Implement an application that uses Multi-threading
-7. Develop a native application that uses GPS location information
-8. Implement an application that writes data to the SD card.
-9. Implement an application that creates an alert upon receiving a message
-10. Write a mobile application that makes use of RSS feed
-11. Develop a mobile application to send an email.
-12. Develop a Mobile application for simple needs (Mini Project)
+5. Implement an application that uses Multi-threading
+6. Develop a native application that uses GPS location information
+7. Implement an application that writes data to the SD card.
+8. Implement an application that send a SMS and creates an alert upon receiving the SMS.
+9. Write a mobile application that makes use of Menu.
+10. Develop a mobile application to built an alarm clock.
+11. Implement a web application to display a web page.
+12. Mini Project
 
 \hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Develop mobile applications using GUI and Layouts.
-- Develop mobile applications using Event Listener.
-- Develop mobile applications using Databases.
-- Develop mobile applications using RSS Feed, Internal/External Storage, SMS, Multithreading and GPS.
-- Analyze and discover own mobile app for simple needs.
-
-      
-** References
-1. Build Your Own Security Lab, Michael Gregg, Wiley India
+- Develop mobile applications using GUI, Layouts and Event Listener.
+- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS.
+- Develop mobile applications using  SD Card, SMS and Notification.
+- Develop mobile web applications.
+- Develop own mobile app.
