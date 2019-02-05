@@ -44,5 +44,3 @@ After the completion of this course, students will be able to:
 - Apply appropriate hash functions that result in a collision free scenario for data storage and retrieval (K3)
 
       
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
