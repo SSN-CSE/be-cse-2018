@@ -38,8 +38,8 @@ Lab Experiments
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Write functions to implement linear and non-linear data structure operations  
-- Suggest and use appropriate linear / non-linear data structure operations for solving a given problem 
+- Write functions to implement linear and non-linear data structure operations (K3)  
+- Suggest and use appropriate linear / non-linear data structure operations for solving a given problem (K3)
 - Gain practical experience in analyzing the real time problems or applications (K3)
 - Apply appropriate hash functions that result in a collision free scenario for data storage and retrieval (K3)
 
