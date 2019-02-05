@@ -1,40 +1,51 @@
-* <<<PE107>>> PROGRAMMING PARADIGMS
+* <<<302>>> PROGRAMMING PARADIGMS
 :properties:
-:author: Dr. R.Kanchana and Dr. R. S. Milton
+:author: R Kanchana
+:date: 
 :end:
 
 #+startup: showall
 
-{{{credits}}}
+
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+- To introduce various programming paradidgms
+- To understand programming paradigms such as imperative, object-oriented, logic, functional and concuuent with illustrative    
+  examples
 
 
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit I | Imperative and Object Oriented Programming  | 9 |
+Role of programming languages, programming paradigms, Structured programming - Data representation, procedure activations, Examples in C
 
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit II | Object Oriented Programming | 9 |
+Abstract data types, object model, object-oriented thinking, Examples in Java/Python/C++
 
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit III | Functional Programming  | 9 |
+Elements of functional programming: values and operations,approaches to expression evaluation, lexical scope, type checking -  Haskell: Expressions, lists, types and values, control flow, functions, tuples, problem solving
 
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit IV | Logic Programming | 9 |
+Logic and Horn clauses, Prolog: data structures, programming techniques, control, cuts, examples
 
-
-\hfill *Total: <Total Hours>*
+|Unit V | Concurrent Programming       | 9 |
+ Concurrency concepts – synchronization strategies – interleaving, liveness, safe access to shared data, examples in Ada / Java
+ 
+Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+- Understand imperative programming paradigm and some examples in C		(K3)
+- Understand object-oriented  programming paradigm and explore some examples in C++ or Java or Python 									(K3)
+- Understand functional  programming paradigm and explore some examples in Haskell										     	(K3)
+- Understand logic programming paradigm and explore some examples in Prolog	(K3)
+- Understand concurrent programming paradigm and explore some examples in Java / Ada  											(K3)
+
+** Text Books
+1. Ravi Sethi and Viswanatha, K.V. Programming Languages : Concepts and constructs, II Edition, Pearson, 2011
+2. Allan B. Tucker and Robert E. Noonan. Programming Languages: Principles and Paradigm, II Edition, McGraw Hill, 2007 
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Michael Scott. Programming Language Pragmatics, 4th Edition, Morgan Kaufmann, 2015
+2. Robert W. Sebesta, Concepts of Programming Languages, 11th Edition, Pearson, 2016
+3. Maurizio Gabbrielli and Simone Martini.  Programming Languages: Principles and Paradigms, Springer, 2010
