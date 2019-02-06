@@ -1,7 +1,7 @@
-* <<<407>>> DATABASES LAB
+* <<<408>>> DATABASE LAB
 :properties:
-:author: Dr. P.Mirunalini and Mr. B. Senthil Kumar
-:date: 06-02-2019
+:author: Mr. B. Senthil Kumar and Dr. P. Mirunalini
+:date: 
 :end:
 
 #+startup: showall
@@ -11,31 +11,47 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To understand data definitions and data manipulation commands 
-- To learn the use of nested and join queries 
-- To understand functions, procedures and procedural extensions of data bases
-- To be familiar with the use of a front end tool 
-- To understand design and implementation of typical database applications 
+- To understand data definitions and data manipulation commands
+- To learn about the use of nested and join queries
+- To understand procedural extensions of databases
+- To design a database schema for an application using Normalization
+- To implement typical data base applications using Front-end tools
 
-** List of Experiments
-- 1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating and retrieving Tables and Transaction Control statements 
-- 2.Database Querying – Simple queries, Nested queries, Sub queries and Joins
-- 3.Views, Sequences, Synonyms 
-- 4. Database Programming: Implicit and Explicit Cursors
-- 5. Procedures and Functions
-- 6. Triggers
-- 7. Exception Handling
-- 8. Database Design using ER modeling, normalization and Implementation for any application
-- 9. Database Connectivity with Front End Tools 
-- 10. Case Study using real life database applications 
+{{{unit}}}
+** Lab Experiments
+1. Data Definition Commands 
+      a. Creating tables with constraints, constraint voilations
+      b. schema modifications
+2. Data Manipulation Commands 
+      a. Update operations
+      b. Simple SQL queries
+      c. Transaction Control statements - Savepoint and Rollback
+3. Complex SQL Queries
+      a. Nested Queries 
+      b. Correlated Subqueries
+      c. Joins and Outer Joins
+      d. Aggregate functions
+      e. Grouping and Ordering commands
+4. Views 
+5. Database Programming: PL/SQL - Cursors
+6. Procedures and Functions
+7. Triggers
+8. Exception Handling
+9. Database design 
+      a. ER Model, ER-to-relational mapping
+      b. Normalization
+10. Implement the database application using any Front-end
 
-Total Hours: 45
+\hfill *Total: <45>*
+
+** Software Required for a batch of 30 students:
+1. Database: Oracle 10g - 30 Clients with 1 Server Node
+2. Front-end: NetBeans with JDBC (Java)
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Use typical data definitions and manipulation commands(K3) 
-- Design applications to test Nested and Join Queries(K3) 
-- Implement simple applications that use Views(K3) 
-- Implement applications that require a Front end Tool(K3)
-- Critically analyze the use of Tables,Views, Functions and Procedures(K4)       
-
+- Use data definitions and manipulation commands - (K3)
+- Write complex SQL Queries - (K3)
+- Implement Database programming using PL/SQL - (K3)
+- Design a database for real-time applications - (K3)
+- Implement and analyze the use of Tables, PL/SQL for a realistic database applications using a Front-end tool - (K4)

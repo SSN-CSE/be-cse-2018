@@ -6,50 +6,52 @@
 #+startup: showall
 
 {{{credits}}}
-| L | T | P | C |
+| L | T | P | C | 
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand different client and server side technologies
-- To develop interactive web application
-- To be exposed to recent client and server side technologies
+- To understand different client and server end technologies
+- To develop web application using traditional technologies
+- To understand and develop web application using emerging web application frameworks 
 
 {{{unit}}}
 |Unit I | Web Essentials | 9 |
-Web Essentials: Clients, Servers and Communication – The Internet – Basic Internet protocols – World wide web – HTTP Request Message – HTTP Response Message – Web Clients – Web Servers – HTML5 – Tables – Lists – Image – HTML5 control elements – Semantic elements – Drag and Drop – Audio – Video controls - CSS3 – Inline, embedded and external style sheets – Rule cascading – Inheritance – Backgrounds – Border Images – Colors – Shadows – Text – Transformations – Transitions – Animations.
+Web Essentials: Clients, Servers and Communication – The Internet – Basic Internet protocols – World wide web – HTTP Request Message – HTTP Response Message – Web Clients – Web Servers – HTML5: Tables, Lists, Image, Redefined form elements, Semantic elements, Audio and video controls - CSS3: Inline, embedded and external style sheets, Rule cascading, Inheritance, Adding graphics to web pages, Transformations, Transitions and Animations.
+
 
 {{{unit}}}
-|Unit II | Client side Scripting | 9 |
-Client side programming language – The javascript – Variables – Data types – Statements – Operators – Functions – Objects – Arrays - Built-in objects – Event handling - Introduction to DOM – The document tree – Node object – methods and properties – Document object – Methods and properties – Addition and deletion of elements – Modifying element style.
+|Unit II | Client end technologies | 9 |
+Client side programming language – Javascript: Variables, Data types, Statements, Operators, Objects, Arrays, Built-in objects and Event handling – DOM: Introduction, Document tree, Node object, Document, element and text nodes, Event handling, Event propagation.
 
 {{{unit}}}
-|Unit III | Server side Scripting| 9 |
-Server side scripting – Introduction to PHP – PHP basics – Data types, Variables, Strings, Constants, Operators – Program control – Decision making and Looping statements - PHP functions –Arrays – Form handling and validation – File handling – PHP sessions and cookies – Regular expressions  - Connecting to MySQL database  - Model View Controller Architecture - Development of MVC application.
+|Unit III | Server end technologies| 9 |
+ 
+Servlets: Architecture, Life Cycle, Parameter data, Sessions, Cookies and URL rewriting – AJAX: Ajax Client Server Architecture-XML Http Request Object-Call Back Methods	 
 
 {{{unit}}}
-|Unit IV | Recent scripting technologies | 9 |
-Introduction to AngularJS – Data binding, Model, Module, View, Controller, Expressions - Anatomy of AngularJS Application – Scope, Table, Select, Form, Validation, DOM, Event - Analysis of AngularJS Application – Directives -  Introduction to NodeJS – Event Loop – Patterns – Core APIs –  EventEmitter, Callback syntax, Streams, File system, Buffers - Helper APIs – Data Access – NoSQL and Document stores, MongoDB.
+|Unit IV | Client end framework | 9 |
+Introduction to AngularJS – Directives and Controllers, Data binding and Models, Form validation, Form controls – Services: Dependency injection, order of injection – Server communication using $http.
+
 
 {{{unit}}}
-|Unit V | Interactive web application development | 9 |
-Basic XML – XML Schema – XSLT Transformation – XML Parsers – DOM and SAX - Ajax Client Server Architecture - XML Http Request Object - Call Back Methods – Introduction to java web services - Creating, publishing, testing and describing a Web services (WSDL) – SOAP - Consuming a web service, Database driven web service.
+|Unit V | Server end framework | 9 |
+Introduction to NodeJS – Event Loop – Patterns – Core APIs: EventEmitter, Callback syntax, Streams - File system, Buffers – Process module - Data Access – NoSQL and Document stores: MongoDB.
+
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Design a basic website using HTML and Cascading Style Sheets  (K3)
-- Design and implement dynamic web page with JavaScript and DOM (K3)
-- Develop MVC based web application using PHP                   (K3)
-- Design rich client presentation using AJAX and to present data in XML format (K3)
-- Develop MVC based web application using AngularJS and NodeJS  (K3)
+- Design a modern website using HTML5 and CSS3  (K3)
+- Design and implement dynamic web pages with JavaScript and DOM (K3)
+- Develop web application using Servlet (K3)
+- Develop responsive web application using Servlets and AJAX (K3)
+- Develop web applications using AngularJS and NodeJS frameworks (K3)
       
 ** References
 Text Books
 1. Jeffrey C and Jackson, “Web Technologies A Computer Science Perspective”, Pearson Education, 2011.
-2. Deitel and Deitel and Nieto, “Internet and World Wide Web - How to Program”, Prentice Hall, 5th Edition, 2011.
-Reference Books
-1. Brian P. Hogan, “HTML5 and CSS3 Develop with Tomorrow’s Standards Today”, SPD Pvt. Ltd, 2011.
-2. Brad Green and Shyam Seshadri, “AngularJS”, O’Reilly Media, Inc., First Edition, 2013.
-3. Tom Hughes-Crouchers and Mike Wilson, “Node: Up and Running”, O’Reilly Media, Inc., First Edition, 2012.
-4. http://www.w3schools.com/
+2. Matthew MacDonald, “HTML5: The missing manual”, O’Reilly Media, August 2011
+3. David McFarland, “CSS3: The missing manual”, O’Reilly Media, December 2012
+4. Brad Green and Shyam Seshadri, “AngularJS”, O’Reilly Media, Inc., First Edition, 2013.
+5. Tom Hughes-Crouchers and Mike Wilson, “Node: Up and Running”, O’Reilly Media, Inc., First Edition, 2012.

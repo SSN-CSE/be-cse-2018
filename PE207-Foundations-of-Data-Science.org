@@ -44,15 +44,16 @@ Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Late
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 
-- Write Python programs to perform analysis on data. (K3)
-- Explain various probability distributions and statistical inferences. (K2)
+- Develop Python programs to perform analysis on data. (K3)
+- Understand various probability distributions and statistical inferences. (K2)
 - Develop applications to demonstrate machine learning algorithms in practice. (K3)
 - Understand the principles of handling data streams. (K2)
 - Discuss topic and graphical modeling techniques in real world problem.(K2)
  
  ** Text Books
-1. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science''.  
-2. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
+1. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
+2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook 2017.  
+
 
 ** Reference Books:
 1. Hans Petter Langtangen, ``A Primer on Scientific Programming with Python'', 4th Edition, Springer, 2016. 

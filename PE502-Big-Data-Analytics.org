@@ -26,7 +26,7 @@ Evolution of big data -- Best practices for big data analytics -- Big data chara
 Advanced analytical theory and methods -- Regression : Linear regression  -- Logistic regression ; Classification: Decision trees -- Overview of a decision tree -- General algorithm -- Decision tree algorithms -- Evaluating a decision tree -- Decision trees in R -- Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier -- Naïve Bayes in R. 
 
 {{{unit}}}
-|Unit III | STREAM MEMORY | 9 |
+|Unit III | DATA STREAM ANALYSIS | 9 |
 Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions.
 
 {{{unit}}}

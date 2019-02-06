@@ -1,4 +1,4 @@
-* <<<PE106>>> WIRELESS  ADHOC AND SENSOR NETWORKS 
+* <<<PE106>>> WIRELESS ADHOC AND SENSOR NETWORKS 
 :properties:
 :author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :end:
@@ -65,7 +65,6 @@ After the completion of this course, students will be able to:
 
 
 ** Text Books 
-
 1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks – Architectures and
 Protocols'', Pearson Education, 2006.
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',
