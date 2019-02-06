@@ -24,7 +24,7 @@ Introduction: Expert Systems & AI -- Examples -- Separating Knowledge & Inferenc
 
 {{{unit}}}
 |Unit II|LOGIC & REASONING |10|
-Logic and Resolution: Propositional Logic -- First Order Logic -- Clausal Form of Logic; Reasoning in Logic -- Resolution and Propositional Logic -- Resolution and First Order Logic -- Resolution Strategies -- Implementation of  SLD Resolution -- Applying Logic for building Expert Systems.
+Logic and Resolution: Propositional Logic -- First Order Logic -- Clausal Form of Logic -- Reasoning in Logic -- Resolution and Propositional Logic -- Resolution and First Order Logic -- Resolution Strategies -- Implementation of  SLD Resolution -- Applying Logic for building Expert Systems.
 
 
 {{{unit}}}
