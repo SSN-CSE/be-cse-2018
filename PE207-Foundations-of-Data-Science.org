@@ -20,7 +20,7 @@
 
 {{{unit}}}
 |Unit I | <Data Science and Python> | <9> |
-Introduction:  Computational tools   --  Why data science?  -- Causality and experiments;
+Introduction:  Computational tools   --  Need for data science  -- Causality and experiments;
 Python: Array computing  --  Vectors  --  Basics of numerical Python arrays  --  Vectorization  --  Advanced vectorization of functions  --  Matrices and arrays  -- Reading and writing spreadsheet files;  Visualization: Graphs and tables.
 
 {{{unit}}}
@@ -37,7 +37,7 @@ Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means
 
 {{{unit}}}
 |Unit V | <Topic Models and Graphical Models> | <9> |
-Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields
+Topic Models -- Idealized Model -- Nonnegative Matrix Factorization --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields.
 
 \hfill *Total: <45>*
 
@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
  
  ** Text Books
 1. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
-2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook 2017.  
+2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook, 2017.  
 
 
 ** Reference Books:
