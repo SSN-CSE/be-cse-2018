@@ -18,27 +18,22 @@
 - To explore various IR applications using case studies 
 
 {{{unit}}}
-
 |Unit I|Introduction and Modeling|9| 
 Basic Concepts: Retrieval process -- Architecture – Boolean retrieval; IR Models: Taxonomy and characterization of IR models -- Classical IR models --  Alternative algebraic models; Models for Browsing; Retrieval Evaluation: Performance evaluation.
 
 {{{unit}}}
-
 |Unit II|Indexing and Querying|9| 
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays -- Compression; Querying: Query languages -- Query operations: Relevance feedback and query expansion - Automatic local and global analysis. 
 
 {{{unit}}}
-
 |Unit III|Searching|9| 
 Searching: Sequential searching -- Pattern matching; Searching the Web: Characteristizing the Web -- Search engines -- Browsing -- Searching using hyperlinks.
 
 {{{unit}}}
-
 |Unit IV|Classification and Clustering|9| 
 Text Classification: Naïve Bayes; Vector Space Classification: Rocchio -- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based clustering; Hierarchical Clustering; Matrix Decompositions and Latent Semantic Indexing.
 
 {{{unit}}}
-
 |Unit V|Applications|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR -- Digital Libraries -- Social Media Retrieval -- Content-based Image Retrieval -- Online Public Access Catalogs (OPACs).
 
