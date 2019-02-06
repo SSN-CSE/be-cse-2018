@@ -1,7 +1,7 @@
 * <<<PE207>>> FOUNDATIONS OF DATA SCIENCE
 :properties:
 :author: Ms. S. Rajalakshmi  and Dr. J. Bhuvana
-:date: 10-11-2018
+:date: 
 :end:
 
 #+startup: showall
@@ -15,7 +15,7 @@
 - To identify probability distributions and statistical Inferences used for statistical modeling.
 - To obtain necessary knowledge in supervised and unsupervised methods of machine learning.
 - To explore the algorithms used for analysing  massive data problems and social networks.
-- To learn various dimensionality reduction techniques.. 
+- To learn about topic and graphical models. 
 
 
 {{{unit}}}
@@ -36,8 +36,8 @@ Perceptron algorithm --   Kernel functions --   Overfitting and uniform converge
 Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means clustering --  Spectral clustering  --  Community finding --  Graph partitioning. 
 
 {{{unit}}}
-|Unit V | <Social Networks and  Dimensionality Reduction> | <9> |
-Social networks as graph --  Clustering of social network graphs  --  Direct discovery of communities; Dimensionality reduction:  Principal Component Analysis --   Singular Value Decomposition -- CUR decomposition.
+|Unit V | <Topic Models and Graphical Models> | <9> |
+Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian or Belief Networks -- Markov Random Fields
 
 \hfill *Total: <45>*
 
@@ -48,17 +48,17 @@ After the completion of this course, students will be able to:
 - Explain various probability distributions and statistical inferences. (K2)
 - Develop applications to demonstrate machine learning algorithms in practice. (K3)
 - Understand the principles of handling data streams. (K2)
-- Apply  various dimensionality reduction techniques in real world problem.(K3)
+- Discuss topic and graphical modeling techniques in real world problem.(K2)
  
  ** Text Books
-1. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'' (Online).  (Unit- I, II)
-2. Hans Petter Langtangen, ``A Primer on Scientific Programming with Python'', 4th Edition, Springer, 2016. (Unit - I)
-3. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016. (Unit-III, Unit- IV)
-4. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of Massive Datasets'', V2.1, Cambridge University Press, 2014. (Unit-V)
+1. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science''.  
+2. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
 
 ** Reference Books:
-1. Jonathan Dinu, ``Foundations of Data Science: A Practical Introduction to Data Science with Python'', Addison-wesley Data & Analytics Series, 2016.
-2. Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
-3. EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
-4. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly. 2014.
-5. Trevor Hastie, Robert Tibshirani and Jerome Friedman. ``Elements of Statistical Learning'', Second Edition. ISBN 0387952845. 2009.
+1. Hans Petter Langtangen, ``A Primer on Scientific Programming with Python'', 4th Edition, Springer, 2016. 
+2. Jonathan Dinu, ``Foundations of Data Science: A Practical Introduction to Data Science with Python'', Addison-wesley Data & Analytics Series, 2016.
+3. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of Massive Datasets'', V2.1, Cambridge University Press, 2014.
+4. EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
+5. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly. 2014.
+
+
