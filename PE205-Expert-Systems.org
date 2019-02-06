@@ -58,8 +58,8 @@ After the completion of this course, students will be able to:
 2. Joseph C. Giarratano, “Expert Systems: Principle & Programming”, Cengage Learning - 4th Edn., 2007.
 
 ** References:
-1. Donald Waterman, “A Guide to Expert Systems”, Pearson Education, 1986
-2. Mathew Beard, “Expert Systems: An Introduction”, Self-published, 2014
-3. Peter Jackson, “Introduction to Expert Systems”, Pearson Education, 2002
-4. Dan W Patterson, “Introduction to Artificial Intelligence and Expert Systems”, Pearson Education, 2007
-5. V. Daniel Hunt, “Artificial Intelligence and Expert Systems Sourcebook”, Springer-Verlag, 2011
+1. Donald Waterman, “A Guide to Expert Systems”, Pearson Education, 1986.
+2. Mathew Beard, “Expert Systems: An Introduction”, Self-published, 2014.
+3. Peter Jackson, “Introduction to Expert Systems”, Pearson Education, 2002.
+4. Dan W Patterson, “Introduction to Artificial Intelligence and Expert Systems”, Pearson Education, 2007.
+5. V. Daniel Hunt, “Artificial Intelligence and Expert Systems Sourcebook”, Springer-Verlag, 2011.
