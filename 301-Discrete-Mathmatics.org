@@ -13,16 +13,15 @@
 ** Course Objectives
 - Understand the classical logic, implications and equivalences,
   normal forms and its applications.
-- Identify the different proof techniques and solve problems using
-  them.
-- Have a knowledge of the concepts in graph theory.
-- Have a clear understanding of group theory.
-- Understand the concept of lattices and solve problems using them.
+- Learn Mathematical Induction.
+- Learn the basic concepts in graph theory and prove simple properties.
+- Understand the basics of group theory.
+- Understand the basics of lattices and Boolean algebra.
 
 {{{unit}}}
 |Unit I | LOGIC AND PROOFS  | 13 |
 Propositional Logic - Propositional equivalences - Predicates and
-Quantifiers - Nested Quantifiers - Rules of inference - Introduction
+quantifiers - Nested quantifiers - Rules of inference - Introduction
 to proofs - Proof methods and strategy - Normal forms - Applications
 to switching circuits.
 
@@ -30,7 +29,7 @@ to switching circuits.
 |Unit II | COMBINATORICS | 11 |
 Mathematical induction - Strong induction - The pigeonhole principle -
 Recurrence relations - Solving linear recurrence relations using
-generating functions -Inclusion and Exclusion Principle and its
+generating functions - Inclusion and Exclusion Principle and its
 applications.
 
 {{{unit}}}
@@ -56,12 +55,11 @@ algebra - Stone’s representation Theorem.
 
 ** Course Outcomes
 On studying this course, the students will able to:
-- Apply logical identities and implications in deriving the
-  conclusion.
-- Solve problems using different mathematical techniques.
-- Have a clear understanding of graph theory.
-- Exposed to concepts and properties of algebraic structures such as
-  semi groups, monoids and groups.
+- Write simple proofs using Propositioal and First-Order Logics.
+- Write simple proofs using mathematical induction.
+- Prove simple graph properties.
+- Explain basic concepts in group theory such as semi groups, monoids
+  and groups.
 - Solve problems in partial ordering relations, equivalence relations
   and lattices.
 
