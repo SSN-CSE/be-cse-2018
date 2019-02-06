@@ -43,9 +43,9 @@ SUGGESTIVE EXPERIMENTS
 5. Implementation of Simple Code Optimization Techniques (Constant Folding, Strength reduction and Algebraic transformation)
 6. Consider a simple program as an input and process this code to print the intermediate code after every phase. It is necessary to print the output of lexical, syntax, semantic, intermediate code generation, code optimization and code generation phases
 
-\hfill Theory: 45 Hours
-\hfill Practical: 30 Hours
-\hfill Total: 75 Hours
+\hfill *Theory Hours: 45* 
+\hfill *Practical Hours: 30*
+\hfill *Total Hours: 75*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
