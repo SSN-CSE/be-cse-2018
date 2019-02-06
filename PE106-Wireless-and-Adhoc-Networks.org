@@ -1,4 +1,4 @@
-* <<<PE106>>> WIRELESS AND ADHOC NETWORKS 
+* <<<PE106>>> WIRELESS  ADHOC AND SENSOR NETWORKS 
 :properties:
 :author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :end:
@@ -11,9 +11,10 @@
 
 ** Course Objectives
 - To learn about the issues and challenges in the design of wireless ad hoc networks.
-- To understand the working of MAC and Routing Protocols for ad hoc and sensor networks
+- To understand the working of MAC Protocols for ad hoc and sensor networks
+- To understand the working of Routing Protocols for ad hoc and sensor networks
 - To learn about the Transport Layer protocols and their QoS for ad hoc and sensor
-networks.
+  networks.
 - To understand various security issues in ad hoc and sensor networks and the
 corresponding solutions.
 
@@ -55,21 +56,27 @@ Sensor Network Security Protocols -- SPINS
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Identify different issues in wireless ad hoc and sensor networks .
-- To analyze protocols developed for ad hoc and sensor networks .
-- To identify and understand security issues in ad hoc and sensor networks. 
-      
-** References
+- Identify different issues in wireless ad hoc and sensor networks .(K2)
+- Analyze the MAC protocols developed for ad hoc and sensor networks .(K2)
+- Understand the working of routing protocols for ad hoc and sensor networks(K2)
+- AnalyseTransport Layer protocols and their QoS  and to apply them for ad hoc and sensor
+  networks.(K3)
+- Identify and understand security issues in ad hoc and sensor networks. (K2)
+
+
+** Text Books 
 
 1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks – Architectures and
 Protocols'', Pearson Education, 2006.
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',
  John Wiley & Sons, Inc., 2005.
-3.Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'',
+
+** References
+1.Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'',
 Auerbach Publications, 2008.
-4. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory
+2. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory
 and Applications (2nd Edition)'', World Scientific Publishing, 2011.
-5. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks
+3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks
 Theory and Practice'', John Wiley and Sons, 2010
-6. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227
+4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227
 th edition, Cambridge university Press,2008.
