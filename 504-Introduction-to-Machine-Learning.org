@@ -17,11 +17,11 @@
 
 {{{unit}}}
 |Unit I | INTRODUCTION  | 9 |
-Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
+Introduction to Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
 
 {{{unit}}}
 |Unit II | SUPERVISED LEARNING  | 9 |
-Multi-layer Perceptron: Forward propagation -- Back-propagation of error -- MLP in practice: Data preparation -- Hidden layers -- Generalization and overfitting -- Training, testing, validation and evaluation ; Support Vector Machines; Learning with Trees: Constructing decision trees -- Classification and Regression trees; Ensemble learning.
+Multi-layer Perceptron: Feed forward -- Back-propagation of error -- MLP in practice: Data preparation -- Hidden layers -- Generalization and overfitting -- Training, testing, validation and evaluation ; Support Vector Machines; Learning with Trees: Constructing decision trees -- Classification and Regression trees; Ensemble learning.
 
 {{{unit}}}
 |Unit III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
