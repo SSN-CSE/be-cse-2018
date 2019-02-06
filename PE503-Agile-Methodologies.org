@@ -36,7 +36,7 @@ Scrum: Method Overview -- Life cycle -- Work products – Values -- Roles and Pr
 
 
 {{{unit}}}
-|Unit V|Agile Testing and Quality Assurancet|9|
+|Unit V|Agile Testing and Quality Assurance|9|
 Agile testing: Nine principles and six concrete practices for testing on agile teams; Agile Metrics:  Feature Driven Development (FDD) -- Financial and production metrics in FDD --Agile approach to Quality Assurance -- Test Driven Development; Pair Programming: Issues and challenges -- Agile approach to global software development; Story cards based Requirements engineering Maturity Model (SMM).
 
 \hfill *Total: 45*
