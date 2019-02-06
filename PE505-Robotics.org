@@ -46,11 +46,11 @@ Application of Machine learning - AI, Expert systems; Tele-robotics and Virtual 
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Explain the concepts of industrial robots in terms of classification, specifications and coordinate systems, along with the need and application of robots & automation (K2).
-- Examine different sensors and actuators for applications like maze solving and self driving cars (K2).
-- Design a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots (K3).
-- Explain navigation and path planning techniques along with the control architectures adopted for robot motion planning (K2).
-- Describe the impact and progress in AI and other research trends in the field of robotics (K2).
+- Understand the concepts of industrial robots(K2)
+- Examine different sensors and actuators for applications like maze solving and self driving cars(K2).
+- Design a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots(K3).
+- Understand the navigation and path planning techniques for robot motion planning(K2)
+- Undertstand the impact and progress of AI in the field of robotics(K2).
 
 ** Text Books
 
