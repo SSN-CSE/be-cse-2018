@@ -20,11 +20,11 @@ The student should be made to:
 
 {{{unit}}}
 |Unit I |Introduction| 9 |
- Introduction to mobile computing - MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN:Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
+ Introduction to mobile computing - MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
 
 {{{unit}}}
 |Unit II | Network Layer | 9 |
-Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and Encapsulation – Optimizations;  AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
+Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and Encapsulation – Optimizations;  AdHoc: Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
 
 {{{unit}}}
 |Unit III | Transport and Application Layer | 9 |
@@ -32,7 +32,7 @@ Traditional TCP – Classical TCP improvements; Wireless Application Protocol: W
 
 {{{unit}}}
 |Unit IV | Mobile Telecommunication System | 9 |
-Introduction - Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS) – Universal Mobile Telecommunication System (UMTS): UMTS system architecture - UTRAN - Core network – Handover.
+Introduction - Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS); Universal Mobile Telecommunication System (UMTS): UMTS architecture - UTRAN - Core network – Handover.
 
 {{{unit}}}
 |Unit V | Mobile Platforms and Application Environments | 9 |
