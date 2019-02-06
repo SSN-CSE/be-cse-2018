@@ -60,6 +60,6 @@ After the completion of this course, students will be able to:
 2. Jonathan Dinu, ``Foundations of Data Science: A Practical Introduction to Data Science with Python'', Addison-wesley Data & Analytics Series, 2016.
 3. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of Massive Datasets'', V2.1, Cambridge University Press, 2014.
 4. EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
-5. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly. 2014.
+5. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly, 2014.
 
 
