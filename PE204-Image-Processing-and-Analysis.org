@@ -1,7 +1,7 @@
 * <<<PE204>>> IMAGE PROCESSING AND ANALYSIS
 :properties:
 :author: Ms. R. Priyadharsini and Ms. K. Lekshmi
-:date: 
+:date:  
 :end:
 
 #+startup: showall
