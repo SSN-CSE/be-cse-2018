@@ -36,8 +36,8 @@ After the completion of this course, students will be able to:
       
 ** References
 W3schools.org
-*Software Required
+- Software Required
 Java, MySQL, Wamp Server, NetBeans or Eclipse
-*Hardware Required
+- Hardware Required
 Desktop machines
 
