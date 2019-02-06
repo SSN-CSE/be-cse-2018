@@ -19,34 +19,31 @@
 
 {{{unit}}}
 |Unit I | Digital Image Fundamentals | 9 |
-Introduction to Digital Image Processing - Components -  Image Sensing and Acquisition -
-Image Sampling and Quantization - Relationships between pixels - Two-dimensional mathematical preliminaries -
-Image Operations: Arithmetic, Logical, Statistical and Spatial Operations.
+Introduction to Digital Image Processing: Components -  Image Sensing and Acquisition -
+Image Sampling and Quantization; Relationships between pixels - 2D mathematical preliminaries;
+Image Operations: Arithmetic - Logical - Statistical - Spatial Operations.
 
 {{{unit}}}
 |Unit II | Image Enhancement | 9 |
-Spatial Domain: Gray level transformations -– Histogram processing -– Basics of Spatial Filtering -–
-Smoothing and Sharpening Spatial Filtering -- Frequency Domain: Introduction to Fourier Transform:
-Smoothing and Sharpening frequency domain filters –- Ideal, Butterworth and Gaussian filters -- Homomorphic filtering.
+Spatial Domain: Gray level transformations - Histogram processing; Basics of Spatial Filtering; 
+Smoothing and Sharpening Spatial Filtering; Frequency Domain: Introduction to Fourier Transform; 
+Smoothing and Sharpening frequency domain filters: Ideal - Butterworth - Gaussian filters; Homomorphic filtering.
 
 {{{unit}}}
 |Unit III | Image Restoration | 9 |
-Image Restoration: degradation model, Properties -- Noise models: Mean Filters -– Order Statistics -– 
-Adaptive filters –- Band reject Filters –- Band pass Filters –- Notch Filters –- Optimum Notch Filtering –- 
-Inverse Filtering –- Wiener filtering
+Image Restoration: Degradation model; Noise models; Restoration in the presence of noise using spatial filtering: Mean Filters - Order Statistics - Adaptive filters; Periodic noise reduction by frequency domain filtering: Band reject Filters - Band pass Filters - Notch Filters - Optimum Notch Filtering; Inverse Filtering; Wiener filtering.
 
 {{{unit}}}
 |Unit IV | Image Segmentation | 9 |
-Edge detection -- Edge linking via Hough transform –- Thresholding: Intensity thresholding, Otsu's thresholding --
-Region based segmentation : Region growing –- Region splitting and merging –- Morphological processing: 
-erosion and dilation -- Segmentation by morphological watersheds: basic concepts, Dam construction, 
+Edge detection; Edge linking via Hough transform; Thresholding: Intensity thresholding - Otsu's thresholding;
+Region based segmentation: Region growing - Region splitting and merging; Morphological processing: 
+erosion and dilation; Segmentation by morphological watersheds: basic concepts - Dam construction - 
 Watershed segmentation algorithm.
 
 {{{unit}}}
 |Unit V | Feature Analysis And Object Recognition | 9 |
-Boundary representation -- Boundary description: Fourier Descriptor, Regional Descriptors -– Topological feature --
-Object recognition: Patterns and Pattern classes -- Recognition based on matching -- Case Study: Image recognition: 
-Face recognition
+Boundary representation; Boundary descriptors: Fourier Descriptor - Regional Descriptors - Texture - Relational Descriptors;
+Object recognition: Patterns and Pattern classes; Recognition based on decision theoretic methods; Case Study for Image recognition: Face recognition
 
 \hfill *Total: 45*
 
