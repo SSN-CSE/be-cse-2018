@@ -11,31 +11,78 @@
 | 3 | 0 | 2 | 4 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- Understand the classical logic, implications and equivalences,
+  normal forms and its applications.
+- Identify the different proof techniques and solve problems using
+  them.
+- Have a knowledge of the concepts in graph theory.
+- Have a clear understanding of group theory.
+- Understand the concept of lattices and solve problems using them.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit I | LOGIC AND PROOFS  | 13 |
+Propositional Logic - Propositional equivalences - Predicates and
+Quantifiers - Nested Quantifiers - Rules of inference - Introduction
+to proofs - Proof methods and strategy - Normal forms - Applications
+to switching circuits.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit II | COMBINATORICS | 11 |
+Mathematical induction - Strong induction - The pigeonhole principle -
+Recurrence relations - Solving linear recurrence relations using
+generating functions -Inclusion and Exclusion Principle and its
+applications.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit III | GRAPHS | 10 |
+Graphs - Graph terminology and special types of graphs - Subgraphs -
+Matrix representation of graphs and graph isomorphism - Connectivity -
+Eulerian and Hamilton graphs.
 
+{{{unit}}}
+|Unit IV | ALGEBRAIC STRUCTURES | 13 |
+Algebraic systems - Semi groups and monoids - Groups - Subgroups
+Homomorphisms - Normal subgroup and coset - Lagrange’s theorem -
+Definitions and examples of Rings and Fields.
 
-\hfill *Total: <Total Hours>*
+{{{unit}}}
+|Unit V | LATTICES AND BOOLEAN ALGEBRA | 13 |
+Partial ordering - Posets - Lattices as Posets - Properties of
+lattices - Lattices as algebraic systems - Sub lattices - Direct
+product and Homomorphism - Distributive and Modular lattices - Boolean
+algebra - Stone’s representation Theorem.
+
+*Total*: 60 periods
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
+On studying this course, the students will able to:
+- Apply logical identities and implications in deriving the
+  conclusion.
+- Solve problems using different mathematical techniques.
+- Have a clear understanding of graph theory.
+- Exposed to concepts and properties of algebraic structures such as
+  semi groups, monoids and groups.
+- Solve problems in partial ordering relations, equivalence relations
+  and lattices.
+
+** Text Books
+1. Kenneth H. Rosen, ``Discrete Mathematics and its Applications'', Tata
+   McGraw Hill Pub. Co. Ltd., New Delhi, 7th Edition, Special Indian
+   edition, 2017.
+2. Tremblay J. P. and Manohar R., ``Discrete Mathematical Structures
+   with Applications to Computer Science'', Tata McGraw Hill
+   Pub. Co. Ltd, New Delhi, 30th Reprint, 2011.
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Ralph. P. Grimaldi, ``Discrete and Combinatorial Mathematics: An
+   Applied Introduction'', Pearson Education Asia, Delhi, 4th
+   Edition, 2007.
+2. Thomas Koshy, ``Discrete Mathematics with Applications'', Elsevier
+   Publications, 2006.
+3. Seymour Lipschutz and Mark Lipson, ``Discrete Mathematics'',
+   Schaum's Outlines, Tata McGraw Hill Pub. Co. Ltd., New Delhi, 3rd
+   Edition, 2010.
+4. C. L. Liu, D. P. Mohapatra, ``Elements of Discrete Mathematics'',
+   McGraw Higher Ed., 4th Edition, 2012.
+5. John. M. Harris, Jeffry. L. Hirst, Michael. J. Mossinghoff,
+   ``Combinatorics and Graph Theory'', Verlag New York, 2008.
