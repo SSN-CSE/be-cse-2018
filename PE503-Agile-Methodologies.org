@@ -12,7 +12,7 @@
 
 ** Course Objectives
 - To understand the basic concepts of Agile software process.
-- To gain knowledge in agile requirement engineering.
+- To gain knowledge about agile requirement engineering.
 - To learn Planning and management in agile software development.
 - To gain knowledge in various agile methodologies.
 - To learn the principles of agile testing and Quality assurance. 
@@ -43,10 +43,11 @@ Agile testing: Nine principles and six concrete practices for testing on agile t
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Compare evolutionary, iterative and adaptive development (K2).
-- Apply agile software process in requirement Engineering (K3).
-- Apply agile methodologies for software design(K3).
-- Apply agile based testing and quality assurance(K3).
+- Understand evolutionary, iterative and adaptive development methods (K2).
+- Apply agile software process in requirement engineering (K3).
+- Understand agile methods for project planning and developement (K2).
+- Apply agile methodologies for software design (K3).
+- Apply agile based testing and quality assurance (K3).
 
 
 
