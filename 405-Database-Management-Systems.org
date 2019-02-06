@@ -46,11 +46,11 @@ Transaction Processing: Concepts -- ACID properties -- schedules -- serializabil
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 
-- Understand the database concepts  and apply ER models to  any real world application-(K3)
-- Apply data definition and complex SQL queries - (K3)
-- Write database program for a real-time application -(K3)
-- Design Databases for applications using normalization and ER to Relational mapping - (K3)
-- Apply transaction processing, concurrency control and recovery mechanisms for practical problems. (K3)
+- Understand the database concepts and apply ER models to  any real world application(K3)
+- Apply data definition and complex SQL queries(K3)
+- Develop a database program for real-time application(K3)
+- Design Databases for applications using normalization and ER to Relational mapping(K3)
+- Apply transaction processing, concurrency control and recovery mechanisms for practical problems(K3)
 
 ** Text Books
  
