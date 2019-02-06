@@ -38,7 +38,7 @@ Introduction - Global System for Mobile Communication (GSM): Mobile services -Sy
 |Unit V | Mobile Platforms and Application Environments | 9 |
 iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture- Developing Android Applications- Anatomy of Android Applications– Android SDK; Windows Phone: Platform Architecture - Silverlight Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native vs Hybrid - Mobile Web Application Frameworks.
 
-\hfill *Total: <Total Hours>*
+\hfill *Total Hours: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
