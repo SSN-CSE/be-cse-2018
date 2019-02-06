@@ -11,44 +11,33 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To develop web applications using client and server side technologies
-- To develop  interactive web applications
--	To develop web applications using recent technologies
+- To develop web applications using traditional client and server end technologies
+- To develop web applications using javascript based frameworks
 
-List of Experiments
-1.	Create a web page to display your Bio-Data using Table, Lists, Image and anchor elements
-2.	Create a Newspaper Web Page using HTML5 semantic elements
-3.	Incorporate inline, embedded and external style sheets for the developed Newspaper Web Page.
-4.	Create a rectangular box object and apply CSS3 transformation, transition and animation concepts.
-5.	Create an innovative website for the International Conference using HTML5 and CSS3 elements.
-6.	Create an Interactive Registration Form with javascript event handling mechanisms like onload(), onfocus(), onblur(), onclick(), onmouseover() and onmouseup().
-7.	Develop a basic PHP application to retrieve the data provided in Interactive Registration Form and display them in tabular format.
-8.	Develop a User Authentication PHP database application to authenticate the user by his name and password.  
-9.	Develop a MVC based web application for a Super Market Billing System using PHP and MySQL. Use cookies as part of the web application.
-10.	Develop a MVC based web application for a Banking System using PHP and MySQL. Use file system as part of the web application.
-11.	Develop a MVC based web application for Railway Reservation System using AngularJS and NodeJS.
-12.	Develop a MVC based web application for Library Management System using AngularJS and NodeJS.
-13.	Develop a Popup Menu Application in AJAX using javascript, DHTML and XMLHttpRequest object to perform GET or POST request and return a result without reloading the HTML page.
-14.	Create a SOAP based web service using a simple Java Class with the basic operations like ‘add’, ‘subtract’, ‘multiply’ and ‘divide’ operations. Create a web service client to consume and display the result of the web service.
-15.	Develop a web service for Airline Management and implement the following scenario using the database
-a.	Check the availability of tickets
-b.	Search whether a passenger has travelled on a particular date
+** List of Experiments
+- Create a web page using Table, Lists, Image and anchor elements (Ex: Bio-Data)
+- Create website for the International Conference using HTML5 and CSS3 elements.
+- Program for validation of registration form using event handling mechanisms of javascript
+- Develop a web application to authenticate the user with servlet and MySQL
+- Develop a web application using sessions and servlet (Ex: Online Shopping application)
+- Develop a web application using servlet, cookies and MySQL (Ex: Super Market Billing System)
+- Develop a Popup Menu Application in AJAX using javascript, DHTML and XMLHttpRequest object to perform GET or POST request and return a result without reloading the HTML page.
+- Develop a web application using AngularJS and NodeJS. (Ex: Railway Reservation System)
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Design websites using HTML, CSS and Javascript
--	Develop MVC based web application using PHP
--	Design rich client presentation using AJAX 
--	Develop MVC based web application using AngularJS and NodeJS
--	Develop and consume web services
+- Design websites using HTML5 and CSS3 (K3)
+- Develop MVC based web application using Servlets (K3)
+- Develop responsive application using AJAX (K3)
+- Develop web applications using AngularJS and NodeJS frameworks (K3)
 
       
 ** References
 W3schools.org
-Software Required
+*Software Required
 Java, MySQL, Wamp Server, NetBeans or Eclipse
-Hardware Required
+*Hardware Required
 Desktop machines
 
