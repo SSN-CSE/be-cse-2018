@@ -48,3 +48,5 @@ After the completion of this course, students will be able to:
 ** References
 1. Salman Khan, Hossein Rahmani, Syed Afaq Ali Shah, Mohammed Bennamoun, "A Guide to Convolutional Neural Networks for Computer Vision", Synthesis Lectures on Computer Vision, Morgan & Claypool publishers, 2018.
 2. Yoav Goldberg, "Neural Network Methods for Natural Language Processing", Synthesis Lectures on Human Language Technologies, Morgan & Claypool publishers, 2017.
+3. Francois Chollet, "Deep Learning with Python", Manning Publications Co., 2018.
+4. Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer International Punlishing, 2018.
