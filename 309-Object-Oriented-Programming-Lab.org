@@ -13,7 +13,7 @@
 ** Course Objectives
 - To build software development skills using object oriented programming for real world applications.
 - To develop applications using inheritance and polymorphism.
-- To develop applications using generic methods and programming.
+- To understand and implement generic programming.
 
 ** List of experiments
 1. Program using classes and objects (Ex: Electricity bill generation)
@@ -22,10 +22,9 @@
 4. Program using Inheritance (Ex: Payroll application)
 5. Prgram to implement Polymorphism (Ex. Area of different shapes)
 6. Program to implement generic methods (Ex: Sorting)
-7. Design a Java interface for ADT Stack. Implement this interface using array. Provide necessary exception handling.
-8. Write a Java program that reads a file name from the user and displays its content (using stream), its existence, permission,   
-   type, length in bytes. 
-9. Develop a mini project for any application using the concepts of Java. 
+7. Design a Java interface for ADTs. (Ex. Stack, Queue) 
+8. Program to perform file operations. (Ex.existence, permission,type, length in bytes) 
+9. Develop a mini project for any application using the constructs of Java. 
 
 
 \hfill *Total: 45*
@@ -34,8 +33,8 @@
 After the completion of this course, students will be able to: 
 - Develop applications using classes and methods.(K3)
 - Apply interface and inheritance concepts to write programs.(K3)
-- Experment the concepts of polymorphsim (K3)
+- Experiment the concepts of polymorphsim. (K3)
 - Design applications using generic methods and generic programming.(K3)
-- Apply appropriate features of oop programming paradigm to design mini project. 	(K3)
+- Apply appropriate features of oop programming paradigm to design mini project.(K3)
       
 
