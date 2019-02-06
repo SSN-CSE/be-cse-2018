@@ -56,6 +56,7 @@ After the completion of this course, students will be able to:
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012. 
 3. Richert, Willi, ``Building machine learning systems with Python'', Packt Publishing Ltd, 2013.
 4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
+5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from Data'', AMLBook Publishers, 2012.
 
 
 
