@@ -37,7 +37,7 @@ Mining frequent itemsets : Market based model -- Apriori algorithm  -- Handling 
 |Unit V | NOSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for data manipulation -- Key Value stores -- Document stores -- Tabular stores -- Object data stores -- Graph databases  -- Hive -- Sharding –- Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big data for blogs. 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
