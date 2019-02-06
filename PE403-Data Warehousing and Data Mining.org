@@ -71,6 +71,6 @@ Upon the completion of the course the students should be able to:
    Prentice Hall of India, 2006.
 4. Daniel T.Larose, “Data Mining Methods and Models”, Wile-Interscience, 2006
 5. Ian H.Witten and Eibe Frank, ― Data Mining: Practical Machine Learning Tools and Techniques,
-   Elsevier, Second Edition.
+   Elsevier, Second Edition, 2016.
 
 
