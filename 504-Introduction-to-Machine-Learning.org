@@ -17,7 +17,7 @@
 
 {{{unit}}}
 |Unit I | INTRODUCTION  | 9 |
-Introduction to Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
+Introduction: Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
 
 {{{unit}}}
 |Unit II | SUPERVISED LEARNING  | 9 |
