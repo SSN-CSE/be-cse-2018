@@ -17,25 +17,25 @@
 - To gain knowledge in various agile methodologies.
 - To learn the principles of agile testing and Quality assurance. 
 
-{{{unit}}}
+
 |Unit I|Introduction|9| 
 Iterative and evolutionary development; Introduction to Agile: Agile development -- Classification of methods -- Agile manifesto and principles -- Communication and feedback -- Specific agile methods -- agile modelling;  Theories for agile management; Management accounting for systems; Agile Project Management: Traditional versus RAD model for project management -- Task planning and effort tracking -- The project manager’s new work.
 
 
-{{{unit}}}
+
 |Unit II |Requirements Engineering for Agile Methods |9| 
 Traditional and agile requirement engineering; Methods and Tools for Agile Practitioners: Requirements elicitation -- Requirements representation and documentation -- Requirements analysis, Requirements management; Agile Approaches to Requirements Engineering: The customer -- Waste in requirements -- Requirements evolution -- Non-Functional requirements; Tools for Requirements Management in AMs.
 
-{{{unit}}}
+
 |Unit III|Agile Project Planning and Development Management|9| 
 Agile Project Planning: The Project buffer and its usage -- Logical collection of inventory -- Critical path -- Parallel path -- Critical chain -- Project tracking metrics;  Agile Development Management: Identifying and monitoring the flow -- Bottleneck; Agile Maturity Model: A new maturity model.
 
-{{{unit}}}
+
 |Unit IV| Agile Methods|9|
 Scrum: Method Overview -- Life cycle -- Work products – Values -- Roles and Practices -- Process mixtures --  Adoption strategies;  Extreme Programming; Unified Process; EVO.
 
 
-{{{unit}}}
+
 |Unit V|Agile Testing and Quality Assurance|9|
 Agile testing: Nine principles and six concrete practices for testing on agile teams; Agile Metrics:  Feature Driven Development (FDD) -- Financial and production metrics in FDD --Agile approach to Quality Assurance -- Test Driven Development; Pair Programming: Issues and challenges -- Agile approach to global software development; Story cards based Requirements engineering Maturity Model (SMM).
 
