@@ -42,25 +42,25 @@ SUGGESTIVE EXPERIMENTS
 4. Extend the Lexical Analyzer to implement symbol table
 5. Implementation of Simple Code Optimization Techniques (Constant Folding, Strength reduction and Algebraic transformation)
 6. Consider a simple program as an input and process this code to print the intermediate code after every phase. It is necessary to print the output of lexical, syntax, semantic, intermediate code generation, code optimization and code generation phases
+
 \hfill *Theory: <45 Hours>*
 \hfill *Practical: <30 Hours>*
 \hfill *Total: <75 Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Design a lexical analyzer for a sample language 						(K3)
-- Apply different parsing algorithm to develop the parsers for the given grammar 		(K3)
-- Write syntax directed translation for programming language constructs 			(K3)
-- Learn  to implement simple code generator 						        (K3)
-- Learn  to implement code optimization techniques 					        (K3)
+- Design a lexical analyzer for a sample language (K3)
+- Apply different parsing algorithm to develop the parsers for the given grammar(K3)
+- Write syntax directed translation for programming language constructs(K3)
+- Understand and implement simple code generator(K3)
+- Understand and implement code optimization techniques(K3)
 
       
-** References
-Text Books
+**Text Books
 1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, ``Compilers: Principles, Techniques and Tools'', Second Edition, Pearson Education, 2009
 2.Allen I. Holub, ``Compiler Design in C'', Prentice-Hall Software Series, 1993
 
-Reference Books
+**Reference Books
 1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern Architectures: A Dependence based Approach'', Morgan Kaufmann Publishers, 2002
 2. Steven S. Muchnick, ``Advanced Compiler Design and Implementation'', Morgan Kaufmann Publishers - Elsevier Science, India, Indian Reprint 2003
 3. Keith D Cooper and Linda Torczon, ``Engineering a Compiler'', Morgan Kaufmann Publishers Elsevier Science, 2004
