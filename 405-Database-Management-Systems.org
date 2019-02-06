@@ -1,0 +1,67 @@
+* <<<PE207>>> Database Management Systems
+:properties:
+:author: Mr.B. Senthilkumar and Dr. P. Mirunalini
+:date: 
+:end:
+
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+
+** Course Objectives
+
+- To introduce the fundamentals of Database systems and Conceptual Modeling .
+- To learn SQL and relational model.
+- To learn database programming and relational algebra.
+- To understand the relational database design.
+- To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
+
+
+{{{unit}}}
+|Unit I | <Database Concepts and Conceptual Modeling> | <8> |
+Characteristics of database -- Database users -- Data models -- Schemas: Three-schema architecture; Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
+
+{{{unit}}}
+|Unit II | <Relational Model and Basic SQL> | <10> |
+Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations ; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification; More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping
+
+{{{unit}}}
+|Unit III | <Database Programming and Relational Algebra> | <9> |
+Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Relational Algebra: Unary and binary relational operations -- Set theory operations -- Additional operations.
+
+{{{unit}}}
+|Unit IV | <Database Design> | <9> |
+Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms -- MVD and 4NF -- Join dependencies and 5NF ; FD: Inference rules, minimal cover -- Relational decomposition properties -- Algorithms for relational database schema design -- ER-to-relational mapping.
+
+{{{unit}}}
+|Unit V | <Transaction, Concurrency and Recovery> | <9> |
+Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery
+
+\hfill *Total: <45>*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+
+- Understand the database concepts  and apply ER models to  any real world application-(K3)
+- Apply data definition and complex SQL queries - (K3)
+- Write database program for a real-time application -(K3)
+- Design Databases for applications using normalization and ER to Relational mapping - (K3)
+- Apply transaction processing, concurrency control and recovery mechanisms for practical problems. (K3)
+
+
+** Text Books
+ 
+1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database Systems'', Pearson, 7th Edition, 2016. 
+
+
+** Reference Books:
+
+1. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011. 
+2. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database Systems'', Pearson Education, 3rd Edition, 2014.
+3. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database Management Systems '', (Studies in Computational Intelligence), Springer-Verlag, 2007.
+4. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw Hill, 4th Edition, 2010.
+5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, Database Systems:The Complete Book, 2e, Pearson.
