@@ -1,6 +1,6 @@
 * <<<OE1>>> OBJECT ORIENTED PROGRAMMING TECHNIQUES
 :properties:
-:author: 
+:author: B. Bharathi
 :end:
 
 #+startup: showall
@@ -12,7 +12,7 @@
 ** Course Objectives
 
 {{{unit}}}
-|Unit I | TITLE | <HOURS> |
+|Unit I |  | <HOURS> |
 
 {{{unit}}}
 |Unit II | TITLE | <HOURS> |
