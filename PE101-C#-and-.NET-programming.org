@@ -12,7 +12,7 @@
 ** Course Objectives
 - To learn the basic programming and the object oriented programming concepts in C#.
 - To write window based applications and web applications using ADO.NET and ASP.NET.
-- To understand the basics of assemblies, communication and workflow framework. 
+- To understand the basics of assemblies and .Net frameworks for communication and workflow. 
   
 
 {{{unit}}}
