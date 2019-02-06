@@ -33,7 +33,7 @@
 After the completion of this course, students will be able to: 
 - Develop applications using classes and methods.(K3)
 - Apply interface and inheritance concepts to write programs.(K3)
-- Experiment the concepts of polymorphsim. (K3)
+- Write programs using polymorphsim. (K3)
 - Design applications using generic methods and generic programming.(K3)
 - Apply appropriate features of oop programming paradigm to design mini project.(K3)
       
