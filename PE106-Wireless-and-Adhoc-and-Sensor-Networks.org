@@ -56,7 +56,7 @@ After the completion of this course, students will be able to:
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',  John Wiley & Sons, Inc., 2005.
 
 ** References
-1.Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'', Auerbach Publications, 2008.
+1. Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'', Auerbach Publications, 2008.
 2. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory and Applications (2nd Edition)'', World Scientific Publishing, 2011.
 3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks Theory and Practice'', John Wiley and Sons, 2010
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227th edition, Cambridge university Press,2008.
