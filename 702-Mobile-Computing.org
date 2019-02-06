@@ -20,6 +20,7 @@ The student should be made to:
 
 {{{unit}}}
 |Unit I | Introduction | 9 |
+
  Introduction to mobile computing - MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
 
 {{{unit}}}
