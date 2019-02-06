@@ -19,7 +19,7 @@
 {{{unit}}}
 |Unit I|FOUNDATIONS|8|
 Introduction: What is AI; Intelligent Agents: Agents and environments -- Good behavior -- The nature of environments -- 
-Structure of agents; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence; Ai: The Present and Future: Agent Components -- Agent Architectures.
+Structure of agents; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence; AI: The Present and Future: Agent Components -- Agent Architectures.
 
 {{{unit}}}
 |Unit II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
@@ -40,7 +40,7 @@ Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability Notation 
 Learning from Examples: Forms of learning -- Supervised learning -- Learning decision trees; Reinforcement learning: Passive reinforcement learning -- Active reinforcement learning -- Applications of Reinforcement Learning. 
 
 
-\hfill *Total: 45*
+*Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
