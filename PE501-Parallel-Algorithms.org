@@ -56,3 +56,4 @@ After the completion of this course, students will be able to:
 2.	Ananth Grama, Anshul Gupta, George Karypis,Vipin Kumar "Introduction to Parallel Computing", 2nd Edition, Pearson, 2003. 
 3.	Fayez Gebali, "Algorithms and Parallel Computing", Wiley, 2011.
 4.	Kai Hwang, Naresh Jotwani, "Advanced Computer Architecture: Parallelism, Scalability, Programmability", Tata McGraw-Hill, 2001.
+5.  F. Thomson Leighton, "Introduction to Parallel Algorithms and Architectures", Morgan Kaufmann Publishers, 1992.
