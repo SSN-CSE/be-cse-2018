@@ -48,10 +48,11 @@ After the completion of this course, students will be able to:
 - Analyze sorting techniques for parallel models (K4)
 - Analyze searching techniques for parallel models (K4)
 
-      
-** References
+** Text Book
 1.	Salem G. Akl, “The Design and Analysis of Parallel Algorithms”, Prentice Hall, 1989. 
-2.	Henri Casanova, Arnaud Legrand, Yves Robert, "Parallel Algorithms" 1st Edition, CRC Press, 2008.
-3.	Ananth Grama, Anshul Gupta, George Karypis,Vipin Kumar "Introduction to Parallel Computing", 2nd Edition, Pearson, 2003. 
-4.	Fayez Gebali, "Algorithms and Parallel Computing", Wiley, 2011.
-5.	Kai Hwang, Naresh Jotwani, "Advanced Computer Architecture: Parallelism, Scalability, Programmability", Tata McGraw-Hill, 2001.
+
+** References
+1.	Henri Casanova, Arnaud Legrand, Yves Robert, "Parallel Algorithms" 1st Edition, CRC Press, 2008.
+2.	Ananth Grama, Anshul Gupta, George Karypis,Vipin Kumar "Introduction to Parallel Computing", 2nd Edition, Pearson, 2003. 
+3.	Fayez Gebali, "Algorithms and Parallel Computing", Wiley, 2011.
+4.	Kai Hwang, Naresh Jotwani, "Advanced Computer Architecture: Parallelism, Scalability, Programmability", Tata McGraw-Hill, 2001.
