@@ -11,39 +11,39 @@
 
 ** Course Objectives
 - To learn the basic programming and the object oriented programming concepts in C#.
-- To write windows based applications and web applications using WPF, ADO.NET and ASP.NET.
-- To study about assemblies, WCF and WWF. 
+- To write window based applications and web applications using ADO.NET and ASP.NET.
+- To understand the basics of assemblies, communication and workflow framework. 
   
 
 {{{unit}}}
 |Unit I | C# LANGUAGE BASICS (Ch 1 to 7)| 9 |
-.Net Architecture; Core C#:  Variables -- Data Types -- Flow control-- Enumerations -- namespaces -- main method -- comments ;  Objects and Types ; Inheritance; Generics; Arrays and Tuples; Operators and Casts
+Introduction to .Net Architecture; Core C#:  Variables -- Data Types -- Flow control-- Enumerations -- namespaces -- main method -- comments ;  Objects and Types ; Inheritance; Generics; Arrays and Tuples; Operators and Casts; Examples in C#.
 
 {{{unit}}}
-|Unit II | C# ADVANCED FEATURES (Ch 8, 9,10,15,16,24)| 9 |
-Delegates, Lambdas and Events; Strings and Regular Expressions; Collections;  Reflection; Errors and Exceptions; Manipulating Files: Managing file system -- File operations
+|Unit II | C# ADVANCED FEATURES (Ch 8, 9,10,15,16,24)| 11 |
+Delegates, Lambdas and Events; Strings and Regular Expressions; Collections;  Reflection; Errors and Exceptions; Manipulating Files: Managing file system -- File operations.
 
 {{{unit}}}
-|Unit III | WINDOWS BASED APPLICATIONS AND DATA (Ch 35, 32) | 9 |
-Core WPF: Geometry and transformations -- Brushes -- Controls -- Layouts -- Styles and Resources -- Triggers -- Templates; Core ADO .Net: Overview -- Database Connections -- Commands -- Data Reader -- Dataset Class -- Data Adapter 
+|Unit III | WINDOWS BASED APPLICATIONS AND DATA (Ch 35, 32) | 8 |
+Core Windows Presentation Foundation (WPF): Geometry and transformations -- Brushes -- Controls -- Layouts -- Styles and Resources -- Triggers -- Templates; Core ADO .Net: Overview -- Database Connections -- Commands -- Data Reader -- Dataset Class -- Data Adapter; Case study: Library management system. 
 
 {{{unit}}}
 |Unit IV | ASP .NET (Ch 39, 40) | 9 |
-Core ASP .Net: .Net Framework for Web Applications -- Web Technologies -- Handlers and Modules -- Global Application Class -- Request and Response -- State Management; ASP .Net Web Forms:  ASPX Page Model -- Master Pages -- Navigation -- Validating User input -- Accessing Data
+Core ASP .Net: .Net Framework for Web Applications -- Web Technologies -- Handlers and Modules -- Global Application Class -- Request and Response -- State Management; ASP .Net Web Forms:  ASPX Page Model -- Master Pages -- Navigation -- Validating User input -- Accessing Data -- Case study: E-commerce website development.
 
 {{{unit}}}
-|Unit V | ASSEMBLIES, WCF AND WWF (Ch 19, 43, 45)  | 9 |
-Assemblies: Application Domains -- Shared Assemblies -- Versioning; Windows Communication Foundation : Overview -- Creating a simple service and client -- Contracts; Windows Workflow Foundation: Overview -- Activities -- Workflows
+|Unit V | ASSEMBLIES, WCF AND WWF (Ch 19, 43, 45)  | 8 |
+Assemblies: Application Domains -- Shared Assemblies -- Versioning; Windows Communication Foundation (WCF) : Overview -- Creating a simple service and client -- Contracts; Windows Workflow Foundation (WWF): Overview -- Activities -- Workflows.
 
 
 \hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Apply object oriented concepts in C# program development. (K3)
-- Develop windows based applications using C# Language in the .NET framework using WPF. (K6)
-- Develop web applications using ASP.Net (K6)
-- Develop database application using ADO.NET Framework. (K6)
+- Apply object oriented concepts in program development using C#. (K3)
+- Develop windows based applications using C# in .NET framework using WPF. (K3)
+- Develop web applications using ASP.Net (K3)
+- Develop database applications using ADO.Net. (K3)
 - Understand the basic concepts of Assemblies, WCF and WWF. (K2)
  
       
