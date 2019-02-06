@@ -30,9 +30,11 @@
  - Experiment 1
  - Experiment 2
  
-*Theory Hours: 15 
-*Practical Hours: 30
-*Total Hours: 45
+*Theory Hours: 15*
+
+*Practical Hours: 30*
+
+*Total Hours: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
