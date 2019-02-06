@@ -35,11 +35,11 @@ Introduction to collections; Collection classes and interfaces: Array list, Link
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Write programs using classes and methods
-- Write programs using inheritance and interface
-- Write programs using generic methods
-- Write programs using polymorphism
-- Develop searching and sorting algorithms using generic collections
+- Write programs using classes and methods (K3)
+- Write programs using inheritance and interface (K3)
+- Write programs using generic methods (K3)
+- Write programs using polymorphism (K3)
+- Develop searching and sorting algorithms using generic collections(K3)
      
 ** Text Books
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-oriented programming and Java'',  2nd Edition, Springer Publication,      
