@@ -18,16 +18,16 @@
 - To understand design and implementation of typical database applications 
 
 ** List of Experiments
-1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating and retrieving Tables and Transaction Control statements 
-2.Database Querying – Simple queries, Nested queries, Sub queries and Joins
-3.Views, Sequences, Synonyms 
-4. Database Programming: Implicit and Explicit Cursors
-5. Procedures and Functions
-6. Triggers
-7. Exception Handling
-8. Database Design using ER modeling, normalization and Implementation for any application
-9. Database Connectivity with Front End Tools 
-10. Case Study using real life database applications 
+- 1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating and retrieving Tables and Transaction Control statements 
+- 2.Database Querying – Simple queries, Nested queries, Sub queries and Joins
+- 3.Views, Sequences, Synonyms 
+- 4. Database Programming: Implicit and Explicit Cursors
+- 5. Procedures and Functions
+- 6. Triggers
+- 7. Exception Handling
+- 8. Database Design using ER modeling, normalization and Implementation for any application
+- 9. Database Connectivity with Front End Tools 
+- 10. Case Study using real life database applications 
 
 Total Hours: 45
 
