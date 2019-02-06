@@ -42,7 +42,7 @@
 10.	Design and implementation of a simple digital system (Mini Project).
 
 
-Total: 45
+Total Hours: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
