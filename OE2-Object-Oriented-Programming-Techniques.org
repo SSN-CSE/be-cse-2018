@@ -35,8 +35,8 @@ Inheritance: Definition - Types of inheritance: Single - multilevel - multiple -
 Polymorphism: Method overloading and overriding - Dynamic method dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own exception; Definition and concepts: generic classes and generic methods – generic types
 
 ** SUGGESTIVE EXPERIMENTS
- - Experiment 1
- - Experiment 2
+ - 
+ - 
  
 *Theory Hours: 30*
 
@@ -47,7 +47,7 @@ Polymorphism: Method overloading and overriding - Dynamic method dispatch; Excep
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Solve problems using classes and methods (K3) 
-- Develop Java programs using basic constructs of Java (K3)
+- Develop programs using basic constructs of Java (K3)
 - Develop programs using inheritance and interfaces (K3) 
 - Experiments the concepts of polymorphism (K3) 
 - Design applications using generic programming (K3) 
