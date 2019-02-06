@@ -43,8 +43,8 @@ Protocol -- Transmission Control Protocol -- SCTP
 {{{unit}}}
 |Unit V | Application Layer | 9 |
 WWW and HTTP -- FTP -- Email --Telnet -- SSH -- DNS -- SNMP
- \hfill *Total: <Total Hours>*
-\hfill *Total: <45>*
+
+\hfill *Total Hours: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
