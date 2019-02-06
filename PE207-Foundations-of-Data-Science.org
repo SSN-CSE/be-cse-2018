@@ -50,7 +50,7 @@ After the completion of this course, students will be able to:
 - Understand the principles of handling data streams. (K2)
 - Discuss topic and graphical modeling techniques in real world problem.(K2)
  
- ** Text Books
+** Text Books
 1. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
 2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook, 2017.  
 
