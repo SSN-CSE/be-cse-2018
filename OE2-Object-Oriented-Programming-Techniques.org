@@ -1,4 +1,4 @@
-* <<<OE2>>> OBJECT ORIENTED PROGRAMMING TECHNIQUES
+* <<<OE1>>> OBJECT ORIENTED PROGRAMMING TECHNIQUES
 :properties:
 :author: B. Bharathi
 :end:
@@ -10,21 +10,29 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
+- To learn the basics of Object Oriented Programming 
+- To learn the programming constructs of Java
+- To know the principles of inheritance and polymorphism 
+- To learn the concepts of generic classes and generic methods
 
 {{{unit}}}
-|Unit I |  | <HOURS> |
+|Unit I | Introduction  | 9 |
+Principles of OOP: Classes - Objects - Data hiding - Data encapsulation- Inheritance - Polymorphism; Definition of classes: objects - methods - Access specifiers – Static and final classes and members; Object construction and destruction 
+{{{unit}}}
+|Unit II | Basics of Java | 9 |
+Features of Java - Basics of Java programming: Data types - Variables - Operators - Control  structures- Arrays - Strings
 
 {{{unit}}}
-|Unit II | TITLE | <HOURS> |
+|Unit III | Classes and objects| 9 |
+Objects and classes in Java: Defining classes – Methods - Access specifiers – Static  members; Constructors: Constructor Overloading; Method Overloading - Recursion - Passing and returning object from method - finalize  method - Packages in Java 
 
 {{{unit}}}
-|Unit III | TITLE | <HOURS> |
+|Unit IV | Inheritance | 9 |
+Inheritance: Definition - Types of inheritance: Single - multilevel - multiple - hierarchical - hybrid; Subclass constructors – Interfaces in Java: Definition, Implementation - Extending interfaces - Inheritance versus delegation – Inheritance rules - inner classes; Examples in java
 
 {{{unit}}}
-|Unit IV | TITLE | <HOURS> |
-
-{{{unit}}}
-|Unit V | TITLE | <HOURS> |
+|Unit V | Polymorphism  | 9 |
+Polymorphism: Method overloading and overriding - Dynamic method dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own exception; Definition and concepts: generic classes and generic methods – generic types
 
 ** SUGGESTIVE EXPERIMENTS
  - Experiment 1
@@ -38,16 +46,23 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-
+- Solve problems using classes and methods (K3) 
+- Develop Java programs using basic constructs of Java (K3)
+- Develop programs using inheritance and interfaces (K3) 
+- Experiments the concepts of polymorphism (K3) 
+- Design applications using generic programming (K3) 
 
       
 **Text Books
-1. Book 1
-2. Book 2
+1. Herbert Schildt, “Java The complete reference”, 8th Edition, McGraw Hill Education, 2011. 
 
 **Reference Books
-1. Reference 1
-2. Reference 2
-3. Reference 3
-4. Reference 4
-5. Reference 5
+1. Timothy Budd, “Understanding Object-oriented programming with Java”, Updated Edition, Pearson Education, 2000. 
+2. C. Thomas Wu, “An introduction to Object-oriented programming with Java”, Fourth Edition, Tata McGraw-Hill Publishing company   
+   Ltd., 2006. 
+3. Cay S. Horstmann, Gary cornell, “Core Java Volume –I Fundamentals” 9th Edition, Prentice Hall, 2013. 
+4. Paul Deitel, Harvey Deitel, “Java SE 8 for programmers”, 3rd Edition, Pearson, 2015. 
+5. Steven Holzner, “Java 2 Black book”, Dreamtech press, 2011. 
+
+
+ 
