@@ -18,8 +18,7 @@
 - To understand design and implementation of typical database applications 
 
 ** List of Experiments
-1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating 
-and retrieving Tables and Transaction Control statements 
+1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating and retrieving Tables and Transaction Control statements 
 2.Database Querying – Simple queries, Nested queries, Sub queries and Joins
 3.Views, Sequences, Synonyms 
 4. Database Programming: Implicit and Explicit Cursors
@@ -34,9 +33,9 @@ Total Hours: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
--Use typical data definitions and manipulation commands(K3) 
--Design applications to test Nested and Join Queries(K3) 
--Implement simple applications that use Views(K3) 
--Implement applications that require a Front end Tool(K3)
--Critically analyze the use of Tables,Views, Functions and Procedures(K4)       
+- Use typical data definitions and manipulation commands(K3) 
+- Design applications to test Nested and Join Queries(K3) 
+- Implement simple applications that use Views(K3) 
+- Implement applications that require a Front end Tool(K3)
+- Critically analyze the use of Tables,Views, Functions and Procedures(K4)       
 
