@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
 - Analyze various Scheduling algorithms (K4) 
 - Understand deadlock, prevention and avoidance algorithms and compare and contrast various memory management schemes (K2)
 - Understand the functionality of file systems  (K2)
-- Compare and contrast Linux, Windows and mobile operating systems (K2)
+- Compare and contrast Linux, Windows and mobile operating systems (K3)
 
 ** Text Book
 1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, “Operating System Concepts”, 9 th Edition, John Wiley and Sons Inc., 2012.

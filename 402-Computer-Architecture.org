@@ -15,8 +15,7 @@
 - To learn the arithmetic and logic unit and implementation of fixed-point and floating point arithmetic unit. 
 - To learn the basics of pipelined execution. 
 - To understand parallelism and multi-core processors. 
-- To understand the memory hierarchies, cache memories and virtual memories. 
-- To learn the different ways of communication with I/O devices. 
+- To understand the memory hierarchies, cache and virtual memories and communication with I/O devices. 
 
 {{{unit}}}
 |Unit I | Basi Structure of a Computer System | 9 |
@@ -54,7 +53,7 @@ After the completion of this course, students will be able to:
 - Design arithmetic and logic unit. (K3)
 - Understand pipelined execution and design control unit. (K3)
 - Understand parallel processing architectures. (K2)
-- Understand the design of various memory systems and I/O communication. (K3)
+- Design of various memory systems and understand I/O communication. (K3)
 
 ** Text Books
 1.  David A. Patterson and John L. Hennessy, ``Computer Organization and Design: The Hardware/Software Interface'', 

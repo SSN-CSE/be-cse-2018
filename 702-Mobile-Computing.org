@@ -18,8 +18,8 @@ The student should be made to:
 - Gain knowledge about different mobile platforms and application development Environments
 
 {{{unit}}}
-|Unit I | Introduction | 9 |
-Mobile Computing: Mobile Computing Vs wireless Networking – Mobile Computing Applications – Characteristics of Mobile computing – Structure of Mobile Computing Application; MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA.
+|Unit I |Media Access Control and Wireless LAN| 9 |
+  MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN:Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
 
 {{{unit}}}
 |Unit II | Mobile Internet Protocol and Transport Layer | 9 |
@@ -30,26 +30,27 @@ Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP p
 Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS) – Universal Mobile Telecommunication System (UMTS): UMTS system architecture -UTRAN - Core network – Handover.
 
 {{{unit}}}
-|Unit IV | Mobile Adhoc Networks | 9 |
-AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV , Hybrid routing –ZRP, Multicast Routing- ODMRP, Vehicular Ad Hoc networks ( VANET) –MANET Vs VANET – Security.
+|Unit IV | AdHoc and Wireless Sensor Networks | 9 |
+AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV; Wireless Sensor Networks: Hardware  Components - Sensor  Network  Scenarios - Gateway Concepts
 
 {{{unit}}}
 |Unit V | Mobile Platforms and Application Environments | 9 |
-iOS – Android – Windows Phone – Mobile Web – Platform-in-Platform – Future of Mobile Platforms
+iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture- Developing Android Applications- Anatomy of Android Applications– Android SDK; Windows Phone: Platform Architecture - Silverlight Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native vs Hybrid - Mobile Web Application Frameworks
 
-\hfill *Total: 45*
+\hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Explain the basics of mobile telecommunication system
 - Choose the required functionality at each layer for given application
 - Identify solution for each functionality at each layer
-- Use simulator tools and design Ad hoc networks
+- Explain the basics of mobile telecommunication system
+- Explain the routing in Ad hoc networks and architecure of WSN.
 - Develop a mobile application.
 
 ** Text Books
-1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.
-2.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers
+1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.(Unit I -IV)
+2.      Holger Karl , Andreas willig, ?Protocol and Architecture for Wireless Sensor Networks, John wiley  publication, Jan 2006. (Unit IV)
+3.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers (Unit V))
 
 ** References
 1.	Prasant Kumar Pattnaik, Rajib Mall, “Fundamentals of Mobile Computing”, PHI Learning Pvt. Ltd, New Delhi – 2012.
@@ -57,8 +58,5 @@ After the completion of this course, students will be able to:
 3.	Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober, “Principles of Mobile Computing”, Springer, 2003.
 4.	William.C.Y.Lee,“Mobile Cellular Telecommunications-Analog and Digital Systems”, Second Edition,Tata Mc Graw Hill Edition ,2006.
 5.	C.K.Toh, “AdHoc Mobile Wireless Networks”, First Edition, Pearson Education, 2002.
-6.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers
-7.	Android Developers : http://developer.android.com/index.html
-8.	Apple Developer : https://developer.apple.com/
-9.	Windows Phone Dev Center : http://developer.windowsphone.com
-10.	BlackBerry Developer : http://developer.blackberry.com/
+
+

@@ -19,7 +19,6 @@
 {{{unit}}}
 |Unit I | Fundamentals of Digital Speech Processing | 9 |
 Introduction: Discrete-Time signals and systems -- Transform representation of Signals and systems -- Fundamentals of digital filters -- Sampling; Process of Speech Production -- Acoustic theory of speech production -- Digital models for speech signals.
-
 {{{unit}}}
 |Unit II | Speech Signal Analysis in Time Domain| 9 |
 Time-dependent processing of speech -- Methods for extracting the parameters: Energy -- Average Magnitude -- Zero-crossing rate; Slience discrimation using ZCR and energy -- Short-time autocorreleation function -- Pitch period estimation using autocorrelation function. 
@@ -38,18 +37,22 @@ Attributes of speech synthesis -- Formant speech synthesis -- Concatenative spee
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Illustrate how the speech production  is modelled(K2)
-- Extract features from the speech signal in both time and frequency domain(K3)
+- Extract features from the speech signal in time domain(K3)
+- Analyze the speech signal in frequency domain(K3)
 - Developing a speech recognition system using statistical approach(K3)
 - Compare the various methods of speech synthesis(K2)
       
 ** Text books
 1. L.R. Rabiner and R.W. Schafer, ``Digital Processing of Speech Signals'', Pearson Education, Delhi, India, 2004 
+2. 1. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language Processing – A guide to Theory, Algorithm and System Development'', Prentice  Hall PTR, 2001.
 
 ** References
-1. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language Processing – A guide to Theory, Algorithm and System Development'', Prentice  Hall PTR, 2001.
-2. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, ``Fundamentals of speech recognition'', Pearson Education, 2009.
-3. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'', Pearson Education, 2002.
-4. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'', John Wiley and Sons Inc., Singapore, 2004.
-5. J. R. Deller, Jr., J. H. L. Hansen and J. G. Proakis, ``Discrete-Time Processing of Speech Signals'', Wiley-IEEE Press, NY, USA, 1999.
+1. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, ``Fundamentals of speech recognition'', Pearson Education, 2009.
+2. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'', Pearson Education, 2002.
+3. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'', John Wiley and Sons Inc., Singapore, 2004.
+4. J. R. Deller, Jr., J. H. L. Hansen and J. G. Proakis, ``Discrete-Time Processing of Speech Signals'', Wiley-IEEE Press, NY,   
+   USA, 1999.
+5. Daniel Jurafsky and James H. Martin. ``Speech and Language Processing: An Introduction to Natural Language Processing,  
+   Computational Linguistics and Speech Recognition'',2nd edition, Person education,2013. 
 
 

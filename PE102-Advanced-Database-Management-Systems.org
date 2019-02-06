@@ -11,12 +11,12 @@
 
 ** Course Objectives
 The student should be able to:
-- To learn the modeling and design of databases. 
 - To acquire knowledge on parallel and distributed databases and their applications. 
-- To study the usage and applications of Object Oriented and Intelligent databases. 
-- To understand the usage of advanced data models. 
-- To learn emerging databases such as XML, Cloud and Big Data. 
-- To acquire inquisitive attitude towards research topics in databases. 
+- To study the usage and applications of Object and Object Relational Databases. 
+- To learn about XML Database. 
+- To acquire Knowledge in Unstructured Databases. 
+- To understand the concepts of HBase and HIVE.
+
 
 {{{unit}}}
 |Unit I |Parallel and Distributed Databases| 9 |
@@ -28,33 +28,36 @@ Database System Architectures: Centralized and Client-Server Architectures – S
 Concepts for Object Databases: Object Identity – Object structure – Type Constructors – Encapsulation of Operations – Methods – Persistence – Type and Class Hierarchies – Inheritance – Complex Objects – Object Database Standards, Languages and Design: ODMG Model – ODL – OQL – Object Relational and Extended – Relational Systems: Object Relational features in SQL/Oracle – Case Studies. 
 
 {{{unit}}}
-|Unit III | Intelligent Databases | 9 |
-Active Databases: Syntax and Semantics (Starburst, Oracle, DB2)- Taxonomy- Applications-Design Principles for Active Rules- Temporal Databases: Overview of Temporal Databases- TSQL2- Deductive Databases: Logic of Query Languages – Datalog- Recursive Rules-Syntax and Semantics of Datalog Languages- Implementation of Rules and Recursion- Recursive Queries in SQL- Spatial Databases- Spatial Data Types- Spatial Relationships- Spatial Data Structures-Spatial Access Methods- Spatial DB Implementation. 
+|Unit III | XML Databases | 9 |
+XML Databases: XML-Related Technologies-XMLSchema- XML Query Languages- Storing XML in Databases-XML and SQL- Native XML Databases- Web Databases
 
 {{{unit}}}
-|Unit IV | Advanced Data Models | 9 |
-Mobile Databases: Location and Handoff Management - Effect of Mobility on Data Management - Location Dependent Data Distribution - Mobile Transaction Models -Concurrency Control - Transaction Commit Protocols- Multimedia Databases- Information Retrieval- Data Warehousing- Data Mining- Text Mining. 
+|Unit IV | NoSQL Database | 9 |
+Why NoSQL: - Aggregate datamodels - The CAP theorem - Key-value Databases -  Document databases - Column-Family Stores - Graph Databases.
 
 {{{unit}}}
-|Unit V | Emerging Technologies | 9 |
-XML Databases: XML-Related Technologies-XMLSchema- XML Query Languages- Storing XML in Databases-XML and SQL- Native XML Databases- Web Databases- Geographic Information Systems- Biological Data Management- Cloud Based Databases: Data Storage Systems on the Cloud- Cloud Storage Architectures-Cloud Data Models- Query Languages- Introduction to Big Data-Storage-Analysis.
-
+|Unit V | HBase and HIVE | 9 |
+Introduction to Hadoop and MapReduce - HBase Basic Features: CRUD Operations - Batch Operations -Row Locks; Advanced Features: Filters - Counters - Htablepool; HiveQL: Data Definition - Data Manipulation - Queries.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- To develop in-depth understanding of relational databases and skills to optimize database performance in practice. 
-- To understand and critique on each type of databases. 
-- To design faster algorithms in solving practical database problems. 
-- To implement intelligent databases and various data models. 
+- Design Parallel and Distributed Databases(K3)
+- Understand Object and Object Relational Databases(K2)
+- Design an application using XML Database(K3)
+- Implement different NoSQL Databases (K3)
+- Design an application using the concepts of HBase and HIVE(K3)
 
 ** Text Books 
-1. Ramez Elmasri, Shamkant B. Navathe, ―Fundamentals of Database Systems‖, Sixth Edition , Pearson, 2011. 
-2. Thomas Cannolly and Carolyn Begg, ―Database Systems, A Practical Approach to Design, Implementation and Management‖, Fourth Edition, Pearson Education, 2008. 
+1. Elmasri, Ramez, and Shamkant Navathe. "Fundamentals of database systems". Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
+2. Fowler, Martin, and Pramod Sadalage. "NoSQL distilled." Addison Wesely (2013).(Unit IV)
 
 ** References
-1. Henry F Korth, Abraham Silberschatz, S. Sudharshan, ―Database System Concepts‖, Sixth Edition, McGraw Hill, 2011. 
-2. C.J.Date, A.Kannan, S.Swamynathan, ―An Introduction to Database Systems‖, Eighth Edition, Pearson Education, 2006. 
-3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ―Advanced Database Systems‖, Morgan Kaufmann publishers,2006 
+1. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. Programming Hive: Data warehouse and query language for Hadoop. " O'Reilly Media, Inc.", 2012.
+2. George, Lars. HBase: the definitive guide: random access to your planet-size data. " O'Reilly Media, Inc.", 2011.(Unit V)
+3. Henry F Korth, Abraham Silberschatz, S. Sudharshan, "Database System Concepts", Sixth Edition, McGraw Hill, 2011. 
+4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, "Advanced Database Systems", Morgan Kaufmann publishers,2006 
+5. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. "The definitive guide to MongoDB: the NoSQL database for cloud and desktop computing". Apress, 2011.
+
 

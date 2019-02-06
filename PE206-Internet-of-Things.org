@@ -11,7 +11,8 @@
 
 ** Course Objectives
 - To understand the fundamentals of Internet of Things.
-- To learn about the basics of IOT protocols .
+- To understand the architecture of IoT.
+- To learn about the basics of IoT protocols .
 - To build a small low cost embedded system using Arduino/Raspberry Pi.
 - To apply the concept of Internet of Things in real world scenarios. 
 
@@ -23,7 +24,6 @@ M2M and IoT Technology Fundamentals -- Devices and gateways, Local and wide area
 
 | Unit II | IoT Reference Architecture | 9 |
 IoT Architecture: State of the Art -- Reference Model: Domain model -- information model --functional model -- communication model -- IoT Reference Architecture: Functional View -- Information View 
-
 
 
 | Unit III | IoT Protocols | 9 |

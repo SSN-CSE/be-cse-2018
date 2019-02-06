@@ -11,46 +11,48 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To learn Object Oriented Programming concepts and basic characteristics of Java
-- To know the principles of packages,  inheritance and interfaces
-- To define exceptions and use I/O streams 
-- To develop a java application with threads and generics classes
-- To design and build simple Graphical User Interfaces
+- To learn the basics of Object Oriented Programming 
+- To know the principles of inheritance and polymorphism
+- To learn the concepts of generic methods and  generic collections
 
 {{{unit}}}
-|Unit I |Introduction to OOP and Java fundamentals | 10 |
-Introduction to object oriented programming – Classes and objects – Features of OOP – Characteristics of Java – The Java Environment -  Fundamental Programming Structures in Java: Datatypes, Comments, Variables, Operators, Control Flow and Arrays – Defining classes in Java,  access specifiers, methods, constructors, static members - Array Lists -  Strings  - Packages - JavaDoc comment
-
+|Unit I |Introduction | 10 |
+Principles of OOP: Classes - Objects - Data hiding - Data encapsulation- Inheritance - Polymorphism; Definition of classes: objects - methods - Access specifiers – Static and final classes and members; Object construction and destruction – Fundamental programming structures in Java; Streams: Input-Output; Examples in Java.
 {{{unit}}}
-|Unit II | Inheritance and Interfaces	 | 9 |
-Inheritance: Super classes, sub classes, protected members, constructors in sub classes -  Object class – Abstract classes and methods- Final classes and methods – Interfaces:  Definition, Implementation - Differences between classes and interfaces - Extending interfaces - Inner classes
+|Unit II | Inheritance 	 | 10 |
+Inheritance: Definition - Types of inheritance: Single - multilevel - multiple - hierarchical - hybrid;  Subclass constructors – Interfaces in Java: Definition, Implementation - Extending interfaces - Inheritance versus delegation – Inheritance rules - inner classes; Examples in java 
 {{{unit}}}
-|Unit III |Exception Handling and I/O	Streams  | 9 |
-Exceptions: Hierarchy, Throwing and catching exceptions, Built-in exceptions, Creating own exception – Streams: Input, Output, Byte and Character streams 
+|Unit III |Polymorphism and Exception handling	  | 7 |
+Polymorphism: Method overloading and overriding - Dynamic method dispatch; Exceptions: Hierarchy,  Built-in exceptions, Creating own exception; Packages in Java; Examples in java - 
 {{{unit}}}
-|Unit IV | Multithreading and Generic Programming | 8 |
-Multithreading and multitasking – Thread: Life cycle, creation, Synchronization, Inter thread communication - Daemon threads and thread groups - Generic Programming: Classes and methods – Bounded Types – Restrictions and limitations
+|Unit IV |Generic types and methods	 | 9 |
+Definition and concepts: generic classes and generic methods – generic types – Restrictions and limitations – Inheritance rules for generic types – reflections and generics; Examples in Java
 {{{unit}}}
-|Unit V | Event Driven Programming  | 9 |
-Introduction to Swing: Frame, Components: Text Fields , Text Area, Button, Check Box, Radio Button, List control, Choice control, Scrollbar, menus, dialog box - Color, Font and Images – Layouts:  Flow, Box, Grid, Grid bag, Border, Card - Event handling: Model, Source and Listener interfaces 
+|Unit V | Generic Collections for ADTs and algorithms	 | 9 |
+Introduction to collections; Collection classes and interfaces: Array list, Linked list, Queue, set, trees, iterators for collections – Map class – Algorithms: sorting, searching, user-defined algorithms  – Examples in Java
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Develop  Java programs using OOP principles (K3)
-- Develop  Java programs  with the concepts  inheritance and interfaces	(K3)
-- Build Java applications using  exceptions and  I/O streams (K3)
-- Develop  Java applications with threads and generics classe(K3)
-- Develop interactive Java programs using swings(K3)
+- Write programs using classes and methods (K3)
+- Write programs using inheritance and interface (K3)
+- Write programs using generic methods (K3)
+- Write programs using polymorphism (K3)
+- Develop searching and sorting algorithms using generic collections(K3)
      
 ** Text Books
-1. Herbert Schildt, ``ava The complete reference'', 8th Edition, McGraw Hill Education, 2011.
+1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-oriented programming and Java'',  2nd Edition, Springer Publication,      
+   2008.
+2. Herbert Schildt, ``Java The complete reference'', 8th Edition, McGraw Hill Education, 2011.
 
 ** References
-1. Cay S. Horstmann, Gary cornell, ``Core Java Volume –I Fundamentals'' 9th Edition, Prentice Hall, 2013.
-2. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd Edition, Pearson, 2015.
-3. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
-4. Timothy Budd, ``Understanding Object-oriented programming with Java'', Updated Edition, Pearson Education, 2000.
-5. C. Thomas Wu, ``An introduction to Object-oriented programming with Java'', Fourth Edition, Tata McGraw-Hill Publishing     company Ltd., 2006.
+1. Timothy Budd, ``Understanding Object-oriented programming with Java'', Updated Edition, Pearson Education, 2000.
+2. C. Thomas Wu, ``An introduction to Object-oriented programming with Java'', Fourth Edition, Tata McGraw-Hill Publishing       
+   company Ltd., 2006.
+3. Cay S. Horstmann, Gary cornell, ``Core Java Volume –I Fundamentals'' 9th Edition, Prentice Hall, 2013.
+4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd Edition, Pearson, 2015.
+5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
+
+
 

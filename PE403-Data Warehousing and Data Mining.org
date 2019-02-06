@@ -40,8 +40,8 @@ Hierarchical Methods; Density Based Methods; Grid Based Methods;
 Evaluation of clustering: Clustering high dimensional data -- Clustering with constraints;
 Outlier analysis: outlier detection methods.
 
-|Unit V|WEKA TOOL |9|
-Datasets: Introduction; Iris plants database -- Breast cancer database --
+|Unit V|DATA MINING TOOLS |9|
+Introduction to data mining tools -- Datasets: Introduction; Iris plants database -- Breast cancer database --
 Auto imports database; Introduction to WEKA: The Explorer –-
 Getting started -- Exploring the explorer -- Learning algorithms; 
 Clustering algorithms; Association–rule learners.

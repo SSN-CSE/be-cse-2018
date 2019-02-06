@@ -1,7 +1,7 @@
-* <<<408>>> DATABASE LAB
+* <<<407>>> DATABASES LAB
 :properties:
-:author: Mr. B. Senthil Kumar and Dr. P. Mirunalini
-:date: 
+:author: Dr. P.Mirunalini and Mr. B. Senthil Kumar
+:date: 06-02-2019
 :end:
 
 #+startup: showall
@@ -11,31 +11,31 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand data definitions and data manipulation commands 
+- To learn the use of nested and join queries 
+- To understand functions, procedures and procedural extensions of data bases
+- To be familiar with the use of a front end tool 
+- To understand design and implementation of typical database applications 
 
-{{{unit}}}
-|Unit I | <Title> | <Hours> |
+** List of Experiments
+- 1. Data Definition Commands, Data Manipulation Commands for inserting, deleting, updating and retrieving Tables and Transaction Control statements 
+- 2.Database Querying – Simple queries, Nested queries, Sub queries and Joins
+- 3.Views, Sequences, Synonyms 
+- 4. Database Programming: Implicit and Explicit Cursors
+- 5. Procedures and Functions
+- 6. Triggers
+- 7. Exception Handling
+- 8. Database Design using ER modeling, normalization and Implementation for any application
+- 9. Database Connectivity with Front End Tools 
+- 10. Case Study using real life database applications 
 
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit IV | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit V | <Title> | <Hours> |
-
-
-\hfill *Total: <Total Hours>*
+Total Hours: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+- Use typical data definitions and manipulation commands(K3) 
+- Design applications to test Nested and Join Queries(K3) 
+- Implement simple applications that use Views(K3) 
+- Implement applications that require a Front end Tool(K3)
+- Critically analyze the use of Tables,Views, Functions and Procedures(K4)       
+

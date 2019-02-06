@@ -37,7 +37,7 @@
 13. Implementation of the following File Allocation Strategies
       a) Sequential     b) Indexed        c) Linked
 
-\hfill *Total: <45 Hours>*
+\hfill *Total Hours: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

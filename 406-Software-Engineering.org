@@ -15,12 +15,11 @@
 - To understand the various software design methodologies
 - To learn various testing and maintenance measures
 
-|Unit I | SOFTWARE PROCESS AND AGILE DEVELOPMENT | 9 |
-Introduction to Software Engineering, Software Process, Perspective and Specialized Process
-Models –Introduction to Agility: Agile process.
+|Unit I | SOFTWARE PROCESS MODELS | 9 |
+Introduction to Software Engineering,Principles and practices, Software Process, Generic process model ,Prespective and Specialized Process Models –Introduction to Agility: Agile process.
 
-|Unit II | PROJECT MANAGEMENT | 9 |
-Estimation for Software Projects:Project Planning Process- Software Project Estimation – Decomposition Techniques - Empirical Estimation Models -The Make/Buy Decision - Project Scheduling - Risk Management: Risk Identification - Risk Projection - Risk Mitigation.
+|Unit II | PROJECT PLANNING AND MANAGEMENT | 9 |
+Project Planning Process- Software Project Estimation – Decomposition Techniques - Empirical Estimation Models -The Make/Buy Decision - Project Scheduling - Risk Management: Risk Identification - Risk Projection - Risk Mitigation.
 
 |Unit III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
 Software Requirements: Functional and Non-Functional, User requirements, System requirements,
@@ -41,10 +40,10 @@ Total: 45
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Identify the key activities in managing a software project and choose an appropraite process model(K2).
-- Perform requirements engineering and Analysis Modeling(K3).
-- Apply systematic procedure for software design and deployment(K3).
-- Compare and contrast the various testing and maintenance(K4).
+- Understand principles of software engineering and choose an appropraite process model(K4).
+- Perform requirements analysis and modeling(K3).
+- Apply systematic procedure for software design (K3).
+- Compare and contrast the various testing and maintenance activities(K2).
 - Manage project schedule, estimate project cost and effort required(K3).
       
 ** Text Books

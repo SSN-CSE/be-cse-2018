@@ -14,7 +14,8 @@
 - To understand the need for multi-core processors, and their architecture. 
 - To understand the challenges in parallel and multi-threaded programming. 
 - To learn about the various parallel programming paradigms, 
-- To develop multicore programs and design parallel solutions. 
+- To develop OpenMP programs and design parallel solutions. 
+- To develop an application using MPI programming 
 
 {{{unit}}}
 |Unit I | Multi-Core Processors | 9 |
@@ -47,20 +48,18 @@ Case studies: n-Body solvers; Tree Search –- OpenMP and MPI implementations an
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the limitations of single core processors and the need for multi-core architectures, discuss the issues related to multi-     processing and suggest solutions.(K3) 
-- Identify the issues in programming Parallel Processors. (K2)
-- Develop the programs using OpenMP. (K3)
-- Develop the programs using MPI. (K3)
-- Compare and contrast programming for serial processors and programming for parallel processors.(K4)
+- Understand the limitations of single core processors and the study various multi-core architectures(K2) 
+- Identify the issues in programming Parallel Processors(K2)
+- Develop the programs using OpenMP(K3) 
+- Develop the program using  MPI(K3)
+- Compare and contrast programming for serial processors and programming for parallel processors(K3)
   
 ** Text Books
-1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'', Morgan Kaufmann/Elsevier, 2011. (unit II)
-2.  Carl Hamacher, Zvonko Vranesic, Safwat Zaky and Naraig Manjikian, ``Computer Organization and Embedded Systems'', 
-	Sixth Edition, Tata McGraw Hill, 2012. (unit II)
-	Darryl Gove, ``―Multicore Application Programming for Windows, Linux, and Oracle Solaris'', Pearson, 2011 (unit 2)
+1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'', Morgan Kaufmann/Elsevier, 2011. 
+2.  Darryl Gove, ``Multicore Application Programming for Windows, Linux, and Oracle Solaris'', Pearson, 2011 
 
 ** References
-1.	Michael J Quinn, ``―Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill,2003.
+1.	Michael J Quinn, ``Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill,2003.
 2.	Victor Alessandrini, ``Shared Memory Application Programming, Concepts and Strategies in Multicore Application Programming'', 
 	1st Edition, Morgan Kaufmann, 2015. 
 3.  	Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'', CRC Press, 2015.

@@ -17,22 +17,22 @@
 
 {{{unit}}}
 |Unit I | INTRODUCTION  | 9 |
-Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Overfitting – Generalization – Regularization – Bias-Variance tradeoff; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
+Machine Learning -- Examples of Machine Learning Applications: Learning Associations -- Classification -- Regression -- Unsupervised Learning -- Reinforcement Learning ; Design a Learning System – Perspectives and Issues in Machine Learning; Linear Discriminants: Perceptron -- Linear separability -- Linear regression. 
 
 {{{unit}}}
 |Unit II | SUPERVISED LEARNING  | 9 |
-Multi-layer Perceptron: Going forward -- Back-propagation of error -- MLP in practice ; Support Vector Machines: Optimal separation -- Kernels; Decision Trees: Constructing decision trees -- Classification and Regression trees; Ensemble learning: Boosting -- Bagging -- Different ways to combine classifiers.
+Multi-layer Perceptron: Forward propagation -- Back-propagation of error -- MLP in practice: Data preparation -- Hidden layers -- Generalization and overfitting -- Training, testing, validation and evaluation ; Support Vector Machines; Learning with Trees: Constructing decision trees -- Classification and Regression trees; Ensemble learning.
 
 {{{unit}}}
 |Unit III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
-Probability and Learning: Turning data into probabilities -- Naive Bayes classifier -- Basic Statistics -- Gaussian Mixture Model -- EM algorithm -- Nearest neighbour methods; Graphical models: Bayesian networks -- Hidden Markov Models.
+Probability and Learning: Turning data into probabilities -- Naive Bayes classifier -- Basic Statistics -- EM algorithm -- Nearest neighbour methods; Graphical models: Bayesian networks -- Hidden Markov Models.
 
 {{{unit}}}
 |Unit IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-Organising feature map;  Reinforcement learning: State and action space -- Reward -- Discount -- Action selection -- Policy -- Markov Decision Process -- Q-Learning. 
 
 {{{unit}}}
-|Unit V | DIMENSIONALITY REDUCTION TECHNIQUES | 9 |
+|Unit V | DIMENSIONALITY REDUCTION TECHNIQUES AND CASE STUDIES | 9 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis, Principal Component Analysis; Performance metrics for classification and regression -- Case study: E-mail spam detection -- Sentiment analysis -- Document classification using clustering -- Handwritten character recognition. 
 
 
@@ -49,12 +49,14 @@ After the completion of this course, students will be able to:
 ** Text Books
 1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
 2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT Press 2004.
-3. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
+
 
 ** References
 1. Jason Bell, ``Machine learning – Hands on for Developers and Technical Professionals'', First Edition, Wiley, 2014. 
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012. 
 3. Richert, Willi, ``Building machine learning systems with Python'', Packt Publishing Ltd, 2013.
+4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
+5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from Data'', AMLBook Publishers, 2012.
 
 
 

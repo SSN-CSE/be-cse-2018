@@ -14,6 +14,7 @@
 - To learn the architecture and programming of ARM processor.
 - To become familiar with the embedded computing platform design and analysis.
 - To get thorough knowledge in interfacing concepts.
+- To learn an embedded firmware and its designs
 - To design an embedded system and to develop programs
 
 |Unit I | INTRODUCTION TO EMBEDDED COMPUTING AND ARM PROCESSORS  | 9 |
@@ -39,16 +40,15 @@ timeouts-Testing a hardware timeout
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Describe the architecture and programming of ARM processor(K2).
-- Explain the concepts of embedded systems (K2).
+- Understand the architecture and programming of ARM processor(K2).
+- Understand the concepts of embedded systems (K2).
 - Understand the Concepts of peripherals and interfacing of sensors (K2).
-- Use the system design techniques to develop firmware (K3).
+- Apply the system design techniques to develop firmware (K3).
 - Demonstrate the code for constructing a system (K3).
 
 ** Text Books
 1. Marilyn Wolf, "Computers as Components - Principles of Embedded Computing System  Design", Third Edition ―Morgan Kaufmann Publisher (An imprint from Elsevier), 2012. 
-2. https://www.coursera.org/learn/interface-with-arduino#syllabus 
-3. Michael J. Pont, "Embedded C" , 2 nd Edition, Pearson Education, 2008.
+2. Michael J. Pont, "Embedded C" , 2 nd Edition, Pearson Education, 2008.
 ** References
 1. Shibu K.V, "Introduction to Embedded Systems", McGraw Hill.2014.
 2. Jonathan W.Valvano, "Embedded Microcomputer Systems Real Time Interfacing", Third Edition Cengage Learning, 2012.
