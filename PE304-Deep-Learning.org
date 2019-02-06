@@ -40,6 +40,7 @@ After the completion of this course, students will be able to:
 - Apply Convolution Neural Network for real-world problems in image processing (K3)
 - Apply Recurrent Neural Network and its variants for text analysis (K3)
 - Understand the concepts in autoencoders and generative models (K2)
+- Apply model evaluation for various applications. (K3)
 
 ** Textbook
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning", MIT Press, 2016.
