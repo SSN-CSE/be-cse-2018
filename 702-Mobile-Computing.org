@@ -12,48 +12,48 @@
 ** Course Objectives
 The student should be made to:
 - Understand the basic concepts of mobile computing
-- Be familiar with the network protocol stack
-- Learn the basics of mobile telecommunication system
-- Be exposed to Ad-Hoc networks
-- Gain knowledge about different mobile platforms and application development Environments
+- Be familiar with the protocol stack.
+- Learn the basics of mobile telecommunication system.
+- Be exposed to Ad-Hoc networks.
+- Gain knowledge about different mobile platforms and application development environments
 
 {{{unit}}}
-|Unit I |Media Access Control and Wireless LAN| 9 |
-  MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN:Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
+|Unit I |Introduction| 9 |
+ Introduction to mobile computing - MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN:Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
 
 {{{unit}}}
-|Unit II | Mobile Internet Protocol and Transport Layer | 9 |
-Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and encapsulation – Optimizations;  Traditional TCP – Classical TCP improvements: Classical TCP improvements -   Indirect - Snooping - Mobile TCP - Fast retransmit/fast recovery - Transmission/time-out freezing - Selective retransmission -Transaction-oriented TCP.
+|Unit II | Network Layer | 9 |
+Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and Encapsulation – Optimizations;  AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
 
 {{{unit}}}
-|Unit III | Mobile Telecommunication System | 9 |
-Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS) – Universal Mobile Telecommunication System (UMTS): UMTS system architecture -UTRAN - Core network – Handover.
+|Unit III | Transport and Application Layer | 9 |
+Traditional TCP – Classical TCP improvements; Wireless Application Protocol: WAP – Architecture – WDP – WTLS – WTP –WSP – WAE – WML - WTA.
 
 {{{unit}}}
-|Unit IV | AdHoc and Wireless Sensor Networks | 9 |
-AdHoc– Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV; Wireless Sensor Networks: Hardware  Components - Sensor  Network  Scenarios - Gateway Concepts
+|Unit IV | Mobile Telecommunication System | 9 |
+Introduction - Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS) – Universal Mobile Telecommunication System (UMTS): UMTS system architecture - UTRAN - Core network – Handover.
 
 {{{unit}}}
 |Unit V | Mobile Platforms and Application Environments | 9 |
-iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture- Developing Android Applications- Anatomy of Android Applications– Android SDK; Windows Phone: Platform Architecture - Silverlight Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native vs Hybrid - Mobile Web Application Frameworks
+iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture- Developing Android Applications- Anatomy of Android Applications– Android SDK; Windows Phone: Platform Architecture - Silverlight Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native vs Hybrid - Mobile Web Application Frameworks.
 
 \hfill *Total: <Total Hours>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Choose the required functionality at each layer for given application
-- Identify solution for each functionality at each layer
-- Explain the basics of mobile telecommunication system
-- Explain the routing in Ad hoc networks and architecure of WSN.
-- Develop a mobile application.
+- Identify the functionalities of datalink layer.(K3)
+- Explain the functionalities of mobile network layer and routing in Ad hoc networks.(K3)
+- Analyze the transport and application layer protocols.(K3)
+- Explain the basics of mobile telecommunication system.(K2)
+- Develop a mobile application.(K3)
 
 ** Text Books
 1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.(Unit I -IV)
-2.      Holger Karl , Andreas willig, ?Protocol and Architecture for Wireless Sensor Networks, John wiley  publication, Jan 2006. (Unit IV)
-3.	Mobile Platforms and Development Environments – Sumi Helal, Raja Bose, Wendong Lee – Morgan & Claypool Publishers (Unit V))
+2.      Holger Karl , Andreas willig, "Protocol and Architecture for Wireless Sensor Networks", John wiley  publication, 2006. (Unit IV)
+3.	Helal, Sumi, Raja Bose, and Wendong Li. "Mobile platforms and development environments." Synthesis Lectures on Mobile and Pervasive Computing, 2012.(Unit V))
 
 ** References
-1.	Prasant Kumar Pattnaik, Rajib Mall, “Fundamentals of Mobile Computing”, PHI Learning Pvt. Ltd, New Delhi – 2012.
+1.	Helal, Abdelsalam A., et al. Any time, anywhere computing: Mobile computing concepts and technology. Vol. 522. Springer Science & Business Media, 1999.
 2.	Dharma Prakash Agarval, Qing and An Zeng, "Introduction to Wireless and Mobile systems", Thomson Asia Pvt Ltd, 2005.
 3.	Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober, “Principles of Mobile Computing”, Springer, 2003.
 4.	William.C.Y.Lee,“Mobile Cellular Telecommunications-Analog and Digital Systems”, Second Edition,Tata Mc Graw Hill Edition ,2006.
