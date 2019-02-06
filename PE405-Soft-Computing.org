@@ -1,4 +1,4 @@
- <<<PE405>>> SOFT COMPUTING
+  <<<PE405>>> SOFT COMPUTING
 :properties:
 :author: Dr. P. Mirunalini  and Dr. J. Bhuvana
 :date: 
@@ -19,7 +19,7 @@
 
 {{{unit}}}
 |Unit I | <INTRODUCTION TO SOFT COMPUTING> | <8> |  
-Introduction:  Neural Networks -- Fuzzy Logic -- Genetic Algorithm -- Hybrid Systems; Artificial Neural Network: Fundamental Concepts -- Evolution of Neural Networks -- Basic Modals of ANN -- McCulloch and Pitts Neuron -- Linear Separability -- Hebb Network
+Introduction:  Neural Networks -- Fuzzy Logic -- Genetic Algorithm -- Hybrid Systems; Artificial Neural Network: Fundamental Concepts -- Evolution of Neural Networks -- Basic Modals of ANN -- McCulloch and Pitts Neuron -- Linear Separability -- Hebb Network.
 
 
 {{{unit}}}
@@ -28,11 +28,11 @@ Perceptron Networks -- Adaptive Linear Neuron -- Multiple Adaptive Linear Neuron
 
 {{{unit}}}
 |UNIT III| <FUZZY SYSTEMS> | <9> |					
-Introduction to Fuzzy Logic, Classical Sets and Fuzzy Sets -- Fuzzy Relations -- Membership Functions -- Defuzzification Methods -- Fuzzy Arithmetic -- Fuzzy Measures -Fuzzy Rule Base and Approximate Reasoning -- Fuzzy Decision Making.
+Introduction to Fuzzy Logic -- Classical Sets and Fuzzy Sets -- Fuzzy Relations -- Membership Functions -- Defuzzification Methods -- Fuzzy Arithmetic -- Fuzzy Measures -Fuzzy Rule Base and Approximate Reasoning -- Fuzzy Decision Making.
 
 {{{unit}}}
 |UNIT IV| <GENETIC ALGORITHMS> | <8> |
-Genetic Algorithm and Search Space -- General Genetic Algorithm -- Operators -- Stopping Condition -- Constraints -- Classification -- Genetic Programming -- Applications of Genetic Algorithm
+Genetic Algorithm and Search Space -- General Genetic Algorithm -- Operators -- Stopping Condition -- Constraints -- Classification -- Genetic Programming -- Applications of Genetic Algorithm.
 
 {{{unit}}}
 |UNIT V| <HYBRID SOFT COMPUTING TECHNIQUES & APPLICATIONS> | <9> |
@@ -48,8 +48,8 @@ Upon completion of this course, the students should be able to:
 - Understand various soft computing techniques (K2)
 - Design and develop different neural network algorithms (K3)
 - Analyse and apply fuzzy logic and fuzzy inference system (K3)
-- To solve problems using  Genetic Algorithm (K3)
-- Integrate various soft computing techniques for complex problems (K3) 
+- Solve problems using  Genetic Algorithm (K3)
+- Apply various soft computing techniques for complex problems (K3) 
 
 ** Text Books
 1. S.N.Sivanandam , S.N.Deepa, “Principles of Soft Computing”, Wiley India Pvt. Ltd., 2nd Edition, 2011. 
@@ -61,3 +61,4 @@ Upon completion of this course, the students should be able to:
 3. James A. Freeman and David M. Skapura, ―Neural Networks Algorithms, Applications, and Programming Techniques, Addison Wesley, 2003. 
 4. S.Rajasekaran, G.A.Vijayalakshmi Pai, “Neural Networks, Fuzzy Logic and Genetic Algorithm, Synthesis and Applications “, PHI Learning Pvt. Ltd., 2017. 
 5. N.P.Padhy, S.P.Simon, “Soft Computing with MATLAB Programming”, Oxford University Press, 2015. 
+
