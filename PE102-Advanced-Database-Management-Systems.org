@@ -43,22 +43,21 @@ Introduction to Hadoop and MapReduce - HBase Basic Features: CRUD Operations - B
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Design Parallel and Distributed Databases. (K3)
-- Understand Object and Object Relational Databases. (K3)
-- Design XML Database. (K3)
-- Implement different NoSQL Databases. (K3)
-- Use the concepts of HBase and HIVE.(K3)
+- Design Parallel and Distributed Databases(K3)
+- Understand Object and Object Relational Databases(K2)
+- Design an application using XML Database(K3)
+- Implement different NoSQL Databases (K3)
+- Design an application using the concepts of HBase and HIVE(K3)
 
 ** Text Books 
 1. Elmasri, Ramez, and Shamkant Navathe. "Fundamentals of database systems". Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
 2. Fowler, Martin, and Pramod Sadalage. "NoSQL distilled." Addison Wesely (2013).(Unit IV)
-3. George, Lars. HBase: the definitive guide: random access to your planet-size data. " O'Reilly Media, Inc.", 2011.(Unit V)
-4. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. Programming Hive: Data warehouse and query language for Hadoop. " O'Reilly Media, Inc.", 2012.(Unit V)
 
 ** References
-1. Henry F Korth, Abraham Silberschatz, S. Sudharshan, ?Database System Concepts?, Sixth Edition, McGraw Hill, 2011. 
-2. C.J.Date, A.Kannan, S.Swamynathan, ?An Introduction to Database Systems?, Eighth Edition, Pearson Education, 2006. 
-3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ?Advanced Database Systems?, Morgan Kaufmann publishers,2006 
-4. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. The definitive guide to MongoDB: the NoSQL database for cloud and desktop computing. Apress, 2011.
-5. Bansal, Hanish, Saurabh Chauhan, and Shrey Mehrotra. Apache Hive Cookbook. Packt Publishing Ltd, 2016.
+1. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. Programming Hive: Data warehouse and query language for Hadoop. " O'Reilly Media, Inc.", 2012.
+2. George, Lars. HBase: the definitive guide: random access to your planet-size data. " O'Reilly Media, Inc.", 2011.(Unit V)
+3. Henry F Korth, Abraham Silberschatz, S. Sudharshan, "Database System Concepts", Sixth Edition, McGraw Hill, 2011. 
+4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, "Advanced Database Systems", Morgan Kaufmann publishers,2006 
+5. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. "The definitive guide to MongoDB: the NoSQL database for cloud and desktop computing". Apress, 2011.
+
 
