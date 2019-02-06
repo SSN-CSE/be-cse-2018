@@ -16,26 +16,26 @@ The student should be made to:
 - To learn the basic and important design concepts in developing mobile applications.
 
 
-** LIST OF EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Develop an application that uses GUI components, Layout Managers and event listeners.
 2. Develop an application to simulate a keyboard.
 3. Write an application that uses graphical primitives.
 4. Develop an application that makes use of databases.
 5. Implement an application that uses Multi-threading
-6. Develop a native application that uses GPS location information
+6. Develop a native application that uses GPS location information.
 7. Implement an application that writes data to the SD card.
 8. Implement an application that send a SMS and creates an alert upon receiving the SMS.
-9. Write a mobile application that makes use of Menu.
-10. Develop a mobile application to built an alarm clock.
+9. Write an application that makes use of Menu.
+10. Develop an application to build an alarm clock.
 11. Implement a web application to display a web page.
 12. Mini Project
 
-\hfill *Total: 60*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Develop mobile applications using GUI, Layouts and Event Listener.
-- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS.
-- Develop mobile applications using  SD Card, SMS and Notification.
-- Develop mobile web applications.
-- Develop own mobile app.
+- Develop mobile applications using GUI, Layouts and Event Listener.(K3)
+- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS.(K3)
+- Develop mobile applications using  SD Card, SMS and Notification.(K3)
+- Develop mobile web applications.(K3)
+- Develop a mobile app.(K3)
