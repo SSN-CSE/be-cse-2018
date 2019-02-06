@@ -18,7 +18,7 @@
 - To explore Blender graphics tool and design animations.
 
 {{{unit}}}
-|Unit I | Display Systems and Output Primitives | 9 |
+|Unit I | Display Systems and Output Primitives | 8 |
 Introduction to computer  graphics -- Applications; Overview  of  graphics  systems: Video  display  devices --  Raster  scan systems --  Random  scan  systems; Output primitives: Points and lines --loading the frame  buffer; Line drawing algorithms: DDA and Bresenham's line drawing algorithms; Circle  and  ellipse  generating  algorithms;  Pixel  addressing  and  object geometry
 
 {{{unit}}}
@@ -27,17 +27,17 @@ Two dimensional geometric transformations -- Matrix representations and homogene
 operations: point and text clipping -- Line and polygon clipping algorithms.
 
 {{{unit}}}
-|Unit III | Three Dimensional Graphics | 9 |
+|Unit III | Three Dimensional Graphics | 10 |
 Three dimensional concepts; Three dimensional object representations: Polygon surfaces -- Polygon tables -- Plane  equations -- Polygon meshes --  Curved  Lines  and  surfaces -- Quadratic  surfaces-- Blobby objects -- Spline  representations -- Bezier  curves  and  surfaces; Three  dimensional  geometric  and  modeling  transformations: Translation --  Rotation --  Scaling --  composite  transformations;  Three  dimensional  viewing: Viewing pipeline -- Viewing coordinates -- Projections -- View volumes -- Clipping; 
 
 {{{unit}}}
-|Unit IV | Illumination Models and Animation | 9 |
+|Unit IV | Illumination Models and Animation | 8 |
 Light  sources; Basic  illumination  models: Ambient, Diffuse, Specular Components of the Phong model; Color Models: Properties of light  
 -- Standard  primaries  and  chromaticity  diagram -- RGB, YIQ, CMY, HSV and HLS color models; Animations: Design of animation sequences -- Keyframe systems -- Motion specifications
 
 {{{unit}}}
-|Unit V | Multimedia | 9 |
-Multimedia  basics -- Multimedia  applications -- Defining objects for multimedia systems − Multimedia data interface standards -- Compression and decompression −- Data and file format standards -- Hypermedia Messaging; Case Study - Blender Graphics: Fundamentals 
+|Unit V | Multimedia | 10 |
+Multimedia  basics -- Multimedia  applications --Multimedia Systems Architecture -- Defining objects for multimedia systems − Multimedia data interface standards -- Compression and decompression −- Data and file format standards -- Hypermedia Messaging; Case Study - Blender Graphics: Fundamentals 
 –- Drawing  Basic  Shapes -- Modelling –- Shading & Textures 
 
 \hfill *Total: <45 Hours>*
