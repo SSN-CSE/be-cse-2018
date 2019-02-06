@@ -17,15 +17,19 @@
 {{{unit}}}
 |Unit I | INTRODUCTION  | 5 |
 Ingredients to Machine Learning: Tasks -- Models -- Features ;  Examples of Machine Learning Applications: Learning Associations -- Supervised Learning: Classification -- Regression; Unsupervised Learning -- Reinforcement Learning .
+
 {{{unit}}}
 |Unit II | LINEAR AND PROBABILISTIC MODELS | 7 |
 Binary Classification -- Multi class classification -- Regression -- Linear models: Least squares method -- Perceptron -- Multi-layer Perceptron -- Support Vector Machine; Probabilistic Models:  Naive Bayes model  -- Expectation - Maximisation model.
+
 {{{unit}}}
 |Unit III | TREE AND RULE MODELS| 6 |
 Decision Trees -- Regression Trees -- Clustering Trees -- Learning ordered rule lists -- Learning unordered rule sets.
+
 {{{unit}}}
 |Unit IV | DISTANCE BASED MODELS| 6 |
 Nearest-neighbour classification ;  Distance based Clustering: K-means -- Clustering around medoids ;  Hierarchical Clustering.
+
 {{{unit}}}
 |Unit V | ENSEMBLING AND CASE STUDIES | 6 |
 Bagging and Random Forests -- Boosting;  Machine Learning Experiments: Performance metrics -- Cross validation; Case study: E-mail spam detection -- Sentiment analysis -- Document classification using clustering -- Handwritten character recognition. 
