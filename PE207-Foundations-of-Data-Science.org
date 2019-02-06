@@ -19,24 +19,24 @@
 
 
 {{{unit}}}
-|Unit I | <Data Science and Python> | <9> |
+|Unit I | Data Science and Python | 9 |
 Introduction:  Computational tools   --  Need for data science  -- Causality and experiments;
 Python: Array computing  --  Vectors  --  Basics of numerical Python arrays  --  Vectorization  --  Advanced vectorization of functions  --  Matrices and arrays  -- Reading and writing spreadsheet files;  Visualization: Graphs and tables.
 
 {{{unit}}}
-|Unit II | <Probability and Statistics> | <9> |
+|Unit II | Probability and Statistics | 9 |
 Randomness  --   Empirical distributions  --  Bayes theorem;  Testing hypothesis  -- Estimation  --  Why the mean  matters  --  Prediction  --  Inference for regression.
 
 {{{unit}}}
-|Unit III | <Machine learning algorithms> | <9> |
+|Unit III | Machine learning algorithms | 9 |
 Perceptron algorithm --   Kernel functions --   Overfitting and uniform convergence --  Regularization --  Support Vector Machines --  Strong and weak learning -- Boosting -- Stochastic Gradient Descent. 
 
 {{{unit}}}
-|Unit IV | <Data streams and Clustering> | <9> |
+|Unit IV | Data streams and Clustering | 9 |
 Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means clustering --  Spectral clustering  --  Community finding --  Graph partitioning. 
 
 {{{unit}}}
-|Unit V | <Topic Models and Graphical Models> | <9> |
+|Unit V | Topic Models and Graphical Models | 9 |
 Topic Models -- Idealized Model -- Nonnegative Matrix Factorization --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields.
 
 \hfill *Total: <45>*
