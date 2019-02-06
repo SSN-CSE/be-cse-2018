@@ -11,10 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
--	To understand the basics of GPU architectures.
+- To understand the basics of GPU architectures.
 - To write programs for massively parallel processors.
 - To understand the issues in mapping algorithms for GPUs.
--	To introduce different GPU programming models. 
+- To introduce different GPU programming models. 
+- To understand the concepts of OpenCL.
 
 {{{unit}}}
 |Unit I | GPU ARCHITECTURE | 12 |
@@ -41,11 +42,11 @@ Parallel Patterns: Convolution, Prefix Sum, Sparse Matrix - Matrix Multiplicatio
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
--	Describe GPU Architecture (K2)
+-	Understand GPU Architecture (K2)
 -	Write programs using CUDA, identify issues and debug them(K3)
 -	Implement efficient algorithms in GPUs for common application kernels, such as matrix multiplication(K3)
 -	Write simple programs using OpenCL(K3)
--	Given a problem, identify efficient parallel programming patterns to solve it.(K3)
+-	Write an efficient parallel program for a given problem(K3)
       
 ** Text Books
 1. Shane Cook, "CUDA Programming: A Developer's Guide to Parallel Computing with GPUs (Applications of GPU Computing)", First Edition, Morgan Kaufmann, 2012.
