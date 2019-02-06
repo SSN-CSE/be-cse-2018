@@ -9,13 +9,14 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+
 ** Course Objectives
 The student should be made to:
 - Understand the basic concepts of mobile computing
 - Be familiar with the protocol stack.
-- Learn the basics of mobile telecommunication system.
 - Be exposed to Ad-Hoc networks.
-- Gain knowledge about different mobile platforms and application development environments
+- Learn the basics of mobile telecommunication system.
+- Gain knowledge about different mobile platforms and application development environments.
 
 {{{unit}}}
 |Unit I |Introduction| 9 |
