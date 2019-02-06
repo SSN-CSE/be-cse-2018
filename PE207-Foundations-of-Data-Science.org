@@ -37,7 +37,7 @@ Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means
 
 {{{unit}}}
 |Unit V | <Topic Models and Graphical Models> | <9> |
-Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian or Belief Networks -- Markov Random Fields
+Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields
 
 \hfill *Total: <45>*
 
