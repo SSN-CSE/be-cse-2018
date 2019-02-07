@@ -56,7 +56,7 @@ Data Hiding Techniques -– Performing Remote Acquisition.
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
 Network Forensics: Developing Standard Procedures for Network
 Forensics -- Using Network Tools; E-mail Investigations: Understanding
-E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone and Mobile Device Forensics: Understanding mobile device forensics -- Understanding acquisition procedures for Cell Phones and Mobile Devices  
+E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone and Mobile Device Forensics: Understanding mobile device forensics -- Understanding acquisition procedures for Cell Phones and Mobile Devices.  
 
 # Mobile Network Forensic: Introduction -- Mobile Network Technology --
 # Investigations -- Collecting Evidence -- Where to seek Digital Data
