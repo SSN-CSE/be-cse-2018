@@ -10,46 +10,83 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the concept of semantic web and related applications.
--	To learn knowledge representation using ontology.
--	To understand human behaviour in social web and related communities.
--	To learn visualization of social networks.
-
-
-{{{unit}}}
-|Unit I | INTRODUCTION | 9 |
-Introduction to Semantic Web: Limitations of current Web - Development of Semantic Web - Emergence of the Social Web - Social Network analysis: Development of Social Network Analysis -	Key concepts and measures in network analysis - Electronic sources for network analysis: Electronic discussion networks, Blogs and online communities - Web-based networks - Applications of Social Network Analysis.
+- To learn knowledge representation using ontology.
+- To understand human behaviour in social web and related communities.
+- To learn visualization of social networks.
 
 {{{unit}}}
-|Unit II | MODELLING, AGGREGATING AND KNOWLEDGE REPRESENTATION | 9 |
-Ontology and their role in the Semantic Web: Ontology-based knowledge Representation - Ontology languages for the Semantic Web: Resource Description Framework - Web Ontology Language - Modelling and aggregating social network data: State-of-the-art in network data representation - Ontological representation of social individuals - Ontological representation of social relationships - Aggregating and reasoning with social network data - Advanced representations.
+|UNIT I | INTRODUCTION | 9 |
+Introduction to Semantic Web: Limitations of current Web - Development
+of Semantic Web - Emergence of the Social Web - Social Network
+analysis: Development of Social Network Analysis - Key concepts and
+measures in network analysis - Electronic sources for network
+analysis: Electronic discussion networks, Blogs and online
+communities - Web-based networks - Applications of Social Network
+Analysis.
 
 {{{unit}}}
-|Unit III | EXTRACTION AND MINING COMMUNITIES IN WEB SOCIAL NETWORKS | 9 |
-Extracting evolution of Web Community from a Series of Web Archive - Detecting communities in social networks - Definition of community - Evaluating communities - Methods for community detection and mining - Applications of community mining algorithms - Tools for detecting communities social network infrastructures and communities - Decentralized online social networks - Multi-Relational characterization of dynamic social network communities.
+|UNIT II | MODELLING, AGGREGATING AND KNOWLEDGE REPRESENTATION | 9 |
+Ontology and their role in the Semantic Web: Ontology-based knowledge
+Representation - Ontology languages for the Semantic Web: Resource
+Description Framework - Web Ontology Language - Modelling and
+aggregating social network data: State-of-the-art in network data
+representation - Ontological representation of social individuals -
+Ontological representation of social relationships - Aggregating and
+reasoning with social network data - Advanced representations.
 
 {{{unit}}}
-|Unit IV | PREDICTING HUMAN BEHAVIOUR AND PRIVACY ISSUES | 9 |
-Understanding and predicting human behaviour for social communities - User data management - Inference and Distribution - Enabling new human experiences - Reality mining - Context - Awareness - Privacy in online social networks - Trust in online environment - Trust models based on subjective logic - Trust network analysis - Trust transitivity analysis - Combining trust and reputation - Trust derivation based on trust comparisons - Attack spectrum and countermeasures.
+|UNIT III | EXTRACTION AND MINING COMMUNITIES IN WEB SOCIAL NETWORKS | 9 |
+Extracting evolution of Web Community from a Series of Web Archive -
+Detecting communities in social networks - Definition of community -
+Evaluating communities - Methods for community detection and mining -
+Applications of community mining algorithms - Tools for detecting
+communities social network infrastructures and communities -
+Decentralized online social networks - Multi-Relational
+characterization of dynamic social network communities.
 
 {{{unit}}}
-|Unit V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
-Graph theory - Centrality - Clustering - Node-Edge Diagrams - Matrix representation - Visualizing online social networks, Visualizing social networks with matrix-based representations - Matrix and Node-Link Diagrams - Hybrid representations - Applications - Cover networks - Community welfare - Collaboration networks - Co-Citation networks.
+|UNIT IV | PREDICTING HUMAN BEHAVIOUR AND PRIVACY ISSUES | 9 |
+Understanding and predicting human behaviour for social communities -
+User data management - Inference and Distribution - Enabling new human
+experiences - Reality mining - Context - Awareness - Privacy in online
+social networks - Trust in online environment - Trust models based on
+subjective logic - Trust network analysis - Trust transitivity
+analysis - Combining trust and reputation - Trust derivation based on
+trust comparisons - Attack spectrum and countermeasures.
 
-\hfill *Total: 45*
+{{{unit}}}
+|UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
+Graph theory - Centrality - Clustering - Node-Edge Diagrams - Matrix
+representation - Visualizing online social networks, Visualizing
+social networks with matrix-based representations - Matrix and
+Node-Link Diagrams - Hybrid representations - Applications - Cover
+networks - Community welfare - Collaboration networks - Co-Citation
+networks.
 
-** Course Outcomes
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
--	Understand semantic web related applications.(K2)
--	Represent knowledge using ontology.(K3)
--	Predict human behaviour in social web and related communities.(K2)
--	Visualize social networks.(K2)
+- Understand semantic web related applications.(K2)
+- Represent knowledge using ontology.(K3)
+- Predict human behaviour in social web and related communities.(K2)
+- Visualize social networks.(K2)
       
-** References
-1.	Peter Mika, ―Social Networks and the Semantic Web‖, First Edition, Springer 2007.
-2.	Borko Furht, ―Handbook of Social Network Technologies and Applications‖, 1st Edition, Springer, 2010.
-3.	Guandong Xu ,Yanchun Zhang and Lin Li, ―Web Mining and Social Networking – Techniques and applications‖, First Edition, Springer, 2011.
-4.	Dion Goh and Schubert Foo, ―Social information Retrieval Systems: Emerging Technologies and Applications for Searching the Web Effectively‖, IGI Global Snippet, 2008.
-5.	Max   Chevalier,   Christine   Julien   and   Chantal   Soulé-Dupuy,   ―Collaborative   and   Social Information  Retrieval  and  Access:  Techniques  for  Improved  user  Modelling‖,  IGI  Global Snippet, 2009.
-6.	John G. Breslin, Alexander Passant and Stefan Decker, ―The Social Semantic Web‖, Springer, 2009.
+** REFERENCES
+1. Peter Mika, ``Social Networks and the Semantic Web'', First
+   Edition, Springer 2007.
+2. Borko Furht, ``Handbook of Social Network Technologies and
+   Applications'', 1st Edition, Springer, 2010.
+3. Guandong Xu, Yanchun Zhang and Lin Li, ``Web Mining and Social
+   Networking -- Techniques and applications'', First Edition,
+   Springer, 2011.
+4. Dion Goh and Schubert Foo, ``Social Information Retrieval Systems:
+   Emerging Technologies and Applications for Searching the Web
+   Effectively'', IGI Global Snippet, 2008.
+5. Max Chevalier, Christine Julien and Chantal Soule-Dupuy,
+   ``Collaborative and Social Information Retrieval and Access:
+   Techniques for Improved user Modelling'', IGI Global Snippet, 2009.
+6. John G. Breslin, Alexander Passant and Stefan Decker, ``The Social
+   Semantic Web'', Springer, 2009.

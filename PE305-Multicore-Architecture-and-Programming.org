@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the need for multi-core processors, and their architecture. 
 - To understand the challenges in parallel and multi-threaded programming. 
 - To learn about the various parallel programming paradigms, 
@@ -18,35 +18,40 @@
 - To develop an application using MPI programming 
 
 {{{unit}}}
-|Unit I | Multi-Core Processors | 9 |
+|UNIT I | MULTI-CORE PROCESSORS | 9 |
 Single core to Multi-core architectures; SIMD and MIMD systems;
-Interconnection networks; Symmetric and Distributed Shared Memory Architectures --
-Cache coherence -- Performance Issues – Parallel program design.
+Interconnection networks; Symmetric and Distributed Shared Memory
+Architectures -- Cache coherence -- Performance Issues – Parallel
+program design.
 
 {{{unit}}}
-|Unit II | Parallel Program Challenges | 9 |
-Performance -- Scalability; Synchronization and data sharing -- Data races --
-Synchronization primitives (mutexes, locks, semaphores, barriers); deadlocks and livelocks;
-communication between threads (condition variables, signals, message queues and pipes).
+|UNIT II | PARALLEL PROGRAM CHALLENGES | 9 |
+Performance -- Scalability; Synchronization and data sharing -- Data
+races -- Synchronization primitives (mutexes, locks, semaphores,
+barriers); deadlocks and livelocks; communication between threads
+(condition variables, signals, message queues and pipes).
 
 {{{unit}}}
-|Unit III | Shared Memory Programming with OpenMP | 9 |
-OpenMP Execution Model: Memory Model -- OpenMP Directives -- Work-sharing Constructs --
-Library functions -- Handling Data and Functional Parallelism -- Handling Loops --
-Performance Considerations.
+|UNIT III | SHARED MEMORY PROGRAMMING WITH OPENMP | 9 |
+OpenMP Execution Model: Memory Model -- OpenMP Directives --
+Work-sharing Constructs -- Library functions -- Handling Data and
+Functional Parallelism -- Handling Loops -- Performance
+Considerations.
 
 {{{unit}}}
-|Unit IV | Shared Memory Programming with MPI | 9 |
-MPI program execution: MPI constructs -- libraries; MPI send and receive -- Point-to-point and Collective communication;
-MPI derived datatypes -- Performance evaluation 
+|UNIT IV | SHARED MEMORY PROGRAMMING WITH MPI | 9 |
+MPI program execution: MPI constructs -- libraries; MPI send and
+receive -- Point-to-point and Collective communication; MPI derived
+datatypes -- Performance evaluation
 
 {{{unit}}}
-|Unit V | Parallel Program Development | 9 |
-Case studies: n-Body solvers; Tree Search –- OpenMP and MPI implementations and comparison.
+|UNIT V | PARALLEL PROGRAM DEVELOPMENT | 9 |
+Case studies: n-Body solvers; Tree Search –- OpenMP and MPI
+implementations and comparison.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the limitations of single core processors and the study various multi-core architectures(K2) 
 - Identify the issues in programming Parallel Processors(K2)
@@ -54,15 +59,22 @@ After the completion of this course, students will be able to:
 - Develop the program using  MPI(K3)
 - Compare and contrast programming for serial processors and programming for parallel processors(K3)
   
-** Text Books
-1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'', Morgan Kaufmann/Elsevier, 2011. 
-2.  Darryl Gove, ``Multicore Application Programming for Windows, Linux, and Oracle Solaris'', Pearson, 2011 
+** TEXT BOOKS
+1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'',
+   Morgan Kaufmann/Elsevier, 2011.
+2.  Darryl Gove, ``Multicore Application Programming for Windows,
+   Linux, and Oracle Solaris'', Pearson, 2011
 
-** References
-1.	Michael J Quinn, ``Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill,2003.
-2.	Victor Alessandrini, ``Shared Memory Application Programming, Concepts and Strategies in Multicore Application Programming'', 
-	1st Edition, Morgan Kaufmann, 2015. 
-3.  	Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'', CRC Press, 2015.
-4.	Rohit Chandra , Ramesh Menon , Leo Dagum  , David Kohr , Dror Maydan and Jeff McDonald, ``Parallel Programming in  
-	OpenMP'', 1st Edition, Morgan Kaufmann, 2000.
-5.	Gerassimos Barlas, ``Multicore and GPU Programming'', Morgan Kaufmann, 2014.
+** REFERENCES
+1. Michael J Quinn, ``Parallel programming in C with MPI and OpenMP'',
+   Tata McGraw Hill, 2003.
+2. Victor Alessandrini, ``Shared Memory Application Programming,
+   Concepts and Strategies in Multicore Application Programming'', 1st
+   Edition, Morgan Kaufmann, 2015.
+4. Yan Solihin, ``Fundamentals of Parallel Multicore Architecture'',
+   CRC Press, 2015.
+5. Rohit Chandra, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan and
+   Jeff McDonald, ``Parallel Programming in OpenMP'', 1st Edition,
+   Morgan Kaufmann, 2000.
+7. Gerassimos Barlas, ``Multicore and GPU Programming'', Morgan
+   Kaufmann, 2014.
