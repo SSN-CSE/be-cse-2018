@@ -20,30 +20,25 @@
 - To learn the introductory concepts of hashing techniques
 
 {{{unit}}}
-|Unit I | Linear Data Structure - List | 9 |
-Algorithm analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: array implementation –
-linked list implementation – circular linked lists - doubly-linked lists; Applications of lists: polynomial
-manipulation.
+|Unit I | Linear Data Structure - List | 10 |
+Algorithm analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array implementation of lists –
+Linked lists – Circular linked lists - Doubly linked lists; Applications of lists: polynomial manipulation.
 
 {{{unit}}}
-|Unit II | Linear Data Structures – Stacks and queues | 9 |
-Stack ADT – operations; Applications: balancing the symbols,
-conversion of infix to postfix expression, evaluating arithmetic
-expressions; Queue ADT – operations - circular queue – double ended
-queue; Applications of queues.
+|Unit II | Linear Data Structures – Stacks and Queues | 8 |
+Stack ADT: Stack model - Implementation of stacks; Applications: Balancing symbols, Infix to postfix conversion,
+Evaluating postfix expressions; Queue ADT: Queue model - Array implementation of queues - Double ended queue; 
+Applications of queues.
 
 {{{unit}}}
 |Unit III | Non Linear Data Structures – Trees   | 9 |
-Tree ADT – preliminaries - tree traversals; Binary Tree ADT –
-expression trees; Binary Search Tree ADT - AVL Trees – 
-B-Tree – Binary heaps; Applications of trees.
-# It is heavy. Do we need splay trees, b-tree
+Trees: Preliminaries - Tree traversals; Binary trees: Expression trees; Binary Search Tree ADT - AVL Trees – 
+B-Tree; Priority queues: Binary heap; Applications of trees.
 
 {{{unit}}}
 |Unit IV | Non Linear Data Structures – Graphs | 9 |
-Definitions – Representation of graph – Types of graph - Breadth-first
-traversal – Depth first traversal - Topological sort – Shortest-path
-algorithms: Dijkstra's algorithm; Biconnectivity; Applications of graphs.
+Graph algorithms: Definitions – Representation of graphs - Topological sort; Shortest-path
+algorithms: Dijkstra's algorithm - All-Pairs shortest path; Breadth-first traversal – Depth-first traversal - Biconnectivity; Applications of graphs.
 
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
