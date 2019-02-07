@@ -50,8 +50,6 @@ Separating Programming and Presentation: JSP Technology Introduction-JSP and Ser
 	- Develop a JSP based 3-tier web application using Scriptlet tags 
 	- Develop a JSP based 2-tier web application using JSTL Tags
 
- - Experiment 1
- - Experiment 2
  
 *Theory Periods: 30*
 
@@ -67,13 +65,13 @@ After the completion of this course, students will be able to:
 4.	Create web application using Servlets (K3)
 5.	Develop efficient web application using JSP (K3)
       
-**Text Books
+** Text Books
 1. Jeffrey C. Jackson, "Web Technologies--A Computer Science Perspective", Pearson Education, 2006. (Unit I)
 2.	HTML5: The Missing Manual, Mathew Mac Donald, O Reilly, 2nd Edition, 2013.  (Unit – I, III, IV and V)
 3.	CSS3: The Missing Manual, 3rd Edition, David McFarland, O'Reilly, December 2012. (Unit II)
 
 
-**Reference Books
+** Reference Books
 1.	Jennifer Niederst Robbins, "Learning Web Design", O'Reilly, 4th Edition
 2.	Robert. W. Sebesta, "Programming the World Wide Web", Fourth Edition, Pearson Education, 2007 .
 3.	Deitel, Deitel, Goldberg, "Internet & World Wide Web How To Program", Third Edition, Pearson Education, 2006.
