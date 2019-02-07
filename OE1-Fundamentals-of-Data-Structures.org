@@ -32,7 +32,7 @@ Trees: Preliminaries -- Tree traversals -- Expression trees -- Binary search tre
 Graph Algorithms: Definitions -- Representation of graph -- Breadth-first traversal -- Depth-first traversal -- Shortest-path algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm.
 
 {{{unit}}}
-|Unit V | Sorting and Hashing Techniques   | 6 |
+|Unit V | SORTING AND HASHING TECHNIQUES | 6 |
 Sorting: Insertion sort -- Merge sort;  Hashing: Hash function -- Separate chaining; Open Addressing: Linear probing; Rehashing.
 
 ** SUGGESTIVE EXPERIMENTS
