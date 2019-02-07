@@ -51,7 +51,7 @@ testing-black box testing- Unit Testing -- Integration Testing
 Maintenance:Types - Reengineering- Reverse Engineering -
 Restructuring.
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

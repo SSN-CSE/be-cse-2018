@@ -49,7 +49,7 @@ PN sequences – properties – m-sequence – DSSS – Processing gain,
 Jamming margin – FHSS – Synchronization and tracking – Multiple Access
 – FDMA, TDMA, CDMA.
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

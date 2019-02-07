@@ -36,7 +36,7 @@ Core ASP .Net: .Net Framework for Web Applications -- Web Technologies -- Handle
 Assemblies: Application Domains -- Shared Assemblies -- Versioning; Windows Communication Foundation (WCF) : Overview -- Creating a simple service and client -- Contracts; Windows Workflow Foundation (WWF): Overview -- Activities -- Workflows.
 
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

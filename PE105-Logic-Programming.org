@@ -37,7 +37,7 @@ Overview of PROLOG: Lists – Operators – Arithmetic – Data Structures –Ei
 Foundations: Introduction to Expert Systems – Features of Expert Systems -- Functions of an Expert System -- Structure of an Expert System; If-then rules for representing knowledge; Developing a Simple Shell: Implementation--Dealing with uncertainty;
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <Total Periods>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -33,7 +33,7 @@ Lab Experiments
 13. Implement binary search, insertion sort and quick sort 
 14. Implement hashing using separate chaining technique
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

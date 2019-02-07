@@ -43,11 +43,11 @@ Ensemble Techniques: Bagging and Random Forests -- Boosting;  Machine Learning E
  - Document grouping using K-means clustering
  - Sentiment analysis / Handwritten character recognition using Ensemble techniques
  
-*Theory Hours: 30*
+*Theory Periods: 30*
 
-*Practical Hours: 30*
+*Practical Periods: 30*
 
-*Total Hours: 60*
+*Total Periods: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

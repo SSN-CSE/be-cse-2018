@@ -34,7 +34,7 @@
 9. Creation of a simple 2D animation
 10. Creation of a simple 3D animation
 
-\hfill *Total: <45 Hours>*
+\hfill *Total: <45 Periods>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

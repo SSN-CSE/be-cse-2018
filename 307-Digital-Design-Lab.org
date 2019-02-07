@@ -34,7 +34,7 @@
 9. Coding sequential circuits using HDL.
 10. Design and implementation of a simple digital system (Mini Project).
 
-\hfill *Total Hours: 45 Hours*
+\hfill *Total Periods: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -28,7 +28,7 @@
 9. Develop a mini project for any application using the constructs of Java. 
 
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

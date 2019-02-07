@@ -65,7 +65,7 @@ Hash-and-Sign Paradigm -- Lamport's One-Time Signature Scheme --
 Signatures from Collision-Resistant Hashing -- The Digital Signature
 Standard --Certificates and Public-Key Infrastructures.
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -52,7 +52,7 @@ Control charts for measurements (X and R charts) - Control charts for
 attributes (p, c and npcharts) - Tolerance limits - Acceptance
 sampling.
 
-\hfill *Total: 60 Hours*
+\hfill *Total: 60 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

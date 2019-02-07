@@ -15,22 +15,22 @@
   learning.
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
+|Unit I | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit II | <Title> | <Hours> |
+|Unit II | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit III | <Title> | <Hours> |
+|Unit III | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit IV | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit V | <Title> | <Periods> |
 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <Total Periods>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

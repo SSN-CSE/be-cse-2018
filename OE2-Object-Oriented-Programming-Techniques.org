@@ -38,11 +38,11 @@ Polymorphism: Method overloading and overriding - Dynamic method dispatch; Excep
  - 
  - 
  
-*Theory Hours: 30*
+*Theory Periods: 30*
 
-*Practical Hours: 30*
+*Practical Periods: 30*
 
-*Total Hours: 60*
+*Total Periods: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

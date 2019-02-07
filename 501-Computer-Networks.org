@@ -48,7 +48,7 @@ User Datagram Protocol -- Transmission Control Protocol -- SCTP
 |Unit V | Application Layer | 9 |
 WWW and HTTP -- FTP -- Email --Telnet -- SSH -- DNS -- SNMP
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -9,33 +9,52 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn various phases of compiler
 - To learn various parsing techniques
 - To understand intermediate code generation 
 - To learn to implement code generator and optimize the code
 
 {{{unit}}}
-|Unit I | INTRODUCTION TO COMPILERS | 9 |
-Language processors – Phases of compiler – Role of lexical analyzer – Input buffering – Specification of tokens – Recognition of tokens – Lexical analyzer generator: Structure of lex program - Lookahead operator and conflict resolution 
+|UNIT I | INTRODUCTION TO COMPILERS | 9 |
+Language processors – Phases of compiler – Role of lexical analyzer –
+Input buffering – Specification of tokens – Recognition of tokens –
+Lexical analyzer generator: Structure of lex program - Lookahead
+operator and conflict resolution
 
 {{{unit}}}
-|Unit II | SYNTAX ANALYSIS | 9 |
-Role of Parser – Writing grammars for language constructs – Types of grammars: Ambiguity - deterministic and recursive - Top down parsers: Recursive descent parser - Predictive parser -  Bottom up parsers:  SLR Parser - CLR Parser - LALR Parser; Error handling and recovery in syntax analyzer;  Syntax analyzer generator: Structure of yacc program – Creating yacc lexical analyzers with lex
+|UNIT II | SYNTAX ANALYSIS | 9 |
+Role of Parser – Writing grammars for language constructs – Types of
+grammars: Ambiguity - deterministic and recursive - Top down parsers:
+Recursive descent parser - Predictive parser - Bottom up parsers: SLR
+Parser - CLR Parser - LALR Parser; Error handling and recovery in
+syntax analyzer; Syntax analyzer generator: Structure of yacc program
+– Creating yacc lexical analyzers with lex
 
 {{{unit}}}
-|Unit III | INTERMEDIATE CODE GENERATION | 9 |
-Syntax directed definitions: Synthesized attribute - Inherited attribute - Dependency graph - Evaluation order of syntax directed definitions;  Intermediate languages: Syntax tree - Three address code;  SDD for type checking - declarations - evaluation of expressions and flow of control statements - Bottom-up evaluation of S-attribute definitions 
+|UNIT III | INTERMEDIATE CODE GENERATION | 9 |
+Syntax directed definitions: Synthesized attribute - Inherited
+attribute - Dependency graph - Evaluation order of syntax directed
+definitions; Intermediate languages: Syntax tree - Three address code;
+SDD for type checking - declarations - evaluation of expressions and
+flow of control statements - Bottom-up evaluation of S-attribute
+definitions
 
 {{{unit}}}
-|Unit IV | RUNTIME ENVIRONMENTS AND CODE GENERATION | 9 |
-Source language issues - Storage organization - Storage allocation strategies: Static, Stack and Heap – Implementation of symbol table - Issues in code generation - Design of a simple code generator
+|UNIT IV | RUNTIME ENVIRONMENTS AND CODE GENERATION | 9 |
+Source language issues - Storage organization - Storage allocation
+strategies: Static, Stack and Heap – Implementation of symbol table -
+Issues in code generation - Design of a simple code generator
 
 {{{unit}}}
-|Unit V | CODE OPTIMIZATION | 9 |
-Principal sources of optimization – Peephole optimization - DAG- Optimization of basic blocks -Global data flow analysis - Efficient data flow algorithm
+|UNIT V | CODE OPTIMIZATION | 9 |
+Principal sources of optimization – Peephole optimization - DAG-
+Optimization of basic blocks -Global data flow analysis - Efficient
+data flow algorithm
 
-SUGGESTIVE EXPERIMENTS
+\hfill *Periods: 45* 
+
+* SUGGESTIVE EXPERIMENTS
 1. Implementation of Lexical Analyzer using  Lex Tool 
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for simple program using LEX and YACC
@@ -43,11 +62,11 @@ SUGGESTIVE EXPERIMENTS
 5. Implementation of Simple Code Optimization Techniques (Constant Folding, Strength reduction and Algebraic transformation)
 6. Consider a simple program as an input and process this code to print the intermediate code after every phase. It is necessary to print the output of lexical, syntax, semantic, intermediate code generation, code optimization and code generation phases
 
-Theory Hours: 45 
-Practical Hours: 30
-Total Hours: 75
+\hfill *Periods: 30*
 
-** Course Outcomes
+\hfill *Total Periods: 75*
+
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design a lexical analyzer for a sample language (K3)
 - Apply different parsing algorithm to develop the parsers for the given grammar(K3)
@@ -56,13 +75,21 @@ After the completion of this course, students will be able to:
 - Understand and implement code optimization techniques(K3)
 
       
-**Text Books
-1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, ``Compilers: Principles, Techniques and Tools'', Second Edition, Pearson Education, 2009
+** TEXT BOOKS
+1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman,
+   ``Compilers: Principles, Techniques and Tools'', Second Edition,
+   Pearson Education, 2009
 
-**Reference Books
-1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern Architectures: A Dependence based Approach'', Morgan Kaufmann Publishers, 2002
-2. Steven S. Muchnick, ``Advanced Compiler Design and Implementation'', Morgan Kaufmann Publishers - Elsevier Science, India, Indian Reprint 2003
-3. Keith D Cooper and Linda Torczon, ``Engineering a Compiler'', Morgan Kaufmann Publishers Elsevier Science, 2004
-4. Andrew W. Appel, ``Modern compiler implementation in C'', Cambridge University Press, First edition, 2004
-5. Watson, Des, ``A Practical approach to compiler construction'', First edition, Springer-Verlog, 2017
-
+** REFERENCE BOOKS
+1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern
+   Architectures: A Dependence based Approach'', Morgan Kaufmann
+   Publishers, 2002
+2. Steven S. Muchnick, ``Advanced Compiler Design and
+   Implementation'', Morgan Kaufmann Publishers - Elsevier Science,
+   India, Indian Reprint 2003
+3. Keith D Cooper and Linda Torczon, ``Engineering a Compiler'',
+   Morgan Kaufmann Publishers Elsevier Science, 2004
+4. Andrew W. Appel, ``Modern compiler implementation in C'', Cambridge
+   University Press, First edition, 2004
+5. Watson, Des, ``A Practical approach to compiler construction'',
+   First edition, Springer-Verlog, 2017

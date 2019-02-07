@@ -42,7 +42,7 @@
    * Normalization
 10. Implement the database application using any Front-end
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Software Required for a batch of 30 students:
 1. Database: Oracle 10g - 30 Clients with 1 Server Node

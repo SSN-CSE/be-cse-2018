@@ -33,7 +33,7 @@ Data center security overview: Need for a secure data center – Vulnerabilities
 |Unit V | Security Protocols and Technologies | 9 |
 Security Protocols and Technologies: Cryptography – PKI – Transport Security – Authentication Protocols and Technologies; Network management security; Integrating security into the infrastructure: Defining security zone – Internet Edge – Intranet Server Farm – Server-Farm Design Alternative – Management Network.
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <Total Periods>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

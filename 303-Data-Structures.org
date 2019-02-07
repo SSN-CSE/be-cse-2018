@@ -53,7 +53,7 @@ Searching: Linear search – Binary search; Sorting: Insertion sort -
 Shell sort – Radix sort – Quicksort; Hashing: hash functions -
 separate chaining – open addressing – rehashing – extendible hashing.
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:

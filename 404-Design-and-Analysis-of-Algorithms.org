@@ -50,7 +50,7 @@ Arguments -- P, NP and NP-Complete Problems; Coping with the
 Limitations of Algorithm Power: Approximation Algorithms for NP-Hard
 Problems -- Traveling Salesman problem -- Knapsack problem.
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -86,4 +86,4 @@ After the completion of this course, students will be able to:
    technique
 10. Mini project
 
-\hfill *Total:20 Hours*
+\hfill *Total:20 Periods*

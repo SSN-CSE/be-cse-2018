@@ -40,7 +40,7 @@ Light  sources; Basic  illumination  models: Ambient, Diffuse, Specular Componen
 Multimedia  basics -- Multimedia  applications --Multimedia Systems Architecture -- Defining objects for multimedia systems − Multimedia data interface standards -- Compression and decompression −- Data and file format standards -- Hypermedia Messaging; Case Study - Blender Graphics: Fundamentals 
 –- Drawing  Basic  Shapes -- Modelling –- Shading & Textures 
 
-\hfill *Total: <45 Hours>*
+\hfill *Total: <45 Periods>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

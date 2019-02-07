@@ -58,7 +58,7 @@ serializability; Concurrency control: Two-phase locking technique --
 Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate
 update -- Multidatabase system recovery
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

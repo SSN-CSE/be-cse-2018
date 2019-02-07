@@ -50,7 +50,7 @@ list - Linked list - Queue - set - trees; Iterators for collections –
 Map class – Algorithms: sorting - searching - user-defined algorithms
 – Examples in Java
 
-\hfill *Total: 45 Hours*
+\hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
