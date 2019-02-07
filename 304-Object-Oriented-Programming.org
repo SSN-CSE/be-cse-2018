@@ -54,9 +54,9 @@ Map class – Algorithms: sorting - searching - user-defined algorithms
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Solve problems using classes and methods (K3)
+- Solve problems using classes and objects (K3)
 - Develop programs using inheritance and interfaces (K3)
-- Experiments the concepts of polymorphism (K3)
+- Experiment the concepts of polymorphism (K3)
 - Design applications using generic programming. (K3)
 - Develop algorithms using generic collections(K3)
      
