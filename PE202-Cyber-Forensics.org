@@ -72,7 +72,7 @@ for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 stone Forensic ToolKit -- WinHex -- Linux dd and other open source
 tools.
 
-\hfill *Total Peiods: 45*
+*Total Peiods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
