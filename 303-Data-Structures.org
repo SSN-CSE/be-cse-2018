@@ -21,9 +21,8 @@
 
 {{{unit}}}
 |Unit I | Linear Data Structure - List | 9 |
-Algorithm analysis: Running time calculations; Abstract Data Types (ADT); List ADT: array-based implementation –
-linked list implementation – singly linked lists – circular linked
-list - doubly-linked lists; Applications of lists: polynomial
+Algorithm analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: array implementation –
+linked list implementation – circular linked lists - doubly-linked lists; Applications of lists: polynomial
 manipulation.
 
 {{{unit}}}
