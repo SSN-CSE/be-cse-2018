@@ -99,14 +99,14 @@ After the completion of this course, students will be able to:
 - Learn operations with files in C (K3)
 
       
-**Text Books
+** Text Books
 1.  Byron Gottfried, Programming with C (Schaum's Outlines Series), McGraw-Hill
 Education, 3rd Edition, 2017.
 2. Brian W Kernighan and Dennis M Ritchie, The C Programming Language, Pearson
 Education India, 2nd Edition, 2015.
 
 
-**Reference Books
+** Reference Books
 1. Reema Thareja, Programming in C, Oxford University Press, 2nd Edition, 2016.
 2. Yashwant Kanetkar, Let Us C, BPB Publications, 14th Edition, 2016.
 3. King, K.N., C Programming A Modern Approach, W. W. Norton & Company, II Ed. 2008.
