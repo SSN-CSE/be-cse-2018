@@ -1,6 +1,6 @@
 * <<<OE6>>> WEB TECHNOLOGY
 :properties:
-:author: 
+:author: Dr. V.S. Felix Enigo 
 :end:
 
 #+startup: showall
@@ -10,23 +10,46 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
+Student should be made to:
+1.	Understand the Web Client/Server environment 
+2.	Learn to design static web pages using HTML and CSS
+3.	Learn to design interactive websites using Java Script and DOM
+4.	Be familiar with creating web applications using Servlets  
+5.	Be exposed to developing web applications using JSP
 
 {{{unit}}}
-|Unit I | TITLE | <HOURS> |
+|Unit I | Website Basics, Html 5 | <6> |
+Web Essentials: Clients, Servers and Communication – The Internet – Basic Internet protocols – World Wide web – HTTP Request Message – HTTP Response Message – Web Clients – Web Servers – Introducing HTML5 – Structuring pages with Semantic elements – Writing more meaningful Markup – Building better Forms – Audio and Video
 
 {{{unit}}}
-|Unit II | TITLE | <HOURS> |
+|Unit II | Styling with Cascading Style Sheets  | <6> |
+CSS3 Basics - HTML for CSS – Styles and Style Sheets - Selectors -  Style Inheritance – Cascading – Formatting Texts – Margins, Padding and Borders – CSS Transforms, Transitions and Animations - Formatting Tables and Forms
 
 {{{unit}}}
-|Unit III | TITLE | <HOURS> |
+|Unit III | Interactive Client Side Scripting  | <6> |
+An introduction to JavaScript – JavaScript DOM Model - Date and Objects - Regular Expressions- Exception Handling-Validation-Built-in objects-Event Handling - Host Objects: Browsers and the DOM-Introduction to the Document Object Model  -Intrinsic Event Handling-Modifying Element Style-The Document Tree-DOM Event Handling
 
 {{{unit}}}
-|Unit IV | TITLE | <HOURS> |
+|Unit IV | Server Side Scripting | <6> |
+Introduction to Java Servlets- Architecture - Overview - A Servlet-Generating Dynamic Content-Life Cycle- Parameter Data-Sessions-Cookies-URL Rewriting 
 
 {{{unit}}}
-|Unit V | TITLE | <HOURS> |
+|Unit V | Advanced Server Side Scripting | <6> |
+Separating Programming and Presentation: JSP Technology Introduction-JSP and Servlets-Running JSP Applications Basic JSP-JavaBeans Classes and JSP-Tag Libraries 
+
 
 ** SUGGESTIVE EXPERIMENTS
+	- To design a web page using HTML5 semantic elements (Ex. Table, article, aside, details, figure, nav etc.)
+	- Design a web page using form controls and perform in-build validation (Ex. Login form, Registration form)
+	- Use Embedded, inline and External Style sheets for styling a web page
+	- Use Selectors to format texts, margins, padding, borders, tables, forms for a web page
+	- Develop a Java script application using events (Ex. Calculator, Tic Tac Toe game)
+	- Design a web page where the content, formatting change dynamically using DOM 
+	- Develop 2-tier web application using HTML form and Servlet 
+	- Develop 3 –tier web application using HTML Form, Servlet and Database (Ex. Login Authentication, payroll management system)
+	- Develop a JSP based 3-tier web application using Scriptlet tags 
+	- Develop a JSP based 2-tier web application using JSTL Tags
+
  - Experiment 1
  - Experiment 2
  
@@ -38,16 +61,22 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-
-
+1.	Use Web Client/Server environment for developing applications (K3)
+2.	Design static Web pages using HTML and CSS  (K3)
+3.	Design interactive websites using Java Script and DOM (K3)
+4.	Create web application using Servlets (K3)
+5.	Develop efficient web application using JSP (K3)
       
 **Text Books
-1. Book 1
-2. Book 2
+1. Jeffrey C. Jackson, "Web Technologies--A Computer Science Perspective", Pearson Education, 2006. (Unit I)
+2.	HTML5: The Missing Manual, Mathew Mac Donald, O Reilly, 2nd Edition, 2013.  (Unit – I, III, IV and V)
+3.	CSS3: The Missing Manual, 3rd Edition, David McFarland, O'Reilly, December 2012. (Unit II)
+
 
 **Reference Books
-1. Reference 1
-2. Reference 2
-3. Reference 3
-4. Reference 4
-5. Reference 5
+1.	Jennifer Niederst Robbins, "Learning Web Design", O'Reilly, 4th Edition
+2.	Robert. W. Sebesta, "Programming the World Wide Web", Fourth Edition, Pearson Education, 2007 .
+3.	Deitel, Deitel, Goldberg, "Internet & World Wide Web How To Program", Third Edition, Pearson Education, 2006.
+4.	Marty Hall and Larry Brown, Core Web Programming, Second Edition, Volume I and II, Pearson Education, 2001.
+5.	Bates, ―Developing Web Applications, Wiley, 2006
+
