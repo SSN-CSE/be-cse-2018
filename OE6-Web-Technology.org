@@ -72,9 +72,9 @@ After the completion of this course, students will be able to:
 
 
 ** Reference Books
-1.	Jennifer Niederst Robbins, "Learning Web Design", O'Reilly, 4th Edition
-2.	Robert. W. Sebesta, "Programming the World Wide Web", Fourth Edition, Pearson Education, 2007 .
+1.	Jennifer Niederst Robbins, "Learning Web Design", O'Reilly, 4th Edition.
+2.	Robert. W. Sebesta, "Programming the World Wide Web", Fourth Edition, Pearson Education, 2007.
 3.	Deitel, Deitel, Goldberg, "Internet & World Wide Web How To Program", Third Edition, Pearson Education, 2006.
 4.	Marty Hall and Larry Brown, Core Web Programming, Second Edition, Volume I and II, Pearson Education, 2001.
-5.	Bates, ―Developing Web Applications, Wiley, 2006
+5.	Bates, ―Developing Web Applications, Wiley, 2006.
 
