@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand basic Programming constructs.
 - To know about Interpolation methods.
 - To learn about Numerical Integration.
@@ -18,28 +18,51 @@
 - To study Numerical solutions for differential equations
 
 {{{unit}}}
-|Unit I | COMPUTATIONAL – TECHNIQUES | 7 |
-C Programming: Algorithms -- effective procedures in problem solving -- flowcharts -- pseudo-code; C Preliminaries: Data types -- constants -- variables -- type specification statements -- operators and expressions -- Library functions simple C programmes; Control Structures: Importance and types of structures -- structured programming -- if else -- while -- do-while -- for -- switch structure -- go to -- continue and break statement; Arrays -- pointers -- functions -- text processing and programmes using the above features.
+|UNIT I | COMPUTATIONAL – TECHNIQUES | 7 |
+C Programming: Algorithms -- effective procedures in problem solving
+-- flowcharts -- pseudo-code; C Preliminaries: Data types -- constants
+-- variables -- type specification statements -- operators and
+expressions -- Library functions simple C programmes; Control
+Structures: Importance and types of structures -- structured
+programming -- if else -- while -- do-while -- for -- switch structure
+-- go to -- continue and break statement; Arrays -- pointers --
+functions -- text processing and programmes using the above features.
 
 {{{unit}}}
-|Unit II | Interpolation | 10 |
-Finite differences -- Newton’s Forward Interpolation formula -- Newton’s Backward interpolation formula -- Central Difference interpolation formula -- Lagrange’s formula -- Newton’s divided difference interpolation formula -- Inverse Lagrange’s interpolation formula -- Interpolating with a cubic spline -- Curve Fitting: Method of Least Squares -- Linear and polynomial regression.
+| UNIT II | INTERPOLATION | 10 |
+Finite differences -- Newton’s Forward Interpolation formula --
+Newton's Backward interpolation formula -- Central Difference
+interpolation formula -- Lagrange’s formula -- Newton’s divided
+difference interpolation formula -- Inverse Lagrange’s interpolation
+formula -- Interpolating with a cubic spline -- Curve Fitting: Method
+of Least Squares -- Linear and polynomial regression.
 
 {{{unit}}}
-|Unit III | Numerical integration | 9 |
-Trapezoidal Rule -- Simpson’s 1/3 Rule -- Simpson’s 3/8 Rule -- Gaussian Quadrature Formula -- Double integration using Trapezoidal Rule -- Simpson’s Rule	
+| Unit III | NUMERICAL INTEGRATION | 9 |
+Trapezoidal Rule -- Simpson's 1/3 Rule -- Simpson's 3/8 Rule --
+Gaussian Quadrature Formula -- Double integration using Trapezoidal
+Rule -- Simpson’s Rule
 
 {{{unit}}}
-|Unit IV | Numerical Solution of Equations | 10 |
-Solution of algebraic and transcendental equations –- Bisection method -- Method of false position -- Newton-Raphson method -- Secant method -- Method of Successive Approximations -- Fixed point iteration method -- Solution of linear simultaneous equations -- Gauss elimination method -- Gauss elimination method with partial pivoting -- Gauss-Jordan method -- Inverse of a matrix by GaussJordan method -- Gauss-Seidel method -- Gauss-Jacobi method Eigen Values: Power method.
+| UNIT IV | NUMERICAL SOLUTION OF EQUATIONS | 10 |
+Solution of algebraic and transcendental equations –- Bisection method
+-- Method of false position -- Newton-Raphson method -- Secant method
+-- Method of Successive Approximations -- Fixed point iteration method
+-- Solution of linear simultaneous equations -- Gauss elimination
+method -- Gauss elimination method with partial pivoting --
+Gauss-Jordan method -- Inverse of a matrix by GaussJordan method --
+Gauss-Seidel method -- Gauss-Jacobi method Eigen Values: Power method.
 
 {{{unit}}}
-|Unit V | Numerical solution of differential equations | 9 |
-Euler’s method -- Modified Euler method -- Runge-Kutta 4th Order method -- Taylor’s Series method -- Finite difference methods for ordinary differential equations -- Milne’s and Adam’s predictor and corrector methods.
+|UNIT V | NUMERICAL SOLUTION OF DIFFERENTIAL EQUATIONS | 9 |
+Euler's method -- Modified Euler method -- Runge-Kutta 4th Order
+method -- Taylor's Series method -- Finite difference methods for
+ordinary differential equations -- Milne's and Adam’s predictor and
+corrector methods.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop simple applications in C using basic constructs (K2).
 - Understanding the Numerical interpolation and integration (K2).
@@ -47,14 +70,23 @@ After the completion of this course, students will be able to:
 - Apply Numerical methods to solve problems drawn from industry and Engineering (K3).
 - Assess the reliabilty of Numerical results (K3).
       
-** Text Book
-1. Veerarjan, T and Ramachandran, T. ``Numerical methods with programming in C'', Second Editiion, Tata McGraw-Hill Publishing.Co.Ltd, 2007.
-2. Sankara Rao K, ``Numerical Methods for Scientisits and Engineers'', Third edition Printice Hall of India Private Ltd, New Delhi, 2007.
+** TEXT BOOKS
+1. Veerarjan, T and Ramachandran, T. ``Numerical methods with
+   programming in C'', Second Editiion, Tata McGraw-Hill
+   Publishing.Co.Ltd, 2007.
+2. Sankara Rao K, ``Numerical Methods for Scientisits and Engineers'',
+   Third edition Printice Hall of India Private Ltd, New Delhi, 2007.
 
-** References
-1. Chapra, S. C and Canale, R. P. ``Numerical Methods for Engineers'', Fifth Edition, Tata McGraw-Hill, New Delhi, 2007.
-2. Gerald, C. F. and Wheatley, P.O., ``Applied Numerical Analysis'', Sixth Edition, Pearson Education Asia, New Delhi, 2006.
-3. Grewal, B.S. and Grewal,J.S., ``Numerical methods in Engineering and Science'', Sixth Edition, Khanna Publishers, New Delhi, 2004.
-4. Máté A. ``Introduction to Numerical Analysis with C Program''. Brooklyn College of the City University of New York, New York. 2004.
-5. Brian, ``A  friendly  introduction  to  Numerical  analysis'',  Pearson  Education, Asia, New Delhi, 2007.
+** REFERENCES
+1. Chapra, S. C and Canale, R. P. ``Numerical Methods for Engineers'',
+   Fifth Edition, Tata McGraw-Hill, New Delhi, 2007.
+2. Gerald, C. F. and Wheatley, P.O., ``Applied Numerical Analysis'',
+   Sixth Edition, Pearson Education Asia, New Delhi, 2006.
+3. Grewal, B.S. and Grewal,J.S., ``Numerical methods in Engineering
+   and Science'', Sixth Edition, Khanna Publishers, New Delhi, 2004.
+4. Mate A. ``Introduction to Numerical Analysis with C
+   Program''. Brooklyn College of the City University of New York, New
+   York. 2004.
+5. Brian, ``A friendly introduction to Numerical analysis'', Pearson
+   Education, Asia, New Delhi, 2007.
 

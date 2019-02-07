@@ -9,40 +9,52 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the fundamentals of Internet of Things.
 - To understand the architecture of IoT.
 - To learn about the basics of IoT protocols .
 - To build a small low cost embedded system using Arduino/Raspberry Pi.
 - To apply the concept of Internet of Things in real world scenarios. 
 
+{{{unit}}}
+| UNIT I | INTRODUCTION | 9 |
+M2M and IoT Technology Fundamentals -- Devices and gateways, Local and
+wide area networking, Data management, Business processes in IoT,
+Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge
+Management. IoT-An Architectural Overview -- Building an architecture,
+An IoT architecture outline
+
+{{{unit}}}
+| UNIT II | IOT REFERENCE ARCHITECTURE | 9 |
+IoT Architecture: State of the Art -- Reference Model: Domain model --
+information model --functional model -- communication model -- IoT
+Reference Architecture: Functional View -- Information View
+
+{{{unit}}}
+| UNIT III | IOT PROTOCOLS | 9 |
+Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols
+-– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -–
+IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN --
+CoAP
+
+{{{unit}}}
+| UNIT IV | BUILDING IOT SYSTEMS | 9 |
+Logical design using Python -- IoT Physical devices and Endpoints:
+Basic building blocks of IoT Device -- Raspberry Pi -- Linux on
+Raspberry Pi -- Interfaces -- Programming Raspberry Pi with Python --
+Other IoT Platform: Arduino.
+
+{{{unit}}}
+| UNIT V | CASE STUDEIES AND REAL WORLD APPLICATIONS | 9 |
+Home Automation -- Weather monitoring -- Smart irrigation -- Data
+Analytics for IoT -- Software & Management Tools for IoT Cloud Storage
+Models & Communication APIs -- Cloud for IoT
 
 
-| Unit I | Introduction | 9 |
-M2M and IoT Technology Fundamentals -- Devices and gateways, Local and wide area networking, Data management, Business processes in IoT, Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge Management. IoT-An Architectural Overview -- Building an architecture, An IoT architecture outline
+\hfill *Total Periods: 45*
 
 
-| Unit II | IoT Reference Architecture | 9 |
-IoT Architecture: State of the Art -- Reference Model: Domain model -- information model --functional model -- communication model -- IoT Reference Architecture: Functional View -- Information View 
-
-
-| Unit III | IoT Protocols | 9 |
-Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -– IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN -- CoAP  
-
-
-| Unit IV | Building IoT Systems | 9 |
-Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
-
-
-
-| Unit V | Case Studeies and Real World Applications | 9 |
-Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
-
-
-*Total: 45 hours*
-
-
-** Course Outcomes
+** COURSE OUTCOMES
 After completion of this course, students should be able to:
 - Understand the basic buiding blocks and data management in Internet
   of Things (K2).
@@ -51,15 +63,22 @@ After completion of this course, students should be able to:
 - Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
 - Implement an IoT application in cloud environment (K3).
 
-** Text books
-1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to the Internet of Things -- Introduction to a New Age of
+** TEXT BOOKS
+1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to
+   the Internet of Things -- Introduction to a New Age of
    Intelligence'', Elsevier, 2014.
-2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware Perspective '', CRC Press, 2012.
+2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
+   Perspective'', CRC Press, 2012.
 
-** References
-
-1. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
-2. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
-3. Gaston C. Hillar, Internet of Things with Python, Packt Publishing, 2016. 
-4. Pethu Raj and Anupama C. Raman, ``The Internet of Things Enabling Technologies, Platforms and Usecases'', Taylor & Francis, CRC Press, 2017.
-5. Peter Waher, “Learning Internet of Things”, PACKT publishing, 2015
+** REFERENCES
+1. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet
+   of Things -- Key applications and Protocols'', Wiley, 2012.
+2. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A
+   Hands-on Approach'', Universities Press, 2015.
+3. Gaston C. Hillar, ``Internet of Things with Python'', Packt
+   Publishing, 2016.
+4. Pethu Raj and Anupama C. Raman, ``The Internet of Things Enabling
+   Technologies, Platforms and Usecases'', Taylor & Francis, CRC
+   Press, 2017.
+5. Peter Waher, ``Learning Internet of Things'', PACKT publishing,
+   2015

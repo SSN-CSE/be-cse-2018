@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the concepts of virtualization and virtual machines.
 - To gain knowledge about virtualization Infrastructure.
 - To understand the principles of Cloud Architecture, Models and Infrastructure.
@@ -18,32 +18,54 @@
 - To learn about the security issues in the cloud environment. 
 
 {{{unit}}}
-|Unit I|Cloud Architecture Models and Infrastructure|8| 
-Cloud Architecture: System Models for Distributed and Cloud Computing -- NIST Cloud Computing Reference Architecture -- Cloud deployment models -- Cloud service models; Cloud Infrastructure: Architectural Design of Compute and Storage Clouds -- Layered Cloud Architecture Development -- Design Challenges -- Inter Cloud Resource Management -- Resource Provisioning and Platform Deployment. 
+|UNIT I|CLOUD ARCHITECTURE MODELS AND INFRASTRUCTURE|8| 
+Cloud Architecture: System Models for Distributed and Cloud Computing
+-- NIST Cloud Computing Reference Architecture -- Cloud deployment
+models -- Cloud service models; Cloud Infrastructure: Architectural
+Design of Compute and Storage Clouds -- Layered Cloud Architecture
+Development -- Design Challenges -- Inter Cloud Resource Management --
+Resource Provisioning and Platform Deployment.
 
 
 {{{unit}}}
-|Unit II |Introduction to Virtualization|9| 
-Basics of Virtualization -- Emulation -- Interpretation -- Binary Translation -- Virtualization Advantages -- Virtual Machine Basics -- Taxonomy of Virtual Machines -- Process Virtual Machines -- System Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization structure -- Implementation levels of virtualization -- Virtualization Types: Full Virtualization -- Para Virtualization -- Hardware Virtulization. 
+|UNIT II |INTRODUCTION TO VIRTUALIZATION|9| 
+Basics of Virtualization -- Emulation -- Interpretation -- Binary
+Translation -- Virtualization Advantages -- Virtual Machine Basics --
+Taxonomy of Virtual Machines -- Process Virtual Machines -- System
+Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
+structure -- Implementation levels of virtualization -- Virtualization
+Types: Full Virtualization -- Para Virtualization -- Hardware
+Virtulization.
 
 {{{unit}}}
-|Unit III|Virtualization Infrastructure|9| 
-Comprehensive Analysis -- Resource Pool -- Testing Environment -- Virtual Workloads -- Provision Virtual Machines -- Desktop
-Virtualization -- Network Virtualization -- Server and Machine Virtualization -- Storage Virtualization -- System-level of Operating Virtualization -- Application Virtualization-- Virtualization of CPU, Memory and I/O devices -- Virtual clusters and Resource Management -- Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
+|UNIT III|VIRTUALIZATION INFRASTRUCTURE|9| 
+Comprehensive Analysis -- Resource Pool -- Testing Environment --
+Virtual Workloads -- Provision Virtual Machines -- Desktop
+Virtualization -- Network Virtualization -- Server and Machine
+Virtualization -- Storage Virtualization -- System-level of Operating
+Virtualization -- Application Virtualization-- Virtualization of CPU,
+Memory and I/O devices -- Virtual clusters and Resource Management --
+Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 
 {{{unit}}}
-|Unit IV| Cloud Deployment Environment|12|
-Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software Environments -- Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
+|UNIT IV| CLOUD DEPLOYMENT ENVIRONMENT|12|
+Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine
+-- Amazon AWS -- Microsoft Azure; Cloud Software Environments --
+Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
 
 
 {{{unit}}}
-|Unit V|Cloud Security|7|
-Data Security and Storage; Identity and Access Management(IAM) -- IAM Challenges -- IAM Architecture and Practice; Security Management in the Cloud -- Security Management Standards -- SaaS, Paas and IaaS Availability Management -- Access Control; Security-As-A-[Cloud] Service
+| UNIT V | CLOUD SECURITY | 7 |
+Data Security and Storage; Identity and Access Management(IAM) -- IAM
+Challenges -- IAM Architecture and Practice; Security Management in
+the Cloud -- Security Management Standards -- SaaS, Paas and IaaS
+Availability Management -- Access Control; Security-As-A-[Cloud]
+Service
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
-Upon the completion of the course the students should be able to: 
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to:
 - Understand the design challenges in cloud environment(K2)
 - Apply the concept of virtualization and analyse its types(K3)
 - Experiment virtualization of hardware resources and Virtual Machine Monitors(K3)
@@ -51,14 +73,26 @@ Upon the completion of the course the students should be able to:
 - Understanding the security challenges in cloud environment(K2)
 
 
-** Text Books
-1. Kai Hwang, Geoffery C. Fox and Jack J. Dongarra, “Distributed and Cloud Computing: Clusters, Grids, Clouds and the Future of Internet”, First Edition, Morgan Kaufman Publisher, an Imprint of Elsevier, 2012. (Unit I, II, IV)
-2. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for Learning and Implementation'', Pearson Education India, 2014. (Units I, II, III, IV) 
+** TEXT BOOKS
+1. Kai Hwang, Geoffery C. Fox and Jack J. Dongarra, ``Distributed and
+   Cloud Computing: Clusters, Grids, Clouds and the Future of
+   Internet'', First Edition, Morgan Kaufman Publisher, an Imprint of
+   Elsevier, 2012. (Unit I, II, IV)
+2. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
+   Learning and Implementation'', Pearson Education
+   India, 2014. (Units I, II, III, IV)
 
-** References
-1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's Guide'', McGraw-Hill Osborne Media, 2009. 
-2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. 
-3. William von Hagen, ``Professional Xen Virtualization'', Wrox Publications, January, 2008. 
-4. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization: VMware and Microsoft Platform in the Virtual Data Center'', Auerbach Publications, 2006. 
-5. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security and Privacy: an enterprise perspective on risks and compliance'', O‘Reilly Media, Inc., 2009.     
+** REFERENCES
+1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+   Guide'', McGraw-Hill Osborne Media, 2009.
+2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
+   for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005.
+3. William von Hagen, ``Professional Xen Virtualization'', Wrox
+   Publications, January, 2008.
+4. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
+   VMware and Microsoft Platform in the Virtual Data Center'',
+   Auerbach Publications, 2006.
+5. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
+   and Privacy: an enterprise perspective on risks and compliance'',
+   O'Reilly Media, Inc., 2009.
 

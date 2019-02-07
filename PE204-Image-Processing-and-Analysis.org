@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To become familiar with digital image fundamentals. 
 - To get exposed to simple image enhancement techniques in Spatial and Frequency domain. 
 - To learn concepts of degradation function and restoration techniques.
@@ -18,36 +18,50 @@
 - To become familiar with object recognition methods
 
 {{{unit}}}
-|Unit I | Digital Image Fundamentals | 9 |
-Introduction to Digital Image Processing: Components -  Image Sensing and Acquisition -
-Image Sampling and Quantization; Relationships between pixels - 2D mathematical preliminaries: Array vs matrix operations -
-Linear vs nonlinear operations - Arithmetic - Logical - Statistical - Spatial Operations.
+|UNIT I | Digital Image Fundamentals | 9 |
+Introduction to Digital Image Processing: Components - Image Sensing
+and Acquisition - Image Sampling and Quantization; Relationships
+between pixels - 2D mathematical preliminaries: Array vs matrix
+operations - Linear vs nonlinear operations - Arithmetic - Logical -
+Statistical - Spatial Operations.
 
 {{{unit}}}
-|Unit II | Image Enhancement | 9 |
-Spatial Domain: Gray level transformations - Histogram processing; Basics of Spatial Filtering; 
-Smoothing and Sharpening Spatial Filtering; Frequency Domain: Introduction to Fourier Transform; 
-Smoothing and Sharpening frequency domain filters: Ideal - Butterworth - Gaussian filters; Homomorphic filtering.
+|UNIT II | Image Enhancement | 9 |
+Spatial Domain: Gray level transformations - Histogram processing;
+Basics of Spatial Filtering; Smoothing and Sharpening Spatial
+Filtering; Frequency Domain: Introduction to Fourier Transform;
+Smoothing and Sharpening frequency domain filters: Ideal -
+Butterworth - Gaussian filters; Homomorphic filtering.
 
 {{{unit}}}
-|Unit III | Image Restoration | 9 |
-Image Restoration: Degradation model; Noise models; Restoration in the presence of noise using spatial filtering: Mean Filters - Order Statistics - Adaptive filters; Periodic noise reduction by frequency domain filtering: Band reject Filters - Band pass Filters - Notch Filters - Optimum Notch Filtering; Inverse Filtering; Wiener filtering.
+|UNIT III | Image Restoration | 9 |
+Image Restoration: Degradation model; Noise models; Restoration in the
+presence of noise using spatial filtering: Mean Filters - Order
+Statistics - Adaptive filters; Periodic noise reduction by frequency
+domain filtering: Band reject Filters - Band pass Filters - Notch
+Filters - Optimum Notch Filtering; Inverse Filtering; Wiener
+filtering.
 
 {{{unit}}}
-|Unit IV | Image Segmentation | 9 |
-Edge detection; Edge linking via Hough transform; Thresholding: Intensity thresholding - Otsu's thresholding;
-Region based segmentation: Region growing - Region splitting and merging; Morphological processing: 
-erosion and dilation; Segmentation by morphological watersheds: basic concepts - Dam construction - 
+|UNIT IV | Image Segmentation | 9 |
+Edge detection; Edge linking via Hough transform; Thresholding:
+Intensity thresholding - Otsu's thresholding; Region based
+segmentation: Region growing - Region splitting and merging;
+Morphological processing: erosion and dilation; Segmentation by
+morphological watersheds: basic concepts - Dam construction -
 Watershed segmentation algorithm.
 
 {{{unit}}}
-|Unit V | Feature Analysis And Object Recognition | 9 |
-Boundary representation; Boundary descriptors: Fourier Descriptor - Regional Descriptors - Texture - Relational Descriptors;
-Object recognition: Patterns and Pattern classes; Recognition based on decision theoretic methods; Case Study for Image recognition: Face recognition
+|UNIT V | Feature Analysis And Object Recognition | 9 |
+Boundary representation; Boundary descriptors: Fourier Descriptor -
+Regional Descriptors - Texture - Relational Descriptors; ObjecT
+recognition: Patterns and Pattern classes; Recognition based on
+decision theoretic methods; Case Study for Image recognition: Face
+recognition
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basics and fundamentals of digital image processing, such as digitization, sampling, quantization (K2)
 - Operate on images using the techniques of smoothing, sharpening and enhancement in both spatial and frequency domain (K3)
@@ -55,17 +69,19 @@ After the completion of this course, students will be able to:
 - Analyse the segmentation methods and apply in real time applications (K4)
 - Understand and analyse the feature extraction  and object recognition methods (K4)
    
-** Text Books
-1. Rafael C. Gonzalez, Richard E. Woods, 'Digital Image Processing', Pearson, Third Edition,2010.
-2. Anil K. Jain, 'Fundamentals of Digital Image Processing', Pearson, 2002.   
+** TEXT BOOKS
+1. Rafael C. Gonzalez, Richard E. Woods, ``Digital Image Processing'',
+   Pearson, Third Edition,2010.
+2. Anil K. Jain, ``Fundamentals of Digital Image Processing'',
+   Pearson, 2002.
    
-   
-** References
-1. Kenneth R. Castleman, 'Digital Image Processing', Pearson, 2006.
-2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, 'Digital Image Processing using MATLAB', 
-   Pearson Education, Inc., 2011.
-3. D,E. Dudgeon and RM. Mersereau, 'Multidimensional Digital Signal Processing',  Prentice Hall 
-   Professional Technical Reference, 1990.
-4. William K. Pratt, 'Digital Image Processing', John Wiley, New York, 2002
-5. Milan Sonka et al, 'Image processing, analysis and machine vision', Brookes/Cole, Vikas Publishing House,
-   2nd edition, 1999
+** REFERENCES
+1. Kenneth R. Castleman, ``Digital Image Processing'', Pearson, 2006.
+2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
+   Image Processing using MATLAB'', Pearson Education, Inc., 2011.
+3. D,E. Dudgeon and RM. Mersereau, ``Multidimensional Digital Signal
+   Processing'', Prentice Hall Professional Technical Reference, 1990.
+4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
+   York, 2002
+5. Milan Sonka et al, ``Image Processing, Analysis and Machine
+   Vision'', Brookes/Cole, Vikas Publishing House, 2nd edition, 1999
