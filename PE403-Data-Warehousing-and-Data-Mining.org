@@ -1,0 +1,86 @@
+* <<<PE403>>> DATA WAREHOUSING AND DATA MINING
+:properties:
+:author: R Priyadharsini & J Suresh
+:date: 5 January 2019
+
+#+startup: showall
+|L|T|P|C|
+|3|0|0|3|
+
+** COURSE OBJECTIVES
+- To understand data warehouse concepts, architecture, business analysis and tools
+- To understand data pre-processing and data visualization techniques
+- To study algorithms for finding hidden and interesting patterns in data
+- To understand and apply various classification techniques and machine learning datasets
+- To understand clustering techniques using WEKA tool.
+
+{{{unit}}}
+| UNIT I | DATA WAREHOUSING, BUSINESS ANALYSIS AND ON-LINE ANALYTICAL  PROCESSING (OLAP) | 9 |
+Basic Concepts: Data Warehousing Components –- Building a Data
+Warehouse –- Database Architectures for Parallel Processing –-
+Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse
+Schemas for Decision Support; Concept Hierarchies; Characteristics of
+OLAP Systems –- Typical OLAP Operations, OLAP and OLTP.
+
+{{{unit}}}
+| UNIT II | DATA MINING – INTRODUCTION | 9 |
+Introduction to Data Mining Systems –- Knowledge Discovery Process –-
+Data Mining Techniques –- Issues –- applications; Data Objects and
+attribute types -- Statistical description of data; Data
+Preprocessing: Cleaning -- Integration -- Reduction -- Transformation
+-- discretization; Data Visualization; Data similarity and
+dissimilarity measures.
+
+{{{unit}}}
+| UNIT III | DATA MINING - FREQUENT PATTERN ANALYSIS | 9 |
+Mining Frequent Patterns -- Associations and Correlations –- Mining
+Methods -- Pattern Evaluation Method; Pattern Mining in Multilevel --
+Multi Dimensional Space -– Constraint Based Frequent Pattern Mining;
+Classification using Frequent Patterns.
+
+{{{unit}}}
+| UNIT IV | Classification | 9 |
+Introduction - Decision Tree Induction; Bayesian Classification; Rule
+Based Classification; Classification by Back Propagation; Support
+Vector Machines; Lazy Learners; Model Evaluation and Selection –
+Techniques to improve Classification Accuracy; Evaluation of
+Classification Methods; Datasets: Introduction - UCI Machine Learning
+Repository.
+
+{{{unit}}}
+| UNIT V | Clustering | 9 |
+Introduction, Clustering, Cluster Analysis, Clustering Methods- K
+means, Hierarchical clustering, Agglomerative clustering, Divisive
+clustering, clustering and segmentation software, evaluating clusters;
+Case Studies using WEKA tools for classification, clustering and
+association.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to: 
+- Design a Data warehouse system and perform business analysis with OLAP tools. (K3)
+- Apply suitable pre-processing and visualization techniques for data analysis (K3)
+- Apply frequent pattern and association rule mining techniques for data analysis (K3)
+- Apply appropriate classification techniques for data analysis (K3)
+- Apply clustering techniques using appropriate tools(K3)
+
+** TEXT BOOKS
+1. Jiawei Han and Micheline Kamber, ``Data Mining Concepts and
+   Techniques'', Third Edition, Elsevier, 2012.
+2. Alex Berson and Stephen J. Smith, ``Data Warehousing, Data Mining &
+   OLAP'', Tata McGraw-Hill Edition, 35th Reprint 2016.
+
+** REFERENCES
+1. Pang-Ning Tan, Michael Steinbach and Vipin Kumar, ``Introduction To
+   Data Mining'', Person Education, 2007.
+2. K.P. Soman, Shyam Diwakar and V. Ajay, ``Insight into Data mining
+   Theory and Practice'', Easter Economy Edition, Prentice Hall of
+   India, 2006.
+3. G. K. Gupta, ``Introduction to Data Mining with Case Studies'',
+   Easter Economy Edition, Prentice Hall of India, 2006.
+4. Daniel T. Larose, ``Data Mining Methods and Models'',
+   Wile-Interscience, 2006
+5. Ian H.Witten and Eibe Frank, ``Data Mining: Practical Machine
+   Learning Tools and Techniques'', Elsevier, Second Edition, 2016.
+

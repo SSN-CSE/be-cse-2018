@@ -1,4 +1,4 @@
-﻿* <<<PE103>>> HUMAN COMPUTER INTERACTION
+﻿* <<<PE402>>> HUMAN COMPUTER INTERACTION
 :properties:
 :author: Dr. A. Chamundeswari and Dr. K. Madheswari 
 :end:
@@ -9,8 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
-
+** COURSE OBJECTIVES
 - Understand the goals and principles of interface design.
 - Study life cycle models and identify the requirements for interface design.
 - Learn effective prototypes for construction of user interface design.
@@ -18,28 +17,45 @@
 - Analyze the tools to develop UI design for mobile app.
 
 {{{unit}}}
-|Unit I| FOUNDATIONS OF INTERACTION DESIGN          |9| 
-Interaction design-- Introduction-- Good and poor design-- The goals of interaction design -- design and usability principles; Conceptual models-- Interface metaphors-- Interaction paradigms-- From conceptual models to physical design.
+| UNIT I | FOUNDATIONS OF INTERACTION DESIGN | 9 |
+Interaction design-- Introduction-- Good and poor design-- The goals
+of interaction design -- design and usability principles; Conceptual
+models-- Interface metaphors-- Interaction paradigms-- From conceptual
+models to physical design.
 
 {{{unit}}}
-|Unit II|  PROCESS AND REQUIREMENTS |9| 
-Activities of interaction design --  key characteristics of the interaction design process-- Lifecycle models; Establish requirements-- Different kinds of requirements-- Data gathering; Data interpretation and analysis-- Task description-- Task analysis
+| UNIT II | PROCESS AND REQUIREMENTS | 9 |
+Activities of interaction design -- key characteristics of the
+interaction design process-- Lifecycle models; Establish
+requirements-- Different kinds of requirements-- Data gathering; Data
+interpretation and analysis-- Task description-- Task analysis
 
 {{{unit}}}
-|Unit III| DESIGN AND CONSTRUCTION         |9| 
-Prototyping and construction-- Low-fidelity prototyping-- High-fidelity prototyping-- Compromises in prototyping-- Construction: from design to implementation; Conceptual design: moving from requirements to first design-- perspectives for developing a conceptual model-- Expanding the conceptual model-- scenarios and prototypes in conceptual design; user-centered approach-- ethnography in design.                                                                   
+| UNIT III | DESIGN AND CONSTRUCTION | 9 |
+Prototyping and construction-- Low-fidelity prototyping--
+High-fidelity prototyping-- Compromises in prototyping-- Construction:
+from design to implementation; Conceptual design: moving from
+requirements to first design-- perspectives for developing a
+conceptual model-- Expanding the conceptual model-- scenarios and
+prototypes in conceptual design; user-centered approach-- ethnography
+in design.
 
 {{{unit}}}
-|Unit IV| EVALUATION AND TESTING      |9|
-What, why, and when to evaluate-- Hutchworld case study; Evaluation paradigms and techniques; User testing-- Doing user testing-- Experiments-- Predictive models.              
+| UNIT IV | EVALUATION AND TESTING | 9 |
+What, why, and when to evaluate-- Hutchworld case study; Evaluation
+paradigms and techniques; User testing-- Doing user testing--
+Experiments-- Predictive models.
 
 {{{unit}}}
-|Unit V|MOBILE HCI          |9|
-Mobile Ecosystem: Platforms-- Application frameworks; Types of Mobile Applications: Widgets-- Applications-- Games; Mobile Information Architecture-- Mobile 2.0-- Mobile Design: Elements of Mobile Design-- Tools.
+| UNIT V | MOBILE HCI | 9 |
+Mobile Ecosystem: Platforms-- Application frameworks; Types of Mobile
+Applications: Widgets-- Applications-- Games; Mobile Information
+Architecture-- Mobile 2.0-- Mobile Design: Elements of Mobile Design--
+Tools.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Define the goals and principles of interface design.(K1)
 - Apply the life cycle models and identify the requirements for interface design.(K3)
@@ -47,16 +63,20 @@ Upon the completion of the course the students should be able to:
 - Perform user testing on user interface design.(K3)
 - Apply tools to develop UI design for mobile app.(K3)
 
-** Text Books
-1.Preece, J., Rogers, Y., & Sharp, H. (2015). Interaction design: Beyond human-computer interaction (4th ed.) John Wiley & Sons Ltd.
-2.Bill Scott and Theresa Neil, “Designing Web Interfaces”, First Edition, O‟Reilly, 2009.
+** TEXT BOOKS
+1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond
+   Human-Computer Interaction'', 4th ed. John Wiley & Sons Ltd, 2015
+2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', First
+   Edition, O‟Reilly, 2009.
 
+** REFERENCES
+1. Preece J., Rogers Y., Sharp H., Baniyon D., Holland S. and Carey T,
+   ``Human Computer Interaction'', Addison-Wesley, 1994.
+2. B. Shneiderman, ``Designing the User Interface'', Addison Wesley 2000 (Indian Reprint)
+3. Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, ``Human
+   Computer Interaction'', 3rd Edition, Pearson Education, 2004
+4. Brian Fling, ``Mobile Design and Development'', First Edition ,
+   O'Reilly Media Inc, 2009
 
-** References
-1.Preece J., Rogers Y., Sharp H., Baniyon D., Holland S. and Carey T. Human Computer Interaction, Addison-Wesley, 1994.
-2.B. Shneiderman; Designing the User Interface , Addison Wesley 2000 (Indian Reprint)
-3.Yvonne Rogers, Helen Sharp, Jenny Preece, Interaction Design: Beyond Human Computer Interaction, 3rd Edition, Wiley, 2011
-4.Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, “Human Computer Interaction”, 3rd Edition, Pearson Education, 2004 
-5.Brian Fling, “Mobile Design and Development”, First Edition , O‟Reilly Media Inc., 2009 
-
-
+# 3. Yvonne Rogers, Helen Sharp, Jenny Preece, ``Interaction Design:
+#   Beyond Human Computer Interaction'', 3rd Edition, Wiley, 2011

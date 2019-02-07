@@ -10,36 +10,48 @@
 |L|T|P|C|
 |3|0|0|3|
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the basics of information retrieval with pertinence to modeling -- query operations and indexing
 - To get an understanding of machine learning techniques for text classification and clustering
 - To understand the various applications of information retrieval giving emphasis to multimedia IR --  
    web search and digital libraries
 - To explore various IR applications using case studies 
 
+{{{unit}}}
+| UNIT I | INTRODUCTION AND MODELING | 9 |
+Basic Concepts: Retrieval process -- Architecture – Boolean retrieval;
+IR Models: Taxonomy and characterization of IR models -- Classical IR
+models -- Alternative algebraic models; Models for Browsing; Retrieval
+Evaluation: Performance evaluation.
 
-|Unit I|Introduction and Modeling|9| 
-Basic Concepts: Retrieval process -- Architecture – Boolean retrieval; IR Models: Taxonomy and characterization of IR models -- Classical IR models --  Alternative algebraic models; Models for Browsing; Retrieval Evaluation: Performance evaluation.
+{{{unit}}}
+| UNIT II | INDEXING AND QUERYING | 9 |
+Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
+Compression; Querying: Query languages -- Query operations: Relevance
+feedback and query expansion - Automatic local and global analysis.
 
+{{{unit}}}
+| UNIT III | SEARCHING | 9 |
+Searching: Sequential searching -- Pattern matching; Searching the
+Web: Characteristizing the Web -- Search engines -- Browsing --
+Searching using hyperlinks.
 
-|Unit II|Indexing and Querying|9| 
-Indexing: Inverted indices -- Suffix trees -- Suffix arrays -- Compression; Querying: Query languages -- Query operations: Relevance feedback and query expansion - Automatic local and global analysis. 
+{{{unit}}}
+| UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
+Text Classification: Naive Bayes; Vector Space Classification: Rocchio
+-- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
+clustering; Hierarchical Clustering; Matrix Decompositions and Latent
+Semantic Indexing.
 
+{{{unit}}}
+|UNIT V|APPLICATIONS|9|
+XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
+Digital Libraries -- Social Media Retrieval -- Content-based Image
+Retrieval -- Online Public Access Catalogs (OPACs).
 
-|Unit III|Searching|9| 
-Searching: Sequential searching -- Pattern matching; Searching the Web: Characteristizing the Web -- Search engines -- Browsing -- Searching using hyperlinks.
+\hfill *Total Periods: 45*
 
-
-|Unit IV|Classification and Clustering|9| 
-Text Classification: Naïve Bayes; Vector Space Classification: Rocchio -- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based clustering; Hierarchical Clustering; Matrix Decompositions and Latent Semantic Indexing.
-
-
-|Unit V|Applications|9|
-XML Retrieval -- Multimedia IR -- Parallel and Distributed IR -- Digital Libraries -- Social Media Retrieval -- Content-based Image Retrieval -- Online Public Access Catalogs (OPACs).
-
-\hfill *Total: 45*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Describe various IR modeling techniques. (K2)
 - Identify and design the various components of an Information Retrieval system. (K3)
@@ -47,16 +59,26 @@ After the completion of this course, students will be able to:
 - Describe various IR applications. (K2)
 - Apply IR evaluation metrics to measure the performance of IR systems. (K3)
 
-** Text Books
-1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information Retrieval: The concepts and Technology behind Search'', ACM Press Books, Second Edition, 2011.
-2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze, ``Introduction to Information Retrieval'', Cambridge University Press, First South Asian Edition, 2008.
+** TEXT BOOKS
+1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
+   Retrieval: The concepts and Technology behind Search'', ACM Press
+   Books, Second Edition, 2011.
+2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze,
+   ``Introduction to Information Retrieval'', Cambridge University
+   Press, First South Asian Edition, 2008.
 
-** References
-
-1. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
-2. ChengXiang Zhai and Sean Massung, ``Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining'',  ACM Books, 2016.
-3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media Mining: An Introduction'', 1st Edition, Cambridge University Press,  2014. 
-4. Vipin Tyagi, ``Content-Based Image Retrieval: Ideas, Influences, and Current Trends'', 1st Edition, Springer, 2017. 
-5. Marcia J. Bates, ``Understanding Information Retrieval Systems: Management, Types, and Standards'', CRC Press, 2012.
-
-
+** REFERENCES
+1. Stefan Buttcher, Charles L. A. Clarke, Gordon
+   V. Cormack,``Information Retrieval - Implementing and Evaluating
+   Search Engines'', The MIT Press, Cambridge, Massachusetts London,
+   England, 2010
+2. ChengXiang Zhai and Sean Massung, ``Text Data Management and
+   Analysis: A Practical Introduction to Information Retrieval and
+   Text Mining'', ACM Books, 2016.
+3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media
+   Mining: An Introduction'', 1st Edition, Cambridge University
+   Press, 2014.
+4. Vipin Tyagi, ``Content-Based Image Retrieval: Ideas, Influences,
+   and Current Trends'', 1st Edition, Springer, 2017.
+5. Marcia J. Bates, ``Understanding Information Retrieval Systems:
+   Management, Types, and Standards'', CRC Press, 2012.
