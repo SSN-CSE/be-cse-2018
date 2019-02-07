@@ -100,10 +100,8 @@ After the completion of this course, students will be able to:
 
       
 ** Text Books
-1.  Byron Gottfried, Programming with C (Schaum's Outlines Series), McGraw-Hill
-Education, 3rd Edition, 2017.
-2. Brian W Kernighan and Dennis M Ritchie, The C Programming Language, Pearson
-Education India, 2nd Edition, 2015.
+1. Byron Gottfried, Programming with C (Schaum's Outlines Series), McGraw-Hill Education, 3rd Edition, 2017.
+2. Brian W Kernighan and Dennis M Ritchie, The C Programming Language, Pearson Education India, 2nd Edition, 2015.
 
 
 ** Reference Books
