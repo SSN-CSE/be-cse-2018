@@ -9,7 +9,7 @@
 | L | T | P | C | 
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand different client and server end technologies
 - To develop web application using traditional technologies
 - To understand and develop web application using emerging web application frameworks 
@@ -51,10 +51,9 @@ Introduction to NodeJS – Event Loop – Patterns – Core APIs:
 EventEmitter, Callback syntax, Streams - File system, Buffers –
 Process module - Data Access – NoSQL and Document stores: MongoDB.
 
+\hfill *Total Periods: 45*
 
-\hfill *Total: 45 Periods*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design a modern website using HTML5 and CSS3  (K3)
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
@@ -62,7 +61,7 @@ After the completion of this course, students will be able to:
 - Develop responsive web application using Servlets and AJAX (K3)
 - Develop web applications using AngularJS and NodeJS frameworks (K3)
       
-** Text Books
+** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
    Perspective'', Pearson Education, 2011.
 2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,

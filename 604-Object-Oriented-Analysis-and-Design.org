@@ -10,58 +10,79 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-The student should be made to:
-1.	Understand and differentiate Unified Process from other approaches. 
-2.	Modelling based software design using static UML diagrams.
-3.	Familiarize with the UML dynamic and implementation diagrams.
-4.	Improve software design with design patterns. 
-5.	Test the software with its requirements specification
+1. To understand and differentiate Unified Process from other approaches. 
+2. To design modelling based software using static UML diagrams.
+3. To familiarize with the UML dynamic and implementation diagrams.
+4. To improve software design with design patterns. 
+5. To test the software with its requirements specification
 
 {{{unit}}}
-|Unit I | Development Process & Use-case Diagram (Static)  | 9 |
-Introduction to OOAD with OO Basics - Unified Process – UML diagrams – Use Case –Case study – the Next Gen POS system, Inception -Use case Modelling – Relating Use cases – include, extend and generalization – When to use Use-cases
+|UNIT I | DEVELOPMENT PROCESS & USE-CASE DIAGRAM (STATIC)  | 9 |
+Introduction to OOAD with OO Basics - Unified Process – UML diagrams –
+Use Case –Case study – the Next Gen POS system, Inception -Use case
+Modelling – Relating Use cases – include, extend and generalization –
+When to use Use-cases
 
 {{{unit}}}
-|Unit II | Unified Process & Class Diagram (Static)		| 9 |
-Class Diagram–– Elaboration – Domain Model – Finding conceptual classes and description classes – Associations – Attributes – Domain model refinement – Finding conceptual class Hierarchies – Aggregation and Composition - Relationship between sequence diagrams and use cases – When to use Class Diagrams
+|UNIT II | UNIFIED PROCESS & CLASS DIAGRAM (STATIC)		| 9 |
+Class Diagram–– Elaboration – Domain Model – Finding conceptual
+classes and description classes – Associations – Attributes – Domain
+model refinement – Finding conceptual class Hierarchies – Aggregation
+and Composition - Relationship between sequence diagrams and use cases
+– When to use Class Diagrams
 
 {{{unit}}}
+|UNIT III | DYNAMIC & IMPLEMENTATION DIAGRAMS  | 9 |
+Dynamic Diagrams: UML interaction diagrams - System sequence diagram –
+Collaboration diagram – When to use Communication Diagrams - State
+machine diagram and Modelling –When to use State Diagrams - Activity
+diagram – When to use activity diagrams
 
-|Unit III | Dynamic & Implementation Diagrams  | 9 |
-Dynamic Diagrams: UML interaction diagrams - System sequence diagram – Collaboration diagram – When to use Communication Diagrams - State machine diagram and Modelling –When to use State Diagrams - Activity diagram – When to use activity diagrams 
-
-Implementation Diagrams: UML package diagram - When to use package diagrams - Component and Deployment Diagrams – When to use Component and Deployment diagrams 
-
-
-{{{unit}}}
-
-|Unit IV | Design Patterns | 9 |
-Designing objects with responsibilities – Creator – Information expert – Low Coupling – High Cohesion – Controller Design Patterns – creational – factory method – structural – Bridge – Adapter – behavioural – Strategy – observer –Applying GoF design patterns – Mapping design to code
+Implementation Diagrams: UML package diagram - When to use package
+diagrams - Component and Deployment Diagrams – When to use Component
+and Deployment diagrams
 
 {{{unit}}}
+|UNIT IV | DESIGN PATTERNS | 9 |
+Designing objects with responsibilities – Creator – Information expert
+– Low Coupling – High Cohesion – Controller Design Patterns –
+creational – factory method – structural – Bridge – Adapter –
+behavioural – Strategy – observer –Applying GoF design patterns –
+Mapping design to code
 
-|Unit V | Test driven development and refactoring | 9 |
-Object Oriented Methodologies – Software Quality Assurance – Impact of object orientation on Testing – Develop Test Cases and Test Plans
+{{{unit}}}
+| UNIT V | TEST DRIVEN DEVELOPMENT AND REFACTORING | 9 |
+Object Oriented Methodologies – Software Quality Assurance – Impact of
+object orientation on Testing – Develop Test Cases and Test Plans
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 At the end of the course, the student should be able to:
-Express software design with UML diagrams (K2)
-Design and implement projects using OO concepts.(K4)
-Identify and map basic software requirements in UML mapping.(K3)
-Transform UML based software design into pattern based design framework using design patterns.(K4)
-Understand the testing procedure for any software. (K3)
+- Express software design with UML diagrams (K2)
+- Design and implement projects using OO concepts.(K4)
+- Identify and map basic software requirements in UML mapping.(K3)
+- Transform UML based software design into pattern based design framework using design patterns.(K4)
+- Understand the testing procedure for any software. (K3)
 
   
-** Text Book
-1. Larman, Craig., Applying UML and Patterns, Pearson Education Asia, 2008.
-2. Ali Bahrami, Object Oriented Systems Development, McGraw Hill International Edition, 1999.
+** TEXT BOOKS
+1. Larman, Craig, ``Applying UML and Patterns'', Pearson Education
+   Asia, 2008.
+2. Ali Bahrami, ``Object Oriented Systems Development'', McGraw Hill
+   International Edition, 1999.
 
-** References
-1. Erich Gamma, and Richard Helm, Ralph Johnson, John Vlissides, ―Design patterns: Elements of Reusable Object Oriented Software, Addison Wesley, 1995.
-2. Martin Fowler, ―UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third edition, Addison Wesley, 2003.
-3. Booch, G., Jacobson, I., Rumbaugh, J., The Unified Modeling Language User Guide, Addison‐Wesely, 2008.
-4.Roger  S Pressman, “Software  Engineering – A  Practitioner’s  Approach”, seventh edition, 2010.
-5. Aditya P. Mathur, Foundations of Software Testing - Fundamental Algorithms and Techniques, Dorling Kindersley (India) Pvt. Ltd., Pearson Education, 2008.
+** REFERENCES
+1. Erich Gamma, and Richard Helm, Ralph Johnson, John Vlissides,
+   ``Design patterns: Elements of Reusable Object Oriented Software'',
+   Addison Wesley, 1995.
+2. Martin Fowler, ``UML Distilled: A Brief Guide to the Standard
+   Object Modeling Language'', Third edition, Addison Wesley, 2003.
+3. Booch, G., Jacobson, I., Rumbaugh, J., ``The Unified Modeling
+   Language User Guide'', Addison‐Wesely, 2008.
+4.Roger S Pressman, ``Software Engineering -- A Practitioner’s
+Approach'', seventh edition, 2010.
+5. Aditya P. Mathur, ``Foundations of Software Testing -- Fundamental
+   Algorithms and Techniques'', Dorling Kindersley (India) Pvt. Ltd.,
+   Pearson Education, 2008.

@@ -55,12 +55,16 @@ data flow algorithm
 \hfill *Periods: 45* 
 
 * SUGGESTIVE EXPERIMENTS
-1. Implementation of Lexical Analyzer using  Lex Tool 
+1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for simple program using LEX and YACC
 4. Extend the Lexical Analyzer to implement symbol table
-5. Implementation of Simple Code Optimization Techniques (Constant Folding, Strength reduction and Algebraic transformation)
-6. Consider a simple program as an input and process this code to print the intermediate code after every phase. It is necessary to print the output of lexical, syntax, semantic, intermediate code generation, code optimization and code generation phases
+5. Implementation of Simple Code Optimization Techniques (Constant
+   Folding, Strength reduction and Algebraic transformation)
+6. Consider a simple program as an input and process this code to
+   print the intermediate code after every phase. It is necessary to
+   print the output of lexical, syntax, semantic, intermediate code
+   generation, code optimization and code generation phases
 
 \hfill *Periods: 30*
 

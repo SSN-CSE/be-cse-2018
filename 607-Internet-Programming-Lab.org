@@ -10,11 +10,11 @@
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To develop web applications using traditional client and server end technologies
 - To develop web applications using javascript based frameworks
 
-** List of Experiments
+** LIST OF EXPERIMENTS
 - Create a web page using Table, Lists, Image and anchor elements (Ex: Bio-Data)
 - Create website for the International Conference using HTML5 and CSS3 elements.
 - Program for validation of registration form using event handling mechanisms of javascript
@@ -24,9 +24,9 @@
 - Develop a Popup Menu Application in AJAX using javascript, DHTML and XMLHttpRequest object to perform GET or POST request and return a result without reloading the HTML page.
 - Develop a web application using AngularJS and NodeJS. (Ex: Railway Reservation System)
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design websites using HTML5 and CSS3 (K3)
 - Develop MVC based web application using Servlets (K3)
@@ -34,10 +34,9 @@ After the completion of this course, students will be able to:
 - Develop web applications using AngularJS and NodeJS frameworks (K3)
 
       
-** References
-W3schools.org
-- Software Required
-Java, MySQL, Wamp Server, NetBeans or Eclipse
-- Hardware Required
-Desktop machines
+** REFERENCES
+w3schools.org
 
+** HARDWARE AND SOFTWARE REQUIRED
+- Desktop machines
+- Java, MySQL, Wamp Server, NetBeans or Eclipse

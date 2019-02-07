@@ -9,7 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To Study the fundamental concepts of AI agents and environments.
 - To Learn the methods of problem solving in AI using various search strategies.
 - To Understand the concepts of knowledge representation and inference using logic.
@@ -17,53 +17,48 @@
 - To Learn the introductory concepts of machine learning in AI.
 
 {{{unit}}}
-|Unit I|FOUNDATIONS|8|
-Introduction: What is AI; Intelligent Agents: Agents and environments -- Good behavior -- The nature of environments -- 
-Structure of agents; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence; AI: The Present and Future: Agent Components -- Agent Architectures.
+|UNIT I|FOUNDATIONS|8|
+Introduction: What is AI; Intelligent Agents: Agents and environments
+-- Good behavior -- The nature of environments -- Structure of agents;
+Philosophical Foundations: Weak AI -- Strong AI -- Ethics and Risks of
+Developing Artificial Intelligence; AI: The Present and Future: Agent
+Components -- Agent Architectures.
 
 {{{unit}}}
-|Unit II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
-Solving Problems by Searching: problem solving agents -- example problems -- searching for solutions -- uninformed search strategies -- Informed search strategies -- heuristic functions; Beyond Classical Search: Local search algorithms and optimization problems; Adversarial Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning. 
-
-
-{{{unit}}}
-|Unit III|KNOWLEDGE REPRESENTATION & REASONING|9|
-Logical Agents: Knowledge-Based Agents -- Propositional Logic -- Propositional Theorem Proving; First order logic: Syntax and semantics for first order logic -- Using first order logic; Inference in First order logic: propositional versus first order logic -- Unification and Lifting -- Forward Chaining -- Backward Chaining -- Resolution.
-
-{{{unit}}}
-|Unit IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
-Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability Notation -- Inference Using Full Joint Distributions --  Bayes’ Rule & its use; Probabilistic Reasoning: The Semantics of Bayesian Networks -- Exact Inference in Bayesian Networks -- Other Approaches to Uncertain Reasoning.
+|UNIT II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
+Solving Problems by Searching: problem solving agents -- example
+problems -- searching for solutions -- uninformed search strategies --
+Informed search strategies -- heuristic functions; Beyond Classical
+Search: Local search algorithms and optimization problems; Adversarial
+Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning.
 
 
 {{{unit}}}
-|Unit V|LEARNING AND ITS APPLICATIONS|9|
-Learning from Examples: Forms of learning -- Supervised learning -- Learning decision trees; Reinforcement learning: Passive reinforcement learning -- Active reinforcement learning -- Applications of Reinforcement Learning. 
+|UNIT III|KNOWLEDGE REPRESENTATION & REASONING|9|
+Logical Agents: Knowledge-Based Agents -- Propositional Logic --
+Propositional Theorem Proving; First order logic: Syntax and semantics
+for first order logic -- Using first order logic; Inference in First
+order logic: propositional versus first order logic -- Unification and
+Lifting -- Forward Chaining -- Backward Chaining -- Resolution.
 
+{{{unit}}}
+|UNIT IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
+Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability
+Notation -- Inference Using Full Joint Distributions -- Bayes’ Rule &
+its use; Probabilistic Reasoning: The Semantics of Bayesian Networks
+-- Exact Inference in Bayesian Networks -- Other Approaches to
+Uncertain Reasoning.
 
-*Total: 45*
+{{{unit}}}
+|UNIT V|LEARNING AND ITS APPLICATIONS|9|
+Learning from Examples: Forms of learning -- Supervised learning --
+Learning decision trees; Reinforcement learning: Passive reinforcement
+learning -- Active reinforcement learning -- Applications of
+Reinforcement Learning.
 
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Identify, formulate, understand and solve AI problems using search techniques (K3)
-- Elucidate the concept of Knowledge Representation and inference using logics (K2)
-- Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
-- Elucidate the concept of learning in AI applications (K3)
-- Implement various search, inference and learning algorithms in AI. (K4)
+\hfill *Theory Periods: 45*
 
-
-** Textbooks
-1. Stuart Russell, Peter Norvig, “Artificial Intelligence – A Modern Approach”, 3rd Edition, Pearson Education / Prentice Hall of India, 2015.
-2. Deepak Khemani "A First Course in Artificial Intelligence", McGraw Hill, 2014.
- 
-      
-** References
-1. Dawn W Patterson, "Introduction to Artificial Intelligence and Expert Systems", Pearson Education India; 1st edition, 2015.
-2. Elaine Rich and Kevin Knight, “Artificial Intelligence”, 2nd Edition, Tata McGraw-Hill, 2003.
-3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition, 2016.
-4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition, 2017.
-5. Prateek Joshi, "Artificial Intelligence with Python", Packt Publishing Limited; 1st edition, 2017.
-
-** Lab Exercises: 
+** LAB EXERCISES 
 1. Uninformed Search Techniques
 2. Informed Search Techniques
 3. Hill Climbing algorithms
@@ -75,5 +70,36 @@ After the completion of this course, students will be able to:
 9. Decision tree learning algorithm
 10. Passive reinforcment learning algorithm
 
+\hfill *Practical Periods: 30*
 
- *Total: 30*
+\hfill *Total Periods: 75*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Identify, formulate, understand and solve AI problems using search techniques (K3)
+- Elucidate the concept of Knowledge Representation and inference using logics (K2)
+- Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
+- Elucidate the concept of learning in AI applications (K3)
+- Implement various search, inference and learning algorithms in AI. (K4)
+
+** TEXT BOOKS
+1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern
+   Approach'', 3rd Edition, Pearson Education / Prentice Hall of
+   India, 2015.
+2. Deepak Khemani ``A First Course in Artificial Intelligence'',
+   McGraw Hill, 2014.
+      
+** REFERENCES
+1. Dawn W Patterson, ``Introduction to Artificial Intelligence and
+   Expert Systems'', Pearson Education India; 1st edition, 2015.
+2. Elaine Rich and Kevin Knight, ``Artificial Intelligence'', 2nd
+   Edition, Tata McGraw-Hill, 2003.
+3. Andreas Muller and Sarah Guido, ``Introduction to Machine Learning
+   with Python: A Guide for Data Scientists'', Shroff/O'Reilly; First
+   edition, 2016.
+4. David Poole and Alan Mackworth, ``Artificial Intelligence :
+   Foundation of Computational Agents'', Cambridge University Press;
+   Second Edition, 2017.
+5. Prateek Joshi, ``Artificial Intelligence with Python'', Packt
+   Publishing Limited; 1st edition, 2017.
+

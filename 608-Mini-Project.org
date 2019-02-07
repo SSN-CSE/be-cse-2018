@@ -9,33 +9,43 @@
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
-1.	To capture the requirements specification for an intended software system 
-2.	To draw the UML diagrams for the given specification 
-3.	To map the design properly to code 
-4.	To test the software system thoroughly for all scenarios 
-5.	To improve the design by applying appropriate design patterns. 
+** COURSE OBJECTIVES
+1. To capture the requirements specification for an intended software system 
+2. To draw the UML diagrams for the given specification 
+3. To map the design properly to code 
+4. To test the software system thoroughly for all scenarios 
+5. To improve the design by applying appropriate design patterns. 
 
 
-** Suggestive List of Experiments
-Draw standard UML diagrams using an UML modeling tool for a given case study and map design to code and implement a 3 layered architecture. Test the developed code and identify whether the SRS is satisfied. This could be done in an incremental way and the next increment should undergo the same process of design, coding and testing to satisfy the SRS. Any one of the suggested domains could be chosen for the mini-project. The student could also choose his own interested domain based on the approval from the concerned faculty.
+** SUGGESTIVE LIST OF EXPERIMENTS
+Draw standard UML diagrams using an UML modeling tool for a given case
+study and map design to code and implement a 3 layered
+architecture. Test the developed code and identify whether the SRS is
+satisfied. This could be done in an incremental way and the next
+increment should undergo the same process of design, coding and
+testing to satisfy the SRS. Any one of the suggested domains could be
+chosen for the mini-project. The student could also choose his own
+interested domain based on the approval from the concerned faculty.
+1. Develop a problem statement.
+2. Document the Software Requirements Specification (SRS) for the above problem statement.
+3. Identify use cases and develop the Use Case model.
+4. Identify the conceptual classes and develop a Domain Model and also derive a Class Diagram from the already designed Domain Model.
+5. Using the identified scenarios, find the interaction between objects and represent them using
 
-
-1.	Develop a problem statement.
-2.	Document the Software Requirements Specification (SRS) for the above problem statement.
-3.	 Identify use cases and develop the Use Case model.
-4.	 Identify the conceptual classes and develop a Domain Model and also derive a Class Diagram from the already designed Domain Model.
-5.	Using the identified scenarios, find the interaction between objects and represent them using
 UML Sequence and Collaboration Diagrams
-6.	Draw relevant State Chart and Activity Diagrams for the same problem.
-7.	Implement the problem with the detailed design structure (1-6) and satisfy the SRS.
-8.	Test the developed software system. Identify the areas in which refinement is needed.
-9.	Refine the design of the modules and implement the same.
-10.	Test the software again after refinement to check, whether it satisfies the SRS, and carry over the refinement if needed.
-11. Continue the above procedures for the next increment of the same software development. 
+6. Draw relevant State Chart and Activity Diagrams for the same
+   problem.
+7. Implement the problem with the detailed design structure (1-6) and
+   satisfy the SRS.
+8. Test the developed software system. Identify the areas in which
+   refinement is needed.
+9. Refine the design of the modules and implement the same.
+10. Test the software again after refinement to check, whether it
+    satisfies the SRS, and carry over the refinement if needed.
+11. Continue the above procedures for the next increment of the same
+    software development.
 
-
-** Suggested Domains for Mini Project
+** SUGGESTED DOMAINS FOR MINI PROJECT
 1. Passport automation system.
 2. Book bank
 3. Exam Registration
@@ -52,19 +62,19 @@ UML Sequence and Collaboration Diagrams
 14. Library Management System
 15. Student Information System
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the requirements for a given problem specification. (K2)
 - Design and draw UML diagrams. (K3)
 - Map design to code and implement using UML diagrams. (K4)
 - Design and generate test cases. (K3)
 
-** Hardware and Software Requirements 
+** HARDWARE AND SOFTWARE REQUIREMENTS 
 
 Hardware 
-Any standard PC (Pentium) 
+- Any standard PC (Pentium) 
 
 Software 
 - Windows 7 or higher 
