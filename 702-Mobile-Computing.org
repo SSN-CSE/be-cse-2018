@@ -68,7 +68,7 @@ After the completion of this course, students will be able to:
    Pearson Education, New Delhi, 2007. (Unit I -IV)
 2. Helal, Sumi, Raja Bose, and Wendong Li. ``Mobile Platforms and
    Development Environments.'' Synthesis Lectures on Mobile and
-   Pervasive Computing, 2012. (Unit V))
+   Pervasive Computing, 2012. (Unit V)
 
 ** REFERENCES
 1. Helal, Abdelsalam A., et al. ``Any Time, Anywhere Computing: Mobile
