@@ -75,11 +75,11 @@ tools.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Know how to prepare the incident response (K2)
-- Perform data acquisition techniques(K3)
+- Understand how to prepare the incident response (K2)
+- Apply data acquisition techniques(K3)
 - Analyze and validate forensics data (K3)
-- Collect network and mobile forensics investigation data(K2)
-- Use forensics tools (K3)
+- Understand network and mobile forensics(K2)
+- Apply forensics tools (K3)
 
 ** TEXT BOOKS 
 1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
