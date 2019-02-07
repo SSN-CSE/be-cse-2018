@@ -17,30 +17,29 @@
 
 {{{unit}}}
 |Unit I | LIST | 6 |
-Abstract Data Types (ADT) -- Implementation of Linked List ADT: Singly linked lists -- doubly-linked lists --Applications of lists: Polynomial addition.
+Abstract Data Types (ADTs) -- List ADT: Linked lists -- Doubly linked lists; Applications of lists: Polynomial addition.
 
 {{{unit}}}
 |Unit II | STACK AND QUEUE | 6 |
-Stack ADT:  Operations --  Applications:  Converting infix to postfix expression -- Evaluating arithmetic expressions; Queue ADT: Operations in a circular queue.
+Stack ADT:  Stack model --  Implementation of stacks using arrays -- Applications:  Infix to postfix conversion -- Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation of queues.
 
 {{{unit}}}
 |Unit III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- expression trees -- binary search tree -- AVL Trees. 
+Trees: Preliminaries -- Tree traversals -- Expression trees -- Binary search trees -- AVL Trees. 
 
 {{{unit}}}
 |Unit IV | GRAPHS | 6 |
-Definitions -- Representation of graph -- Types of graph -- Breadth-first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm.
+Graph Algorithms: Definitions -- Representation of graph -- Breadth-first traversal -- Depth-first traversal -- Shortest-path algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm.
 
 {{{unit}}}
 |Unit V | Sorting and Hashing Techniques   | 6 |
-Sorting: Insertion sort -- Merge sort;  Hashing: Separate chaining – Linear probing – Rehashing.
+Sorting: Insertion sort -- Merge sort;  Hashing: Hash function -- Separate chaining; Open Addressing: Linear probing; Rehashing.
 
 ** SUGGESTIVE EXPERIMENTS
  - Represent polynomial as a linked list and perform polynomial addition
- - Array implementation of Stack and Queue ADTs
- - Convert infix to postfix expression and evaluate using Stack ADT
+ - Array implementation of stack and queue ADTs
+ - Convert infix expression to postfix  and evaluate using Stack ADT
  -	Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
- -	Implement AVL trees
  -	Represent graph using adjacency matrix and perform depth first traversal on the graph
  -	Implement Dijkstra’s algorithm to find the shortest path using graph
  -	Implement insertion sort and merge sort
