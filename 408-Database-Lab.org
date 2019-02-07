@@ -20,26 +20,26 @@
 {{{unit}}}
 ** Lab Experiments
 1. Data Definition Commands 
-   a. Creating tables with constraints, constraint voilations
-   b. schema modifications
+   * Creating tables with constraints, constraint voilations
+   * schema modifications
 2. Data Manipulation Commands 
-   a. Update operations
-   b. Simple SQL queries
-   c. Transaction Control statements - Savepoint and Rollback
+   * Update operations
+   * Simple SQL queries
+   * Transaction Control statements - Savepoint and Rollback
 3. Complex SQL Queries
-   a. Nested Queries 
-   b. Correlated Subqueries
-   c. Joins and Outer Joins
-   d. Aggregate functions
-   e. Grouping and Ordering commands
+   * Nested Queries
+   * Correlated Subqueries
+   * Joins and Outer Joins
+   * Aggregate functions
+   * Grouping and Ordering commands
 4. Views 
 5. Database Programming: PL/SQL - Cursors
 6. Procedures and Functions
 7. Triggers
 8. Exception Handling
 9. Database design 
-   a. ER Model, ER-to-relational mapping
-   b. Normalization
+   * ER Model, ER-to-relational mapping
+   * Normalization
 10. Implement the database application using any Front-end
 
 \hfill *Total: 45 Hours*
