@@ -20,26 +20,42 @@ The student should be made to:
 
 {{{unit}}}
 |Unit I | Finite Automata and Regular Languages  | 10 |
-Introduction-Basic Mathematical Notation and techniques; Finite Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic Finite Automata(NFA) – Finite Automata with Epsilon Transitions- Equivalence of FA’s –Minimization of DFA;  Regular Languages - Regular Expression – Equivalence of finite Automata  and Regular Expressions –  Proving Languages not to be regular – Closure Properties of Regular Languages.
+Introduction-Basic Mathematical Notation and techniques; Finite
+Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
+Finite Automata(NFA) – Finite Automata with Epsilon Transitions-
+Equivalence of FA’s –Minimization of DFA; Regular Languages - Regular
+Expression – Equivalence of finite Automata and Regular Expressions –
+Proving Languages not to be regular – Closure Properties of Regular
+Languages.
 
 
 {{{unit}}}
 |Unit II | Context-Free Languages  | 8 |
-Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and Context-Free Language (CFL)  – Derivation Trees – Ambiguity in Grammars and Languages –Equivalence of Derivation Trees and Derivation – Simplification of Context-free Grammar; Chomsky Normal Form - Greibach Normal Form 
+Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and
+Context-Free Language (CFL) – Derivation Trees – Ambiguity in Grammars
+and Languages –Equivalence of Derivation Trees and Derivation –
+Simplification of Context-free Grammar; Chomsky Normal Form - Greibach
+Normal Form
 
 {{{unit}}}
 |Unit III | Pushdown Automata | 9 |
-Pushdown Automata-Definitions –Moves –Instantaneous descriptions –Deterministic pushdown automata–Equivalence of Pushdown automata and CFL-pumping lemma for CFL. 
+Pushdown Automata-Definitions –Moves –Instantaneous descriptions
+–Deterministic pushdown automata–Equivalence of Pushdown automata and
+CFL-pumping lemma for CFL.
 
 {{{unit}}}
 |Unit IV | Turing machines  | 9 |
-Definitions of Turing machines –Models –Techniques for Turing machine construction –Multi head and Multi tape Turing Machines – Universal Turing Machine.
+Definitions of Turing machines –Models –Techniques for Turing machine
+construction –Multi head and Multi tape Turing Machines – Universal
+Turing Machine.
 
 {{{unit}}}
 |Unit V | Undecidability | 9 |
-Recursive Enumerable (RE) Language  - Non Recursive Enumerable (RE) Language – Undecidable Problems: Halting Problem - Post’s Correspondence problem - Post’s Correspondence Problem. 
+Recursive Enumerable (RE) Language - Non Recursive Enumerable (RE)
+Language – Undecidable Problems: Halting Problem - Post’s
+Correspondence problem - Post’s Correspondence Problem.
 
-\hfill *Total: 45*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -50,10 +66,19 @@ After the completion of this course, students will be able to:
 - Understand the key notions, such as Recursive Enumerable (RE), Non Recursive Enumerable, decidability and undecidability(K2).
 
 ** Text Books 
-1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata Theory, Languages and Computations”, Second Edition, Pearson Education, 2008. (UNIT 1,2,3,4) 
-2. John C Martin, “Introduction to Languages and the Theory of Computation”, Third Edition,Tata McGraw Hill Publishing Company, New Delhi, 2007.(UNIT 5) 
+1. Hopcroft J.E., Motwani R. and Ullman J.D, ``Introduction to Automata
+   Theory, Languages and Computations'', Second Edition, Pearson
+   Education, 2008. (UNIT 1,2,3,4)
+2. John C Martin, ``Introduction to Languages and the Theory of
+   Computation'', Third Edition,Tata McGraw Hill Publishing Company,
+   New Delhi, 2007.(UNIT 5)
 
 ** References
-1. Harry R Lewis and Christos H Papadimitriou, “Elements of the Theory of Computation”, Second Edition, Prentice Hall of India, Pearson Education, New Delhi, 2003. 
-2. Peter Linz, “An Introduction to Formal Language and Automata”,Third Edition, Narosa Publishers, New Delhi, 2002. 
-3. Mishra K L P and Chandrasekaran N, “Theory of Computer Science -Automata, Languages and Computation”, Third Edition, Prentice Hall of India,2004. 
+1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the
+   Theory of Computation'', Second Edition, Prentice Hall of India,
+   Pearson Education, New Delhi, 2003.
+2. Peter Linz, ``An Introduction to Formal Language and
+   Automata'',Third Edition, Narosa Publishers, New Delhi, 2002.
+3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science
+   -Automata, Languages and Computation'', Third Edition, Prentice
+   Hall of India, 2004.

@@ -18,26 +18,54 @@
  
 
 {{{unit}}}
-|Unit I | <Introduction and Classical Cryptography & Symmetric Cryptography> | <10> |
-Cryptography and Modern Cryptography -- Setting of Private-Key Encryption -- Historical Ciphers and Their Cryptanalysis -- The Basic Principles of Modern Cryptography; Perfectly Secret Encryption: Definitions and Basic Properties -- The One-Time Pad -- Limitations of Perfect Secrecy; Private-Key Encryption: A Computational Approach to Cryptography-- Computationally Secure Encryption  -- Pseudo-randomness -- Constructing Secure Encryption Schemes -- Security Against Chosen-Plaintext Attacks (CPA) -- Constructing CPA-Secure Encryption Schemes -- Security Against Chosen-Ciphertext Attacks (CCA).
+|UNIT I | INTRODUCTION AND CLASSICAL CRYPTOGRAPHY & SYMMETRIC CRYPTOGRAPHY   | 10   |
+Cryptography and Modern Cryptography -- Setting of Private-Key
+Encryption -- Historical Ciphers and Their Cryptanalysis -- The Basic
+Principles of Modern Cryptography; Perfectly Secret Encryption:
+Definitions and Basic Properties -- The One-Time Pad -- Limitations of
+Perfect Secrecy; Private-Key Encryption: A Computational Approach to
+Cryptography-- Computationally Secure Encryption -- Pseudo-randomness
+-- Constructing Secure Encryption Schemes -- Security Against
+Chosen-Plaintext Attacks (CPA) -- Constructing CPA-Secure Encryption
+Schemes -- Security Against Chosen-Ciphertext Attacks (CCA).
 
 {{{unit}}}
-|Unit II | <Message Authentication Codes and Collision-Resistant Hash Functions> | <8> |
-Secure Communication and Message Integrity -- Encryption vs. Message Authentication -- Message Authentication Codes -- Constructing Secure Message Authentication Codes -- CBC-MAC -- Collision-Resistant Hash Functions -- NMAC and HMAC -- Constructing CCA-Secure Encryption Schemes -- Obtaining Privacy and Message Authentication.
+| UNIT II | MESSAGE AUTHENTICATION CODES AND COLLISION-RESISTANT HASH FUNCTIONS | 8 |
+Secure Communication and Message Integrity -- Encryption vs. Message
+Authentication -- Message Authentication Codes -- Constructing Secure
+Message Authentication Codes -- CBC-MAC -- Collision-Resistant Hash
+Functions -- NMAC and HMAC -- Constructing CCA-Secure Encryption
+Schemes -- Obtaining Privacy and Message Authentication.
 
 {{{unit}}}
-|Unit III | <Block Ciphers> | <9> |
-Substitution-Permutation Networks -- Feistel Networks  --  DES -- Increasing the Key Length of a Block Cipher – AES -- Differential and Linear Cryptanalysis; One-Way Functions -- From One-Way Functions to Pseudo randomness -- Constructing Pseudorandom Generators -- Constructing Pseudorandom Functions -- Constructing Pseudorandom Permutations --  Necessary Assumptions for Private-Key Cryptography.
+| UNIT III | BLOCK CIPHERS | 9 |
+Substitution-Permutation Networks -- Feistel Networks -- DES --
+Increasing the Key Length of a Block Cipher – AES -- Differential and
+Linear Cryptanalysis; One-Way Functions -- From One-Way Functions to
+Pseudo randomness -- Constructing Pseudorandom Generators --
+Constructing Pseudorandom Functions -- Constructing Pseudorandom
+Permutations -- Necessary Assumptions for Private-Key Cryptography.
 
 {{{unit}}}
-|Unit IV | <Number Theory & Key Distribution> | <9> |
-Number Theory: Preliminaries and Basic Group Theory -- Primes, Factoring, and RSA -- Assumptions in Cyclic Groups -- Cryptographic Applications of Number-Theoretic Assumptions; Private-Key Management and the Public-Key Revolution: Limitations of Private-Key Cryptography  -- Key Distribution Centers -- The Public-Key Revolution --  Diffie-Hellman Key Exchange.
+| UNIT IV | NUMBER THEORY & KEY DISTRIBUTION | 9 |
+Number Theory: Preliminaries and Basic Group Theory -- Primes,
+Factoring, and RSA -- Assumptions in Cyclic Groups -- Cryptographic
+Applications of Number-Theoretic Assumptions; Private-Key Management
+and the Public-Key Revolution: Limitations of Private-Key Cryptography
+-- Key Distribution Centers -- The Public-Key Revolution --
+Diffie-Hellman Key Exchange.
 
 {{{unit}}}
-|Unit V | <Public-Key Encryption & Digital Signature> | <9> |
-Public-Key Encryption – An Overview -- Definitions --  Hybrid Encryption -- RSA Encryption – The El Gamal Encryption Scheme -- Security Against Chosen-Ciphertext Attacks; Digital Signatures Schemes : An Overview -- Definitions -- RSA Signatures - -The Hash-and-Sign Paradigm -- Lamport's One-Time Signature Scheme -- Signatures from Collision-Resistant Hashing -- The Digital Signature Standard --Certificates and Public-Key Infrastructures. 
+| UNIT V | PUBLIC-KEY ENCRYPTION & DIGITAL SIGNATURE | 9 |
+Public-Key Encryption – An Overview -- Definitions -- Hybrid
+Encryption -- RSA Encryption – The El Gamal Encryption Scheme --
+Security Against Chosen-Ciphertext Attacks; Digital Signatures
+Schemes : An Overview -- Definitions -- RSA Signatures - -The
+Hash-and-Sign Paradigm -- Lamport's One-Time Signature Scheme --
+Signatures from Collision-Resistant Hashing -- The Digital Signature
+Standard --Certificates and Public-Key Infrastructures.
 
-\hfill *Total: <45>*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -48,10 +76,17 @@ After the completion of this course, students will be able to:
 - Illustrate various Public key cryptographic techniques  (K3)
        
 ** Text Book
-1. Jonathan Katz, Yehuda Lindell, ``Introduction to modern cryptography'', Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series), 2014.
+1. Jonathan Katz, Yehuda Lindell, ``Introduction to modern
+   cryptography'', Second Edition (Chapman & Hall/CRC Cryptography and
+   Network Security Series), 2014.
+
 ** References
-1. Wenbo Mao, ``Modern Cryptography – Theory and Practice”, Pearson Education, 2004.
-2.	Johannes A. Buchmann, ``Introduction to Cryptography”, 2nd edition, Pearson Education, Springer, 2009.
-3.	Charles P. Pfleeger, Shari Lawrence Pfleeger, ``Security in computing'', Third Edition, Prentice Hall of India, 2006.
-4.	Bruce Schneier and Neils Ferguson, “Practical Cryptography”, First Edition, Wiley Dreamtech India Pvt Ltd, 2003.
-5.	http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep Mukhopadhyay, IIT Kharagpur.
+1. Wenbo Mao, ``Modern Cryptography – Theory and Practice'', Pearson Education, 2004.
+2. Johannes A. Buchmann, ``Introduction to Cryptography'', 2nd
+   edition, Pearson Education, Springer, 2009.
+3. Charles P. Pfleeger, Shari Lawrence Pfleeger, ``Security in
+   computing'', Third Edition, Prentice Hall of India, 2006.
+4. Bruce Schneier and Neils Ferguson, ``Practical Cryptography'',
+   First Edition, Wiley Dreamtech India Pvt Ltd, 2003.
+5. http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep
+   Mukhopadhyay, IIT Kharagpur.
