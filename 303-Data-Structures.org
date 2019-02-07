@@ -21,14 +21,13 @@
 
 {{{unit}}}
 |Unit I | Linear Data Structure - List | 9 |
-Abstract Data Types (ADT); List ADT: array-based implementation –
+Algorithm analysis: Running time calculations; Abstract Data Types (ADT); List ADT: array-based implementation –
 linked list implementation – singly linked lists – circular linked
 list - doubly-linked lists; Applications of lists: polynomial
-manipulations – creation, insertion, deletion, merge, traversal and
-sorting.
+manipulation.
 
 {{{unit}}}
-|Unit II | Linear Data Structures – Stacks & queues | 9 |
+|Unit II | Linear Data Structures – Stacks and queues | 9 |
 Stack ADT – operations; Applications: balancing the symbols,
 conversion of infix to postfix expression, evaluating arithmetic
 expressions; Queue ADT – operations - circular queue – double ended
@@ -38,31 +37,31 @@ queue; Applications of queues.
 |Unit III | Non Linear Data Structures – Trees   | 9 |
 Tree ADT – preliminaries - tree traversals; Binary Tree ADT –
 expression trees; Binary Search Tree ADT - AVL Trees – 
-B-Tree – Binary heaps - Applications of trees
+B-Tree – Binary heaps; Applications of trees.
 # It is heavy. Do we need splay trees, b-tree
 
 {{{unit}}}
 |Unit IV | Non Linear Data Structures – Graphs | 9 |
 Definitions – Representation of graph – Types of graph - Breadth-first
-traversal – Depth first traversal -Topological sort – shortest-path
-algorithms: Dijkstra's algorithm; Biconnectivity - Applications of graphs.
+traversal – Depth first traversal - Topological sort – Shortest-path
+algorithms: Dijkstra's algorithm; Biconnectivity; Applications of graphs.
 
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
-Searching: Linear search – Binary search; Sorting: Insertion sort -
-Shell sort – Radix sort – Quicksort; Hashing: hash functions -
-separate chaining – open addressing – rehashing – extendible hashing.
+Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
+Selection sort - Shell sort – Merge sort – Quicksort - Complexity analysis of sorting algorithms; 
+Hashing: hash functions - separate chaining – open addressing – rehashing.
 
 \hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
+- Elucidate the concepts of linear and non linear data structures (K2)
+- Elucidate the concept of searching, sorting and hashing techniques (K2)
 - Analyze a problem statement, identify possible data structures for
   solving it, and choose and implement an appropriate one within the
-  constraints of the problem specification (K3)
-- Elucidate the concepts of linear and non linear data structures (K2)
-- Differentiate stack, queue, trees and graphs (K3)
-- Elucidate the concept of searching, sorting and hashing techniques (K3)
+  constraints of the problem specification (K4)
+- Critically analyze the various sorting algorithms (K2)
 
       
 
