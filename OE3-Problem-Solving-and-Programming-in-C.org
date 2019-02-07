@@ -1,34 +1,84 @@
 * <<<OE3>>> PROBLEM SOLVING AND PROGRAMMING IN C
 :properties:
-:author: 
+
+:author: J. Bhuvana
 :end:
+
+
 
 #+startup: showall
 
+
+
 {{{credits}}}
+
 | L | T | P | C |
+
 | 2 | 0 | 2 | 3 |
+
+
 
 ** Course Objectives
 
-{{{unit}}}
-|Unit I | TITLE | <HOURS> |
+
+- To use basic programming concepts of C 
+
+- To develop programs using loops, functions, arrays, pointers, strings, structures and files
+
+
 
 {{{unit}}}
-|Unit II | TITLE | <HOURS> |
+
+|Unit I | BASICS  | 6 |
+
+Algorithm -- structure of a C program -- data types: built-in, user-defined -- variables and
+constants -- input and output statements -- operators, expressions, and assignment statements -- control statements.
+
 
 {{{unit}}}
-|Unit III | TITLE | <HOURS> |
+
+|Unit II | FUNCTIONS | 6 |
+
+Function prototype -- function definition and call -- passing parameters -- built-in functions --
+-- recursion; 
 
 {{{unit}}}
-|Unit IV | TITLE | <HOURS> |
+
+|Unit III | ARRAYS AND POINTERS | 6 |
+
+Arrays: declaration, initialization -- one dimensional arrays – multi-dimensional arrays; Pointers: pointer operators -- pointer operations -- array of pointers, -- passing arrays to functions
 
 {{{unit}}}
-|Unit V | TITLE | <HOURS> |
+
+|Unit IV | STRINGS, STRUCTURES AND UNIONS | 6 |
+
+Strings: constants and variables, reading and writing strings, string operations, string library;
+Command line arguments; Structures: nested structures -- structures and functions -- array of
+structures -- pointer to a structure – unions ; Dynamic memory
+allocation
+
+{{{unit}}}
+
+|Unit V | FILES  | 6 |
+
+Files: opening and closing a data file -- creating a data file -- processing a data file --
+unformatted data files -- formatted input and output -- line input and output – file error handling.
 
 ** SUGGESTIVE EXPERIMENTS
- - Experiment 1
- - Experiment 2
+ -  Program using I/O statements, conditional constructs (if, switch, ternary)  and looping constructs (for, while, do-while) 
+
+ - Program functions with different parameter passing techniques: Call by value (e.g. swapping two numbers), call by reference (e.g. changing the elements of an array), Recursion (e.g. binary search)
+
+ - Program one dimensional arrays (e.g. inserting an element after every ith position in an array, Insertion sort)
+
+ - Program using multi-dimensional arrays (e.g. matrix manipulations)
+
+ - Program using strings and their operations (e.g. concatenation of strings, extracting a substring, checking for palindrome, search for a given string using binary search)
+
+ - Program to demonstrate simple structure manipulations (e.g. generating a transcript with CGPA and class obtained)
+
+ - Programs to demonstrate file operations (e.g. count the number of characters, words and lines in a file, replace a specific word with the given word in the same file) 
+
  
 *Theory Periods: 30*
 
@@ -38,16 +88,27 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
+- Understand the basic programming constructs in C (K3) 
 
+- Learn functions in C (K3) 
+
+- Develop C programs using Arrays and Pointers (K3)
+
+- Write programs using Strings and Structures (K3) 
+
+- Learn operations with files in C (K3)
 
       
 **Text Books
-1. Book 1
-2. Book 2
+1.  Byron Gottfried, Programming with C (Schaum's Outlines Series), McGraw-Hill
+Education, 3rd Edition, 2017.
+2. Brian W Kernighan and Dennis M Ritchie, The C Programming Language, Pearson
+Education India, 2nd Edition, 2015.
+
 
 **Reference Books
-1. Reference 1
-2. Reference 2
-3. Reference 3
-4. Reference 4
-5. Reference 5
+1. Reema Thareja, Programming in C, Oxford University Press, 2nd Edition, 2016.
+2. Yashwant Kanetkar, Let Us C, BPB Publications, 14th Edition, 2016.
+3. King, K.N., C Programming A Modern Approach, W. W. Norton & Company, II Ed. 2008.
+4. Herbert Schildt, C The Complete Reference,  McGraw Hill Education, 4th Edition, 2017
+5. David Griffiths, Dawn Griffiths,  Head First C, O'Reilly Media, Inc., April 2012
