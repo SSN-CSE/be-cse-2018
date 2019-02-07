@@ -15,7 +15,7 @@
 - To comprehend the notion of linear and non linear data structures
 - To design a suitable data structure for the given problem and
   implement them in a high level programming language
-- To understand the need of different types of searching and sorting
+- To understand the need for different types of searching and sorting
   techniques
 - To learn the introductory concepts of hashing techniques
 
@@ -37,15 +37,15 @@ queue; Applications of queues.
 {{{unit}}}
 |Unit III | Non Linear Data Structures – Trees   | 9 |
 Tree ADT – preliminaries - tree traversals; Binary Tree ADT –
-expression trees; Binary Search Tree ADT - AVL Trees – Splay Trees –
-B-Tree – Binary heaps.
+expression trees; Binary Search Tree ADT - AVL Trees – 
+B-Tree – Binary heaps - Applications of trees
 # It is heavy. Do we need splay trees, b-tree
 
 {{{unit}}}
 |Unit IV | Non Linear Data Structures – Graphs | 9 |
 Definitions – Representation of graph – Types of graph - Breadth-first
 traversal – Depth first traversal -Topological sort – shortest-path
-algorithms – biconnectivity – cut vertex - Euler circuits.
+algorithms: Dijkstra's algorithm; Biconnectivity - Applications of graphs.
 
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
