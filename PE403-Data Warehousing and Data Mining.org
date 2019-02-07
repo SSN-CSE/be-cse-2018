@@ -1,6 +1,6 @@
 * PE403 DATA WAREHOUSING AND DATA MINING
 :properties:
-:author: R Priyadharsini
+:author: R Priyadharsini & J Suresh
 :date: 5 January 2019
 
 |L|T|P|C|
@@ -11,7 +11,6 @@
 - To understand data pre-processing and data visualization techniques
 - To study algorithms for finding hidden and interesting patterns in data
 - To understand and apply various classification and clustering techniques using tools.
-- To learn the WEKA tool
 
 |Unit I|DATA WAREHOUSING, BUSINESS ANALYSIS AND ON-LINE ANALYTICAL  PROCESSING (OLAP) |9| 
 Basic Concepts: Data Warehousing Components –- Building a Data Warehouse –- Database Architectures for Parallel Processing –- Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse Schemas for Decision Support; Concept Hierarchies; Characteristics of OLAP Systems –- Typical OLAP Operations, OLAP and OLTP.
@@ -22,23 +21,21 @@ Introduction to Data Mining Systems –- Knowledge Discovery Process –- Data M
 |Unit III|DATA MINING - FREQUENT PATTERN ANALYSIS|9| 
 Mining Frequent Patterns -- Associations and Correlations –- Mining Methods -- Pattern Evaluation Method; Pattern Mining in Multilevel -- Multi Dimensional Space -– Constraint Based Frequent Pattern Mining; Classification using Frequent Patterns.
 
-|Unit IV|CLASSIFICATION AND CLUSTERING|11| 
-Decision Tree Induction; Bayesian Classification; Rule Based Classification; Classification by Back Propagation; Support Vector Machines; Lazy Learners; Model Evaluation and Selection -- Techniques to improve Classification Accuracy.
-Clustering Techniques: Cluster analysis; Partitioning Methods; Hierarchical Methods; Density Based Methods; Grid Based Methods;
-Evaluation of clustering: Clustering high dimensional data -- Clustering with constraints; Outlier analysis: outlier detection methods.
+|Unit IV |Classification|9|
+Introduction - Decision Tree Induction; Bayesian Classification; Rule Based Classification; Classification by Back Propagation; Support Vector Machines; Lazy Learners; Model Evaluation and Selection – Techniques to improve Classification Accuracy; Evaluation of Classification Methods.
 
-|Unit V|INTRODUCTION TO DATA MINING TOOLS |7|
-Introduction to data mining tools -- Datasets: Introduction; Iris plants database -- Breast cancer database -- Auto imports database; Introduction to WEKA: The Explorer –- Getting started -- Exploring the explorer -- Learning algorithms; Clustering algorithms; Association–rule learners.
+|Unit V| Clustering |9|
+Introduction, Clustering, Cluster Analysis, Clustering Methods- K means, Hierarchical clustering, Agglomerative clustering, Divisive clustering, clustering and segmentation software, evaluating clusters; Case Studies; Tools.
 
 |Total:|45|
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
 -	Design a Data warehouse system and perform business analysis with OLAP tools. (K3)
-- 	Apply suitable pre-processing and visualization techniques for data analysis (K3)
+- Apply suitable pre-processing and visualization techniques for data analysis (K3)
 -	Apply frequent pattern and association rule mining techniques for data analysis (K3)
--	Apply appropriate classification and clustering techniques for data analysis (K3)
--	Implement data mining applications using WEKA tool (K4)
+-	Apply appropriate classification techniques for data analysis (K3)
+- Apply clustering techniques using appropriate tools(K3)
 
 ** Text Books
 1. Jiawei Han and Micheline Kamber, ― Data Mining Concepts and Techniques‖, Third Edition, Elsevier, 2012.
