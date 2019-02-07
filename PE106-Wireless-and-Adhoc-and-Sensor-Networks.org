@@ -20,36 +20,23 @@ corresponding solutions.
 
 {{{unit}}}
 |Unit I | MAC and Routing in Adhoc Networks | 9 |
-Introduction -- Issues and challenges in ad hoc networks -- MAC Layer Protocols for wireless
-ad hoc networks -- Contention-Based MAC protocols -- MAC Protocols Using Directional
-Antennas -- Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing in Ad
-hoc Networks -- Design Issues -- Proactive, Reactive and Hybrid Routing Protocols 
+Introduction -- Issues and challenges in ad hoc networks -- MAC Layer Protocols for wireless ad hoc networks -- Contention-Based MAC protocols -- MAC Protocols Using Directional Antennas -- Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing in Adhoc Networks -- Design Issues -- Proactive, Reactive and Hybrid Routing Protocols
 
 {{{unit}}}
 |Unit II | Transport and QOS in Adhoc Networks | 9 |
-TCP‟s challenges and Design Issues in Ad Hoc Networks -- Transport protocols for ad hoc
-networks -- Issues and Challenges in providing QoS -- MAC Layer QoS solutions -- Network
-Layer QoS solutions -- QoS Model
+TCP's challenges and Design Issues in Ad Hoc Networks -- Transport protocols for ad hoc networks -- Issues and Challenges in providing QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS Model
 
 {{{unit}}}
 |Unit III | Mac and Routing in Wireless Sensor Networks | 9 |
-Introduction -- Applications -- Challenges -- Sensor network architecture -- MAC Protocols for
-wireless sensor networks -- Low duty cycle protocols and wakeup concepts -- ContentionBased
-protocols -- Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control --
-Routing Protocols
+Introduction -- Applications -- Challenges -- Sensor network architecture -- MAC Protocols for wireless sensor networks -- Low duty cycle protocols and wakeup concepts -- ContentionBased protocols -- Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control -- Routing Protocols
 
 {{{unit}}}
 |Unit IV | Transport and QOS in Wireless Sensor Networks | 9 |
-Data-Centric and Contention-Based Networking -- Transport Layer and QoS in Wireless
-Sensor Networks -- Congestion Control in network processing -- Operating systems for
-wireless sensor networks -- Examples 
+Data-Centric and Contention-Based Networking -- Transport Layer and QoS in Wireless Sensor Networks -- Congestion Control in network processing -- Operating systems for wireless sensor networks -- Examples 
 
 {{{unit}}}
 |Unit V | Security in Adhoc and Sensor Networks | 9 |
-Security Attacks -- Key Distribution and Management -- Intrusion Detection -- Software based
-Anti-tamper techniques -- Water marking techniques -- Defense against routing attacks --
-Secure Ad hoc routing protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba --
-Sensor Network Security Protocols -- SPINS 
+Security Attacks -- Key Distribution and Management -- Intrusion Detection -- Software based Anti-tamper techniques -- Water marking techniques -- Defense against routing attacks -- Secure Ad hoc routing protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba -- Sensor Network Security Protocols -- SPINS 
 
 
 \hfill *Total: <45>*
@@ -65,17 +52,12 @@ After the completion of this course, students will be able to:
 
 
 ** Text Books 
-1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks – Architectures and
-Protocols'', Pearson Education, 2006.
-2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',
- John Wiley & Sons, Inc., 2005.
+1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks – Architectures and Protocols'', Pearson Education, 2006.\
+2. Holger Karl, Andreas Willing,``Protocols and Architectures for Wireless Sensor Networks'',  John Wiley & Sons, Inc., 2005.
 
 ** References
-1.Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'',
-Auerbach Publications, 2008.
-2. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory
-and Applications (2nd Edition)'', World Scientific Publishing, 2011.
-3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks
-Theory and Practice'', John Wiley and Sons, 2010
-4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227
-th edition, Cambridge university Press,2008.
+1. Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile Wireless Networks'', Auerbach Publications, 2008.
+2. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and Sensor Networks: Theory and Applications (2nd Edition)'', World Scientific Publishing, 2011.
+3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of Wireless Sensor Networks Theory and Practice'', John Wiley and Sons, 2010
+4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and Applications'', 1227th edition, Cambridge university Press,2008.
+

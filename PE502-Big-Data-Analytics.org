@@ -37,7 +37,7 @@ Mining frequent itemsets : Market based model -- Apriori algorithm  -- Handling 
 |Unit V | NOSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for data manipulation -- Key Value stores -- Document stores -- Tabular stores -- Object data stores -- Graph databases  -- Hive -- Sharding –- Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big data for blogs. 
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -59,3 +59,4 @@ After the completion of this course, students will be able to:
 2.	Bart Baesens, ``Analytics in a Big Data World: The Essential Guide to Data Science and its Applications'', Wiley Publishers, 2015.
 3.	Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical Guide for Managers'', CRC Press, 2015.
 4.	Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with MapReduce'', Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
+5.    Arshdeep Bahga and Vijay Madisetti, ``Big Data Science & Analytics: A Hands-On Approach'', VPT, 2016.

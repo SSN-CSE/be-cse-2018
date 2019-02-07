@@ -19,25 +19,25 @@
 
 
 {{{unit}}}
-|Unit I | <Data Science and Python> | <9> |
-Introduction:  Computational tools   --  Why data science?  -- Causality and experiments;
+|Unit I | Data Science and Python | 9 |
+Introduction:  Computational tools   --  Need for data science  -- Causality and experiments;
 Python: Array computing  --  Vectors  --  Basics of numerical Python arrays  --  Vectorization  --  Advanced vectorization of functions  --  Matrices and arrays  -- Reading and writing spreadsheet files;  Visualization: Graphs and tables.
 
 {{{unit}}}
-|Unit II | <Probability and Statistics> | <9> |
+|Unit II | Probability and Statistics | 9 |
 Randomness  --   Empirical distributions  --  Bayes theorem;  Testing hypothesis  -- Estimation  --  Why the mean  matters  --  Prediction  --  Inference for regression.
 
 {{{unit}}}
-|Unit III | <Machine learning algorithms> | <9> |
+|Unit III | Machine learning algorithms | 9 |
 Perceptron algorithm --   Kernel functions --   Overfitting and uniform convergence --  Regularization --  Support Vector Machines --  Strong and weak learning -- Boosting -- Stochastic Gradient Descent. 
 
 {{{unit}}}
-|Unit IV | <Data streams and Clustering> | <9> |
+|Unit IV | Data streams and Clustering | 9 |
 Frequency moments of data streams -- Matrix algorithms using sampling ;  k-Means clustering --  Spectral clustering  --  Community finding --  Graph partitioning. 
 
 {{{unit}}}
-|Unit V | <Topic Models and Graphical Models> | <9> |
-Topic Models -- Idealized Model -- Nonnegative Matrix Factorization - NMF --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields
+|Unit V | Topic Models and Graphical Models | 9 |
+Topic Models -- Idealized Model -- Nonnegative Matrix Factorization --Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical Models and Belief Propagation -- Bayesian Belief Networks -- Markov Random Fields.
 
 \hfill *Total: <45>*
 
@@ -50,9 +50,9 @@ After the completion of this course, students will be able to:
 - Understand the principles of handling data streams. (K2)
 - Discuss topic and graphical modeling techniques in real world problem.(K2)
  
- ** Text Books
+** Text Books
 1. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of Data Science'', Vorabversion eines Lehrbuchs, 2016.
-2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook 2017.  
+2. Ani Adhikari and John DeNero, ``Computational and Inferential Thinking: The Foundations of Data Science'', GitBook, 2017.  
 
 
 ** Reference Books:
@@ -60,6 +60,6 @@ After the completion of this course, students will be able to:
 2. Jonathan Dinu, ``Foundations of Data Science: A Practical Introduction to Data Science with Python'', Addison-wesley Data & Analytics Series, 2016.
 3. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of Massive Datasets'', V2.1, Cambridge University Press, 2014.
 4. EMC Education Services, ``Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data'', Wiley publishers, 2015.
-5. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly. 2014.
+5. Cathy O’Neil and Rachel Schutt. ``Doing Data Science, Straight Talk From The Frontline'', O’Reilly, 2014.
 
 

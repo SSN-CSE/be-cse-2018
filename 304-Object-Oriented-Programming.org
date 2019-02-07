@@ -23,23 +23,23 @@ Principles of OOP: Classes - Objects - Data hiding - Data encapsulation- Inherit
 Inheritance: Definition - Types of inheritance: Single - multilevel - multiple - hierarchical - hybrid;  Subclass constructors – Interfaces in Java: Definition, Implementation - Extending interfaces - Inheritance versus delegation – Inheritance rules - inner classes; Examples in java 
 {{{unit}}}
 |Unit III |Polymorphism and Exception handling	  | 7 |
-Polymorphism: Method overloading and overriding - Dynamic method dispatch; Exceptions: Hierarchy,  Built-in exceptions, Creating own exception; Packages in Java; Examples in java - 
+Polymorphism: Method overloading and overriding - Dynamic method dispatch; Exceptions: Hierarchy,  Built-in exceptions, Creating own exception; Packages in Java; Examples in java
 {{{unit}}}
 |Unit IV |Generic types and methods	 | 9 |
-Definition and concepts: generic classes and generic methods – generic types – Restrictions and limitations – Inheritance rules for generic types – reflections and generics; Examples in Java
+Definition and concepts: generic classes and generic methods – generic types – Restrictions and limitations – Inheritance rules for generic types – reflections; Examples in Java
 {{{unit}}}
 |Unit V | Generic Collections for ADTs and algorithms	 | 9 |
-Introduction to collections; Collection classes and interfaces: Array list, Linked list, Queue, set, trees, iterators for collections – Map class – Algorithms: sorting, searching, user-defined algorithms  – Examples in Java
+Introduction to collections; Collection classes and interfaces: Array list - Linked list - Queue - set - trees; Iterators for collections – Map class – Algorithms: sorting - searching - user-defined algorithms  – Examples in Java
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Write programs using classes and methods (K3)
-- Write programs using inheritance and interface (K3)
-- Write programs using generic methods (K3)
-- Write programs using polymorphism (K3)
-- Develop searching and sorting algorithms using generic collections(K3)
+- Solve problems using classes and methods (K3)
+- Develop programs using inheritance and interfaces (K3)
+- Experiments the concepts of polymorphism (K3)
+- Design applications using generic programming. (K3)
+- Develop algorithms using generic collections(K3)
      
 ** Text Books
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-oriented programming and Java'',  2nd Edition, Springer Publication,      

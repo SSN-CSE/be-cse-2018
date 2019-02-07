@@ -19,48 +19,47 @@
 
 {{{unit}}}
 |Unit I|FOUNDATIONS|8|
-Expert Systems & AI: Examples – Separating Knowledge & Inference – A Problem Domain; Introduction to PROLOG: Logic Programming – Overview of PROLOG Language; Introduction to LISP: Fundamental Principles of LISP – Overview of LISP Language;
+Introduction: Expert Systems & AI -- Examples -- Separating Knowledge & Inference -- A Problem Domain; Introduction to PROLOG: Logic Programming -- Programming in PROLOG -- Overview of PROLOG Language; Introduction to LISP: Fundamental Principles of LISP -- Overview of LISP Language.
 
 
 {{{unit}}}
-|Unit II|LOGIC & RESOLUTION|10|
-Propositional Logic; First Order Logic; Clausal Form of Logic; Reasoning in Logic: Inference Rules; Reolution in Propositional Logic; Reolution in First Order Logic; Resolution Strategies: SLD Resolution – Implementation of  SLD Resolution; Applying Logic for building Expert Systems;Logic as a representation formalism;
+|Unit II|LOGIC & REASONING |10|
+Logic and Resolution: Propositional Logic -- First Order Logic -- Clausal Form of Logic -- Reasoning in Logic -- Resolution and Propositional Logic -- Resolution and First Order Logic -- Resolution Strategies -- Implementation of  SLD Resolution -- Applying Logic for building Expert Systems.
 
 
 {{{unit}}}
 |Unit III|PRODUCTION SYSTEMS & FRAMES|10|
-Knowledge representation in a production system; Inference in a production system: Top-down inference and production rules -- Top-down inference in PROLOG & LISP -- Bottom-up inference and production rules; Production rules as a representation formalism; Semantic Nets; Frames and single inheritance: Single inheritance in PROLOG & LISP; Frames and multiple inheritance; Frames as a representation formalism;
+Production Rules and Inference: Knowledge representation in a production system -- Inference in a production system -- Production rules as a representation formalism; Frames and Inheritance: Semantic Nets -- Frames and single inheritance -- Frames and multiple inheritance -- Frames as a representation formalism.
 
 
 {{{unit}}}
-|Unit IV|REASONING WITH UNCERTAINTY|10|
-Production rules, inference and uncertainty; Probability theory: The probability function -- Conditional probabilities and Bayes’ theorem -- Application in rule-based expert systems; The subjective Bayesian method; The certainty factor model; The certainty factor model in PROLOG; The Dempster-Shafer theory; Network models: Knowledge representation in a belief network -- Evidence propagation in a belief network;
+|Unit IV|UNCERTAINTY|10|
+Reasoning with Uncertainty: Production rules, inference and uncertainty -- Probability theory -- The subjective Bayesian method -- The certainty factor model -- The certainty factor model in PROLOG -- The Dempster-Shafer theory.  
 
 {{{unit}}}
-|Unit V|OPS5 & CENTAUR|7|
-OPS5: Knowledge representation in OPS5 -- The OPS5 interpreter -- The rete algorithm -- Building expert systems using OPS5; CENTAUR:  Prototypes – Facts -- Reasoning in CENTAUR; 
+|Unit V|EXPERT SYSTEM LANGUAGES |7|
+OPS5, LOOPS and CENTAUR: OPS5 -- Knowledge representation in OPS5 -- The OPS5 interpreter -- The rete algorithm -- Building expert systems using OPS5; CENTAUR:  Prototypes -– Facts -- Reasoning in CENTAUR. 
 
 
 
-\hfill *Total: 45*
+*Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Write programs in Prolog
-- Write programs in LISP
+- Develope programs in Prolog (K3)
+- Develope programs in LISP (K3)
 - Implement SLD resolution using LISP (K3)
 - Use OSP5 interpreter (K2)
 - Build a knowledge base for a particular problem domain, using PROLOG and/or LISP (K3)
 
 
 ** Textbook:
-1. Peter J.F. Lucas & Linda C. van der Gaag "Principles of Expert Systems"  Addison-Wesley 1991
-
+1. Peter J.F. Lucas & Linda C. van der Gaag, "Principles of Expert Systems", Addison-Wesley, 1991.
+2. Joseph C. Giarratano, “Expert Systems: Principle & Programming”, Cengage Learning - 4th Edn., 2007.
 
 ** References:
-1. Donald Waterman “A Guide to Expert Systems” Pearson Education 1986
-2. Joseph C. Giarratano “Expert Systems: Principle & Programming”, Cengage Learning 4th Edn. 2007
-3. Mathew Beard “Expert Systems: An Introduction”  Self-published 2014
-4. Peter Jackson “Introduction to Expert Systems” Pearson Education 2002
-5. Dan W Patterson “Introduction to Artificial Intelligence and Expert Systems” Pearson Education 2007
-6. V. Daniel Hunt “Artificial Intelligence and Expert Systems Sourcebook” Springer-Verlag 2011
+1. Donald Waterman, “A Guide to Expert Systems”, Pearson Education, 1986.
+2. Mathew Beard, “Expert Systems: An Introduction”, Self-published, 2014.
+3. Peter Jackson, “Introduction to Expert Systems”, Pearson Education, 2002.
+4. Dan W Patterson, “Introduction to Artificial Intelligence and Expert Systems”, Pearson Education, 2007.
+5. V. Daniel Hunt, “Artificial Intelligence and Expert Systems Sourcebook”, Springer-Verlag, 2011.

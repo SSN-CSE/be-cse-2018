@@ -18,34 +18,29 @@
 
 {{{unit}}}
 |Unit I|FOUNDATIONS|8|
-Introduction to AI; Intelligent Agents: Agents and environments -- Good behavior -- The nature of environments -- 
-Structure of agents -- Agent Components -- Agent Architecture; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence;
-
-
+Introduction: What is AI; Intelligent Agents: Agents and environments -- Good behavior -- The nature of environments -- 
+Structure of agents; Philosophical Foundations:  Weak AI -- Strong AI -- Ethics and Risks of Developing Artificial Intelligence; AI: The Present and Future: Agent Components -- Agent Architectures.
 
 {{{unit}}}
 |Unit II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
-Problem Solving: problem solving agents -- example problems -- searching for solutions -- uninformed search strategies -- 
-Informed search strategies -- heuristic functions; Beyond Classical Search: Local search algorithms and optimization problems; Adversarial Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning; - Constraint satisfaction problems (CSP): Backtracking search and Local search for CSP;
+Solving Problems by Searching: problem solving agents -- example problems -- searching for solutions -- uninformed search strategies -- Informed search strategies -- heuristic functions; Beyond Classical Search: Local search algorithms and optimization problems; Adversarial Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning. 
 
 
 {{{unit}}}
 |Unit III|KNOWLEDGE REPRESENTATION & REASONING|9|
-Logical Agents: Knowledge-Based Agents -- Propositional Logic -- First order logic -- Syntax and semantics for first order logic -- Using first order logic -- Knowledge engineering in first order logic -- Inference in First order logic -- 
-propositional versus first order logic -- Unification and Lifting -- Forward Chaining -- Backward Chaining -- Resolution;
+Logical Agents: Knowledge-Based Agents -- Propositional Logic -- Propositional Theorem Proving; First order logic: Syntax and semantics for first order logic -- Using first order logic; Inference in First order logic: propositional versus first order logic -- Unification and Lifting -- Forward Chaining -- Backward Chaining -- Resolution.
 
 {{{unit}}}
 |Unit IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
-Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability Notation -- Inference Using Full Joint Distributions -- Independence -- Bayes’ Rule & its use; Probabilistic Reasoning: Bayesian Networks -- Inference in Bayesian Networks; Other Approaches to Uncertain Reasoning: Certainty Factors -- Dempster-Schafer Theory -- Fuzzy Reasoning;
+Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability Notation -- Inference Using Full Joint Distributions --  Bayes’ Rule & its use; Probabilistic Reasoning: The Semantics of Bayesian Networks -- Exact Inference in Bayesian Networks -- Other Approaches to Uncertain Reasoning.
 
 
 {{{unit}}}
 |Unit V|LEARNING AND ITS APPLICATIONS|9|
-Learning: Forms of learning -- Supervised learning -- Learning decision trees -- Unsupervised Learning -- K-means --
-Reinforcement learning -- Passive reinforcement learning; Applications of Learning in AI; 
+Learning from Examples: Forms of learning -- Supervised learning -- Learning decision trees; Reinforcement learning: Passive reinforcement learning -- Active reinforcement learning -- Applications of Reinforcement Learning. 
 
 
-\hfill *Total: <Total Hours>*
+*Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -68,19 +63,17 @@ After the completion of this course, students will be able to:
 4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition, 2017.
 5. Prateek Joshi, "Artificial Intelligence with Python", Packt Publishing Limited; 1st edition, 2017.
 
-** Lab Exercises:
-1. Implementation of Uninformed Search Techniques
-2. Implementation of Informed Search Techniques
-3. Implementation of Hill Climbing algorithms
-4. Implementation of Adversarial Search techniques
-5. Implementation of backtracking search for CSP
-6. Construction of AND-OR graph from knowledge base
-7. Implementation of inference from knowldge base
-8. Implementation of inference using full joint probability distribution
-9. Implementation of inference using Bayesian network
-10. Implementation of Decision tree learning algorithm
-11. Implementation of K-means algorithms
-12. Implementation of passive reinforcment learning algorithm
+** Lab Exercises: 
+1. Uninformed Search Techniques
+2. Informed Search Techniques
+3. Hill Climbing algorithms
+4. Adversarial Search techniques
+5. Construction of AND-OR graph from knowledge base
+6. Inference from knowldge base
+7. Inference using full joint probability distribution
+8. Inference using Bayesian network
+9. Decision tree learning algorithm
+10. Passive reinforcment learning algorithm
 
 
- *Total: 20*
+ *Total: 30*

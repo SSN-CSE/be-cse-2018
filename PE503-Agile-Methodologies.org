@@ -11,52 +11,55 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To provide students with a theoretical as well as practical understanding of agile software development practices and how small teams can apply them to create high-quality software.
-- To provide a good understanding of software design and a set of software technologies and APIs.
-- To do a detailed examination and demonstration of Agile development and testing techniques.
-- To understand the benefits and pitfalls of working in an Agile team.
-- To understand Agile development and testing. 
-
-{{{unit}}}
-|Unit I|AGILE METHODOLOGY|9| 
-Theories for Agile Management –- Agile Software Development –- Traditional Model vs. Agile Model -- Classification of Agile Methods –- Agile Manifesto and Principles -– Agile Project Management -– Agile Team Interactions –- Ethics in Agile Teams -- Agility in Design; Testing –- Agile Documentations –- Agile Drivers; Capabilities and Values.
+- To understand the basic concepts of Agile software process.
+- To gain knowledge about agile requirement engineering.
+- To learn Planning and management in agile software development.
+- To gain knowledge in various agile methodologies.
+- To learn the principles of agile testing and Quality assurance. 
 
 
-{{{unit}}}
-|Unit II |AGILE PROCESSES|9| 
-Lean Production -- SCRUM -- Crystal -- Feature Driven Development -- Adaptive Software Development -- Extreme Programming: Method Overview -– Lifecycle -– Work Products; Roles and Practices.
-
-{{{unit}}}
-|Unit III|AGILITY AND KNOWLEDGE MANAGEMENT|9| 
-Agile Information Systems –- Agile Decision Making -- Earl'S Schools of KM –- Institutional Knowledge Evolution Cycle –- Development; Acquisition -- Refinement -- Distribution -- Deployment -- Leveraging –- KM in Software Engineering –- Managing Software Knowledge –- Challenges of Migrating to Agile Methodologies –- Agile Knowledge Sharing –- Role of Story-Cards –- Story-Card Maturity Model (SMM).
-
-{{{unit}}}
-|Unit IV| AGILITY AND REQUIREMENTS ENGINEERING|9|
-Impact of Agile Processes in RE -– Current Agile Practices –- Variance –- Overview of RE Using Agile –- Managing Unstable Requirements –- Requirements Elicitation –- Agile Requirements Abstraction Model –- Requirements Management in Agile Environment; Agile Requirements Prioritization –- Agile Requirements Modeling and Generation –- Concurrency in Agile Requirements Generation.
+|Unit I|Introduction|9| 
+Iterative and evolutionary development; Introduction to Agile: Agile development -- Classification of methods -- Agile manifesto and principles -- Communication and feedback -- Specific agile methods -- agile modelling;  Theories for agile management; Management accounting for systems; Agile Project Management: Traditional versus RAD model for project management -- Task planning and effort tracking -- The project manager’s new work.
 
 
-{{{unit}}}
-|Unit V|AGILITY AND QUALITY ASSURANCE	|9|
-Agile Product Development –- Agile Metrics –- Feature Driven Development (FDD) –- Financial and Production Metrics in FDD –- Agile Approach to Quality Assurance -- Test Driven Development -– Agile Approach in Global Software Development.
+
+|Unit II |Requirements Engineering for Agile Methods |9| 
+Traditional and agile requirement engineering; Methods and Tools for Agile Practitioners: Requirements elicitation -- Requirements representation and documentation -- Requirements analysis, Requirements management; Agile Approaches to Requirements Engineering: The customer -- Waste in requirements -- Requirements evolution -- Non-Functional requirements; Tools for Requirements Management in AMs.
+
+
+|Unit III|Agile Project Planning and Development Management|9| 
+Agile Project Planning: The Project buffer and its usage -- Logical collection of inventory -- Critical path -- Parallel path -- Critical chain -- Project tracking metrics;  Agile Development Management: Identifying and monitoring the flow -- Bottleneck; Agile Maturity Model: A new maturity model.
+
+
+|Unit IV| Agile Methods|9|
+Scrum: Method Overview -- Life cycle -- Work products – Values -- Roles and Practices -- Process mixtures --  Adoption strategies;  Extreme Programming; Unified Process; EVO.
+
+
+
+|Unit V|Agile Testing and Quality Assurance|9|
+Agile testing: Nine principles and six concrete practices for testing on agile teams; Agile Metrics:  Feature Driven Development (FDD) -- Financial and production metrics in FDD --Agile approach to Quality Assurance -- Test Driven Development; Pair Programming: Issues and challenges -- Agile approach to global software development; Story cards based Requirements engineering Maturity Model (SMM).
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Realize the importance of interacting with business stakeholders in determining the requirements for a software system (K2).
-- Perform iterative software development processes: how to plan them, how to execute them (K3).
-- Point out the impact of social aspects on software development success (K2).
-- Perform Software process improvement as an ongoing task for development teams (K3).
-- Show how agile approaches can be scaled up to the enterprise level (K3).
+- Understand evolutionary, iterative and adaptive development methods (K2).
+- Apply agile software process in requirement engineering (K3).
+- Understand agile methods for project planning and developement (K2).
+- Apply agile methodologies for software design (K3).
+- Apply agile based testing and quality assurance (K3).
+
 
 
 ** Text Books
 1. David J. Anderson and Eli Schragenheim, ``Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results'', Prentice Hall, 2003.
-2. Hazza and Dubinsky, ``Agile Software Engineering, Series: Undergraduate Topics in Computer Science'', Springer, 2009.
+2. Craig Larman, ``Agile and Iterative Development: A Manager's Guide'', Addison-Wesley, 2004.
+3. Elisabeth Hendrickson, ``Agile Testing'' Quality Tree Software Inc 2008.
+
 	
 ** References
-1. Craig Larman, ``Agile and Iterative Development: A Manager's Guide'', Addison-Wesley, 2004.
-2. Kevin C. Desouza, ``Agile Information Systems: Conceptualization, Construction, and Management'', Butterworth-Heinemann, 2007.
-3. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), ``Agile Software Development, Current Research and Future Directions'', Springer-Verlag Berlin Heidelberg, 2010.
-4. Crowder JA, Friess S. Systems engineering agile design methodologies. Springer Science & Business Media; 2013 Feb 26.
-5. Rubin KS. Essential Scrum: A practical guide to the most popular Agile process. Addison-Wesley, 2012.
+1. Hazza and Dubinsky, ``Agile Software Engineering, Series: Undergraduate Topics in Computer Science'', Springer, 2009.
+2. Chetankumar Patel and Muthu Ramachandran, ``Story Card Maturity Model (SMM): A Process Improvement Framework for Agile Requirements Engineering Practices'', Journal of Software, Academy Publishers, Vol 4, No 5, 422-435, Jul 2009.
+3. Kevin C. Desouza, ``Agile Information Systems: Conceptualization, Construction, and Management'', Butterworth-Heinemann, 2007.
+4. Didar Zowghi, Zhi Jin, ``Requirements Engineering'', Springer , chapter 15, 2014.
+5. Aybüke Aurum and Claes Wohlin, ``ngineering and Managing Software Requirements'', Springer 2005, chapter 14.

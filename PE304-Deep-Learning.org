@@ -17,19 +17,19 @@
 - To learn the evaluation metrics for deep learning models
 
 |Unit I|Deep Networks Basics|9| 
-Linear Algebra: Scalars -- Vectors -- Matrices and tensors; Probability Distributions -- Gradient-based Optimization -- Machine Learning Basics: Capacity -- Overfitting and underfitting -- Hyperparameters and validation sets -- Estimators -- Bias and variance -- Stochastic gradient descent -- Challenges motivating deep learning; Deep Networks: Deep feedforward networks; Regularization -- Optimization
+Linear Algebra: Scalars -- Vectors -- Matrices and tensors; Probability Distributions -- Gradient-based Optimization -- Machine Learning Basics: Capacity -- Overfitting and underfitting -- Hyperparameters and validation sets -- Estimators -- Bias and variance -- Stochastic gradient descent -- Challenges motivating deep learning; Deep Networks: Deep feedforward networks; Regularization -- Optimization.
 
 |Unit II|Convolutional Neural Networks|9| 
-Convolution Operation -- Sparse Interactions -- Parameter Sharing -- Equivariance -- Pooling -- Convolution Variants: Strided -- Tiled -- Transposed and dilated convolutions; CNN Learning: Nonlinearity Functions -- Loss Functions -- Regularization -- Optimizers -- Gradient Computation
+Convolution Operation -- Sparse Interactions -- Parameter Sharing -- Equivariance -- Pooling -- Convolution Variants: Strided -- Tiled -- Transposed and dilated convolutions; CNN Learning: Nonlinearity Functions -- Loss Functions -- Regularization -- Optimizers -- Gradient Computation.
 
 |Unit III|Recurrent Neural Networks|10| 
-Unfolding Graphs -- RNN Design Patterns: Acceptor -- Encoder -- Transducer; Gradient Computation -- Sequence Modeling Conditioned on Contexts -- Bidirectional RNN -- Sequence to Sequence RNN -- Deep Recurrent Networks -- Recursive Neural Networks -- Long Term Dependencies; Leaky Units:  Skip connections and dropouts; Gated Architecture: LSTM
+Unfolding Graphs -- RNN Design Patterns: Acceptor -- Encoder -- Transducer; Gradient Computation -- Sequence Modeling Conditioned on Contexts -- Bidirectional RNN -- Sequence to Sequence RNN -- Deep Recurrent Networks -- Recursive Neural Networks -- Long Term Dependencies; Leaky Units:  Skip connections and dropouts; Gated Architecture: LSTM.
 
 |Unit IV|Model Evaluation|8| 
-Performance metrics -- Baseline Models -- Hyperparameters: Manual Hyperparameter -- Automatic Hyperparameter -- Grid search -- Random search -- Debugging strategies
+Performance metrics -- Baseline Models -- Hyperparameters: Manual Hyperparameter -- Automatic Hyperparameter -- Grid search -- Random search -- Debugging strategies.
 
 |Unit V|Autoencoders and Generative Models|9| 
-Autoencoders: Undercomplete autoencoders -- Regularized autoencoders -- Stochastic encoders and decoders -- Learning with autoencoders; Deep Generative Models: Variational autoencoders -- Generative adversial networks
+Autoencoders: Undercomplete autoencoders -- Regularized autoencoders -- Stochastic encoders and decoders -- Learning with autoencoders; Deep Generative Models: Variational autoencoders -- Generative adversial networks.
 
 
 |Total:|45|
@@ -40,6 +40,7 @@ After the completion of this course, students will be able to:
 - Apply Convolution Neural Network for real-world problems in image processing (K3)
 - Apply Recurrent Neural Network and its variants for text analysis (K3)
 - Understand the concepts in autoencoders and generative models (K2)
+- Apply model evaluation for various applications. (K3)
 
 ** Textbook
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning", MIT Press, 2016.
@@ -47,3 +48,6 @@ After the completion of this course, students will be able to:
 ** References
 1. Salman Khan, Hossein Rahmani, Syed Afaq Ali Shah, Mohammed Bennamoun, "A Guide to Convolutional Neural Networks for Computer Vision", Synthesis Lectures on Computer Vision, Morgan & Claypool publishers, 2018.
 2. Yoav Goldberg, "Neural Network Methods for Natural Language Processing", Synthesis Lectures on Human Language Technologies, Morgan & Claypool publishers, 2017.
+3. Francois Chollet, "Deep Learning with Python", Manning Publications Co., 2018.
+4. Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer International Punlishing, 2018.
+5. Josh Patterson, Adam Gibson, "Deep Learning: A Practitioner's Approach", O'Reilly Media, 2017. 
