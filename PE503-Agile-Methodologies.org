@@ -52,14 +52,14 @@ Upon the completion of the course the students should be able to:
 
 
 ** Text Books
-1. David J. Anderson and Eli Schragenheim, ``Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results'', Prentice Hall, 2003.
-2. Craig Larman, ``Agile and Iterative Development: A Manager's Guide'', Addison-Wesley, 2004.
-3. Elisabeth Hendrickson, ``Agile Testing'' Quality Tree Software Inc 2008.
+1. David J. Anderson and Eli Schragenheim, ``Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results'', Prentice Hall, 2003. ( Unit 1, Unit 3, Unit 5)
+2. Craig Larman, ``Agile and Iterative Development: A Manager's Guide'', Addison-Wesley, 2004. (Unit 1, Unit 4)
+3. Elisabeth Hendrickson, ``Agile Testing'' Quality Tree Software Inc 2008. (Unit 5)
 
 	
 ** References
-1. Hazza and Dubinsky, ``Agile Software Engineering, Series: Undergraduate Topics in Computer Science'', Springer, 2009.
-2. Chetankumar Patel and Muthu Ramachandran, ``Story Card Maturity Model (SMM): A Process Improvement Framework for Agile Requirements Engineering Practices'', Journal of Software, Academy Publishers, Vol 4, No 5, 422-435, Jul 2009.
+1. Hazza and Dubinsky, ``Agile Software Engineering, Series: Undergraduate Topics in Computer Science'', Springer, 2009. (Unit 5)
+2. Chetankumar Patel and Muthu Ramachandran, ``Story Card Maturity Model (SMM): A Process Improvement Framework for Agile Requirements Engineering Practices'', Journal of Software, Academy Publishers, Vol 4, No 5, 422-435, Jul 2009. (Unit 5)
 3. Kevin C. Desouza, ``Agile Information Systems: Conceptualization, Construction, and Management'', Butterworth-Heinemann, 2007.
-4. Didar Zowghi, Zhi Jin, ``Requirements Engineering'', Springer , chapter 15, 2014.
-5. Aybüke Aurum and Claes Wohlin, ``ngineering and Managing Software Requirements'', Springer 2005, chapter 14.
+4. Didar Zowghi, Zhi Jin, ``Requirements Engineering'', Springer , chapter 15, 2014. (Unit 2)
+5. Aybüke Aurum and Claes Wohlin, ``Engineering and Managing Software Requirements'', Springer 2005, chapter 14. (Unit 2)

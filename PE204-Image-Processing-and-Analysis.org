@@ -20,8 +20,8 @@
 {{{unit}}}
 |Unit I | Digital Image Fundamentals | 9 |
 Introduction to Digital Image Processing: Components -  Image Sensing and Acquisition -
-Image Sampling and Quantization; Relationships between pixels - 2D mathematical preliminaries;
-Image Operations: Arithmetic - Logical - Statistical - Spatial Operations.
+Image Sampling and Quantization; Relationships between pixels - 2D mathematical preliminaries: Array vs matrix operations -
+Linear vs nonlinear operations - Arithmetic - Logical - Statistical - Spatial Operations.
 
 {{{unit}}}
 |Unit II | Image Enhancement | 9 |

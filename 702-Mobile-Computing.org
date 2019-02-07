@@ -50,12 +50,11 @@ After the completion of this course, students will be able to:
 
 ** Text Books
 1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.(Unit I -IV)
-2.      Holger Karl , Andreas willig, "Protocol and Architecture for Wireless Sensor Networks", John wiley  publication, 2006. (Unit IV)
-3.	Helal, Sumi, Raja Bose, and Wendong Li. "Mobile platforms and development environments." Synthesis Lectures on Mobile and Pervasive Computing, 2012.(Unit V))
+2.	Helal, Sumi, Raja Bose, and Wendong Li. "Mobile platforms and development environments." Synthesis Lectures on Mobile and Pervasive Computing, 2012.(Unit V))
 
 ** References
-1.	Helal, Abdelsalam A., et al. Any time, anywhere computing: Mobile computing concepts and technology. Vol. 522. Springer Science & Business Media, 1999.
-2.	Dharma Prakash Agarval, Qing and An Zeng, "Introduction to Wireless and Mobile systems", Thomson Asia Pvt Ltd, 2005.
+1.	Helal, Abdelsalam A., et al. Any time, anywhere computing: Mobile computing concepts and technology. Vol. 522. First Edition, Springer Science & Business Media, 1999.
+2.	Dharma Prakash Agarval, Qing and An Zeng, "Introduction to Wireless and Mobile systems", Third Edition ,Thomson Asia Pvt Ltd, 2005.
 3.	Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober, “Principles of Mobile Computing”, Springer, 2003.
 4.	William.C.Y.Lee,“Mobile Cellular Telecommunications-Analog and Digital Systems”, Second Edition,Tata Mc Graw Hill Edition ,2006.
 5.	C.K.Toh, “AdHoc Mobile Wireless Networks”, First Edition, Pearson Education, 2002.
