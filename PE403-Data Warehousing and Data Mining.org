@@ -10,7 +10,8 @@
 - To understand data warehouse concepts, architecture, business analysis and tools
 - To understand data pre-processing and data visualization techniques
 - To study algorithms for finding hidden and interesting patterns in data
-- To understand and apply various classification and clustering techniques using tools.
+- To understand and apply various classification techniques and machine learning datasets
+- To understand clustering techniques using WEKA tool.
 
 |Unit I|DATA WAREHOUSING, BUSINESS ANALYSIS AND ON-LINE ANALYTICAL  PROCESSING (OLAP) |9| 
 Basic Concepts: Data Warehousing Components –- Building a Data Warehouse –- Database Architectures for Parallel Processing –- Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse Schemas for Decision Support; Concept Hierarchies; Characteristics of OLAP Systems –- Typical OLAP Operations, OLAP and OLTP.
@@ -22,10 +23,10 @@ Introduction to Data Mining Systems –- Knowledge Discovery Process –- Data M
 Mining Frequent Patterns -- Associations and Correlations –- Mining Methods -- Pattern Evaluation Method; Pattern Mining in Multilevel -- Multi Dimensional Space -– Constraint Based Frequent Pattern Mining; Classification using Frequent Patterns.
 
 |Unit IV |Classification|9|
-Introduction - Decision Tree Induction; Bayesian Classification; Rule Based Classification; Classification by Back Propagation; Support Vector Machines; Lazy Learners; Model Evaluation and Selection – Techniques to improve Classification Accuracy; Evaluation of Classification Methods.
+Introduction - Decision Tree Induction; Bayesian Classification; Rule Based Classification; Classification by Back Propagation; Support Vector Machines; Lazy Learners; Model Evaluation and Selection – Techniques to improve Classification Accuracy; Evaluation of Classification Methods; Datasets: Introduction - UCI Machine Learning Repository.
 
 |Unit V| Clustering |9|
-Introduction, Clustering, Cluster Analysis, Clustering Methods- K means, Hierarchical clustering, Agglomerative clustering, Divisive clustering, clustering and segmentation software, evaluating clusters; Case Studies; Tools.
+Introduction, Clustering, Cluster Analysis, Clustering Methods- K means, Hierarchical clustering, Agglomerative clustering, Divisive clustering, clustering and segmentation software, evaluating clusters; Case Studies using WEKA tools for classification, clustering and association.
 
 |Total:|45|
 
