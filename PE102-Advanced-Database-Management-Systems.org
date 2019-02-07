@@ -9,7 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 The student should be able to:
 - To acquire knowledge on parallel and distributed databases and their applications. 
 - To study the usage and applications of Object and Object Relational Databases. 
@@ -19,29 +19,47 @@ The student should be able to:
 
 
 {{{unit}}}
-|Unit I |Parallel and Distributed Databases| 9 |
-Database System Architectures: Centralized and Client-Server Architectures – Server System Architectures – Parallel Systems- Distributed Systems- Parallel Databases: I/O Parallelism – Inter and Intra Query Parallelism – Inter and Intra operation Parallelism – Design of Parallel Systems- Distributed Database Concepts - Distributed Data Storage – Distributed Transactions – Commit Protocols – Concurrency Control – Distributed Query Processing – Case Studies 
+|UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
+Database System Architectures: Centralized and Client-Server
+Architectures – Server System Architectures – Parallel Systems-
+Distributed Systems- Parallel Databases: I/O Parallelism – Inter and
+Intra Query Parallelism – Inter and Intra operation Parallelism –
+Design of Parallel Systems- Distributed Database Concepts -
+Distributed Data Storage – Distributed Transactions – Commit Protocols
+– Concurrency Control – Distributed Query Processing – Case Studies
 
 
 {{{unit}}}
-|Unit II | Object and Object Relational Databases | 9 |
-Concepts for Object Databases: Object Identity – Object structure – Type Constructors – Encapsulation of Operations – Methods – Persistence – Type and Class Hierarchies – Inheritance – Complex Objects – Object Database Standards, Languages and Design: ODMG Model – ODL – OQL – Object Relational and Extended – Relational Systems: Object Relational features in SQL/Oracle – Case Studies. 
+|UNIT II | OBJECT AND OBJECT RELATIONAL DATABASES | 9 |
+Concepts for Object Databases: Object Identity – Object structure –
+Type Constructors – Encapsulation of Operations – Methods –
+Persistence – Type and Class Hierarchies – Inheritance – Complex
+Objects – Object Database Standards, Languages and Design: ODMG Model
+– ODL – OQL – Object Relational and Extended – Relational Systems:
+Object Relational features in SQL/Oracle – Case Studies.
 
 {{{unit}}}
-|Unit III | XML Databases | 9 |
-XML Databases: XML-Related Technologies-XMLSchema- XML Query Languages- Storing XML in Databases-XML and SQL- Native XML Databases- Web Databases
+|UNIT III | XML DATABASES | 9 |
+XML Databases: XML-Related Technologies-XMLSchema- XML Query
+Languages- Storing XML in Databases-XML and SQL- Native XML Databases-
+Web Databases
 
 {{{unit}}}
-|Unit IV | NoSQL Database | 9 |
-Why NoSQL: - Aggregate datamodels - The CAP theorem - Key-value Databases -  Document databases - Column-Family Stores - Graph Databases.
+|UNIT IV | NOSQL DATABASE | 9 |
+Why NoSQL: - Aggregate datamodels - The CAP theorem - Key-value
+Databases - Document databases - Column-Family Stores - Graph
+Databases.
 
 {{{unit}}}
-|Unit V | HBase and HIVE | 9 |
-Introduction to Hadoop and MapReduce - HBase Basic Features: CRUD Operations - Batch Operations -Row Locks; Advanced Features: Filters - Counters - Htablepool; HiveQL: Data Definition - Data Manipulation - Queries.
+|UNIT V | HBASE AND HIVE | 9 |
+Introduction to Hadoop and MapReduce - HBase Basic Features: CRUD
+Operations - Batch Operations -Row Locks; Advanced Features: Filters -
+Counters - Htablepool; HiveQL: Data Definition - Data Manipulation -
+Queries.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design Parallel and Distributed Databases(K3)
 - Understand Object and Object Relational Databases(K2)
@@ -49,15 +67,25 @@ After the completion of this course, students will be able to:
 - Implement different NoSQL Databases (K3)
 - Design an application using the concepts of HBase and HIVE(K3)
 
-** Text Books 
-1. Elmasri, Ramez, and Shamkant Navathe. "Fundamentals of database systems". Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
-2. Fowler, Martin, and Pramod Sadalage. "NoSQL distilled." Addison Wesely (2013).(Unit IV)
+** TEXT BOOKS 
+1. Elmasri, Ramez, and Shamkant Navathe. ``Fundamentals of database
+   systems''. Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
+2. Fowler, Martin, and Pramod Sadalage. ``NoSQL Distilled'' Addison
+   Wesely (2013).(Unit IV)
 
-** References
-1. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. Programming Hive: Data warehouse and query language for Hadoop. " O'Reilly Media, Inc.", 2012.
-2. George, Lars. HBase: the definitive guide: random access to your planet-size data. " O'Reilly Media, Inc.", 2011.(Unit V)
-3. Henry F Korth, Abraham Silberschatz, S. Sudharshan, "Database System Concepts", Sixth Edition, McGraw Hill, 2011. 
-4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, "Advanced Database Systems", Morgan Kaufmann publishers,2006 
-5. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. "The definitive guide to MongoDB: the NoSQL database for cloud and desktop computing". Apress, 2011.
+** REFERENCES
+1. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. ``Programming
+   Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
+   Media, Inc.", 2012.
+2. George, Lars. ``HBase: The Definitive Guide: Random Access to Your
+   Planet-Size Data'', O'Reilly Media, Inc.", 2011.(Unit V)
+3. Henry F Korth, Abraham Silberschatz, S. Sudharshan, ``Database
+   System Concepts'', Sixth Edition, McGraw Hill, 2011.
+4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard
+   T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database
+   Systems'', Morgan Kaufmann publishers,2006
+5. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. ``The Definitive
+   Guide to MongoDB: The NoSQL Database for Cloud and Desktop
+   Computing'', Apress, 2011.
 
 

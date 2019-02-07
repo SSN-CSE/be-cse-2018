@@ -1,4 +1,4 @@
-* <<<302>>> PROGRAMMING PARADIGMS
+* <<<PE107>>> PROGRAMMING PARADIGMS
 :properties:
 :author: R Kanchana
 :date: 
@@ -10,30 +10,43 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To introduce various programming paradidgms
-- To understand programming paradigms such as imperative, object-oriented, logic, functional and concuuent with illustrative    
+- To understand programming paradigms such as imperative,
+  object-oriented, logic, functional and concuuent with illustrative
   examples
 
+{{{unit}}}
+|UNIT I | IMPERATIVE AND OBJECT ORIENTED PROGRAMMING  | 9 |
+Role of programming languages, programming paradigms, Structured
+programming - Data representation, procedure activations, Examples in
+C
 
-|Unit I | Imperative and Object Oriented Programming  | 9 |
-Role of programming languages, programming paradigms, Structured programming - Data representation, procedure activations, Examples in C
+{{{unit}}}
+|UNIT II | OBJECT ORIENTED PROGRAMMING | 9 |
+Abstract data types, object model, object-oriented thinking, Examples
+in Java/Python/C++
 
-|Unit II | Object Oriented Programming | 9 |
-Abstract data types, object model, object-oriented thinking, Examples in Java/Python/C++
+{{{unit}}}
+|UNIT III | FUNCTIONAL PROGRAMMING  | 9 |
+Elements of functional programming: values and operations,approaches
+to expression evaluation, lexical scope, type checking - Haskell:
+Expressions, lists, types and values, control flow, functions, tuples,
+problem solving
 
-|Unit III | Functional Programming  | 9 |
-Elements of functional programming: values and operations,approaches to expression evaluation, lexical scope, type checking -  Haskell: Expressions, lists, types and values, control flow, functions, tuples, problem solving
+{{{unit}}}
+|UNIT IV | LOGIC PROGRAMMING | 9 |
+Logic and Horn clauses, Prolog: data structures, programming
+techniques, control, cuts, examples
 
-|Unit IV | Logic Programming | 9 |
-Logic and Horn clauses, Prolog: data structures, programming techniques, control, cuts, examples
-
-|Unit V | Concurrent Programming       | 9 |
- Concurrency concepts – synchronization strategies – interleaving, liveness, safe access to shared data, examples in Ada / Java
+{{{unit}}}
+|UNIT V | CONCURRENT PROGRAMMING       | 9 |
+ Concurrency concepts – synchronization strategies – interleaving,
+ liveness, safe access to shared data, examples in Ada / Java
  
-Total: 45
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand imperative programming paradigm and some examples in C		(K3)
 - Understand object-oriented  programming paradigm and explore some examples in C++ or Java or Python 									(K3)
@@ -41,11 +54,16 @@ After the completion of this course, students will be able to:
 - Understand logic programming paradigm and explore some examples in Prolog	(K3)
 - Understand concurrent programming paradigm and explore some examples in Java / Ada  											(K3)
 
-** Text Books
-1. Ravi Sethi and Viswanatha, K.V. Programming Languages : Concepts and constructs, II Edition, Pearson, 2011
-2. Allan B. Tucker and Robert E. Noonan. Programming Languages: Principles and Paradigm, II Edition, McGraw Hill, 2007 
+** TEXT BOOKS
+1. Ravi Sethi and Viswanatha, K.V., ``Programming Languages : Concepts
+   and constructs'', II Edition, Pearson, 2011
+2. Allan B. Tucker and Robert E. Noonan, ``Programming Languages:
+   Principles and Paradigms'', II Edition, McGraw Hill, 2007
 
-** References
-1. Michael Scott. Programming Language Pragmatics, 4th Edition, Morgan Kaufmann, 2015
-2. Robert W. Sebesta, Concepts of Programming Languages, 11th Edition, Pearson, 2016
-3. Maurizio Gabbrielli and Simone Martini.  Programming Languages: Principles and Paradigms, Springer, 2010
+** REFERENCES
+1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
+   Morgan Kaufmann, 2015
+2. Robert W. Sebesta, ``Concepts of Programming Languages'', 11th
+   Edition, Pearson, 2016
+3. Maurizio Gabbrielli and Simone Martini, ``Programming Languages:
+   Principles and Paradigms'', Springer, 2010
