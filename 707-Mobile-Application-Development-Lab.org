@@ -9,11 +9,13 @@
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
-The student should be made to:
-- To understand the components and structure of mobile application development frameworks.
-- To understand how to work with mobile application development framework.
-- To learn the basic and important design concepts in developing mobile applications.
+** COURSE OBJECTIVES
+- To understand the components and structure of mobile application
+  development frameworks.
+- To understand how to work with mobile application development
+  framework.
+- To learn the basic and important design concepts in developing
+  mobile applications.
 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -30,12 +32,12 @@ The student should be made to:
 11. Implement a web application to display a web page.
 12. Mini Project
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop mobile applications using GUI, Layouts and Event Listener.(K3)
-- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS.(K3)
-- Develop mobile applications using  SD Card, SMS and Notification.(K3)
-- Develop mobile web applications.(K3)
-- Develop a mobile app.(K3)
+- Develop mobile applications using GUI, Layouts and Event Listener. (K3)
+- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS. (K3)
+- Develop mobile applications using  SD Card, SMS and Notification. (K3)
+- Develop mobile web applications. (K3)
+- Develop a mobile app. (K3)

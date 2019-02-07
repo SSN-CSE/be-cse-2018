@@ -10,7 +10,7 @@
 | 3 | 0 | 0 | 3 |
 
 
-** Course Objectives
+** COURSE OBJECTIVES
 The student should be made to:
 - Understand the basic concepts of mobile computing
 - Be familiar with the protocol stack.
@@ -19,28 +19,43 @@ The student should be made to:
 - Gain knowledge about different mobile platforms and application development environments.
 
 {{{unit}}}
-|Unit I | Introduction | 9 |
-Introduction to mobile computing - MAC: Motivation for a specialized MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
+|UNIT I | INTRODUCTION | 9 |
+Introduction to mobile computing - MAC: Motivation for a specialized
+MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless
+LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
 
 {{{unit}}}
-|Unit II | Network Layer | 9 |
-Mobile IP: Goals, assumptions and requirements - Entities and terminology - IP packet delivery - Agent discovery -Registration -Tunneling and Encapsulation – Optimizations;  AdHoc: Proactive protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
+|UNIT II | NETWORK LAYER | 9 |
+Mobile IP: Goals, assumptions and requirements - Entities and
+terminology - IP packet delivery - Agent discovery -Registration
+-Tunneling and Encapsulation – Optimizations; AdHoc: Proactive
+protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
 
 {{{unit}}}
-|Unit III | Transport and Application Layer | 9 |
-Traditional TCP – Classical TCP improvements; Wireless Application Protocol: WAP – Architecture – WDP – WTLS – WTP –WSP – WAE – WML - WTA.
+| UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
+Traditional TCP – Classical TCP improvements; Wireless Application
+Protocol: WAP – Architecture – WDP – WTLS – WTP –WSP – WAE – WML -
+WTA.
 
 {{{unit}}}
-|Unit IV | Mobile Telecommunication System | 9 |
-Introduction - Global System for Mobile Communication (GSM): Mobile services -System architecture - Radio interface - Localization and calling - Handover –Security; General Packet Radio Service (GPRS); Universal Mobile Telecommunication System (UMTS): UMTS architecture - UTRAN - Core network – Handover.
+|UNIT IV | MOBILE TELECOMMUNICATION SYSTEM | 9 |
+Introduction - Global System for Mobile Communication (GSM): Mobile
+services -System architecture - Radio interface - Localization and
+calling - Handover –Security; General Packet Radio Service (GPRS);
+Universal Mobile Telecommunication System (UMTS): UMTS architecture -
+UTRAN - Core network – Handover.
 
 {{{unit}}}
-|Unit V | Mobile Platforms and Application Environments | 9 |
-iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture- Developing Android Applications- Anatomy of Android Applications– Android SDK; Windows Phone: Platform Architecture - Silverlight Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native vs Hybrid - Mobile Web Application Frameworks.
+|UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
+iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture-
+Developing Android Applications- Anatomy of Android Applications–
+Android SDK; Windows Phone: Platform Architecture - Silverlight
+Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native
+vs Hybrid - Mobile Web Application Frameworks.
 
-\hfill *Total Periods: <45>*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Identify the functionalities of datalink layer.(K3)
 - Explain the functionalities of mobile network layer and routing in Ad hoc networks.(K3)
@@ -48,15 +63,25 @@ After the completion of this course, students will be able to:
 - Explain the basics of mobile telecommunication system.(K2)
 - Develop a mobile application.(K3)
 
-** Text Books
-1.	Jochen H. Schller, “Mobile Communications”, Second Edition, Pearson Education, New Delhi, 2007.(Unit I -IV)
-2.	Helal, Sumi, Raja Bose, and Wendong Li. "Mobile platforms and development environments." Synthesis Lectures on Mobile and Pervasive Computing, 2012.(Unit V))
+** TEXT BOOKS
+1. Jochen H. Schller, ``Mobile Communications'', Second Edition,
+   Pearson Education, New Delhi, 2007. (Unit I -IV)
+2. Helal, Sumi, Raja Bose, and Wendong Li. ``Mobile Platforms and
+   Development Environments.'' Synthesis Lectures on Mobile and
+   Pervasive Computing, 2012. (Unit V))
 
-** References
-1.	Helal, Abdelsalam A., et al. Any time, anywhere computing: Mobile computing concepts and technology. Vol. 522. First Edition, Springer Science & Business Media, 1999.
-2.	Dharma Prakash Agarval, Qing and An Zeng, "Introduction to Wireless and Mobile systems", Third Edition ,Thomson Asia Pvt Ltd, 2005.
-3.	Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober, “Principles of Mobile Computing”, Springer, 2003.
-4.	William.C.Y.Lee,“Mobile Cellular Telecommunications-Analog and Digital Systems”, Second Edition,Tata Mc Graw Hill Edition ,2006.
-5.	C.K.Toh, “AdHoc Mobile Wireless Networks”, First Edition, Pearson Education, 2002.
+** REFERENCES
+1. Helal, Abdelsalam A., et al. ``Any Time, Anywhere Computing: Mobile
+   Computing Concepts and Technology''. Vol. 522. First Edition,
+   Springer Science & Business Media, 1999.
+2. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to
+   Wireless and Mobile systems'', Third Edition ,Thomson Asia Pvt
+   Ltd, 2005.
+3. Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober,
+   ``Principles of Mobile Computing'', Springer, 2003.
+4. William.C.Y.Lee, ``Mobile Cellular Telecommunications--Analog and
+   Digital Systems'', Second Edition,Tata Mc Graw Hill Edition ,2006.
+5. C.K.Toh, ``AdHoc Mobile Wireless Networks'', First Edition, Pearson
+   Education, 2002.
 
 

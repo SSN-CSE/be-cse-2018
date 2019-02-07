@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To gain knowledge on different display devices and its working principles
 - To understand the 2D and 3D dimensional graphics representation and object transformations
 - To understand illumination principles and color models used in output devices
@@ -18,46 +18,79 @@
 - To explore Blender graphics tool and design animations.
 
 {{{unit}}}
-|Unit I | Display Systems and Output Primitives | 8 |
-Introduction to computer  graphics -- Applications; Overview  of  graphics  systems: Video  display  devices --  Raster  scan systems --  Random  scan  systems; Output primitives: Points and lines --loading the frame  buffer; Line drawing algorithms: DDA and Bresenham's line drawing algorithms; Circle  and  ellipse  generating  algorithms;  Pixel  addressing  and  object geometry
+|UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
+Introduction to computer graphics -- Applications; Overview of
+graphics systems: Video display devices -- Raster scan systems --
+Random scan systems; Output primitives: Points and lines --loading the
+frame buffer; Line drawing algorithms: DDA and Bresenham's line
+drawing algorithms; Circle and ellipse generating algorithms; Pixel
+addressing and object geometry
 
 {{{unit}}}
-|Unit II | Two Dimensional Graphics | 9 |
-Two dimensional geometric transformations -- Matrix representations and homogeneous coordinates -- Composite transformations; Two dimensional viewing: Viewing pipeline -- viewing coordinate reference frame -- Window to viewport  coordinate  transformation; Clipping 
-operations: point and text clipping -- Line and polygon clipping algorithms.
+|UNIT II | TWO DIMENSIONAL GRAPHICS | 9 |
+Two dimensional geometric transformations -- Matrix representations
+and homogeneous coordinates -- Composite transformations; Two
+dimensional viewing: Viewing pipeline -- viewing coordinate reference
+frame -- Window to viewport coordinate transformation; Clipping
+operations: point and text clipping -- Line and polygon clipping
+algorithms.
 
 {{{unit}}}
-|Unit III | Three Dimensional Graphics | 10 |
-Three dimensional concepts; Three dimensional object representations: Polygon surfaces -- Polygon tables -- Plane  equations -- Polygon meshes --  Curved  Lines  and  surfaces -- Quadratic  surfaces-- Blobby objects -- Spline  representations -- Bezier  curves  and  surfaces; Three  dimensional  geometric  and  modeling  transformations: Translation --  Rotation --  Scaling --  composite  transformations;  Three  dimensional  viewing: Viewing pipeline -- Viewing coordinates -- Projections -- View volumes -- Clipping; 
+|UNIT III | THREE DIMENSIONAL GRAPHICS | 10 |
+Three dimensional concepts; Three dimensional object representations:
+Polygon surfaces -- Polygon tables -- Plane equations -- Polygon
+meshes -- Curved Lines and surfaces -- Quadratic surfaces-- Blobby
+objects -- Spline representations -- Bezier curves and surfaces; Three
+dimensional geometric and modeling transformations: Translation --
+Rotation -- Scaling -- composite transformations; Three dimensional
+viewing: Viewing pipeline -- Viewing coordinates -- Projections --
+View volumes -- Clipping;
 
 {{{unit}}}
-|Unit IV | Illumination Models and Animation | 8 |
-Light  sources; Basic  illumination  models: Ambient, Diffuse, Specular Components of the Phong model; Color Models: Properties of light  
--- Standard  primaries  and  chromaticity  diagram -- RGB, YIQ, CMY, HSV and HLS color models; Animations: Design of animation sequences -- Keyframe systems -- Motion specifications
+|UNIT IV | ILLUMINATION MODELS AND ANIMATION | 8 |
+Light sources; Basic illumination models: Ambient, Diffuse, Specular
+Components of the Phong model; Color Models: Properties of light --
+Standard primaries and chromaticity diagram -- RGB, YIQ, CMY, HSV and
+HLS color models; Animations: Design of animation sequences --
+Keyframe systems -- Motion specifications
 
 {{{unit}}}
-|Unit V | Multimedia | 10 |
-Multimedia  basics -- Multimedia  applications --Multimedia Systems Architecture -- Defining objects for multimedia systems − Multimedia data interface standards -- Compression and decompression −- Data and file format standards -- Hypermedia Messaging; Case Study - Blender Graphics: Fundamentals 
-–- Drawing  Basic  Shapes -- Modelling –- Shading & Textures 
+|UNIT V | MULTIMEDIA | 10 |
+Multimedia basics -- Multimedia applications --Multimedia Systems
+Architecture -- Defining objects for multimedia systems − Multimedia
+data interface standards -- Compression and decompression −- Data and
+file format standards -- Hypermedia Messaging; Case Study - Blender
+Graphics: Fundamentals –- Drawing Basic Shapes -- Modelling –- Shading
+& Textures
 
-\hfill *Total: <45 Periods>*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
- - Apply the algorithms to manipulate output primitives such as line, circle, ellipse (K3)
- - Demonstrate transformations, representations and clipping on 2D objects and map window to viewport transformations (K3)
- - Apply 3 Dimensional concepts like representations, geometric transformations, and projections (K3)
- - Understand the working of different illumination and color models used to render an animation scene (K2)
- - Understand different types of multimedia file formats, compression techniques and design basic 3d Scenes using Blender (K2)
+ - Apply the algorithms to manipulate output primitives such as line,
+   circle, ellipse (K3)
+ - Demonstrate transformations, representations and clipping on 2D
+   objects and map window to viewport transformations (K3)
+ - Apply 3 Dimensional concepts like representations, geometric
+   transformations, and projections (K3)
+ - Understand the working of different illumination and color models
+   used to render an animation scene (K2)
+ - Understand different types of multimedia file formats, compression
+   techniques and design basic 3d Scenes using Blender (K2)
 
-** Textbook
-1. Donald Hearn and Pauline Baker M, "Computer Graphics", Prentice Hall, New Delhi, 2007 [UNIT I -IV ]
-2. Andleigh, P. K and Kiran Thakrar, "Multimedia Systems and Design", PHI, 2003. [ UNIT V ]
+** TEXT BOOKS
+1. Donald Hearn and Pauline Baker M, ``Computer Graphics'', Prentice
+   Hall, New Delhi, 2007. (UNIT I-IV)
+2. Andleigh, P. K and Kiran Thakrar, ``Multimedia Systems and
+   Design'', PHI, 2003. (UNIT V)
 
-** References
-1. Foley, Vandam, Feiner and Hughes, "Computer Graphics: Principles and Practice", 2nd Edition, Pearson Education, 2003.
-2. Jeffrey McConnell, "Computer Graphics: Theory into Practice", Jones and Bartlett Publishers,2006. 
-3. Hill F S Jr., "Computer Graphics", Maxwell Macmillan, 1990.
-4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R Marschner, Erik Reinhard, KelvinSung, and AK Peters,            
-   "Fundamentals of Computer Graphics",CRC Press, 2010.
+** REFERENCES
+1. Foley, Vandam, Feiner and Hughes, ``Computer Graphics: Principles
+   and Practice'', 2nd Edition, Pearson Education, 2003.
+2. Jeffrey McConnell, ``Computer Graphics: Theory into Practice'',
+   Jones and Bartlett Publishers, 2006.
+3. Hill F S Jr., ``Computer Graphics'', Maxwell Macmillan, 1990.
+4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R
+   Marschner, Erik Reinhard, KelvinSung, and AK Peters, ``Fundamentals
+   of Computer Graphics'',CRC Press, 2010.
 5. https://www.blender.org/support/tutorials/
