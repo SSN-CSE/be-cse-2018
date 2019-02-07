@@ -18,20 +18,19 @@
 
 
 Suggestive Lab Experiments
-1. Array implementation of list ADT (e.g Manage student records)
-2. Implement singly and doubly linked list ADTs
-3. Represent a polynomial as a linked list and write functions for polynomial addition
-4. Array implementation of Stack and Queue ADTs (e.g Balancing paranthesis and Simulating printer jobs)
-5. Linked list implementation of Stack and Queue ADTs
-6. Convert infix to postfix expression and evaluate using Stack ADT 
-7. Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
-8. Implement binary search tree (e.g Search employee details based upon salary range)
-9. Implement AVL trees  
-10. Implement priority queue using binary heaps (e.g Complete the task based upon the given priority)
-11. Graph representation and implement traversal algorithms 
-12. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to travel from one country to another)
-13. Implement binary search, insertion sort and merge sort 
-14. Implement hashing using separate chaining technique
+- Array implementation of list ADT (e.g Manage student records)
+- Represent polynomial expression as linked list and write functions for polynomial manipulation
+- Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
+- Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+- Array implementation of Queue ADT (e.g Simulating printer jobs)
+- Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
+- Implement binary search tree 
+- Implement AVL trees (e.g Implement dictionary)  
+- Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
+- Graph representation and implement graph traversal algorithms 
+- Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
+- Implement binary search and any two sorting algorithms 
+- Implement hashing using separate chaining technique 
 
 \hfill *Total: 45 Periods*
 
