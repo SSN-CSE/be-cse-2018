@@ -55,7 +55,7 @@ After the completion of this course, students will be able to:
 - Develop programs using basic constructs of Java (K3)
 - Solve problems using classes and methods (K3) 
 - Develop programs using inheritance and interfaces (K3) 
-- Experiments the concepts of polymorphism (K3) 
+- Experiment the concepts of polymorphism (K3) 
       
 ** Text Books
 1. Herbert Schildt, ``Java The complete reference'', 8th Edition, McGraw Hill Education, 2011. 
