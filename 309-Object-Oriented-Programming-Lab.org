@@ -17,14 +17,14 @@
 - To understand and implement generic programming.
 
 ** List of experiments
-1. Program using classes and objects (Ex: Electricity bill generation)
+1. Program using classes and objects (Eg: Electricity bill generation)
 2. Program to perform string operations using ArrayList. 
-3. Program to implement packages (Ex: Currency converter)
-4. Program using Inheritance (Ex: Payroll application)
-5. Prgram to implement Polymorphism (Ex. Area of different shapes)
-6. Program to implement generic methods (Ex: Sorting)
-7. Design a Java interface for ADTs. (Ex. Stack, Queue) 
-8. Program to perform file operations. (Ex.existence, permission,type, length in bytes) 
+3. Program to implement packages (Eg: Currency converter)
+4. Program using Inheritance (Eg: Payroll application)
+5. Prgram to implement Polymorphism (Eg. Area of different shapes)
+6. Program to implement generic methods (Eg: Sorting)
+7. Design a Java interface for ADTs. (Eg.Stack, Queue) 
+8. Program to perform file operations. (Eg.existence, permission,type, length in bytes) 
 9. Develop a mini project for any application using the constructs of Java. 
 
 
@@ -32,8 +32,8 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Develop applications using classes and methods.(K3)
-- Apply interface and inheritance concepts to write programs.(K3)
-- Write programs using polymorphsim. (K3)
-- Design applications using generic methods and generic programming.(K3)
+- Develop applications in Java using classes and methods.(K3)
+- Apply inheritance interface and concepts to write programs.(K3)
+- Write Java program using polymorphic methods and objects. (K3)
+- Develop applications using generic methods and generic programming.(K3)
 - Apply appropriate features of oop programming paradigm to design mini project.(K3)
