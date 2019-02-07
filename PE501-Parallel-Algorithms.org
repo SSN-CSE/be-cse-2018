@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the design of Parallel algorithms
 - To select suitable procedures for parallel algorithms
 - To explore merging algorithm for various models
@@ -19,28 +19,35 @@
 
 
 {{{unit}}}
-|Unit I | INTRODUCTION TO PARALLEL ALGORITHMS | 9 |
-The Need for Parallel Computers -- Models of Computation -- Analyzing Algorithms -- Expressing Algorithms 
+| UNIT I | INTRODUCTION TO PARALLEL ALGORITHMS | 9 |
+The Need for Parallel Computers -- Models of Computation -- Analyzing
+Algorithms -- Expressing Algorithms
 
 {{{unit}}}
-|Unit II | SELECTION | 9 |
-The Problem and a Lower Bound -- A Sequential Algorithm -- Desirable Properties for Parallel Algorithms -- Two Useful Procedures -- An Algorithm for Parallel Selection 
+| UNIT II | SELECTION | 9 |
+The Problem and a Lower Bound -- A Sequential Algorithm -- Desirable
+Properties for Parallel Algorithms -- Two Useful Procedures -- An
+Algorithm for Parallel Selection
 
 {{{unit}}}
-|Unit III | MERGING | 9 |
-A Network for Merging -- Merging on the CREW Model -- Merging on the EREW Model -- A better Algorithm for the EREW Model 
+|UNIT III | MERGING | 9 |
+A Network for Merging -- Merging on the CREW Model -- Merging on the
+EREW Model -- A better Algorithm for the EREW Model
 
 {{{unit}}}
-|Unit IV | SORTING | 9 |
-A network for Sorting -- Sorting on a Linear Array -- Sorting on the CRCW Model -- Sorting on the CREW Model -- Sorting on the EREW Model 
+| UNIT IV | SORTING | 9 |
+A network for Sorting -- Sorting on a Linear Array -- Sorting on the
+CRCW Model -- Sorting on the CREW Model -- Sorting on the EREW Model
 
 {{{unit}}}
-|Unit V | SEARCHING | 9 |
-Searching a Sorted Sequence -- Searching a Random Sequence -- Searching on SM SIMD Computers -- Searching on a Tree  -- Searching on a Mesh 
+| UNIT V | SEARCHING | 9 |
+Searching a Sorted Sequence -- Searching a Random Sequence --
+Searching on SM SIMD Computers -- Searching on a Tree -- Searching on
+a Mesh
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Describe the theory of parallel algorithms(K2)  
 - Apply suitable procedures for parallel algorithms (K3)
@@ -48,13 +55,19 @@ After the completion of this course, students will be able to:
 - Analyze sorting techniques for parallel models (K4)
 - Analyze searching techniques for parallel models (K4)
 
-** Text Book
-1.	Salem G. Akl, “The Design and Analysis of Parallel Algorithms”, Prentice Hall, 1989. 
+** TEXT BOOK
+1. Salem G. Akl, ``The Design and Analysis of Parallel Algorithms'',
+   Prentice Hall, 1989.
 
-** References
-1.	Henri Casanova, Arnaud Legrand, Yves Robert, "Parallel Algorithms" 1st Edition, CRC Press, 2008.
-2.	Ananth Grama, Anshul Gupta, George Karypis,Vipin Kumar "Introduction to Parallel Computing", 2nd Edition, Pearson, 2003. 
-3.	Fayez Gebali, "Algorithms and Parallel Computing", Wiley, 2011.
-4.	Kai Hwang, Naresh Jotwani, "Advanced Computer Architecture: Parallelism, Scalability, Programmability", Tata McGraw-Hill, 2001.
-5.  F. Thomson Leighton, "Introduction to Parallel Algorithms and Architectures", Morgan Kaufmann Publishers, 1992.
+** REFERENCES
+1. Henri Casanova, Arnaud Legrand, Yves Robert, ``Parallel Algorithms''
+   1st Edition, CRC Press, 2008.
+2. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar,
+   ``Introduction to Parallel Computing'', 2nd Edition, Pearson, 2003.
+3. Fayez Gebali, ``Algorithms and Parallel Computing'', Wiley, 2011.
+4. Kai Hwang, Naresh Jotwani, ``Advanced Computer Architecture:
+   Parallelism, Scalability, Programmability'', Tata
+   McGraw-Hill, 2001.
+5. F. Thomson Leighton, ``Introduction to Parallel Algorithms and
+   Architectures'', Morgan Kaufmann Publishers, 1992.
  

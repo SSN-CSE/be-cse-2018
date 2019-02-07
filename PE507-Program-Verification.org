@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the need of logics for specification and verification of computer systems.
 - To learn program correctness using Hoare Logic 
 - To learn the skill of writing formal specifications in LTL and CTL.
@@ -19,38 +19,62 @@
 - To learn model checking for Timed Systems.
 
 {{{unit}}}
-|Unit I|FOUNDATIONS|9|
-Foundations; Propositional Logic: Syntax – Semantics – Proof Theory; Predicate Logic: Syntax – Semantics – Proof Theory; LTL; Syntax  -- Semantics --  Specifications in LTL; CTL: Syntax --  Semantics—Specifications in CTL; CTL* and the expressive powers of LTL and CTL;
+| UNIT I | FOUNDATIONS | 9 |
+Foundations; Propositional Logic: Syntax – Semantics – Proof Theory;
+Predicate Logic: Syntax – Semantics – Proof Theory; LTL; Syntax --
+Semantics -- Specifications in LTL; CTL: Syntax --
+Semantics—Specifications in CTL; CTL* and the expressive powers of LTL
+and CTL;
 
 {{{unit}}}
-|Unit II|HOARE LOGIC AND PROGRAM CORRECTNESS|9|
-Foundations; A framework for program correctness: A core programming language --  Hoare triples --  Partial and total correctness --  Program variables and logical variables;  Proof calculus for partial correctness:  Proof rules --  Proof tableaux; Proof calculus for total correctness;
+| UNIT II | HOARE LOGIC AND PROGRAM CORRECTNESS | 9 |
+Foundations; A framework for program correctness: A core programming
+language -- Hoare triples -- Partial and total correctness -- Program
+variables and logical variables; Proof calculus for partial
+correctness: Proof rules -- Proof tableaux; Proof calculus for total
+correctness;
 
 {{{unit}}}
-|Unit III|MODEL CHECKING|9|
-Foundations; Model-checking algorithms:  The CTL model-checking algorithm --  CTL model checking with fairness -- The LTL model-checking algorithm; CTL* Model-checking algorithm; Model Checking using Automata; Checking Emptiness; Translating LTL into Automata; On-the-fly Model checking;
+| UNIT III | MODEL CHECKING | 9 |
+Foundations; Model-checking algorithms: The CTL model-checking
+algorithm -- CTL model checking with fairness -- The LTL
+model-checking algorithm; CTL* Model-checking algorithm; Model
+Checking using Automata; Checking Emptiness; Translating LTL into
+Automata; On-the-fly Model checking;
 
 {{{unit}}}
-|Unit IV|SYMBOLIC MODEL CHECKING|9|
-Binary Decision Diagrams: Representing Boolean formulas – Representing Kripke Structures; Fixpoint Representations; Symbolic Model Checking for CTL; Fairness in Symbolic Model Checking; Counterexamples and Witnesses; Relational Product Computations; Symbolic Model Checking for LTL; NuSMV;
+|UNIT IV|SYMBOLIC MODEL CHECKING|9|
+Binary Decision Diagrams: Representing Boolean formulas – Representing
+Kripke Structures; Fixpoint Representations; Symbolic Model Checking
+for CTL; Fairness in Symbolic Model Checking; Counterexamples and
+Witnesses; Relational Product Computations; Symbolic Model Checking
+for LTL; NuSMV;
 
 {{{unit}}}
-|Unit V|MODEL CHECKING TIMED SYSTEMS|9|
-Foundations; Timed Automata: Semantics -- Time Divergence – Timelock -- Zenoness; Timed Computation Tree Logic; TCTL Model Checking: Eliminating Timing Parameters -- Region Transition Systems -- The TCTL Model-Checking Algorithm; Model checkers for Timed Automata: UPPAAL – KRONOS;
+| UNIT V | MODEL CHECKING TIMED SYSTEMS | 9 |
+Foundations; Timed Automata: Semantics -- Time Divergence – Timelock
+-- Zenoness; Timed Computation Tree Logic; TCTL Model Checking:
+Eliminating Timing Parameters -- Region Transition Systems -- The TCTL
+Model-Checking Algorithm; Model checkers for Timed Automata: UPPAAL –
+KRONOS;
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Prove partial correctness of simple programs using Hoare logic (K3).
 - Write formal properties and specifications in CTL and LTL (K3).
 - Specify and Verify simple systems using NuSMV (K3).
 - Specify and Verify simple systems using UPPAAL (K3).
 
-** References:
-1. M. Huth and M. Ryan, “Logic in Computer Science--Modeling and Reasoning about systems”, Second Edition, 
-    Cambridge University Press, 2004. (Units I,II and III)
-2. Edmund Clarke, Orna Grumberg, and Doron Peled,“ Model Checking”, The MIT Press, 1999. (Units III and IV)
-3. C Baier and J Katoen, “Principles of Model checking”, The MIT Press, 2008. (Unit V)
-4. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem, "Handbook of Model Checking", Springer 2018
+** REFERENCES
+1. M. Huth and M. Ryan, ``Logic in Computer Science -- Modeling and
+   Reasoning About Systems'', Second Edition, Cambridge University
+   Press, 2004. (Units I,II and III)
+2. Edmund Clarke, Orna Grumberg, and Doron Peled, ``Model Checking'',
+   The MIT Press, 1999. (Units III and IV)
+3. C Baier and J Katoen, ``Principles of Model Checking'', The MIT
+   Press, 2008. (Unit V)
+4. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
+   ``Handbook of Model Checking'', Springer 2018
