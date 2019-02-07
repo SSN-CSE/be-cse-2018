@@ -43,14 +43,14 @@ algorithms: Dijkstra's algorithm - All-Pairs shortest path; Breadth-first traver
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
-Selection sort - Shell sort – Merge sort – Quicksort - Complexity analysis of sorting algorithms; 
-Hashing: hash functions - separate chaining – open addressing – rehashing.
+Selection sort - Shell sort – Merge sort – Quicksort - Time complexity analysis of sorting algorithms; 
+Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 
 \hfill *Total: 45 Periods*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Elucidate the concepts of linear and non linear data structures (K2)
+- Implement linear and non linear data structures (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K2)
 - Analyze a problem statement, identify possible data structures for
   solving it, and choose and implement an appropriate one within the
