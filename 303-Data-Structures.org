@@ -53,11 +53,13 @@ Searching: Linear search – Binary search; Sorting: Insertion sort -
 Shell sort – Radix sort – Quicksort; Hashing: hash functions -
 separate chaining – open addressing – rehashing – extendible hashing.
 
-\hfill *Total: <Total Hours>*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Analyze a problem statement, identify possible data structures for solving it, and choose and implement an appropriate one within the constraints of the problem specification (K3)
+- Analyze a problem statement, identify possible data structures for
+  solving it, and choose and implement an appropriate one within the
+  constraints of the problem specification (K3)
 - Elucidate the concepts of linear and non linear data structures (K2)
 - Differentiate stack, queue, trees and graphs (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K3)
@@ -65,14 +67,14 @@ After the completion of this course, students will be able to:
       
 
 ** Text book
-1. M. A. Weiss, “Data Structures and Algorithm Analysis in C”, Second
+1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'', Second
    Edition , Pearson Education, 2006
 
 
 ** References
-1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman, “Data Structures and
-   Algorithms”, Pearson Education, First Edition Reprint 2003.
-2. R. F. Gilberg, B. A. Forouzan, “Data Structures”, Second Edition,
+1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
+   Algorithms'', Pearson Education, First Edition Reprint 2003.
+2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
    Thomson India Edition, 2005.
-3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, "Fundamentals
-   of Data Structures in C", Second Edition, University Press, 2008
+3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
+   of Data Structures in C'', Second Edition, University Press, 2008

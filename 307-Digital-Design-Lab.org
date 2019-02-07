@@ -7,7 +7,7 @@
 #+startup: showall
 
 
-| L | T | P | C |
+| L | T | P |   C |
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
@@ -18,31 +18,23 @@
 -	To understand  and code with HDL programming
 
 ** Suggestive Lab Experiments
-1.	Verification of Boolean Theorems using basic gates.
+1. Verification of Boolean Theorems using basic gates.
+2. Design and implementation of combinational circuits using basic
+   gates for arbitrary functions, code converters.
+3. Design and implement Half/Full Adder and Subtractor.
+4. Design and implement combinational circuits using MSI devices:
+   - 4 – bit binary adder / subtractor
+   - Parity generator / checker
+   - Magnitude Comparator
+   - Application using multiplexers
+5. Design and implement shift-registers.
+6. Design and implement synchronous counters.
+7. Design and implement asynchronous counters.
+8. Coding combinational circuits using HDL.
+9. Coding sequential circuits using HDL.
+10. Design and implementation of a simple digital system (Mini Project).
 
-2.	Design and implementation of combinational circuits using basic gates for arbitrary functions, code converters.
-
-3.	Design and implement Half/Full Adder and Subtractor.
-
-4.	Design and implement combinational circuits using MSI devices:
-      - 4 – bit binary adder / subtractor
-      - Parity generator / checker
-      - Magnitude Comparator
-      - Application using multiplexers
-5.	Design and implement shift-registers.
-
-6.	Design and implement synchronous counters.
-
-7.	Design and implement asynchronous counters.
-
-8.	Coding combinational circuits using HDL.
-
-9.	Coding sequential circuits using HDL.
-
-10.	Design and implementation of a simple digital system (Mini Project).
-
-
-Total Hours: 45
+\hfill *Total Hours: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -55,11 +47,9 @@ After the completion of this course, students will be able to:
       
 ** Laboratory requirement for batch of 30 students hardware:
 
-1.	Digital trainer kits  - 30
-
-2.	Digital ICs required for the experiments in sufficient numbers
+1. Digital trainer kits  - 30
+2. Digital ICs required for the experiments in sufficient numbers
 
 ** Software:
-
-1.	HDL simulator.
+1. HDL simulator.
 

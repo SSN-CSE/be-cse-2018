@@ -51,7 +51,7 @@ lattices - Lattices as algebraic systems - Sub lattices - Direct
 product and Homomorphism - Distributive and Modular lattices - Boolean
 algebra - Stone’s representation Theorem.
 
-*Total*: 60 periods
+\hfill *Total: 60 Hours*
 
 ** Course Outcomes
 On studying this course, the students will able to:

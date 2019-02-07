@@ -27,16 +27,16 @@
 6. Bankers Algorithm for Deadlock Avoidance
 7. Write C program to implement Threading & Synchronization Applications
 8.  Implementation of the following Memory Allocation Methods for variable sized partition
-      a) First Fit      b) Worst Fit      c) Best Fit 
+   a) First Fit      b) Worst Fit      c) Best Fit 
 9. Implementation of Paging Technique of Memory Management
 10. Implementation of the following Page Replacement Algorithms
-      a) FIFO     b) LRU      c) LFU
+    a) FIFO     b) LRU      c) LFU
 11. Implementation of the various File Organization Techniques
-      a) Single-level   b) Hierarchical
+    a) Single-level   b) Hierarchical
 12. Implementation of the following File Allocation Strategies
-      a) Sequential     b) Indexed        c) Linked
+    a) Sequential     b) Indexed        c) Linked
 
-\hfill *Total Hours: 45*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

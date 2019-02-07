@@ -20,29 +20,29 @@
 {{{unit}}}
 ** Lab Experiments
 1. Data Definition Commands 
-      a. Creating tables with constraints, constraint voilations
-      b. schema modifications
+   a. Creating tables with constraints, constraint voilations
+   b. schema modifications
 2. Data Manipulation Commands 
-      a. Update operations
-      b. Simple SQL queries
-      c. Transaction Control statements - Savepoint and Rollback
+   a. Update operations
+   b. Simple SQL queries
+   c. Transaction Control statements - Savepoint and Rollback
 3. Complex SQL Queries
-      a. Nested Queries 
-      b. Correlated Subqueries
-      c. Joins and Outer Joins
-      d. Aggregate functions
-      e. Grouping and Ordering commands
+   a. Nested Queries 
+   b. Correlated Subqueries
+   c. Joins and Outer Joins
+   d. Aggregate functions
+   e. Grouping and Ordering commands
 4. Views 
 5. Database Programming: PL/SQL - Cursors
 6. Procedures and Functions
 7. Triggers
 8. Exception Handling
 9. Database design 
-      a. ER Model, ER-to-relational mapping
-      b. Normalization
+   a. ER Model, ER-to-relational mapping
+   b. Normalization
 10. Implement the database application using any Front-end
 
-\hfill *Total: <45>*
+\hfill *Total: 45 Hours*
 
 ** Software Required for a batch of 30 students:
 1. Database: Oracle 10g - 30 Clients with 1 Server Node
@@ -54,4 +54,5 @@ After the completion of this course, students will be able to:
 - Write complex SQL Queries - (K3)
 - Implement Database programming using PL/SQL - (K3)
 - Design a database for real-time applications - (K3)
-- Implement and analyze the use of Tables, PL/SQL for a realistic database applications using a Front-end tool - (K4)
+- Implement and analyze the use of Tables, PL/SQL for a realistic
+  database applications using a Front-end tool - (K4)

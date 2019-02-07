@@ -7,11 +7,12 @@
 #+startup: showall
 
 {{{credits}}}
-| L | T | P | C |
+| L | T | P |   C |
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To build software development skills using object oriented programming for real world applications.
+- To build software development skills using object oriented
+  programming for real world applications.
 - To develop applications using inheritance and polymorphism.
 - To understand and implement generic programming.
 
@@ -27,7 +28,7 @@
 9. Develop a mini project for any application using the constructs of Java. 
 
 
-\hfill *Total: 45*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -36,5 +37,3 @@ After the completion of this course, students will be able to:
 - Write programs using polymorphsim. (K3)
 - Design applications using generic methods and generic programming.(K3)
 - Apply appropriate features of oop programming paradigm to design mini project.(K3)
-      
-

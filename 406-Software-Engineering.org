@@ -16,27 +16,42 @@
 - To learn various testing and maintenance measures
 
 |Unit I | SOFTWARE PROCESS MODELS | 9 |
-Introduction to Software Engineering,Principles and practices, Software Process, Generic process model ,Prespective and Specialized Process Models –Introduction to Agility: Agile process.
+Introduction to Software Engineering, Principles and practices,
+Software Process, Generic process model, Prespective and Specialized
+Process Models -- Introduction to Agility: Agile process.
 
 |Unit II | PROJECT PLANNING AND MANAGEMENT | 9 |
-Project Planning Process- Software Project Estimation – Decomposition Techniques - Empirical Estimation Models -The Make/Buy Decision - Project Scheduling - Risk Management: Risk Identification - Risk Projection - Risk Mitigation.
+Project Planning Process - Software Project Estimation --
+Decomposition Techniques - Empirical Estimation Models - The Make/Buy
+Decision - Project Scheduling - Risk Management: Risk Identification -
+Risk Projection - Risk Mitigation.
 
 |Unit III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
-Software Requirements: Functional and Non-Functional, User requirements, System requirements,
-Software Requirements Document – Requirement Engineering Process: Feasibility Studies,
-Requirements elicitation and analysis, requirements validation, requirements management -Classical
-analysis: Structured system Analysis, Petri Nets.
+Software Requirements: Functional and Non-Functional, User
+requirements, System requirements, Software Requirements Document --
+Requirement Engineering Process: Feasibility Studies, Requirements
+elicitation and analysis, requirements validation, requirements
+management -Classical analysis: Structured system Analysis, Petri
+Nets.
 
 |Unit IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process – Design Concepts -Design Model– Modeling Principles- Architectural Design: Architectural styles - Architectural Design- Architectural Mapping using Data Flow - User Interface Design: The Golden rules - Interface analysis - Interface Design –Component level Design: Designing Class based components - traditional Components.
+Design Concepts: Design process -- Design Concepts -Design Model--
+Modeling Principles- Architectural Design: Architectural styles -
+Architectural Design- Architectural Mapping using Data Flow - User
+Interface Design: The Golden rules - Interface analysis - Interface
+Design --Component level Design: Designing Class based components -
+traditional Components.
 
 |Unit V | TESTING AND MAINTENANCE | 9 |
-Software testing fundamentals-Internal and external views of Testing-white box testing - basis
-path testing-control structure testing-black box testing- Unit Testing – Integration Testing –Regression Testing- Validation Testing – System Testing - Debugging – Software Implementation: Coding practices and principles - Maintenance:Types - Reengineering- Reverse Engineering - Restructuring.
+Software testing fundamentals-Internal and external views of
+Testing-white box testing - basis path testing-control structure
+testing-black box testing- Unit Testing -- Integration Testing
+--Regression Testing- Validation Testing -- System Testing - Debugging
+-- Software Implementation: Coding practices and principles -
+Maintenance:Types - Reengineering- Reverse Engineering -
+Restructuring.
 
-
-
-Total: 45
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
@@ -47,12 +62,19 @@ After the completion of this course, students will be able to:
 - Manage project schedule, estimate project cost and effort required(K3).
       
 ** Text Books
-1. Roger S. Pressman, "Software Engineering – A Practitioner's Approach", Seventh Edition, McGraw-Hill International Edition, 2010.
-2. Ian Sommerville, "Software Engineering", 9th Edition, Pearson Education Asia, 2011.
+1. Roger S. Pressman, ``Software Engineering -- A Practitioner's
+   Approach'', Seventh Edition, McGraw-Hill International
+   Edition, 2010.
+2. Ian Sommerville, ``Software Engineering'', 9th Edition, Pearson
+   Education Asia, 2011.
 
 
 ** References
-1. Rajib Mall, "Fundamentals of Software Engineering", Third Edition, PHI Learning Private Limited, 2009.
-2. Pankaj Jalote,"Software Engineering, A Precise Approach", Wiley India, 2010.
-3. Kelkar S.A.,"Software Engineering", Prentice Hall of India Pvt Ltd, 2007.
-4. Stephen R.Schach, "Software Engineering", Tata McGraw-Hill Publishing Company Limited,2007.
+1. Rajib Mall, ``Fundamentals of Software Engineering'', Third
+   Edition, PHI Learning Private Limited, 2009.
+2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley
+   India, 2010.
+3. Kelkar S.A.,``Software Engineering'', Prentice Hall of India Pvt
+   Ltd, 2007.
+4. Stephen R.Schach, ``Software Engineering'', Tata McGraw-Hill
+   Publishing Company Limited,2007.

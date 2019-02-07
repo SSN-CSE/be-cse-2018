@@ -18,28 +18,32 @@
 
 
 Lab Experiments
-1.	Array implementation of list ADT
-2.	Implement singly and doubly linked list ADTs
-3.	Represent a polynomial as a linked list and write functions for polynomial addition
-4.	Array implementation of Stack and Queue ADTs
-5.	Linked list implementation of Stack and Queue ADTs
-6.	Convert infix to postfix expression and evaluate using Stack ADT 
-7.	Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
-8.	Implement binary search tree
-9.	Implement AVL trees
-10.	Implement priority queue using binary heaps
-11.	Graph representation and implement traversal algorithms
-12.	Implement Dijkstra's algorithm using graph 
-13.	Implement binary search, insertion sort and quick sort 
-14.	Implement hashing using separate chaining technique
+1. Array implementation of list ADT
+2. Implement singly and doubly linked list ADTs
+3. Represent a polynomial as a linked list and write functions for polynomial addition
+4. Array implementation of Stack and Queue ADTs
+5. Linked list implementation of Stack and Queue ADTs
+6. Convert infix to postfix expression and evaluate using Stack ADT 
+7. Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
+8. Implement binary search tree
+9. Implement AVL trees
+10. Implement priority queue using binary heaps
+11. Graph representation and implement traversal algorithms
+12. Implement Dijkstra's algorithm using graph 
+13. Implement binary search, insertion sort and quick sort 
+14. Implement hashing using separate chaining technique
 
-\hfill *Total: 45*
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Write functions to implement linear and non-linear data structure operations (K2)  
-- Suggest and use appropriate linear / non-linear data structure operations for solving a given problem (K3)
-- Gain practical experience in analyzing the real time problems or applications (K3)
-- Apply appropriate hash functions that result in a collision free scenario for data storage and retrieval (K3)
+- Write functions to implement linear and non-linear data structure
+  operations (K2)
+- Suggest and use appropriate linear / non-linear data structure
+  operations for solving a given problem (K3)
+- Gain practical experience in analyzing the real time problems or
+  applications (K3)
+- Apply appropriate hash functions that result in a collision free
+  scenario for data storage and retrieval (K3)
 
       

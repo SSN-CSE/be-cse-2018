@@ -11,31 +11,67 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To study the various analog and digital modulation techniques
+- To study the principles behind information theory and coding
+- To study the various digital communication techniques
+- To understand the concept of spread spectrum system.
+
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
-
-
-{{{unit}}}
-|Unit II | <Title> | <Hours> |
-
-{{{unit}}}
-|Unit III | <Title> | <Hours> |
+| Unit I | ANALOG MODULATION | 9 |
+Amplitude Modulation – AM, DSBSC, SSBSC, VSB – Spectrum, modulators
+and demodulators – Angle modulation – PM and FM – Spectrum, FM
+modulation –Direct and Indirect methods, FM Demodulation –Foster
+Seeley Discriminator, PLL as FM demodulator, Superheterodyne
+receivers.
 
 {{{unit}}}
-|Unit IV | <Title> | <Hours> |
+|Unit II| PULSE MODULATION| 								          9 |
+Low pass sampling theorem – Quantization –PAM–Line coding – PCM, DPCM,
+DM, and ADM - Time Division Multiplexing, Frequency Division
+Multiplexing.
 
 {{{unit}}}
-|Unit V | <Title> | <Hours> |
+|Unit III| DIGITAL MODULATION AND TRANSMISSION|             			          9 |
+ASK, FSK–PSK: BPSK, QPSK & DPSK –QAM– Comparison– Principles of M-ary
+signaling, ISI – Pulse shaping– Eye pattern.
 
+{{{unit}}}
+|Unit IV| INFORMATION THEORY AND CODING| 					          9 |
+Entropy – Source coding theorem – Shannon–Fano coding, Huffman Coding
+– Channel capacity – Shannon-Hartley law– Error control codes - Cyclic
+codes- Encoder, Syndrome Calculator– Convolution Coding - Viterbi
+Decoding.
 
-\hfill *Total: <Total Hours>*
+{{{unit}}}
+|Unit V| SPREAD SPECTRUM AND MULTIPLE ACCESS|               			          9|
+PN sequences – properties – m-sequence – DSSS – Processing gain,
+Jamming margin – FHSS – Synchronization and tracking – Multiple Access
+– FDMA, TDMA, CDMA.
+
+\hfill *Total: 45 Hours*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Apply analog and digital communication techniques-Application.
+- Design analog and digital communication systems-Synthesis.
+- Use pulse communication techniques-Application.
+- Analyze Source and Error control coding-Analysis.
+- Analyze the performance of spread spectrum systems-Analysis.
       
+** Text Books
+1. Wayne Tomasi, ``Electronic communications systems: Fundamentals
+   through Advanced'', Fifth edition, Pearson/​Prentice Hall.
+2. S. Haykin “Digital Communications” John Wiley 2005 
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. B.P.Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
+   edition, Oxford University Press, 2007
+2. H P Hsu, Schaum Outline Series – ``Analog and Digital
+   Communications'', TMH 2006
+3. B.Sklar, ``Digital Communications Fundamentals and Applications'', 2/e
+   Pearson Education 2007.
+4. H.Taub, D.L.Schilling, G.Saha, ``Principles of Communication
+   Systems'', 3/e, TMH 2007
+5. J.G Proakis, ``Digital Communication'', 4th Edition, Tata Mc Graw
+   Hill Company, 2001.
