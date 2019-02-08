@@ -21,7 +21,7 @@ Abstract Data Types (ADTs) -- List ADT: Linked lists -- Doubly linked lists; App
 
 {{{unit}}}
 |Unit II | STACK AND QUEUE | 6 |
-Stack ADT:  Stack model --  Implementation of stacks using arrays -- Applications:  Infix to postfix conversion -- Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation of queues.
+Stack ADT:  Stack model --  Implementation of stacks using arrays -- Applications:  Infix to postfix conversion -- Evaluating postfix expressions - Queue ADT: Queue model -- Array implementation of queues.
 
 {{{unit}}}
 |Unit III | TREES | 6 |
@@ -29,21 +29,22 @@ Trees: Preliminaries -- Tree traversals -- Expression trees -- Binary search tre
 
 {{{unit}}}
 |Unit IV | GRAPHS | 6 |
-Graph Algorithms: Definitions -- Representation of graph -- Breadth-first traversal -- Depth-first traversal -- Shortest-path algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm.
+Graph Algorithms: Definitions -- Representation of graph -- Breadth-first traversal -- Depth-first traversal -- Shortest-path algorithm: Dijkstra's algorithm.
 
 {{{unit}}}
-|Unit V | SORTING AND HASHING TECHNIQUES | 6 |
-Sorting: Insertion sort -- Merge sort;  Hashing: Hash function -- Separate chaining; Open Addressing: Linear probing; Rehashing.
+|Unit V | SEARCHING AND SORTING TECHNIQUES | 6 |
+Searching: Linear search -- Binary search; Sorting: Insertion sort -- Selection sort -- Merge sort;  
 
 ** SUGGESTIVE EXPERIMENTS
  - Represent polynomial as a linked list and perform polynomial addition
- - Array implementation of stack and queue ADTs
- - Convert infix expression to postfix  and evaluate using Stack ADT
+ - Array implementation of stack ADT
+ - Convert infix expression to postfix and evaluate using Stack ADT
  -	Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
  -	Represent graph using adjacency matrix and perform depth first traversal on the graph
  -	Implement Dijkstra’s algorithm to find the shortest path using graph
  -	Implement insertion sort and merge sort
- - Implement hashing technique using linear probing
+ - Implement linear search and binary search
+ 
 
   
 *Theory Periods: 30*
@@ -56,12 +57,14 @@ Sorting: Insertion sort -- Merge sort;  Hashing: Hash function -- Separate chain
 After the completion of this course, students will be able to: 
 - Implement linear data structures and solve problems using them  (K3)
 - Implement trees and graphs and use them to solve problems (K3)
-- Implement various sorting and hashing algorithms (K2)
-- Differentiate stack, queue, trees and graphs (K2)
+- Implement various sorting and searching algorithms (K2)
+- Compare stack, queue, trees and graphs (K2)
 
       
 **Text Books
 1. M. A. Weiss, “Data Structures and Algorithm Analysis in C”, Second Edition , Pearson Education, 2006
+2. Richard F. Gilberg, Behrouz A. Forouzan, “Data Structures: A Pseudocode Approach with C”, Second Edition,
+Cengage India, 2007.
 
 **Reference Books
 1. V. Aho, J. E. Hopcroft, and J. D. Ullman, “Data Structures and Algorithms”, Pearson Education, First Edition Reprint 2003.
