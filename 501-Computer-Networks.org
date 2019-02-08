@@ -20,33 +20,23 @@
 
 {{{unit}}}
 |Unit I |Introduction and Physical Layer|9| 	
-Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP
-Protocol suite -- OSI Model; Physical Layer: Performance --
-Transmission media -- Switching -- Circuit-switched Networks -- Packet
-Switching
+Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP Protocol suite -- OSI Model; Physical Layer: Performance -- Transmission media -- Switching -- Circuit-switched Networks -- Packet Switching
 
 {{{unit}}}
 |Unit II | Date-Link Layer and Media Access | 9 |
-Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer
-Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs:
-Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth
--- Connecting Devices
+Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs: Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth -- Connecting Devices
 
 {{{unit}}}
 |Unit III | Network Layer | 9 |
-Network Layer Services -- Packet switching -- Performance -- IPV4
-Addresses -- Forwarding of IP Packets; Network Layer Protocols: IP --
-ICMP v4 -- Unicast Routing Algorithms -- Protocols -- Multicasting
-Basics -- IPV6 Addressing -- IPV6 Protocol.
+Network Layer Services -- Packet switching -- Performance -- IPV4 Addresses -- Forwarding of IP Packets; Network Layer Protocols: IP -- ICMP v4 -- Unicast Routing Algorithms -- Protocols -- Multicasting Basics -- IPV6 Addressing -- IPV6 Protocol.
 
 {{{unit}}}
 |Unit IV | Transport Layer | 9 |
-Introduction: Transport Layer Protocols -- Services -- Port Numbers --
-User Datagram Protocol -- Transmission Control Protocol -- SCTP
+Introduction: Transport Layer Protocols -- Services -- Port Numbers -- User Datagram Protocol -- Transmission Control Protocol -- SCTP 
 
 {{{unit}}}
 |Unit V | Application Layer | 9 |
-WWW and HTTP -- FTP -- Email --Telnet -- SSH -- DNS -- SNMP
+Traditional applications -Electronic Mail (SMTP, POP3, IMAP, MIME) – HTTP – File Transfer Protocol - Secure Shell (SSH) -  DNS – SNMP.
 
 \hfill *Total: 45 Periods*
 
@@ -64,14 +54,9 @@ After the completion of this course, students will be able to:
 2. Larry L. Peterson, Bruce S. Davie, ``Computer Networks: A Systems Approach'', Fifth Edition, Morgan Kaufmann Publishers Inc., 2012.
 
 ** References
-1. William Stallings, ``Data and Computer Communications'', Tenth
-   Edition, Pearson Education, 2013.
-2. Nader F. Mir, ``Computer and Communication Networks'', Second
-   Edition, Prentice Hall, 2014.
-3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, ``Computer Networks:
-   An Open Source Approach'', McGraw Hill Publisher, 2011.
-4. James F. Kurose, Keith W. Ross, ``Computer Networking, A Top-Down
-   Approach Featuring the Internet'', Sixth Edition, Pearson
+1. William Stallings, ``Data and Computer Communications'', Tenth Edition, Pearson Education, 2013.
+2. Nader F. Mir, ``Computer and Communication Networks'', Second Edition, Prentice Hall, 2014.
+3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, ``Computer Networks: An Open Source Approach'', McGraw Hill Publisher, 2011.
+4. James F. Kurose, Keith W. Ross, ``Computer Networking, A Top-Down Approach Featuring the Internet'', Sixth Edition, Pearson
    Education, 2013.
-5. Andrew S. Tanenbaum, David J Wetherall, ``Computer Networks'',
-   Fifth Edition, Pearson Education,2013.
+5. Andrew S. Tanenbaum, David J Wetherall, ``Computer Networks'', Fifth Edition, Pearson Education,2013.

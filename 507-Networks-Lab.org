@@ -18,7 +18,7 @@
 
 ** Suggested Programming Language
 - C / C++ / Java / Python / Equivalent Compiler 
-- Network simulator like NS2/Glomosim/OPNET/ Packet Tracer / Equivalent
+- Network simulator like NS2/NS3/Glomosim/OPNET/ Packet Tracer / Equivalent
 
 
 ** Suggestive Exercises
