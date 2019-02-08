@@ -42,6 +42,11 @@ sets.
 Nearest-neighbour classification ; Distance based Clustering: K-means
 -- Clustering around medoids ; Hierarchical Clustering.
 
+|Unit IV | DISTANCE BASED MODELS| 6 |
+Nearest-neighbour classification; Distance based Clustering: K-means
+-- Clustering around medoids; Hierarchical Clustering.
+
+
 {{{unit}}}
 |UNIT V | ENSEMBLING AND CASE STUDIES | 6 |
 Ensemble Techniques: Bagging and Random Forests -- Boosting; Machine
@@ -52,7 +57,7 @@ classification using clustering -- Handwritten character recognition.
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
- - Data analysis
+ - Statistical Data analysis
  - Classification of Iris dataset using Naive Bayes model
  - Loan amount prediction using linear regression
  - E-mail spam detection using Support Vector Machine
