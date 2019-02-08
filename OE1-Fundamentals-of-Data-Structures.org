@@ -56,16 +56,6 @@ Linear probing – Rehashing.
 - Implement insertion sort and merge sort
 - Implement hashing technique using linear probing
 
-** SUGGESTIVE EXPERIMENTS
-- Represent polynomial as a linked list and perform polynomial addition
-- Array implementation of Stack and Queue ADTs
-- Convert infix to postfix expression and evaluate using Stack ADT
-- Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
-- Implement AVL trees
-- Represent graph using adjacency matrix and perform depth first traversal on the graph
-- Implement Dijkstra’s algorithm to find the shortest path using graph
-- Implement insertion sort and merge sort
-- Implement hashing technique using linear probing
 
 \hfill *Practical Periods: 30*
 
