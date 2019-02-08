@@ -30,15 +30,12 @@ Relational model: Concepts -- Constraints -- Update operations -- Constraint voi
 |Unit III | Database Programming and Design| 10 |
 Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms; FD: Inference rules -- minimal cover; ER-to-relational mapping.
 
-
 {{{unit}}}
 |Unit iV | Transaction, Concurrency and Recovery | 8 |
 Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery.
 
-
-
 {{{unit}}}
-|Unit V | <NOSQL Databases> | 8 |
+|Unit V | NOSQL Databases | 8 |
 Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column -- Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 \hfill *Total: <45>*
