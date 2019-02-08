@@ -9,51 +9,59 @@
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the concepts of ADT 
 - To comprehend the notion of linear and non linear data structures
 - To use a suitable data structure for the given problem and implement them in a high level programming language
 - To understand the concepts of sorting and hashing techniques
 
 {{{unit}}}
-|Unit I | LIST | 6 |
-Abstract Data Types (ADT) -- Implementation of Linked List ADT: Singly linked lists -- doubly-linked lists --Applications of lists: Polynomial addition.
+|UNIT I | LIST | 6 |
+Abstract Data Types (ADT) -- Implementation of Linked List ADT: Singly
+linked lists -- doubly-linked lists --Applications of lists:
+Polynomial addition.
 
 {{{unit}}}
-|Unit II | STACK AND QUEUE | 6 |
-Stack ADT:  Operations --  Applications:  Converting infix to postfix expression -- Evaluating arithmetic expressions; Queue ADT: Operations in a circular queue.
+|UNIT II | STACK AND QUEUE | 6 |
+Stack ADT: Operations -- Applications: Converting infix to postfix
+expression -- Evaluating arithmetic expressions; Queue ADT: Operations
+in a circular queue.
 
 {{{unit}}}
-|Unit III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- expression trees -- binary search tree -- AVL Trees. 
+|UNIT III | TREES | 6 |
+Tree ADT: Preliminaries -- Tree traversals -- expression trees --
+binary search tree -- AVL Trees.
 
 {{{unit}}}
-|Unit IV | GRAPHS | 6 |
-Definitions -- Representation of graph -- Types of graph -- Breadth-first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's algorithm.
+|UNIT IV | GRAPHS | 6 |
+Definitions -- Representation of graph -- Types of graph --
+Breadth-first traversal -- Depth first traversal -- Shortest-path
+algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's
+algorithm.
 
 {{{unit}}}
-|Unit V | Sorting and Hashing Techniques   | 6 |
-Sorting: Insertion sort -- Merge sort;  Hashing: Separate chaining – Linear probing – Rehashing.
+|UNIT V | SORTING AND HASHING TECHNIQUES   | 6 |
+Sorting: Insertion sort -- Merge sort; Hashing: Separate chaining –
+Linear probing – Rehashing.
+
+\hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
- - Represent polynomial as a linked list and perform polynomial addition
- - Array implementation of Stack and Queue ADTs
- - Convert infix to postfix expression and evaluate using Stack ADT
- -	Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
- -	Implement AVL trees
- -	Represent graph using adjacency matrix and perform depth first traversal on the graph
- -	Implement Dijkstra’s algorithm to find the shortest path using graph
- -	Implement insertion sort and merge sort
- - Implement hashing technique using linear probing
+- Represent polynomial as a linked list and perform polynomial addition
+- Array implementation of Stack and Queue ADTs
+- Convert infix to postfix expression and evaluate using Stack ADT
+- Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
+- Implement AVL trees
+- Represent graph using adjacency matrix and perform depth first traversal on the graph
+- Implement Dijkstra’s algorithm to find the shortest path using graph
+- Implement insertion sort and merge sort
+- Implement hashing technique using linear probing
 
-  
-*Theory Periods: 30*
+\hfill *Practical Periods: 30*
 
-*Practical Periods: 30*
+\hfill *Total Periods: 60*
 
-*Total Periods: 60*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Implement linear data structures and solve problems using them  (K3)
 - Implement trees and graphs and use them to solve problems (K3)
@@ -61,12 +69,18 @@ After the completion of this course, students will be able to:
 - Differentiate stack, queue, trees and graphs (K2)
 
       
-**Text Books
-1. M. A. Weiss, “Data Structures and Algorithm Analysis in C”, Second Edition , Pearson Education, 2006
+** TEXT BOOKS
+1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'',
+   Second Edition , Pearson Education, 2006
 
-**Reference Books
-1. V. Aho, J. E. Hopcroft, and J. D. Ullman, “Data Structures and Algorithms”, Pearson Education, First Edition Reprint 2003.
-2.	R. F. Gilberg, B. A. Forouzan, “Data Structures”, Second Edition, Thomson India Edition, 2005.
-3.	Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, "Fundamentals of Data Structures in C", Second Edition, University Press, 2008
-4. S.Sridhar, “Design and Analysis of Algorithms”, First Edition, Oxford University Press. 2014
-5. Byron Gottfried, Jitender Chhabra, “Programming with C” (Schaum's Outlines Series), Mcgraw Hill Higher Ed., III Edition, 2010 
+** REFERENCES
+1. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
+   Algorithms'', Pearson Education, First Edition Reprint 2003.
+2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
+   Thomson India Edition, 2005.
+3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
+   of Data Structures in C'', Second Edition, University Press, 2008
+4. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
+   Oxford University Press. 2014
+5. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
+   Outlines Series), Mcgraw Hill Higher Ed., III Edition, 2010

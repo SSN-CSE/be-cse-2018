@@ -9,30 +9,47 @@
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
-** Course Objectives
-- To understand the need and types of machine learning techniques for various problems. 
-- To study about the various supervised and unsupervised learning algorithms in machine learning.
--  To solve the real world problems using appropriate machine learning algorithms.
+** COURSE OBJECTIVES
+- To understand the need and types of machine learning techniques for
+  various problems.
+- To study about the various supervised and unsupervised learning
+  algorithms in machine learning.
+- To solve the real world problems using appropriate machine learning
+  algorithms.
 
 {{{unit}}}
-|Unit I | INTRODUCTION  | 5 |
-Ingredients to Machine Learning: Tasks -- Models -- Features ;  Examples of Machine Learning Applications: Learning Associations -- Supervised Learning: Classification -- Regression; Unsupervised Learning -- Reinforcement Learning .
+| UNIT I | INTRODUCTION | 5 |
+Ingredients to Machine Learning: Tasks -- Models -- Features ;
+Examples of Machine Learning Applications: Learning Associations --
+Supervised Learning: Classification -- Regression; Unsupervised
+Learning -- Reinforcement Learning .
 
 {{{unit}}}
-|Unit II | LINEAR AND PROBABILISTIC MODELS | 7 |
-Classification: Binary Classification -- Multi class classification; Regression; Linear models: Least squares method -- Perceptron -- Multi-layer Perceptron -- Support Vector Machine; Probabilistic Models:  Naive Bayes model  -- Expectation - Maximisation model.
+| UNIT II | LINEAR AND PROBABILISTIC MODELS | 7 |
+Classification: Binary Classification -- Multi class classification;
+Regression; Linear models: Least squares method -- Perceptron --
+Multi-layer Perceptron -- Support Vector Machine; Probabilistic
+Models: Naive Bayes model -- Expectation - Maximisation model.
 
 {{{unit}}}
-|Unit III | TREE AND RULE MODELS| 6 |
-Tree Models: Decision Trees -- Regression Trees -- Clustering Trees; Rule Models: Learning ordered rule lists -- Learning unordered rule sets.
+|UNIT III | TREE AND RULE MODELS| 6 |
+Tree Models: Decision Trees -- Regression Trees -- Clustering Trees;
+Rule Models: Learning ordered rule lists -- Learning unordered rule
+sets.
 
 {{{unit}}}
-|Unit IV | DISTANCE BASED MODELS| 6 |
-Nearest-neighbour classification ;  Distance based Clustering: K-means -- Clustering around medoids ;  Hierarchical Clustering.
+|UNIT IV | DISTANCE BASED MODELS| 6 |
+Nearest-neighbour classification ; Distance based Clustering: K-means
+-- Clustering around medoids ; Hierarchical Clustering.
 
 {{{unit}}}
-|Unit V | ENSEMBLING AND CASE STUDIES | 6 |
-Ensemble Techniques: Bagging and Random Forests -- Boosting;  Machine Learning Experiments: Performance metrics -- Cross validation; Case study: E-mail spam detection -- Sentiment analysis -- Document classification using clustering -- Handwritten character recognition. 
+|UNIT V | ENSEMBLING AND CASE STUDIES | 6 |
+Ensemble Techniques: Bagging and Random Forests -- Boosting; Machine
+Learning Experiments: Performance metrics -- Cross validation; Case
+study: E-mail spam detection -- Sentiment analysis -- Document
+classification using clustering -- Handwritten character recognition.
+
+\hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
  - Data analysis
@@ -42,14 +59,12 @@ Ensemble Techniques: Bagging and Random Forests -- Boosting;  Machine Learning E
  - Diabetic decision making using Decision tree
  - Document grouping using K-means clustering
  - Sentiment analysis / Handwritten character recognition using Ensemble techniques
- 
-*Theory Periods: 30*
 
-*Practical Periods: 30*
+\hfill *Practical Periods: 30*
 
-*Total Periods: 60*
+\hfill *Total Periods: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic concepts and types of machine learning (K2).
 - Apply linear and probabilistic algorithms for classification and regression tasks (K3).
@@ -57,17 +72,25 @@ After the completion of this course, students will be able to:
 - Develop solutions using clustering and ensembling methods for machine learning tasks (K3).
 - Apply the appropriate algorithm for real world problems (K3).
       
-** Text Books
-1. Peter Flach, ``Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012. 
-2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT Press 2004.
+** TEXT BOOKS
+1. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
+   that Make Sense of Data'', First Edition, Cambridge University
+   Press, 2012.
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT
+   Press 2004.
 
-
-** References
-1. Jason Bell, ``Machine learning – Hands on for Developers and Technical Professionals'', First Edition, Wiley, 2014. 
-2. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
-3. Richert, Willi, ``Building machine learning systems with Python'', Packt Publishing Ltd, 2013.
-4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education (India) Private Limited, 2013.
-5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from Data'', AMLBook Publishers, 2012.
+** REFERENCES
+1. Jason Bell, ``Machine learning – Hands on for Developers and
+   Technical Professionals'', First Edition, Wiley, 2014.
+2. Stephen Marsland, ``Machine Learning – An Algorithmic
+   Perspective'', Second Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2014.
+3. Richert, Willi, ``Building machine learning systems with Python'',
+   Packt Publishing Ltd, 2013.
+4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education
+   (India) Private Limited, 2013.
+5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from
+   Data'', AMLBook Publishers, 2012.
 
 
 
