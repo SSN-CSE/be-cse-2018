@@ -20,30 +20,29 @@
 - To learn the introductory concepts of hashing techniques
 
 {{{unit}}}
-|Unit I | Linear Data Structure - List | 10 |
-Algorithm analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array implementation of lists –
-Linked lists – Circular linked lists - Doubly linked lists; Applications of lists: polynomial manipulation.
+|Unit I | Linear Data Structures - List | 10 |
+Algorithm analysis: Running time calculations; Abstract Data Types (ADTs) - List ADT: Array implementation of lists –
+Linked lists – Circular linked lists - Doubly linked lists - Applications of lists: polynomial manipulation.
 
 {{{unit}}}
 |Unit II | Linear Data Structures – Stacks and Queues | 8 |
-Stack ADT: Stack model - Implementation of stacks; Applications: Balancing symbols, Infix to postfix conversion,
-Evaluating postfix expressions; Queue ADT: Queue model - Array implementation of queues - Double ended queue; 
-Applications of queues.
+Stack ADT: Stack model - Implementation of stacks - Applications: Balancing symbols - Infix to postfix conversion -
+Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
 
 {{{unit}}}
 |Unit III | Non Linear Data Structures – Trees   | 9 |
-Trees: Preliminaries - Tree traversals; Binary trees: Expression trees; Binary Search Tree ADT - AVL Trees – 
-B-Tree; Priority queues: Binary heap; Applications of trees.
+Trees: Preliminaries - Tree traversals - Binary trees - Expression trees - Binary Search Tree ADT - AVL Trees – 
+B-Tree - Applications of trees; Priority queues: Binary heap.
 
 {{{unit}}}
 |Unit IV | Non Linear Data Structures – Graphs | 9 |
-Graph algorithms: Definitions – Representation of graphs - Topological sort; Shortest-path
-algorithms: Dijkstra's algorithm - All-Pairs shortest path; Breadth-first traversal – Depth-first traversal - Biconnectivity; Applications of graphs.
+Graph algorithms: Definitions – Representation of graphs - Topological sort - Shortest-path
+algorithms: Dijkstra's algorithm - All-Pairs shortest path - Breadth-first traversal – Depth-first traversal - Biconnectivity - Applications of graphs.
 
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
-Selection sort - Shell sort – Merge sort – Quicksort - Time complexity analysis of sorting algorithms; 
+Selection sort - Shell sort – Heap sort - Merge sort – Quicksort - Complexity analysis of searching and sorting algorithms; 
 Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 
 \hfill *Total: 45 Periods*
@@ -52,10 +51,8 @@ Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 After the completion of this course, students will be able to:
 - Implement linear and non linear data structures (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K2)
-- Analyze a problem statement, identify possible data structures for
-  solving it, and choose and implement an appropriate one within the
-  constraints of the problem specification (K4)
-- Critically analyze the various sorting algorithms (K2)
+- Compare searching and sorting algorithms in terms of time and space (K2)
+- Analyze a problem statement and choose an appropriate data structure to solve it (K4)
 
       
 
