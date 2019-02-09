@@ -17,7 +17,7 @@
 - Learn the introductory concepts of hashing techniques
 
 
-** SUGGESTIVE LAB EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Array implementation of list ADT (e.g Manage student records)
 2. Represent polynomial expression as linked list and write functions for polynomial manipulation
 3. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)

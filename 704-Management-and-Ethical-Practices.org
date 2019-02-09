@@ -1,6 +1,6 @@
 * <<<704>>> MANAGEMENT AND ETHICAL PRACTICES
 :properties:
-:author: Dr. G. Raghuraman and Dr. R. Kanchana
+:author: Dr. J. Suresh and Dr. R. Kanchana
 :end:
 
 #+startup: showall

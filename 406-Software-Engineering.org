@@ -19,7 +19,7 @@
 {{{unit}}}
 |UNIT I | SOFTWARE PROCESS MODELS | 9 |
 Introduction to Software Engineering, Principles and practices,
-Software Process, Generic process model, Prespective and Specialized
+Software Process, Generic process model, Perspective and Specialized
 Process Models -- Introduction to Agility: Agile process.
 
 {{{unit}}}

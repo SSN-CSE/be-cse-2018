@@ -18,32 +18,32 @@
 - To implement Page Replacement Algorithms
 - To implement File Organization and File Allocation Strategies
 
-** LIST OF EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Basics of UNIX commands and study of system calls.
-2. Write C programs to simulate UNIX commands using system calls.
-3. Write C programs to implement the various CPU Scheduling Algorithms
-4. Implementation of Semaphores
-5. Implementation of Shared memory and IPC
-6. Bankers Algorithm for Deadlock Avoidance
-7. Write C program to implement Threading & Synchronization Applications
-8.  Implementation of the following Memory Allocation Methods for variable sized partition
-   a) First Fit      b) Worst Fit      c) Best Fit 
-9. Implementation of Paging Technique of Memory Management
-10. Implementation of the following Page Replacement Algorithms
+2. Implement a few UNIX commands using system calls.
+3. Implement the various CPU Scheduling Algorithms
+4. Implement Semaphores
+5. Implement Shared memory and IPC
+6. Implement Bankers Algorithm for Deadlock Avoidance
+7. Implement Threading & Synchronization Applications
+8. Implement the following Memory Allocation Methods for variable
+   sized partition: a) First Fit b) Worst Fit c) Best Fit
+9. Implement Paging Technique of Memory Management
+10. Implement the following Page Replacement Algorithms
     a) FIFO     b) LRU      c) LFU
-11. Implementation of the various File Organization Techniques
+11. Implement the various File Organization Techniques
     a) Single-level   b) Hierarchical
-12. Implementation of the following File Allocation Strategies
+12. Implement the following File Allocation Strategies
     a) Sequential     b) Indexed        c) Linked
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Analyze the performance of various CPU Scheduling Algorithms (K4)
+- Profile the performance of various CPU Scheduling Algorithms (K3)
 - Implement Deadlock avoidance and Detection Algorithms (K3)
 - Implement Semaphores and IPC (K3)
-- Analyze the performance of the various Page Replacement Algorithms (K4)
+- Profile the performance of the various Page Replacement Algorithms (K3)
 - Implement  File Organization and File Allocation Strategies (K3)
       
 ** REQUIREMENTS FOR A BATCH OF 30 STUDENTS

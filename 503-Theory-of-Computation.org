@@ -40,7 +40,7 @@ The Turing Machine - Programming Techniques for Turing Machines - Extensions to 
 |Unit V | Undecidability | 9 |
 Language That Is Not Recursively Enumerable - Undecidable Problem That Is RE - Undecidable Problems About Turing Machines - Post's Correspondence Problem - Other Undecidable Problems. 
 
-\hfill *Total: <45>*
+\hfill *Total Periods: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

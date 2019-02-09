@@ -55,7 +55,7 @@ algebra - Stone’s representation Theorem.
 
 ** COURSE OUTCOMES
 On studying this course, the students will able to:
-- Write simple proofs using Propositioal and First-Order Logics.
+- Write simple proofs using Propositional and First-Order Logics.
 - Write simple proofs using mathematical induction.
 - Prove simple graph properties.
 - Explain basic concepts in group theory such as semi groups, monoids
@@ -72,15 +72,13 @@ On studying this course, the students will able to:
    Pub. Co. Ltd, New Delhi, 30th Reprint, 2011.
 
 ** REFERENCES
-1. Ralph. P. Grimaldi, ``Discrete and Combinatorial Mathematics: An
-   Applied Introduction'', Pearson Education Asia, Delhi, 4th
-   Edition, 2007.
+1. Ralph P Grimaldi, ``Discrete and Combinatorial Mathematics: An
+   Applied Introduction'', 4th Edition, Pearson Education Asia, 2007.
 2. Thomas Koshy, ``Discrete Mathematics with Applications'', Elsevier
    Publications, 2006.
 3. Seymour Lipschutz and Mark Lipson, ``Discrete Mathematics'',
-   Schaum's Outlines, Tata McGraw Hill Pub. Co. Ltd., New Delhi, 3rd
-   Edition, 2010.
-4. C. L. Liu, D. P. Mohapatra, ``Elements of Discrete Mathematics'',
-   McGraw Higher Ed., 4th Edition, 2012.
-5. John. M. Harris, Jeffry. L. Hirst, Michael. J. Mossinghoff,
+   Schaum's Outlines, 3rd Edition, Tata McGraw Hill, 2010.
+4. C L Liu, D P Mohapatra, ``Elements of Discrete Mathematics'', 4th
+   Edition, McGraw Higher Education, 2012.
+5. John M Harris, Jeffry L Hirst, Michael J Mossinghoff,
    ``Combinatorics and Graph Theory'', Verlag New York, 2008.

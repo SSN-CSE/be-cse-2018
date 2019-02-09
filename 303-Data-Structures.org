@@ -4,6 +4,10 @@
 :date: 
 :end:
 
+#+BEGIN_COMMENT
+include at least one application of trees (?)
+#+END_COMMENT
+
 #+startup: showall
 
 {{{credits}}}
@@ -68,6 +72,6 @@ After the completion of this course, students will be able to:
    Thomson India Edition, 2005.
 3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
    of Data Structures in C'', Second Edition, University Press, 2008
-4. S.Sridhar, ``Design and Analysis of Algorithms``, First Edition, Oxford University Press. 2014
+4. S. Sridhar, ``Design and Analysis of Algorithms``, First Edition, Oxford University Press. 2014
 5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s Outlines Series), Mcgraw Hill Higher Ed., 
    III Edition, 2010

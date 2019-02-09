@@ -1,6 +1,6 @@
 * <<<403>>> OPERATING SYSTEMS
 :properties:
-:author: Mr. H. Shahul Hamead and Ms. S. Lakshmi Priya
+:author: Mr. H. Haul Ha-mead and Ms. S. Lakshmi Priya
 :date: 13-11-2018
 :end:
 
@@ -37,7 +37,7 @@ processes -- Interprocess Communication; Threads: Overview --
 Multithreading Models -- Thread Issues; Process Synchronization -
 Critical Section Problem -- Mutex Locks -- Semophores -- Monitors; CPU
 Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Montonic and EDF
-scheduling; Deadlocks -- Aviodance -- Prevention -- Detection and
+scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
@@ -65,9 +65,9 @@ Android -- Introduction and Architecture.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic services and functionalities of operating systems (K2)
-- Analyze various Scheduling algorithms (K4)
-- Understand deadlock, prevention and avoidance algorithms and compare
-  and contrast various memory management schemes (K2)
+- Analyze various scheduling algorithms, and understand the different
+  deadlock, prevention and avoidance schemes (K4)
+- Compare and contrast various memory management schemes (K2)
 - Understand the functionality of file systems (K2)
 - Compare and contrast Linux, Windows and mobile operating systems (K3)
 

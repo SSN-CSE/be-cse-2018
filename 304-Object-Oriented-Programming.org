@@ -29,13 +29,13 @@ Inheritance: Definition - Types of inheritance: Single - multilevel -
 multiple - hierarchical - hybrid; Subclass constructors – Interfaces
 in Java: Definition, Implementation - Extending interfaces -
 Inheritance versus delegation – Inheritance rules - inner classes;
-Examples in java
+Examples in Java
 
 {{{unit}}}
 |UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
 Polymorphism: Method overloading and overriding - Dynamic method
 dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own
-exception; Packages in Java; Examples in java
+exception; Packages in Java; Examples in Java
 
 {{{unit}}}
 |UNIT IV |GENERIC TYPES AND METHODS	 | 9 |

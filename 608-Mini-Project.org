@@ -30,9 +30,9 @@ interested domain based on the approval from the concerned faculty.
 2. Document the Software Requirements Specification (SRS) for the above problem statement.
 3. Identify use cases and develop the Use Case model.
 4. Identify the conceptual classes and develop a Domain Model and also derive a Class Diagram from the already designed Domain Model.
-5. Using the identified scenarios, find the interaction between objects and represent them using
-
-UML Sequence and Collaboration Diagrams
+5. Using the identified scenarios, find the interaction between
+   objects and represent them using UML Sequence and Collaboration
+   Diagrams
 6. Draw relevant State Chart and Activity Diagrams for the same
    problem.
 7. Implement the problem with the detailed design structure (1-6) and

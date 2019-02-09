@@ -17,7 +17,7 @@
 - To understand the concepts of Public key cryptography and digital signatures.
  
 {{{unit}}}
-| UNIT I | INTRODUCTION AND CLASSICAL CRYPTOGRAPHY & SYMMETRIC CRYPTOGRAPHY | 10 |
+| UNIT I | INTRODUCTION TO CLASSICAL & SYMMETRIC CRYPTOGRAPHY | 10 |
 Cryptography and Modern Cryptography -- Setting of Private-Key
 Encryption -- Historical Ciphers and Their Cryptanalysis -- The Basic
 Principles of Modern Cryptography; Perfectly Secret Encryption:

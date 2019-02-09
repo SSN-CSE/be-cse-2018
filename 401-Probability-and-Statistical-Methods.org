@@ -52,7 +52,7 @@ Control charts for measurements (X and R charts) - Control charts for
 attributes (p, c and npcharts) - Tolerance limits - Acceptance
 sampling.
 
-\hfill *Total Periods: 60*
+\hfill *Total Periods: 75*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
@@ -69,7 +69,7 @@ After the completion of this course, students will be able to:
    Statistics'', Tata McGrawHill, New Delhi, 4th Edition, 3rd
    Reprint, 2008.
 2. Johnson, R.A. and Gupta, C.B., ``Miller and Freund's Probability and
-   Statistics forEngineers'', Pearson Education, Asia, 8th
+   Statistics for Engineers'', Pearson Education, Asia, 8th
    Edition, 2011.
 
 ** REFERENCES

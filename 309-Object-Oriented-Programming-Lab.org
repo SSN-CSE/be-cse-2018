@@ -16,7 +16,7 @@
 - To develop applications using inheritance and polymorphism.
 - To understand and implement generic programming.
 
-** LIST OF EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Program using classes and objects (Eg: Electricity bill generation)
 2. Program to perform string operations using ArrayList. 
 3. Program to implement packages (Eg: Currency converter)

@@ -1,7 +1,7 @@
 * <<<708>>> GRAPHICS AND MULTIMEDIA LAB
 :properties:
 :author: Ms. S. Lakshmi Priya and Mr. N. Sujaudeen
-:date:13-11-18
+:date: 13-11-18
 :end:
 
 #+startup: showall
