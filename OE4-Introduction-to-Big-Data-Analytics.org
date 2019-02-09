@@ -29,7 +29,7 @@ Association Rules: Overview - Apriori Algorithm - Evaluation of Candidate Rules 
 
 {{{unit}}}
 |UNIT IV | STREAM DATA ANALYSIS | 6 |
-Introduction to Streams Concepts: Stream Data Model and Architecture - Stream Computing; Sampling Data in a Stream: Filtering Streams – Counting Distinct Elements in a Stream – Estimating moments – Counting oneness in a Window – Decaying Window. 
+Introduction to Streams Concepts: Stream Data Model and Architecture - Stream Computing; Sampling Data in a Stream: Filtering Streams - Counting Distinct Elements in a Stream - Estimating moments - Counting oneness in a Window - Decaying Window. 
 
 {{{unit}}}
 |UNIT V | NOSQL DATA MANAGEMENT | 6 |
