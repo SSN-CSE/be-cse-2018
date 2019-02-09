@@ -1,4 +1,4 @@
-* <<<402>>> COMPUTER ARCHITECTURE
+* <<<402>>> COMPUTER ARCHITECTURE AND ORGANISATION
 :properties:
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 
@@ -18,7 +18,7 @@
 - To understand the memory hierarchies, cache and virtual memories and communication with I/O devices. 
 
 {{{unit}}}
-|UNIT I | BASI STRUCTURE OF A COMPUTER SYSTEM | 9 |
+|UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM | 9 |
 Functional Units -- Basic Operational Concepts -- Performance;
 Instructions: Language of the Computer -- Operations, Operands -- Instruction representation;
 Logical operations -- decision making; MIPS Addressing. 
@@ -37,7 +37,7 @@ Pipelining: Pipelined datapath and control -- Handling Data Hazards & Control Ha
 |UNIT IV | PARALLELISM | 9 |
 Parallel processing challenges; Flynn‘s classification: SISD -- MIMD -- SIMD --SPMD
 and Vector Architectures; Hardware multithreading; Multi-core processors and other Shared Memory Multiprocessors;
-Introduction to Graphics Processing Units; Clusters; Warehouse Scale Computers and other Message-Passing Multiprocessors.
+Introduction to Graphics Processing Units.
 
 {{{unit}}}
 |UNIT V | MEMORY & I/O SYSTEMS | 9 |
