@@ -82,7 +82,7 @@ After the completion of this course, students will be able to:
    ``Handbook of Model Checking'', Springer 2018
 2. Orna Grumberg, Helmut Veith, ``25 Years of Model Checking: History, Achievements, Perspectives''
    Springer-Verlag, 2008
-3. Zohar Mann, Amir Pnueli, ``Temporal Verification of Reactive Systems: Safety'',
+3. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive Systems: Safety'',
    Springer-Verlag, 2012
 4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rüdiger Olderog, ``Verification of Sequential and Concurrent Programs'',
    Springer, 3rd ed. 2009
