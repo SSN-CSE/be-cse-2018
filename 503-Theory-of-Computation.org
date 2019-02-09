@@ -9,7 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 The student should be made to: 
 - To construct finite automata for any given pattern and find its equivalent regular expressions.
 - To understand the language hierarchy  and  to design a context free grammar for any given language.
@@ -19,7 +19,7 @@ The student should be made to:
 
 
 {{{unit}}}
-|UNIT I | Finite Automata and Regular Languages  | 10 |
+|UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
 Introduction-Basic Mathematical Notation and techniques; Finite
 Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
 Finite Automata(NFA) – Finite Automata with Epsilon Transitions-
@@ -30,7 +30,7 @@ Languages.
 
 
 {{{unit}}}
-|UNIT II | Context-Free Languages  | 8 |
+|UNIT II | CONTEXT-FREE LANGUAGES  | 8 |
 Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and
 Context-Free Language (CFL) – Derivation Trees – Ambiguity in Grammars
 and Languages –Equivalence of Derivation Trees and Derivation –
@@ -38,26 +38,26 @@ Simplification of Context-free Grammar; Chomsky Normal Form - Greibach
 Normal Form
 
 {{{unit}}}
-|UNIT III | Pushdown Automata | 9 |
+|UNIT III | PUSHDOWN AUTOMATA | 9 |
 Pushdown Automata-Definitions –Moves –Instantaneous descriptions
 –Deterministic pushdown automata–Equivalence of Pushdown automata and
 CFL-pumping lemma for CFL.
 
 {{{unit}}}
-|UNIT IV | Turing machines  | 9 |
+|UNIT IV | TURING MACHINES  | 9 |
 Definitions of Turing machines –Models –Techniques for Turing machine
 construction –Multi head and Multi tape Turing Machines – Universal
 Turing Machine.
 
 {{{unit}}}
-|UNIT V | Undecidability | 9 |
+|UNIT V | UNDECIDABILITY | 9 |
 Recursive Enumerable (RE) Language - Non Recursive Enumerable (RE)
 Language – Undecidable Problems: Halting Problem - Post’s
 Correspondence problem - Post’s Correspondence Problem.
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design finite automata and transform regular expressions vs finite automata.(K3)
 - Understand the need of formal languages, and grammars. (K3)
@@ -65,7 +65,7 @@ After the completion of this course, students will be able to:
 - Design Turing machines with its different techniques. (K3)
 - Understand the key notions, such as Recursive Enumerable (RE), Non Recursive Enumerable, decidability and undecidability(K2).
 
-** Text Books 
+** TEXT BOOKS 
 1. Hopcroft J.E., Motwani R. and Ullman J.D, ``Introduction to Automata
    Theory, Languages and Computations'', Second Edition, Pearson
    Education, 2008. (UNIT 1,2,3,4)
@@ -73,7 +73,7 @@ After the completion of this course, students will be able to:
    Computation'', Third Edition,Tata McGraw Hill Publishing Company,
    New Delhi, 2007.(UNIT 5)
 
-** References
+** REFERENCES
 1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the
    Theory of Computation'', Second Edition, Prentice Hall of India,
    Pearson Education, New Delhi, 2003.

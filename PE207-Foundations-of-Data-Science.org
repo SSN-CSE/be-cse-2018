@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 2. Ani Adhikari and John DeNero, ``Computational and Inferential
    Thinking: The Foundations of Data Science'', GitBook, 2017.
 
-** REFERENCE BOOKS
+** REFERENCES
 1. Hans Petter Langtangen, ``A Primer on Scientific Programming with
    Python'', 4th Edition, Springer, 2016.
 2. Jonathan Dinu, ``Foundations of Data Science: A Practical

@@ -1,4 +1,4 @@
-  <<<PE405>>> SOFT COMPUTING
+**  <<<PE405>>> SOFT COMPUTING
 :properties:
 :author: Dr. P. Mirunalini  and Dr. J. Bhuvana
 :date: 
@@ -55,7 +55,7 @@ approach of multispectral images with SAR -- Optimization of Traveling
 Salesman Problem using Genetic Algorithm -- Soft Computing Based
 Hybrid Fuzzy Controllers.
 
-\hfill *Total Periods: <45>*
+\hfill *Total Periods: 45*
 
 
 ** COURSE OUTCOMES

@@ -6,7 +6,7 @@
 
 #+startup: showall
 
-
+{{{credits}}}
 | L | T | P |   C |
 | 0 | 0 | 3 | 1.5 |
 

@@ -18,19 +18,19 @@
 
 
 ** SUGGESTIVE LAB EXPERIMENTS
-- Array implementation of list ADT (e.g Manage student records)
-- Represent polynomial expression as linked list and write functions for polynomial manipulation
-- Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-- Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
-- Array implementation of Queue ADT (e.g Simulating printer jobs)
-- Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
-- Implement binary search tree 
-- Implement AVL trees (e.g Implement dictionary)  
-- Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
-- Graph representation and implement graph traversal algorithms 
-- Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
-- Implement binary search and any two sorting algorithms 
-- Implement hashing using separate chaining technique 
+1. Array implementation of list ADT (e.g Manage student records)
+2. Represent polynomial expression as linked list and write functions for polynomial manipulation
+3. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
+4. Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+5. Array implementation of Queue ADT (e.g Simulating printer jobs)
+6. Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
+7. Implement binary search tree 
+8. Implement AVL trees (e.g Implement dictionary)  
+9. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
+10. Graph representation and implement graph traversal algorithms 
+11. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
+12. Implement binary search and any two sorting algorithms 
+13. Implement hashing using separate chaining technique 
 
 \hfill *Total Periods: 45*
 

@@ -6,10 +6,11 @@
 
 #+startup: showall
 
+{{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the phases in a software project
 - To understand fundamental concepts of requirements engineering and Analysis Modeling.
 - To understand the various software design methodologies
@@ -56,9 +57,9 @@ testing-black box testing- Unit Testing -- Integration Testing
 Maintenance:Types - Reengineering- Reverse Engineering -
 Restructuring.
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand principles of software engineering and choose an appropraite process model(K4).
 - Perform requirements analysis and modeling(K3).
@@ -66,7 +67,7 @@ After the completion of this course, students will be able to:
 - Compare and contrast the various testing and maintenance activities(K2).
 - Manage project schedule, estimate project cost and effort required(K3).
       
-** Text Books
+** TEXT BOOKS
 1. Roger S. Pressman, ``Software Engineering -- A Practitioner's
    Approach'', Seventh Edition, McGraw-Hill International
    Edition, 2010.
@@ -74,7 +75,7 @@ After the completion of this course, students will be able to:
    Education Asia, 2011.
 
 
-** References
+** REFERENCES
 1. Rajib Mall, ``Fundamentals of Software Engineering'', Third
    Edition, PHI Learning Private Limited, 2009.
 2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley

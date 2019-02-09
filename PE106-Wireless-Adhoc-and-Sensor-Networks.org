@@ -13,10 +13,10 @@
 - To learn about the issues and challenges in the design of wireless ad hoc networks.
 - To understand the working of MAC Protocols for ad hoc and sensor networks
 - To understand the working of Routing Protocols for ad hoc and sensor networks
-- To learn about the Transport Layer protocols and their QoS for ad hoc and sensor
-  networks.
-- To understand various security issues in ad hoc and sensor networks and the
-corresponding solutions.
+- To learn about the Transport Layer protocols and their QoS for ad
+  hoc and sensor networks.
+- To understand various security issues in ad hoc and sensor networks
+  and the corresponding solutions.
 
 {{{unit}}}
 |UNIT I | MAC AND ROUTING IN ADHOC NETWORKS | 9 |

@@ -58,8 +58,8 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'', Second
    Edition , Pearson Education, 2006
-2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A Pseudocode Approach with C'', Second Edition,
-Cengage India, 2007.
+2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A
+   Pseudocode Approach with C'', Second Edition, Cengage India, 2007.
 
 ** REFERENCES
 1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and

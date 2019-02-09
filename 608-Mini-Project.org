@@ -71,8 +71,7 @@ After the completion of this course, students will be able to:
 - Map design to code and implement using UML diagrams. (K4)
 - Design and generate test cases. (K3)
 
-** HARDWARE AND SOFTWARE REQUIREMENTS 
-
+** LAB REQUIREMENTS 
 Hardware 
 - Any standard PC (Pentium) 
 

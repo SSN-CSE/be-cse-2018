@@ -9,7 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the need of machine learning techniques for various problems. 
 - To study the various supervised, unsupervised and reinforcement learning algorithms in machine learning.
 - To study the graphical models to represent tha data and their dependencies.
@@ -54,9 +54,9 @@ analysis -- Document classification using clustering -- Handwritten
 character recognition.
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
@@ -64,7 +64,7 @@ After the completion of this course, students will be able to:
 - Understand the requirement of dimensionality reduction techniques (K2).
 - Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
       
-** Text Books
+** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2014.
@@ -72,7 +72,7 @@ After the completion of this course, students will be able to:
    Press 2004.
 
 
-** References
+** REFERENCES
 1. Jason Bell, ``Machine learning – Hands on for Developers and
    Technical Professionals'', First Edition, Wiley, 2014.
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms

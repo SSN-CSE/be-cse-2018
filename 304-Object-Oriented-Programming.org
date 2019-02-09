@@ -61,10 +61,9 @@ After the completion of this course, students will be able to:
 - Develop algorithms using generic collections(K3)
      
 ** TEXT BOOKS
-1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-oriented
-   programming and Java'', 2nd Edition, Springer Publication,
-   2008.
-2. Herbert Schildt, ``Java The complete reference'', 8th Edition,
+1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented
+   Programming and Java'', 2nd Edition, Springer Publication, 2008.
+2. Herbert Schildt, ``Java: The Complete Reference'', 8th Edition,
    McGraw Hill Education, 2011.
 
 

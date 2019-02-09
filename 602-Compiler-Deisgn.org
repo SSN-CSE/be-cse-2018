@@ -52,7 +52,7 @@ Principal sources of optimization – Peephole optimization - DAG-
 Optimization of basic blocks -Global data flow analysis - Efficient
 data flow algorithm
 
-\hfill *Periods: 45* 
+\hfill *Theory Periods: 45* 
 
 * SUGGESTIVE EXPERIMENTS
 1. Implementation of Lexical Analyzer using Lex Tool
@@ -66,7 +66,7 @@ data flow algorithm
    print the output of lexical, syntax, semantic, intermediate code
    generation, code optimization and code generation phases
 
-\hfill *Periods: 30*
+\hfill *Practical Periods: 30*
 
 \hfill *Total Periods: 75*
 

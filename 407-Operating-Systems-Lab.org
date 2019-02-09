@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn and implement basic Unix commands using system calls
 - To implement various CPU Scheduling Algorithms
 - To implement Process Creation and Inter Process Communication
@@ -18,7 +18,7 @@
 - To implement Page Replacement Algorithms
 - To implement File Organization and File Allocation Strategies
 
-** List of Experiments
+** LIST OF EXPERIMENTS
 1. Basics of UNIX commands and study of system calls.
 2. Write C programs to simulate UNIX commands using system calls.
 3. Write C programs to implement the various CPU Scheduling Algorithms
@@ -36,9 +36,9 @@
 12. Implementation of the following File Allocation Strategies
     a) Sequential     b) Indexed        c) Linked
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Analyze the performance of various CPU Scheduling Algorithms (K4)
 - Implement Deadlock avoidance and Detection Algorithms (K3)
@@ -46,5 +46,5 @@ After the completion of this course, students will be able to:
 - Analyze the performance of the various Page Replacement Algorithms (K4)
 - Implement  File Organization and File Allocation Strategies (K3)
       
-** Requirements for a batch of 30 students
+** REQUIREMENTS FOR A BATCH OF 30 STUDENTS
 Desktop with Unix/Linux with C/C++ for every student
