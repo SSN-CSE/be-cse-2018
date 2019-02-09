@@ -10,10 +10,10 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
-•	To know the fundamental concepts of big data and analytics.
-•	To explore tools and practices for working with big data
-•	To learn about stream computing.
-•	To know about the research that requires the integration of large amounts of data.
+-	To know the fundamental concepts of big data and analytics.
+-	To explore tools and practices for working with big data.
+-	To learn about stream computing.
+-	To know about the research that requires the integration of large amounts of data.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO BIG DATA | 6 |
