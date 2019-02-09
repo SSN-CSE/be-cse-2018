@@ -75,6 +75,7 @@ Formatted printing -- Built-in variables -- The Debugger.
 9. Exercises on C Shell scripting.
 10. Exercises on Perl scripting.
 
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
