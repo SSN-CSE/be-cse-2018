@@ -62,16 +62,3 @@ After the completion of this course, students will be able to:
 4. Charles Kadushin, "Understanding Social Networks: Theories, Concepts, and Findings",  1st Edition, Kindle Edition, Oxford University Press. 
 5. Guandong Xu ,Yanchun Zhang and Lin Li, “Web Mining and Social Networking – Techniques and applications”, First Edition Springer, 2011.
 
-** COURSE OUTCOMES
-Upon completion of the course, the students should be able to:
-1.	Explain Social network concepts, measures and data (K2)
-2.	Represent mathematically social networks (K2)
-3.	Select appropriate community detection algorithm for online Social networks (K3)
-4.	Explain the privacy and security concepts in online Social networks (K2) 
-5.	Apply Visualization to social networks (K3)
-
-
-
-
-
-
