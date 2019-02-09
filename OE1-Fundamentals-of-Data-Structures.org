@@ -21,7 +21,7 @@ Abstract Data Types (ADT) -- List ADT -- Linked lists -- Doubly-linked lists -- 
 
 {{{unit}}}
 |UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Stack model - Array implementation of stack - Applications -- Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
+Stack ADT: Stack model - Array implementation of stack - Applications: Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
 
 {{{unit}}}
 |UNIT III | TREES | 6 |
