@@ -17,23 +17,23 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO BIG DATA | 6 |
-Evolution of Big data - Best Practices for Big data Analytics - Big data characteristics - Validating The Promotion of the Value of Big Data - Big Data Use Cases - Characteristics of Big Data Applications - Perception and Quantification of Value - Understanding Big Data Storage: HDFS; Map Reduce Programming Model.
+Evolution of Big data: Best Practices for Big data Analytics - Big data characteristics - Validating The Promotion of the Value of Big Data - Big Data Use Cases; Characteristics of Big Data Applications ; Perception and Quantification of Value ; Understanding Big Data Storage: HDFS; Map Reduce Programming Model.
 
 {{{unit}}}
 |UNIT II | CLUSTERING AND CLASSIFICATION | 6 |
-Advanced Analytical Theory and Methods: Overview of Clustering - K-means - Use Cases - Classification: Decision Trees - Overview of a Decision Tree - The General Algorithm - Decision Tree Algorithms - Evaluating a Decision Tree - Decision Trees in R - Naïve Bayes - Bayes‘ Theorem - Naïve Bayes Classifier
+Advanced Analytical Theory and Methods: Overview of Clustering - K-means - Use Cases; Classification: Decision Trees - Overview of a Decision Tree - The General Algorithm - Decision Tree Algorithms - Evaluating a Decision Tree ; Naïve Bayes - Bayes‘ Theorem - Naïve Bayes Classifier.
 
 {{{unit}}}
 |UNIT III | ASSOCIATION AND RECOMMENDATION SYSTEM | 6 |
-Advanced Analytical Theory and Methods: Association Rules - Overview - Apriori Algorithm - Evaluation of Candidate Rules - Applications of Association Rules  Recommendation System: Collaborative Recommendation- Content Based Recommendation 
+Association Rules: Overview - Apriori Algorithm - Evaluation of Candidate Rules - Applications of Association Rules;  Recommendation System: Collaborative Recommendation - Content Based Recommendation. 
 
 {{{unit}}}
 |UNIT IV | STREAM DATA ANALYSIS | 6 |
-Introduction to Streams Concepts – Stream Data Model and Architecture - Stream Computing, Sampling Data in a Stream – Filtering Streams – Counting Distinct Elements in a Stream – Estimating moments – Counting oneness in a Window – Decaying Window 
+Introduction to Streams Concepts: Stream Data Model and Architecture - Stream Computing; Sampling Data in a Stream: Filtering Streams – Counting Distinct Elements in a Stream – Estimating moments – Counting oneness in a Window – Decaying Window. 
 
 {{{unit}}}
 |UNIT V | NOSQL DATA MANAGEMENT | 6 |
-NoSQL Databases : Schema-less Models: Increasing Flexibility for Data Manipulation - Key Value Stores- Document Stores - Tabular Stores - Object Data Stores - Graph Databases Hive - Sharding - Hbase 
+NoSQL Databases : Schema-less Models; Increasing Flexibility for Data Manipulation : Key Value Stores - Document Stores - Tabular Stores - Object Data Stores; Graph Databases Hive - Sharding - Hbase. 
 
 ** SUGGESTIVE EXPERIMENTS
 1.	 Statistical data analysis
