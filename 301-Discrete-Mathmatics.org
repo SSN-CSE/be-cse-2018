@@ -55,13 +55,11 @@ algebra - Stone’s representation Theorem.
 
 ** COURSE OUTCOMES
 On studying this course, the students will able to:
-- Write simple proofs using Propositioal and First-Order Logics.
-- Write simple proofs using mathematical induction.
-- Prove simple graph properties.
-- Explain basic concepts in group theory such as semi groups, monoids
-  and groups.
-- Solve problems in partial ordering relations, equivalence relations
-  and lattices.
+- Write simple proofs using Propositioal and First-Order Logics (K3)
+- Write simple proofs using mathematical induction (K3)
+- Prove simple graph properties (K3)
+- Explain basic concepts in group theory such as semi groups, monoids and groups (K2)
+- Solve problems in partial ordering relations, equivalence relations and lattices (K3)
 
 ** TEXT BOOKS
 1. Kenneth H. Rosen, ``Discrete Mathematics and its Applications'', Tata
