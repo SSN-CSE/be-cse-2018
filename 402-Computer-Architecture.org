@@ -1,4 +1,5 @@
 * <<<402>>> COMPUTER  ORGANIZATION AND ARCHITECTURE
+>>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 :properties:
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 
@@ -31,9 +32,11 @@ Representation: Floating Point Operations; Subword Parallelism.
 
 {{{unit}}}
 |UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
+<<<<<<< HEAD
 A Basic MIPS implementation: Building a Datapath -- Control
 Implementation Scheme; Pipelining: Pipelined datapath and control --
 Handling Data Hazards & Control Hazards -- Exceptions.
+>>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 
 {{{unit}}}
 |UNIT IV | MEMORY & I/O SYSTEMS | 9 |
@@ -51,6 +54,7 @@ Introduction to Graphics Processing Units.
 Clusters; Warehouse Scale Computers and other Message-Passing
 Multiprocessors.
 #+END_COMMENT
+>>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 
 \hfill *Total Periods: 45*
 

@@ -22,16 +22,16 @@
 Introduction to computer graphics -- Applications; Overview of
 graphics systems: Video display devices -- Raster scan systems --
 Random scan systems; Output primitives: Points and lines --loading the
-frame buffer; Line drawing algorithms: DDA and Bresenham's line
-drawing algorithms; Circle and ellipse generating algorithms; Pixel
-addressing and object geometry
+frame buffer -- Line drawing algorithms: DDA and Bresenham's line
+drawing algorithms -- Circle and ellipse generating algorithms -- Pixel
+addressing and object geometry.
 
 {{{unit}}}
 |UNIT II | TWO DIMENSIONAL GRAPHICS | 9 |
-Two dimensional geometric transformations -- Matrix representations
+Two dimensional geometric transformations: Basic Transformations -- Matrix representations
 and homogeneous coordinates -- Composite transformations; Two
 dimensional viewing: Viewing pipeline -- viewing coordinate reference
-frame -- Window to viewport coordinate transformation; Clipping
+frame -- Window to viewport coordinate transformation -- Clipping
 operations: point and text clipping -- Line and polygon clipping
 algorithms.
 
@@ -44,24 +44,24 @@ objects -- Spline representations -- Bezier curves and surfaces; Three
 dimensional geometric and modeling transformations: Translation --
 Rotation -- Scaling -- composite transformations; Three dimensional
 viewing: Viewing pipeline -- Viewing coordinates -- Projections --
-View volumes -- Clipping;
+View volumes -- Clipping.
 
 {{{unit}}}
 |UNIT IV | ILLUMINATION MODELS AND ANIMATION | 8 |
-Light sources; Basic illumination models: Ambient, Diffuse, Specular
+Light sources -- Basic illumination models: Ambient, Diffuse, Specular
 Components of the Phong model; Color Models: Properties of light --
 Standard primaries and chromaticity diagram -- RGB, YIQ, CMY, HSV and
-HLS color models; Animations: Design of animation sequences --
-Keyframe systems -- Motion specifications
+HLS color models; Computer Animation: Design of animation sequences --
+Keyframe systems -- Motion specifications.
 
 {{{unit}}}
 |UNIT V | MULTIMEDIA | 10 |
-Multimedia basics -- Multimedia applications --Multimedia Systems
+Multimedia Systems Design:Multimedia Elements -- Multimedia applications --Multimedia Systems
 Architecture -- Defining objects for multimedia systems -- Multimedia
-data interface standards -- Compression and decompression -- Data and
-file format standards -- Hypermedia Messaging; Case Study - Blender
+data interface standards; Compression and decompression; Data and
+file format standards; Hypermedia Messaging; Case Study - Blender
 Graphics: Fundamentals –- Drawing Basic Shapes -- Modelling –- Shading
-& Textures
+& Textures.
 
 \hfill *Total Periods: 45*
 
@@ -80,9 +80,9 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Donald Hearn and Pauline Baker M, ``Computer Graphics'', Prentice
-   Hall, New Delhi, 2007. (UNIT I-IV)
+   Hall, New Delhi, 2007. 
 2. Andleigh, P. K and Kiran Thakrar, ``Multimedia Systems and
-   Design'', PHI, 2003. (UNIT V)
+   Design'', PHI, 2003. 
 
 ** REFERENCES
 1. Foley, Vandam, Feiner and Hughes, ``Computer Graphics: Principles

@@ -11,22 +11,22 @@
 | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn UNIX Commands
-- To learn vi Editor
-- To learn the use of Regular Expressions in UNIX
-- To learn File handling in UNIX
+- To learn basic UNIX Commands and vi editor
+- To learn the use of Regular Expressions and File handling in UNIX
+- To learn the concepts of shells and filters
 - To learn Shell Programming
+- To learn Perl scripting
 
 {{{unit}}}
-|UNIT I|FOUNDATIONS|9|
+|UNIT I|FOUNDATIONS|6|
 Foundations: Why Unix -- Computer System -- The Unix Environment --
 UNIX Structure -- UNIX Commands; Basic vi Editor: Editor concepts --
 The vi Editor -- Modes and Commands; Local Commands in vi; Range
 Commands in vi -- Global Commands in vi; Rearrange Text in vi; ex
-Editor; emacs editor.
+Editor.
 
 {{{unit}}}
-|UNIT II|FILES & REGULAR EXPRESSIONS|9|
+|UNIT II|FILES & REGULAR EXPRESSIONS|6|
 File Systems: Filenames -- File Types -- Regular Files -- Directories
 -- File System Implementation -- Operations on Files and Directories;
 Security and File Permissions: Users and Groups -- Security Levels --
@@ -35,7 +35,7 @@ Regular Expressions: Atoms -- Operators; grep; sed: Scripts --
 Operation -- Addresses -- Commands.
 
 {{{unit}}}
-|UNIT III|SHELLS & FILTERS|9|
+|UNIT III|SHELLS & FILTERS|6|
 Introduction to Shells: UNIX Session -- Standard Streams -- Redirection
 -- Pipes -- Command Execution -- Command-Line Editing -- Quotes -- Command
 Substitution -- Job Control -- Aliases -- Variables -- Options --
@@ -44,17 +44,7 @@ Remote Access -- File Transfer; awk: Execution -- Fields & Records --
 Operation -- Patterns -- Actions.
 
 {{{unit}}}
-|UNIT IV|KORN SHELL|9|
-Interactive Korn Shell: Korn Shell Features -- Variables -- Output --
-Input -- Exit Status of a Command -- eval Command -- Environment
-Variables -- Options -- Startup Scripts -- Command History -- Command
-Execution Process; Korn Shell Programming: Basic Script Concepts --
-Expressions -- Making Selections -- Repetition -- Special Parameters and
-Variables -- shift Command -- Argument Validation -- Debugging Scripts --
-Script Examples.
-
-{{{unit}}}
-|UNIT V|C SHELL|9|
+|UNIT IV|C SHELL|6|
 Interactive C Shell: C Shell Features -- Variables -- Output -- Input --
 Exit Status of a Command -- eval Command -- Environment Variables --
 On-Off Variables -- Startup and Shutdown Scripts -- Command History --
@@ -63,22 +53,51 @@ Command Execution Scripts; C Shell Programming: Basic Script Concepts
 shift Command -- Argument Validation -- Debugging Scripts -- Script
 Examples.
 
+{{{unit}}}
+|UNIT V|PERL|6|
+Introduction -- Data Types -- Operators -- Flow of control -- Program layout -- 
+Built-in functions -- Reading from a file -- Pattern matching -- Writing to a file -- 
+Arrays, Lists and Two-dimensional tables -- User-defined functions -- 
+Formatted printing -- Built-in variables -- The Debugger.
 
-\hfill *Total Periods: 45*
+
+\hfill *Total Periods: 30*
+
+** LIST OF EXPERIMENTS
+1. Exercises on basic UNIX commands.
+2. Exercises on file and directory handling.
+3. Exercises on security and file permissions.
+4. Exercises on pipes, quotes, aliases and variables.
+5. Exercises on filters.
+6. Exercises using sed.
+7. Exercises using grep.
+8. Exercises using awk.
+9. Exercises on C Shell scripting.
+10. Exercises on Perl scripting.
+
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Work in UNIX environment using command line (K2).
-- Use vi editor with proficiency (K3).
-- Write Shell programs (K3).
+- work in UNIX environment using command line and use the vi editor (K3).
+- write simple Shell scripts for pattern matching (K3).
+- write simple Shell scripts with filters (K3).
+- Write shell programs using C Shell (K3).
+- Write simple Perl scripts (K3).
 
-** REFERENCES
+** TEXTBOOK
 1. Behrouz Forouzan and Richard Gilberg, ``UNIX and Shell Programming: A
    Textbook'', Thomson Learning Inc., 2005
-2. Richard Blum and Christine Bresnahan, ``Linux Command Line and Shell
+2. Tom Phoenix, Brian D Foy, and Randal L. Schwartz, 
+   ``Learning Perl'', O'Reilly, 7th Edition,  2017
+
+** REFERENCES
+1. Richard Blum and Christine Bresnahan, ``Linux Command Line and Shell
    Scripting Bible'', Wiley 2015
-3. Sumitabha Das, ``Unix : Concepts and Applications'', Tata McGraw Hill
+2. Sumitabha Das, ``Unix : Concepts and Applications'', Tata McGraw Hill
    2017
-4. Stephen Kochan and Patrick Wood, ``Shell Programming in UNIX, Linux
+3. Stephen Kochan and Patrick Wood, ``Shell Programming in UNIX, Linux
    and OSX'', Addison Wesly 2016
-5. Mark Burgess, ``The UNIX Programming Environment'', 1999
+4. M.G. Venkateshmurthy , ``Introduction to Unix and Shell Programming'', 
+   Pearson Education; First edition, 2005
+5. Randal K. Michael ``Mastering Unix Shell Scripting'',  Wiley; 2nd edition, 2008

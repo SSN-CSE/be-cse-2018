@@ -68,7 +68,7 @@ After the completion of this course, students will be able to:
 - Specify and Verify simple systems using NuSMV (K3).
 - Specify and Verify simple systems using UPPAAL (K3).
 
-** REFERENCES
+** TEXTBOOKS
 1. M. Huth and M. Ryan, ``Logic in Computer Science -- Modeling and
    Reasoning About Systems'', Second Edition, Cambridge University
    Press, 2004. (Units I,II and III)
@@ -76,5 +76,13 @@ After the completion of this course, students will be able to:
    The MIT Press, 1999. (Units III and IV)
 3. C Baier and J Katoen, ``Principles of Model Checking'', The MIT
    Press, 2008. (Unit V)
-4. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
+   
+** REFERENCES
+1. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
    ``Handbook of Model Checking'', Springer 2018
+2. Orna Grumberg, Helmut Veith, ``25 Years of Model Checking: History, Achievements, Perspectives''
+   Springer-Verlag, 2008
+3. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive Systems: Safety'',
+   Springer-Verlag, 2012
+4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rüdiger Olderog, ``Verification of Sequential and Concurrent Programs'',
+   Springer, 3rd ed. 2009

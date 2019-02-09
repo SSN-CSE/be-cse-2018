@@ -67,16 +67,18 @@ After the completion of this course, students will be able to:
 - Implement AI search algorithms in PROLOG (K3).
 - Implement a simple Expert system shell in PROLOG (K3).
 
-** REFERENCES:
+** TEXTBOOKS:
 1. Uwe Schoning, ``Logic for Computer Scientists'',
    Birkhauser, 1999. (Units I, II)
 2. Ivan Bratko, ``PROLOG: Programming for Artificial Intelligence'',
    4th Edn, Pearson, 2011. (Units III, IV, V)
-3. Kees Doets, ``From Logic to Logic Programming'', MIT Press 1994
-4. Patrick Blackburn, Johan Bos, Kristina Streignitz, ``Learn PROLOG
+   
+** REFERENCES:
+1. Kees Doets, ``From Logic to Logic Programming'', MIT Press 1994
+2. Patrick Blackburn, Johan Bos, Kristina Streignitz, ``Learn PROLOG
    Now'', College Publications, 2006
-5. Dennis Merritt, ``Building Expert Systems in PROLOG'', Amzi! Inc. 2000
-6. Helder Coelho, Jose C. Cotta, ``PROLOG by Example: How to Learn,
+3. Dennis Merritt, ``Building Expert Systems in PROLOG'', Amzi! Inc. 2000
+4. Helder Coelho, Jose C. Cotta, ``PROLOG by Example: How to Learn,
    Teach and Use It'', Springer--Verlag, 2011
-7. W F Clocksin, C S Mellish, ``Programming in PROLOG'',
+5. W F Clocksin, C S Mellish, ``Programming in PROLOG'',
    Springer-Verlag, 2016

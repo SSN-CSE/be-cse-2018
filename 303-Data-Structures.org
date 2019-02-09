@@ -19,8 +19,7 @@ include at least one application of trees (?)
 - To comprehend the notion of linear and non linear data structures
 - To design a suitable data structure for the given problem and
   implement them in a high level programming language
-- To understand the need for different types of searching and sorting
-  techniques
+- To understand the different types of searching and sorting techniques
 - To learn the introductory concepts of hashing techniques
 
 {{{unit}}}
@@ -46,14 +45,14 @@ algorithms: Dijkstra's algorithm - All-Pairs shortest path - Breadth-first trave
 {{{unit}}}
 |UNIT V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
-Selection sort - Shell sort - Merge sort – Quicksort - Complexity analysis of searching and sorting algorithms; 
-Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
+Selection sort - Shell sort; Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Implement linear and non linear data structures (K3)
+- Implement linear data structures (K3)
+- Implement non linear data structures (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K2)
 - Compare searching and sorting algorithms in terms of time and space (K2)
 - Analyze a problem statement and choose an appropriate data structure to solve it (K4)
