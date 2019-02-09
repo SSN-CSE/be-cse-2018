@@ -1,6 +1,6 @@
 * <<<OE4>>> Introduction to Big Data Analytics
 :properties:
-:author: 
+:author: R. Priyadharsini, S.Rajalakshmi 
 :end:
 
 #+startup: showall
@@ -10,25 +10,40 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
+•	To know the fundamental concepts of big data and analytics.
+•	To explore tools and practices for working with big data
+•	To learn about stream computing.
+•	To know about the research that requires the integration of large amounts of data.
 
 {{{unit}}}
-|UNIT I | TITLE | <HOURS> |
+|UNIT I | INTRODUCTION TO BIG DATA | 6 |
+Evolution of Big data - Best Practices for Big data Analytics - Big data characteristics - Validating The Promotion of the Value of Big Data - Big Data Use Cases - Characteristics of Big Data Applications - Perception and Quantification of Value - Understanding Big Data Storage: HDFS; Map Reduce Programming Model.
 
 {{{unit}}}
-|UNIT II | TITLE | <HOURS> |
+|UNIT II | CLUSTERING AND CLASSIFICATION | 6 |
+Advanced Analytical Theory and Methods: Overview of Clustering - K-means - Use Cases - Classification: Decision Trees - Overview of a Decision Tree - The General Algorithm - Decision Tree Algorithms - Evaluating a Decision Tree - Decision Trees in R - Naïve Bayes - Bayes‘ Theorem - Naïve Bayes Classifier
 
 {{{unit}}}
-|UNIT III | TITLE | <HOURS> |
+|UNIT III | ASSOCIATION AND RECOMMENDATION SYSTEM | 6 |
+Advanced Analytical Theory and Methods: Association Rules - Overview - Apriori Algorithm - Evaluation of Candidate Rules - Applications of Association Rules  Recommendation System: Collaborative Recommendation- Content Based Recommendation 
 
 {{{unit}}}
-|UNIT IV | TITLE | <HOURS> |
+|UNIT IV | STREAM DATA ANALYSIS | 6 |
+Introduction to Streams Concepts – Stream Data Model and Architecture - Stream Computing, Sampling Data in a Stream – Filtering Streams – Counting Distinct Elements in a Stream – Estimating moments – Counting oneness in a Window – Decaying Window 
 
 {{{unit}}}
-|UNIT V | TITLE | <HOURS> |
+|UNIT V | NOSQL DATA MANAGEMENT | 6 |
+NoSQL Databases : Schema-less Models: Increasing Flexibility for Data Manipulation - Key Value Stores- Document Stores - Tabular Stores - Object Data Stores - Graph Databases Hive - Sharding - Hbase 
 
 ** SUGGESTIVE EXPERIMENTS
- - Experiment 1
- - Experiment 2
+1.	 Statistical data analysis
+2.	 Decision tree classification techniques (Flower type classification based on available attributes using Iris dataset, Passengers survival classification using titanic dataset)
+3.	 K-means clustering (Document categorization by multiclass techniques)
+4.	Association rule mining (Market basket analysis) 
+5.	Set up of Hadoop environment
+6.	Applications using Map-Reduce programming (Examples: word count / frequency programs / matrix multiplication)
+7.	Application that stores data in NoSQL (Sentiment analysis using twitter dataset)
+
  
 *Theory Periods: 30*
 
@@ -38,16 +53,23 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-
+•	Work with big data tools and its analysis techniques (K3)
+•	Analyze data by utilizing clustering and classification algorithms (K4)
+•	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
+•	Perform analytics on data streams (K2)
+•	Learn NoSQL databases and management.(K2)
 
       
 **Text Books
-1. Book 1
-2. Book 2
+1. 1.	Anand Rajaraman and Jeffrey David Ullman, "Mining of Massive Datasets", Cambridge University Press, 2012.
+2.	David Loshin, "Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph", Morgan Kaufmann/El sevier Publishers, 2013.
+
+
 
 **Reference Books
-1. Reference 1
-2. Reference 2
-3. Reference 3
-4. Reference 4
-5. Reference 5
+1. 1.	EMC Education Services, "Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data", Wiley publishers, 2015.
+2.	Bart Baesens, "Analytics in a Big Data World: The Essential Guide to Data Science and its Applications", Wiley Publishers, 2015.
+3.	Dietmar Jannach and Markus Zanker, "Recommender Systems: An Introduction", Cambridge University Press, 2010.
+4.	Kim H. Pries and Robert Dunnigan, "Big Data Analytics: A Practical Guide for Managers " CRC Press, 2015.
+5.	Jimmy Lin and Chris Dyer, "Data-Intensive Text Processing with MapReduce", Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
+
