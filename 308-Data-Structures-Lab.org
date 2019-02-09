@@ -10,14 +10,14 @@
 | L | T | P | C |
 | 0 | 0 | 4 | 2 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - Understand and apply suitable data structure – linear and non linear
 - Design the data structure for the given problem and implement them in a high level programming language
 - Understand the concepts and differences in searching and sorting techniques
 - Learn the introductory concepts of hashing techniques
 
 
-Suggestive Lab Experiments
+** SUGGESTIVE LAB EXPERIMENTS
 - Array implementation of list ADT (e.g Manage student records)
 - Represent polynomial expression as linked list and write functions for polynomial manipulation
 - Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
@@ -32,9 +32,9 @@ Suggestive Lab Experiments
 - Implement binary search and any two sorting algorithms 
 - Implement hashing using separate chaining technique 
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Implement linear and non-linear data structures to solve a given problem (K3)
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure

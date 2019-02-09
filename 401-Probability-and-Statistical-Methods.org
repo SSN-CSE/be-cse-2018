@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 2 | 0 | 4 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - Identify the standard distributions and apply them in solving problems.
 - Understand the concept of two-dimensional random variables and solve
   problems in finding the Joint probabilities and correlation between
@@ -38,13 +38,13 @@ andidentically distributed random variables).
 | UNIT III | 	TESTS OF SIGNIFICANCE | 12 |
 Sampling distributions -Small and large sample test- Test based on
 Normal and t distribution (Single and difference of mean and
-proportion)- χ2- Test forgoodness of fit, Independence of attributes-
+proportion)- \chi^2- Test forgoodness of fit, Independence of attributes-
 F test for variance.
 
 {{{unit}}}
 | UNIT IV | 	DESIGN OF EXPERIMENTS | 12 |
 Completely randomized design - Randomized block design - Latin square
-design -22 factorialdesign.
+design - factorial design.
 
 {{{unit}}}
 |UNIT V| 	STATISTICAL QUALITY CONTROL| 12     |
@@ -52,9 +52,9 @@ Control charts for measurements (X and R charts) - Control charts for
 attributes (p, c and npcharts) - Tolerance limits - Acceptance
 sampling.
 
-\hfill *Total: 60 Periods*
+\hfill *Total Periods: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Identify standard distributions and apply them.
 - Solve problems in two dimension random variables and find the
@@ -64,7 +64,7 @@ After the completion of this course, students will be able to:
 - Solve problems in analysis of variance.
 - Analyze quality control by applying control chart methods.
       
-** Text Books
+** TEXT BOOKS
 1. Milton, J. S. and Arnold, J.C., ``Introduction to Probability and
    Statistics'', Tata McGrawHill, New Delhi, 4th Edition, 3rd
    Reprint, 2008.
@@ -72,7 +72,7 @@ After the completion of this course, students will be able to:
    Statistics forEngineers'', Pearson Education, Asia, 8th
    Edition, 2011.
 
-** References
+** REFERENCES
 1. Devore, J.L., ``Probability and Statistics for Engineering and the
    Sciences'', ThomsonBrooks/Cole, International Student Edition, New
    Delhi, 7th Edition, 2008.

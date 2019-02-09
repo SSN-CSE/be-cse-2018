@@ -15,20 +15,20 @@
   learning.
 
 {{{unit}}}
-|Unit I | <Title> | <Periods> |
+|UNIT I | <Title> | <Periods> |
 
 
 {{{unit}}}
-|Unit II | <Title> | <Periods> |
+|UNIT II | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit III | <Title> | <Periods> |
+|UNIT III | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit IV | <Title> | <Periods> |
+|UNIT IV | <Title> | <Periods> |
 
 {{{unit}}}
-|Unit V | <Title> | <Periods> |
+|UNIT V | <Title> | <Periods> |
 
 
 \hfill *Total: <Total Periods>*

@@ -12,19 +12,19 @@
 ** Course Objectives
 
 {{{unit}}}
-|Unit I | TITLE | <HOURS> |
+|UNIT I | TITLE | <HOURS> |
 
 {{{unit}}}
-|Unit II | TITLE | <HOURS> |
+|UNIT II | TITLE | <HOURS> |
 
 {{{unit}}}
-|Unit III | TITLE | <HOURS> |
+|UNIT III | TITLE | <HOURS> |
 
 {{{unit}}}
-|Unit IV | TITLE | <HOURS> |
+|UNIT IV | TITLE | <HOURS> |
 
 {{{unit}}}
-|Unit V | TITLE | <HOURS> |
+|UNIT V | TITLE | <HOURS> |
 
 ** SUGGESTIVE EXPERIMENTS
  - Experiment 1

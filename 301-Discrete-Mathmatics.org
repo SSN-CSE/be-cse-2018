@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - Understand the classical logic, implications and equivalences,
   normal forms and its applications.
 - Learn Mathematical Induction.
@@ -19,41 +19,41 @@
 - Understand the basics of lattices and Boolean algebra.
 
 {{{unit}}}
-|Unit I | LOGIC AND PROOFS  | 13 |
+|UNIT I | LOGIC AND PROOFS  | 13 |
 Propositional Logic - Propositional equivalences - Predicates and
 quantifiers - Nested quantifiers - Rules of inference - Introduction
 to proofs - Proof methods and strategy - Normal forms - Applications
 to switching circuits.
 
 {{{unit}}}
-|Unit II | COMBINATORICS | 11 |
+|UNIT II | COMBINATORICS | 11 |
 Mathematical induction - Strong induction - The pigeonhole principle -
 Recurrence relations - Solving linear recurrence relations using
 generating functions - Inclusion and Exclusion Principle and its
 applications.
 
 {{{unit}}}
-|Unit III | GRAPHS | 10 |
+|UNIT III | GRAPHS | 10 |
 Graphs - Graph terminology and special types of graphs - Subgraphs -
 Matrix representation of graphs and graph isomorphism - Connectivity -
 Eulerian and Hamilton graphs.
 
 {{{unit}}}
-|Unit IV | ALGEBRAIC STRUCTURES | 13 |
+|UNIT IV | ALGEBRAIC STRUCTURES | 13 |
 Algebraic systems - Semi groups and monoids - Groups - Subgroups
 Homomorphisms - Normal subgroup and coset - Lagrange’s theorem -
 Definitions and examples of Rings and Fields.
 
 {{{unit}}}
-|Unit V | LATTICES AND BOOLEAN ALGEBRA | 13 |
+|UNIT V | LATTICES AND BOOLEAN ALGEBRA | 13 |
 Partial ordering - Posets - Lattices as Posets - Properties of
 lattices - Lattices as algebraic systems - Sub lattices - Direct
 product and Homomorphism - Distributive and Modular lattices - Boolean
 algebra - Stone’s representation Theorem.
 
-\hfill *Total: 60 Periods*
+\hfill *Total Periods: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 On studying this course, the students will able to:
 - Write simple proofs using Propositioal and First-Order Logics.
 - Write simple proofs using mathematical induction.
@@ -63,7 +63,7 @@ On studying this course, the students will able to:
 - Solve problems in partial ordering relations, equivalence relations
   and lattices.
 
-** Text Books
+** TEXT BOOKS
 1. Kenneth H. Rosen, ``Discrete Mathematics and its Applications'', Tata
    McGraw Hill Pub. Co. Ltd., New Delhi, 7th Edition, Special Indian
    edition, 2017.
@@ -71,7 +71,7 @@ On studying this course, the students will able to:
    with Applications to Computer Science'', Tata McGraw Hill
    Pub. Co. Ltd, New Delhi, 30th Reprint, 2011.
 
-** References
+** REFERENCES
 1. Ralph. P. Grimaldi, ``Discrete and Combinatorial Mathematics: An
    Applied Introduction'', Pearson Education Asia, Delhi, 4th
    Edition, 2007.

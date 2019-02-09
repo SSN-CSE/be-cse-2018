@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To study the various analog and digital modulation techniques
 - To study the principles behind information theory and coding
 - To study the various digital communication techniques
@@ -18,7 +18,7 @@
 
 
 {{{unit}}}
-| Unit I | ANALOG MODULATION | 9 |
+| UNIT I | ANALOG MODULATION | 9 |
 Amplitude Modulation – AM, DSBSC, SSBSC, VSB – Spectrum, modulators
 and demodulators – Angle modulation – PM and FM – Spectrum, FM
 modulation –Direct and Indirect methods, FM Demodulation –Foster
@@ -26,32 +26,32 @@ Seeley Discriminator, PLL as FM demodulator, Superheterodyne
 receivers.
 
 {{{unit}}}
-|Unit II| PULSE MODULATION| 								          9 |
+|UNIT II| PULSE MODULATION| 								          9 |
 Low pass sampling theorem – Quantization –PAM–Line coding – PCM, DPCM,
 DM, and ADM - Time Division Multiplexing, Frequency Division
 Multiplexing.
 
 {{{unit}}}
-|Unit III| DIGITAL MODULATION AND TRANSMISSION|             			          9 |
+|UNIT III| DIGITAL MODULATION AND TRANSMISSION|             			          9 |
 ASK, FSK–PSK: BPSK, QPSK & DPSK –QAM– Comparison– Principles of M-ary
 signaling, ISI – Pulse shaping– Eye pattern.
 
 {{{unit}}}
-|Unit IV| INFORMATION THEORY AND CODING| 					          9 |
+|UNIT IV| INFORMATION THEORY AND CODING| 					          9 |
 Entropy – Source coding theorem – Shannon–Fano coding, Huffman Coding
 – Channel capacity – Shannon-Hartley law– Error control codes - Cyclic
 codes- Encoder, Syndrome Calculator– Convolution Coding - Viterbi
 Decoding.
 
 {{{unit}}}
-|Unit V| SPREAD SPECTRUM AND MULTIPLE ACCESS|               			          9|
+|UNIT V| SPREAD SPECTRUM AND MULTIPLE ACCESS|               			          9|
 PN sequences – properties – m-sequence – DSSS – Processing gain,
 Jamming margin – FHSS – Synchronization and tracking – Multiple Access
 – FDMA, TDMA, CDMA.
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Apply analog and digital communication techniques-Application.
 - Design analog and digital communication systems-Synthesis.
@@ -59,12 +59,12 @@ After the completion of this course, students will be able to:
 - Analyze Source and Error control coding-Analysis.
 - Analyze the performance of spread spectrum systems-Analysis.
       
-** Text Books
+** TEXT BOOKS
 1. Wayne Tomasi, ``Electronic communications systems: Fundamentals
-   through Advanced'', Fifth edition, Pearson/​Prentice Hall.
-2. S. Haykin “Digital Communications” John Wiley 2005 
+   through Advanced'', Fifth edition, Pearson Prentice Hall.
+2. S. Haykin, ``Digital Communications'' John Wiley 2005 
 
-** References
+** REFERENCES
 1. B.P.Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
    edition, Oxford University Press, 2007
 2. H P Hsu, Schaum Outline Series – ``Analog and Digital

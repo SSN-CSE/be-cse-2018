@@ -16,7 +16,7 @@
 - To learn  implementation of Expert system shell in PROLOG.
 
 {{{unit}}}
-|Unit I|INTRODUCTION TO LOGIC|9|
+|UNIT I|INTRODUCTION TO LOGIC|9|
 Foundations of Propositional Logic: Syntax and Semantics – Semantic
 Entailment; Normal Forms; Resolution in PL; Horn Logic; Foundations of
 First Order Logic: Syntax and Semantics; Normal Forms; Undecidability
@@ -26,21 +26,21 @@ resolution -- SLD resolution – LUSH resolution;
 
 
 {{{unit}}}
-|Unit II|INTRODUCTION TO LOGIC PROGRAMMING|9|
+|UNIT II|INTRODUCTION TO LOGIC PROGRAMMING|9|
 Foundations: Answer Generation; Horn Clause Programs: Semantics of
 Logic Program – Procedural Semantics – Model-theoretic Semantics;
 Evaluation Strategies: Swapping Lemma – PROLOG’s Evaluation Strategy –
 DFS -- BFS;
 
 {{{unit}}}
-|Unit III|PROGRAMMING IN PROLOG|9|
+|UNIT III|PROGRAMMING IN PROLOG|9|
 Syntax & Semantics of PROLOG -- Programming with relations -- Facts --
 Questions -- Variables -- Conjunctions of goals -- backtracking --
 Rules -- Structures -- Recursive programs -- Lists -- Controlling
 execution -- the cut – Input Output – Exception Handling;
 
 {{{unit}}}
-|Unit IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
+|UNIT IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
 Overview of PROLOG: Lists – Operators – Arithmetic – Data Structures
 –Eight Queens Problem; Operations on Data Structures: Representing and
 Sorting Lists – Representing Sets by Binary Trees – Insertion &
@@ -52,7 +52,7 @@ minimax principle -- The alpha-beta algorithm -- Minimax-based
 programs;
 
 {{{unit}}}
-|Unit V|PROLOG AND EXPERT SYSTEMS|9|
+|UNIT V|PROLOG AND EXPERT SYSTEMS|9|
 Foundations: Introduction to Expert Systems – Features of Expert
 Systems -- Functions of an Expert System -- Structure of an Expert
 System; If-then rules for representing knowledge; Developing a Simple

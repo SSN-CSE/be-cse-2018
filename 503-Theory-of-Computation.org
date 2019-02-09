@@ -19,7 +19,7 @@ The student should be made to:
 
 
 {{{unit}}}
-|Unit I | Finite Automata and Regular Languages  | 10 |
+|UNIT I | Finite Automata and Regular Languages  | 10 |
 Introduction-Basic Mathematical Notation and techniques; Finite
 Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
 Finite Automata(NFA) – Finite Automata with Epsilon Transitions-
@@ -30,7 +30,7 @@ Languages.
 
 
 {{{unit}}}
-|Unit II | Context-Free Languages  | 8 |
+|UNIT II | Context-Free Languages  | 8 |
 Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and
 Context-Free Language (CFL) – Derivation Trees – Ambiguity in Grammars
 and Languages –Equivalence of Derivation Trees and Derivation –
@@ -38,19 +38,19 @@ Simplification of Context-free Grammar; Chomsky Normal Form - Greibach
 Normal Form
 
 {{{unit}}}
-|Unit III | Pushdown Automata | 9 |
+|UNIT III | Pushdown Automata | 9 |
 Pushdown Automata-Definitions –Moves –Instantaneous descriptions
 –Deterministic pushdown automata–Equivalence of Pushdown automata and
 CFL-pumping lemma for CFL.
 
 {{{unit}}}
-|Unit IV | Turing machines  | 9 |
+|UNIT IV | Turing machines  | 9 |
 Definitions of Turing machines –Models –Techniques for Turing machine
 construction –Multi head and Multi tape Turing Machines – Universal
 Turing Machine.
 
 {{{unit}}}
-|Unit V | Undecidability | 9 |
+|UNIT V | Undecidability | 9 |
 Recursive Enumerable (RE) Language - Non Recursive Enumerable (RE)
 Language – Undecidable Problems: Halting Problem - Post’s
 Correspondence problem - Post’s Correspondence Problem.

@@ -42,7 +42,7 @@ sets.
 Nearest-neighbour classification ; Distance based Clustering: K-means
 -- Clustering around medoids ; Hierarchical Clustering.
 
-|Unit IV | DISTANCE BASED MODELS| 6 |
+|UNIT IV | DISTANCE BASED MODELS| 6 |
 Nearest-neighbour classification; Distance based Clustering: K-means
 -- Clustering around medoids; Hierarchical Clustering.
 

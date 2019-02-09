@@ -9,12 +9,13 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - Learn the algorithm analysis techniques.
 - Become familiar with the different algorithm design techniques.
 - Understand the limitations of algorithm power.
 
-|Unit I|Introduction and Analysis |10| 
+{{{unit}}}
+|UNIT I|INTRODUCTION AND ANALYSIS |10| 
 Introduction: Notion of an Algorithm –- Fundamentals of Algorithmic
 Problem Solving –- Important Problem Types; Fundamentals of the
 Analysis of Algorithm Efficiency: The Analysis Framework –- Asymptotic
@@ -22,7 +23,8 @@ Notations, properties and Basic Efficiency Classes -– Mathematical
 analysis for Recursive and Non-recursive algorithms -- Empirical
 Analysis of Algorithms -- Algorithm Visualization.
 
-|Unit II|Brute Force and Divide and Conquer |8| 
+{{{unit}}}
+|UNIT II|BRUTE FORCE AND DIVIDE AND CONQUER |8| 
 Brute Force and Exhaustive Search: Brute-Force String Matching --
 Closest-Pair and Convex-Hull Problems; Exhaustive Search: Traveling
 Salesman Problem -- Knapsack Problem -- Assignment problem.  Divide
@@ -30,46 +32,30 @@ and conquer: Mergesort –- Quicksort -– Multiplication of Large
 Integers and Strassen's Matrix Multiplication -- Closest-Pair and
 Convex-Hull Problems.
 
-|Unit III |Dynamic Programming and Greedy Technique |9| 
+{{{unit}}}
+|UNIT III |DYNAMIC PROGRAMMING AND GREEDY TECHNIQUE |9| 
 Dynamic Programming: Computing a Binomial Coefficient -- Knapsack
 Problem and Memory functions -- Optimal Binary Search Trees --
 Warshall's and Floyd's algorithm.  Greedy Technique: Prim's algorithm
 -- Kruskal's Algorithm -- Dijkstra's Algorithm -- Huffman Trees and
 codes.
 
-|Unit IV | Iterative Improvement and Backtracking |9| 
+{{{unit}}}
+|UNIT IV | ITERATIVE IMPROVEMENT AND BACKTRACKING |9| 
 Iterative Improvement: The Simplex Method -- The Maximum-Flow Problem
 –- Maximum Matching in Bipartite Graphs -- The Stable marriage Problem;
 Backtracking: n-Queens problem –- Hamiltonian Circuit Problem --
 Subset Sum Problem.
 
-|Unit V | Branch & Bound and Limitations of Algorithm Power |9| 
+{{{unit}}}
+|UNIT V | BRANCH & BOUND AND LIMITATIONS OF ALGORITHM POWER |9| 
 Branch and Bound: Assignment problem -- Knapsack Problem -- Traveling
 Salesman Problem; Limitations of Algorithm Power: Lower-Bound
 Arguments -- P, NP and NP-Complete Problems; Coping with the
 Limitations of Algorithm Power: Approximation Algorithms for NP-Hard
 Problems -- Traveling Salesman problem -- Knapsack problem.
 
-\hfill *Total: 45 Periods*
-
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Design algorithms for various computing problems (K3)
-- Analyze the time and space complexity of algorithms (K4)
-- Compare the different algorithm design techniques for a given problem (K4)
-- Modify existing algorithms to improve efficiency (K4)
-- Understand the limitation of algorithm power (K2)
-
-** References
-1. Anany Levitin, ``Introduction to the Design and Analysis of
-   Algorithms'', Third Edition, Pearson Education, 2012.
-2. S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani,
-   ``Algorithms'', McGraw Hill Education; 1st edition, 2017
-3. Thomas H.Cormen, Charles E.Leiserson, Ronald L. Rivest and Clifford
-   Stein, ``Introduction to Algorithms'', Third Edition, PHI Learning
-   Private Limited, 2012
-4. Steven S. Skiena, ``The Algorithm Design Manual'', Second Edition,
-   Springer, 2008.
+\hfill *Theory Periods: 45*
 
 ** LAB EXERCISES
 1. Implementation of non-recusive and recursive algothms for the given
@@ -86,4 +72,26 @@ After the completion of this course, students will be able to:
    technique
 10. Mini project
 
-\hfill *Total:20 Periods*
+\hfill *Practical Periods: 30*
+
+\hfill *Total Periods: 75*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Design algorithms for various computing problems (K3)
+- Analyze the time and space complexity of algorithms (K4)
+- Compare the different algorithm design techniques for a given problem (K4)
+- Modify existing algorithms to improve efficiency (K4)
+- Understand the limitation of algorithm power (K2)
+
+** REFERENCES
+1. Anany Levitin, ``Introduction to the Design and Analysis of
+   Algorithms'', Third Edition, Pearson Education, 2012.
+2. S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani,
+   ``Algorithms'', McGraw Hill Education; 1st edition, 2017
+3. Thomas H.Cormen, Charles E.Leiserson, Ronald L. Rivest and Clifford
+   Stein, ``Introduction to Algorithms'', Third Edition, PHI Learning
+   Private Limited, 2012
+4. Steven S. Skiena, ``The Algorithm Design Manual'', Second Edition,
+   Springer, 2008.
+

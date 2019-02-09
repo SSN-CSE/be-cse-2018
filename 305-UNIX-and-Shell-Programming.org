@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn UNIX Commands
 - To learn vi Editor
 - To learn the use of Regular Expressions in UNIX
@@ -18,7 +18,7 @@
 - To learn Shell Programming
 
 {{{unit}}}
-|Unit I|FOUNDATIONS|9|
+|UNIT I|FOUNDATIONS|9|
 Foundations: Why Unix -- Computer System -- The Unix Environment --
 UNIX Structure -- UNIX Commands; Basic vi Editor: Editor concepts --
 The vi Editor -- Modes and Commands; Local Commands in vi; Range
@@ -26,7 +26,7 @@ Commands in vi -- Global Commands in vi; Rearrange Text in vi; ex
 Editor; emacs editor.
 
 {{{unit}}}
-|Unit II|FILES & REGULAR EXPRESSIONS|9|
+|UNIT II|FILES & REGULAR EXPRESSIONS|9|
 File Systems: Filenames -- File Types -- Regular Files -- Directories
 -- File System Implementation -- Operations on Files and Directories;
 Security and File Permissions: Users and Groups -- Security Levels --
@@ -35,7 +35,7 @@ Regular Expressions: Atoms -- Operators; grep; sed: Scripts --
 Operation -- Addresses -- Commands.
 
 {{{unit}}}
-|Unit III|SHELLS & FILTERS|9|
+|UNIT III|SHELLS & FILTERS|9|
 Introduction to Shells: UNIX Session -- Standard Streams -- Redirection
 -- Pipes -- Command Execution -- Command-Line Editing -- Quotes -- Command
 Substitution -- Job Control -- Aliases -- Variables -- Options --
@@ -44,7 +44,7 @@ Remote Access -- File Transfer; awk: Execution -- Fields & Records --
 Operation -- Patterns -- Actions.
 
 {{{unit}}}
-|Unit IV|KORN SHELL|9|
+|UNIT IV|KORN SHELL|9|
 Interactive Korn Shell: Korn Shell Features -- Variables -- Output --
 Input -- Exit Status of a Command -- eval Command -- Environment
 Variables -- Options -- Startup Scripts -- Command History -- Command
@@ -54,7 +54,7 @@ Variables -- shift Command -- Argument Validation -- Debugging Scripts --
 Script Examples.
 
 {{{unit}}}
-||Unit V|C SHELL|9|
+|UNIT V|C SHELL|9|
 Interactive C Shell: C Shell Features -- Variables -- Output -- Input --
 Exit Status of a Command -- eval Command -- Environment Variables --
 On-Off Variables -- Startup and Shutdown Scripts -- Command History --
@@ -64,15 +64,15 @@ shift Command -- Argument Validation -- Debugging Scripts -- Script
 Examples.
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Work in UNIX environment using command line (K2).
 - Use vi editor with proficiency (K3).
 - Write Shell programs (K3).
 
-** References:
+** REFERENCES
 1. Behrouz Forouzan and Richard Gilberg, ``UNIX and Shell Programming: A
    Textbook'', Thomson Learning Inc., 2005
 2. Richard Blum and Christine Bresnahan, ``Linux Command Line and Shell

@@ -67,7 +67,7 @@ Upon the completion of the course the students should be able to:
 1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond
    Human-Computer Interaction'', 4th ed. John Wiley & Sons Ltd, 2015
 2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', First
-   Edition, O‟Reilly, 2009.
+   Edition, O'Reilly, 2009.
 
 ** REFERENCES
 1. Preece J., Rogers Y., Sharp H., Baniyon D., Holland S. and Carey T,

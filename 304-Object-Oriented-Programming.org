@@ -10,13 +10,13 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn the basics of Object Oriented Programming 
 - To know the principles of inheritance and polymorphism
 - To learn the concepts of generic methods and  generic collections
 
 {{{unit}}}
-|Unit I |Introduction | 10 |
+|UNIT I |INTRODUCTION | 10 |
 Principles of OOP: Classes - Objects - Data hiding - Data
 encapsulation- Inheritance - Polymorphism; Definition of classes:
 objects - methods - Access specifiers – Static and final classes and
@@ -24,7 +24,7 @@ members; Object construction and destruction – Fundamental programming
 structures in Java; Streams: Input-Output; Examples in Java.
 
 {{{unit}}}
-|Unit II | Inheritance 	 | 10 |
+|UNIT II | INHERITANCE 	 | 10 |
 Inheritance: Definition - Types of inheritance: Single - multilevel -
 multiple - hierarchical - hybrid; Subclass constructors – Interfaces
 in Java: Definition, Implementation - Extending interfaces -
@@ -32,27 +32,27 @@ Inheritance versus delegation – Inheritance rules - inner classes;
 Examples in java
 
 {{{unit}}}
-|Unit III |Polymorphism and Exception handling	  | 7 |
+|UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
 Polymorphism: Method overloading and overriding - Dynamic method
 dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own
 exception; Packages in Java; Examples in java
 
 {{{unit}}}
-|Unit IV |Generic types and methods	 | 9 |
+|UNIT IV |GENERIC TYPES AND METHODS	 | 9 |
 Definition and concepts: generic classes and generic methods – generic
 types – Restrictions and limitations – Inheritance rules for generic
 types – reflections; Examples in Java
 
 {{{unit}}}
-|Unit V | Generic Collections for ADTs and algorithms	 | 9 |
+|UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
 Introduction to collections; Collection classes and interfaces: Array
 list - Linked list - Queue - set - trees; Iterators for collections –
 Map class – Algorithms: sorting - searching - user-defined algorithms
 – Examples in Java
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Solve problems using classes and objects (K3)
 - Develop programs using inheritance and interfaces (K3)
@@ -60,14 +60,15 @@ After the completion of this course, students will be able to:
 - Design applications using generic programming. (K3)
 - Develop algorithms using generic collections(K3)
      
-** Text Books
+** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-oriented
    programming and Java'', 2nd Edition, Springer Publication,
    2008.
 2. Herbert Schildt, ``Java The complete reference'', 8th Edition,
    McGraw Hill Education, 2011.
 
-** References
+
+** REFERENCES
 1. Timothy Budd, ``Understanding Object-oriented programming with
    Java'', Updated Edition, Pearson Education, 2000.
 2. C. Thomas Wu, ``An introduction to Object-oriented programming with

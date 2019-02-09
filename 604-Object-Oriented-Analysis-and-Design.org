@@ -80,7 +80,7 @@ At the end of the course, the student should be able to:
 2. Martin Fowler, ``UML Distilled: A Brief Guide to the Standard
    Object Modeling Language'', Third edition, Addison Wesley, 2003.
 3. Booch, G., Jacobson, I., Rumbaugh, J., ``The Unified Modeling
-   Language User Guide'', Addison‐Wesely, 2008.
+   Language User Guide'', Addison Wesley, 2008.
 4.Roger S Pressman, ``Software Engineering -- A Practitioner’s
 Approach'', seventh edition, 2010.
 5. Aditya P. Mathur, ``Foundations of Software Testing -- Fundamental

@@ -10,13 +10,13 @@
 | L | T | P |   C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To build software development skills using object oriented
   programming for real world applications.
 - To develop applications using inheritance and polymorphism.
 - To understand and implement generic programming.
 
-** List of experiments
+** LIST OF EXPERIMENTS
 1. Program using classes and objects (Eg: Electricity bill generation)
 2. Program to perform string operations using ArrayList. 
 3. Program to implement packages (Eg: Currency converter)
@@ -28,9 +28,9 @@
 9. Develop a mini project for any application using the constructs of Java. 
 
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop applications in Java using classes and methods.(K3)
 - Apply inheritance interface and concepts to write programs.(K3)

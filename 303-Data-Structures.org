@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the concepts of ADT
 - To comprehend the notion of linear and non linear data structures
 - To design a suitable data structure for the given problem and
@@ -20,34 +20,34 @@
 - To learn the introductory concepts of hashing techniques
 
 {{{unit}}}
-|Unit I | Linear Data Structures - List | 10 |
+|UNIT I | Linear Data Structures - List | 10 |
 Algorithm analysis: Running time calculations; Abstract Data Types (ADTs) - List ADT: Array implementation of lists –
 Linked lists – Circular linked lists - Doubly linked lists - Applications of lists: polynomial manipulation.
 
 {{{unit}}}
-|Unit II | Linear Data Structures – Stacks and Queues | 8 |
+|UNIT II | Linear Data Structures – Stacks and Queues | 8 |
 Stack ADT: Stack model - Implementation of stacks - Applications: Balancing symbols - Infix to postfix conversion -
 Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
 
 {{{unit}}}
-|Unit III | Non Linear Data Structures – Trees   | 9 |
+|UNIT III | Non Linear Data Structures – Trees   | 9 |
 Trees: Preliminaries - Tree traversals - Binary trees - Expression trees - Binary Search Tree ADT - AVL Trees – 
 B-Tree - Applications of trees; Priority queues: Binary heap.
 
 {{{unit}}}
-|Unit IV | Non Linear Data Structures – Graphs | 9 |
+|UNIT IV | Non Linear Data Structures – Graphs | 9 |
 Graph algorithms: Definitions – Representation of graphs - Topological sort - Shortest-path
 algorithms: Dijkstra's algorithm - All-Pairs shortest path - Breadth-first traversal – Depth-first traversal - Biconnectivity - Applications of graphs.
 
 {{{unit}}}
-|Unit V | Searching, Sorting and Hashing Techniques  | 9 |
+|UNIT V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
 Selection sort - Shell sort – Heap sort - Merge sort – Quicksort - Complexity analysis of searching and sorting algorithms; 
 Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 
-\hfill *Total: 45 Periods*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Implement linear and non linear data structures (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K2)
@@ -55,14 +55,13 @@ After the completion of this course, students will be able to:
 - Analyze a problem statement and choose an appropriate data structure to solve it (K4)
 
       
-
-** Text book
+** TEXT BOOKS
 1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'', Second
    Edition , Pearson Education, 2006
 2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A Pseudocode Approach with C'', Second Edition,
 Cengage India, 2007.
 
-** References
+** REFERENCES
 1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
    Algorithms'', Pearson Education, First Edition Reprint 2003.
 2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,

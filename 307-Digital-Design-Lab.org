@@ -10,14 +10,14 @@
 | L | T | P |   C |
 | 0 | 0 | 3 | 1.5 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the various basic logic gates
 - To design and implement the various combinational circuits
 - To design and implement combinational circuits using MSI devices.
 - To design and implement sequential circuits
 -	To understand  and code with HDL programming
 
-** Suggestive Lab Experiments
+** SUGGESTIVE LAB EXPERIMENTS
 1. Verification of Boolean Theorems using basic gates.
 2. Design and implementation of combinational circuits using basic
    gates for arbitrary functions, code converters.
@@ -36,20 +36,19 @@
 
 \hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand basic gates and universal gates to design a digital circuit (K3).
 - Design and Implement various combinational circuits using logic gates (K3).
 - Design and Implement various combinational circuits using MSI devices (K3).
 - Design and Implement various sequential circuits (K3).
 - Simulate various combinational and sequential circuits using HDL (K3).
-
       
-** Laboratory requirement for batch of 30 students hardware:
-
+** Laboratory requirement for batch of 30 students
+Hardware:\\
 1. Digital trainer kits  - 30
 2. Digital ICs required for the experiments in sufficient numbers
 
-** Software:
+Software:\\
 1. HDL simulator.
 

@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To introduce the fundamentals of Database systems and Conceptual Modeling .
 - To learn SQL and relational model.
 - To learn database programming and relational database design.
@@ -19,28 +19,28 @@
 
 
 {{{unit}}}
-|Unit I | Database System Concepts and Conceptual Modeling | 8 |
+|UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
 Characteristics of database -- Database users -- Data models, Schemas -- Three-schema architecture -- Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
-|Unit II | Relational Model and SQL | 11 |
+|UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations; Relational Algebra;Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification;More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping.
 
 {{{unit}}}
-|Unit III | Database Programming and Design| 10 |
+|UNIT III | DATABASE PROGRAMMING AND DESIGN| 10 |
 Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms; FD: Inference rules -- minimal cover; ER-to-relational mapping.
 
 {{{unit}}}
-|Unit iV | Transaction, Concurrency and Recovery | 8 |
+|UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
 Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery.
 
 {{{unit}}}
-|Unit V | NOSQL Databases | 8 |
+|UNIT V | NOSQL DATABASES | 8 |
 Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column -- Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
-\hfill *Total: <45>*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the database concepts  and apply ER models to  any real world application- (K3)
 - Apply data definition and complex SQL queries - (K3)
@@ -48,13 +48,21 @@ After the completion of this course, students will be able to:
 - Apply transaction processing, concurrency control and recovery mechanisms for practical problems - (K3)
 - Understand  the concepts of NOSQL databases - (K2)
 
-** Text Books 
-1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database Systems'', Pearson, 7th Edition, 2016.
-2. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011.
+** TEXT BOOKS 
+1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database
+   Systems'', Pearson, 7th Edition, 2016.
+2. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database
+   System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011.
 
-** Reference Books:
-1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database Systems'', Pearson Education, 3rd Edition, 2014.
-2. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database Management Systems '', (Studies in Computational Intelligence), Springer-Verlag, 2007.
-3. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw Hill, 4th Edition, 2010.
-4. C.J.Date, A.Kannan, S.Swamynathan, "An Introduction to Database Systems", Eighth Edition, Pearson Education, 2006.
-5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, "Database Systems:The Complete Book", 2e, Pearson.
+** REFERENCES
+1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database
+   Systems'', Pearson Education, 3rd Edition, 2014.
+2. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database
+   Management Systems '', (Studies in Computational Intelligence),
+   Springer-Verlag, 2007.
+3. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw
+   Hill, 4th Edition, 2010.
+4. C.J.Date, A.Kannan, S.Swamynathan, "An Introduction to Database
+   Systems", Eighth Edition, Pearson Education, 2006.
+5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, "Database
+   Systems:The Complete Book", 2e, Pearson.

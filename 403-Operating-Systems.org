@@ -5,12 +5,14 @@
 :end:
 
 #+startup: showall
+#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
+#+macro: credits #+attr_latex: :center nil
 
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - Understand the structure and functions of OS.
 - Learn about Processes, Threads and Scheduling algorithms. 
 - Understand the principles of concurrency and Deadlocks. 
@@ -19,7 +21,7 @@
 
 
 {{{unit}}}
-|Unit I | Operating Systems Overview | 9 |
+|UNIT I | OPERATING SYSTEMS OVERVIEW | 9 |
 Computer System Overview: Basic elements -- Instruction execution –
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
@@ -29,7 +31,7 @@ Operations: System calls -- System programs -- OS generation and
 system boot.
 
 {{{unit}}}
-|Unit II | Process Management | 12 |
+|UNIT II | PROCESS MANAGEMENT | 12 |
 Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess Communication; Threads: Overview --
 Multithreading Models -- Thread Issues; Process Synchronization -
@@ -39,13 +41,13 @@ scheduling; Deadlocks -- Aviodance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
-|Unit III | Memory Management | 8 |
+|UNIT III | MEMORY MANAGEMENT | 8 |
 Main Memory: Contiguous Memory Allocation -- Segmentation -- Paging --
 32 and 64 bit architecture Examples; Virtual Memory: Demand paging --
 Page replacement algorithms -- Allocation -- Thrashing;
 
 {{{unit}}}
-|Unit IV | Storage Management | 9 |
+|UNIT IV | STORAGE MANAGEMENT | 9 |
 Mass Storage Structure: Overview -- Disk scheduling and management;
 File System Storage: File concepts -- Directory and disk structure --
 Sharing and protection; File System Implementation: File system
@@ -53,14 +55,14 @@ structure -- Directory structure -- Allocation methods -- Free space
 management -- I/O systems
 
 {{{unit}}}
-|Unit V | Case Study | 7 |
+|UNIT V | CASE STUDY | 7 |
 Linux Vs Windows: Design principles -- Process management --
 Scheduling -- Memory management -- File systems; Mobile OS: iOS and
 Android -- Introduction and Architecture.
 
-\hfill *Total: <45 Periods>*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic services and functionalities of operating systems (K2)
 - Analyze various Scheduling algorithms (K4)
@@ -69,13 +71,13 @@ After the completion of this course, students will be able to:
 - Understand the functionality of file systems (K2)
 - Compare and contrast Linux, Windows and mobile operating systems (K3)
 
-** Text Book
+** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, ``Operating
    System Concepts'', 9 th Edition, John Wiley and Sons Inc., 2012.
 2. Neil Smyth, ``iPhone iOS 4 Development Essentials - Xcode'', Fourth
    Edition, Payload media,2011.
 
-** References
+** REFERENCES
 1. Ramaz Elmasri, A. Gil Carrick, David Levine, ``Operating Systems A
    Spiral Approach'' , Tata McGraw Hill Edition, 2010.
 2. Achyut S.Godbole, Atul Kahate, ``Operating Systems'', McGraw Hill

@@ -26,7 +26,7 @@ Authentication services – Attacks on PKI – Types of Digital
 Certificates.
 
 {{{unit}}}
-|Unit II | Security Practice & System Security | 9 |
+|UNIT II | Security Practice & System Security | 9 |
 Internet Firewalls for Trusted System: Roles of Firewalls – Types of Firewalls – Netfilter – Iptables – Firewall design Principles – DNS Attacks – Cache Poisoning – SET for E-Commerce Transactions. Intruder – Intrusion detection system – Virus and related threats – Countermeasures.
 
 {{{unit}}}

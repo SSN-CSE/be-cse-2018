@@ -15,18 +15,21 @@
 - To understand the various software design methodologies
 - To learn various testing and maintenance measures
 
-|Unit I | SOFTWARE PROCESS MODELS | 9 |
+{{{unit}}}
+|UNIT I | SOFTWARE PROCESS MODELS | 9 |
 Introduction to Software Engineering, Principles and practices,
 Software Process, Generic process model, Prespective and Specialized
 Process Models -- Introduction to Agility: Agile process.
 
-|Unit II | PROJECT PLANNING AND MANAGEMENT | 9 |
+{{{unit}}}
+|UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
 Project Planning Process - Software Project Estimation --
 Decomposition Techniques - Empirical Estimation Models - The Make/Buy
 Decision - Project Scheduling - Risk Management: Risk Identification -
 Risk Projection - Risk Mitigation.
 
-|Unit III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
+{{{unit}}}
+|UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
 Software Requirements: Functional and Non-Functional, User
 requirements, System requirements, Software Requirements Document --
 Requirement Engineering Process: Feasibility Studies, Requirements
@@ -34,7 +37,8 @@ elicitation and analysis, requirements validation, requirements
 management -Classical analysis: Structured system Analysis, Petri
 Nets.
 
-|Unit IV | SOFTWARE DESIGN | 9 |
+{{{unit}}}
+|UNIT IV | SOFTWARE DESIGN | 9 |
 Design Concepts: Design process -- Design Concepts -Design Model--
 Modeling Principles- Architectural Design: Architectural styles -
 Architectural Design- Architectural Mapping using Data Flow - User
@@ -42,7 +46,8 @@ Interface Design: The Golden rules - Interface analysis - Interface
 Design --Component level Design: Designing Class based components -
 traditional Components.
 
-|Unit V | TESTING AND MAINTENANCE | 9 |
+{{{unit}}}
+|UNIT V | TESTING AND MAINTENANCE | 9 |
 Software testing fundamentals-Internal and external views of
 Testing-white box testing - basis path testing-control structure
 testing-black box testing- Unit Testing -- Integration Testing

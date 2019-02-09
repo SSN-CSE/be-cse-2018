@@ -16,7 +16,7 @@
 - To design appropriate machine learning algorithms for real world problems.
 
 {{{unit}}}
-|Unit I | INTRODUCTION  | 9 |
+|UNIT I | INTRODUCTION  | 9 |
 Introduction: Machine Learning -- Examples of Machine Learning
 Applications: Learning Associations -- Classification -- Regression --
 Unsupervised Learning -- Reinforcement Learning ; Design a Learning
@@ -24,7 +24,7 @@ System – Perspectives and Issues in Machine Learning; Linear
 Discriminants: Perceptron -- Linear separability -- Linear regression.
 
 {{{unit}}}
-|Unit II | SUPERVISED LEARNING  | 9 |
+|UNIT II | SUPERVISED LEARNING  | 9 |
 Multi-layer Perceptron: Feed forward -- Back-propagation of error --
 MLP in practice: Data preparation -- Hidden layers -- Generalization
 and overfitting -- Training, testing, validation and evaluation ;
@@ -32,21 +32,21 @@ Support Vector Machines; Learning with Trees: Constructing decision
 trees -- Classification and Regression trees; Ensemble learning.
 
 {{{unit}}}
-|Unit III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
+|UNIT III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
 Probability and Learning: Turning data into probabilities -- Naive
 Bayes classifier -- Basic Statistics -- EM algorithm -- Nearest
 neighbour methods; Graphical models: Bayesian networks -- Hidden
 Markov Models.
 
 {{{unit}}}
-|Unit IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
+|UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-Organising feature map;
 Reinforcement learning: State and action space -- Reward -- Discount
 -- Action selection -- Policy -- Markov Decision Process --
 Q-Learning.
 
 {{{unit}}}
-|Unit V | DIMENSIONALITY REDUCTION TECHNIQUES AND CASE STUDIES | 9 |
+|UNIT V | DIMENSIONALITY REDUCTION TECHNIQUES AND CASE STUDIES | 9 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
 Principal Component Analysis; Performance metrics for classification
 and regression -- Case study: E-mail spam detection -- Sentiment

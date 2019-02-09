@@ -42,7 +42,7 @@ system: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
 Formalising the examples;
 
 {{{unit}}}
-| Unit IV | LOGIC PROGRAMMING | 9 |
+| UNIT IV | LOGIC PROGRAMMING | 9 |
 Foundations: Answer Generation; Horn Clause Programs: Semantics of
 Logic Program -- Procedural Semantics -- Model-theoretic Semantics;
 Evaluation Strategies: Swapping Lemma -- PROLOG’s Evaluation Strategy --

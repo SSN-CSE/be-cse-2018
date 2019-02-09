@@ -5,6 +5,8 @@
 :end:
 
 #+startup: showall
+#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
+#+macro: credits #+attr_latex: :center nil
 
 
 | L | T | P | C |
@@ -17,20 +19,20 @@
 - To study the Architecture of 8051 microcontroller.
 - To design a microcontroller based system
 
-|Unit I | THE 8086 MICROPROCESSOR | 9 |
+|UNIT I | THE 8086 MICROPROCESSOR | 9 |
 Introduction to 8086 -- Microprocessor architecture -- Addressing
 modes -- Instruction set and assembler directives -- Assembly language
 programming -- Stacks -- Procedures -- Macros -- Interrupts and
 interrupt service routines -- Byte and String Manipulation
  
-|Unit II | 8086 SYSTEM BUS STRUCTURE  | 9 |
+|UNIT II | 8086 SYSTEM BUS STRUCTURE  | 9 |
 8086 signals -- Basic configurations -- System bus timing -- System
 design using 8086 -- I/O programming -- Introduction to
 Multiprogramming -- System Bus Structure -- Multiprocessor
 configurations -- Coprocessor, Closely coupled and loosely Coupled
 configurations -- Introduction to advanced processors.
 
-|Unit III | I/O INTERFACING | 9 |
+|UNIT III | I/O INTERFACING | 9 |
 Memory Interfacing and I/O interfacing -- Parallel communication
 interface -- Serial communication interface -- D/A and A/D Interface
 -- Timer -- Keyboard /display controller -- Interrupt controller --
@@ -39,12 +41,12 @@ Light control, LED display, LCD display, Keyboard display interface
 and Alarm Controller.
 
 
-|Unit IV | THE 8051 MICROCONTROLLER | 9 |
+|UNIT IV | THE 8051 MICROCONTROLLER | 9 |
 Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins
 Ports and Circuits -- Instruction set -- Addressing modes -- Assembly
 language programming
 
-|Unit V | INTERFACING MICROCONTROLLER | 9 |
+|UNIT V | INTERFACING MICROCONTROLLER | 9 |
 Programming 8051 Timers -- Serial Port Programming -- Interrupts Programming -- LCD & Keyboard Interfacing -- ADC, DAC & Sensor Interfacing -- External Memory Interface -- Stepper Motor and Waveform generation -- Comparison of Microprocessor, Microcontroller, PIC and ARM processors
 
 \hfill *Total: 45 hours*

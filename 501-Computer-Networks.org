@@ -1,10 +1,10 @@
 * <<<501>>> COMPUTER NETWORKS
 :properties:
-:author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
+:author:  Ms. S. V. Jansi Rani and Mr. N. Sujaudeen
 :date: 
 :date: 12-11-2018
 :end:
- # Edited by SVJ
+
 #+startup: showall
 
 {{{credits}}}
@@ -19,23 +19,23 @@
 - To understand various application layer protocols.
 
 {{{unit}}}
-|Unit I |Introduction and Physical Layer|9| 	
+|UNIT I |Introduction and Physical Layer|9| 	
 Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP Protocol suite -- OSI Model; Physical Layer: Performance -- Transmission media -- Switching -- Circuit-switched Networks -- Packet Switching
 
 {{{unit}}}
-|Unit II | Date-Link Layer and Media Access | 9 |
+|UNIT II | Date-Link Layer and Media Access | 9 |
 Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs: Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth -- Connecting Devices
 
 {{{unit}}}
-|Unit III | Network Layer | 9 |
+|UNIT III | Network Layer | 9 |
 Network Layer Services -- Packet switching -- Performance -- IPV4 Addresses -- Forwarding of IP Packets; Network Layer Protocols: IP -- ICMP v4 -- Unicast Routing Algorithms -- Protocols -- Multicasting Basics -- IPV6 Addressing -- IPV6 Protocol.
 
 {{{unit}}}
-|Unit IV | Transport Layer | 9 |
+|UNIT IV | Transport Layer | 9 |
 Introduction: Transport Layer Protocols -- Services -- Port Numbers -- User Datagram Protocol -- Transmission Control Protocol -- SCTP 
 
 {{{unit}}}
-|Unit V | Application Layer | 9 |
+|UNIT V | Application Layer | 9 |
 Traditional applications -Electronic Mail (SMTP, POP3, IMAP, MIME) – HTTP – File Transfer Protocol - Secure Shell (SSH) -  DNS – SNMP.
 
 \hfill *Total: 45 Periods*

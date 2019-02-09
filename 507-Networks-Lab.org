@@ -4,6 +4,8 @@
 :end:
 
 #+startup: showall
+#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
+#+macro: credits #+attr_latex: :center nil
 
 {{{credits}}}
 |L|T|P|C|
