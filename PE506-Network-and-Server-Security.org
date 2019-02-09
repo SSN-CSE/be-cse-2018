@@ -56,7 +56,7 @@ management security; Integrating security into the infrastructure:
 Defining security zone – Internet Edge – Intranet Server Farm –
 Server-Farm Design Alternative – Management Network.
 
-\hfill *Total: <Total Periods>*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
