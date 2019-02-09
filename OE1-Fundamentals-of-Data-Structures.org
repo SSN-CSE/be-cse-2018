@@ -17,21 +17,19 @@
 
 {{{unit}}}
 |UNIT I | LIST | 6 |
-Abstract Data Types (ADT) -- List ADT: Linked lists -- Doubly-linked lists -- Applications of lists:
-Polynomial addition.
+Abstract Data Types (ADT) -- List ADT -- Linked lists -- Doubly-linked lists -- Applications of lists: Polynomial addition.
 
 {{{unit}}}
 |UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Stack model - Array implementation of stack - Applications: Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
+Stack ADT: Stack model - Array implementation of stack - Applications -- Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
 
 {{{unit}}}
 |UNIT III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- Expression trees -- Binary search tree -- AVL Trees.
+Tree ADT: Preliminaries -- Tree traversals -- Expression trees -- Binary search trees -- AVL Trees.
 
 {{{unit}}}
 |UNIT IV | GRAPHS | 6 |
-Definitions -- Representation of graph -- Types of graph --
-Breadth-first traversal -- Depth first traversal -- Shortest-path
+Graph algorithms: Definitions – Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path
 algorithm: Dijkstra's algorithm. 
 
 {{{unit}}}
