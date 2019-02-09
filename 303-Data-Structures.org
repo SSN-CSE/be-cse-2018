@@ -42,7 +42,7 @@ algorithms: Dijkstra's algorithm - All-Pairs shortest path - Breadth-first trave
 {{{unit}}}
 |UNIT V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching: Linear search – Binary search; Sorting: Bubble sort - Insertion sort -
-Selection sort - Shell sort – Heap sort - Merge sort – Quicksort - Complexity analysis of searching and sorting algorithms; 
+Selection sort - Shell sort - Merge sort – Quicksort - Complexity analysis of searching and sorting algorithms; 
 Hashing: Hash function - Separate chaining – Open addressing – Rehashing.
 
 \hfill *Total Periods: 45*
