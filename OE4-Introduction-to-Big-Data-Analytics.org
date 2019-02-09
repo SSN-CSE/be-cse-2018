@@ -53,17 +53,16 @@ NoSQL Databases : Schema-less Models: Increasing Flexibility for Data Manipulati
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-•	Work with big data tools and its analysis techniques (K3)
-•	Analyze data by utilizing clustering and classification algorithms (K4)
-•	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
-•	Perform analytics on data streams (K2)
-•	Learn NoSQL databases and management.(K2)
+-	Work with big data tools and its analysis techniques (K3)
+-	Analyze data by utilizing clustering and classification algorithms (K4)
+-	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
+-	Perform analytics on data streams (K2)
+-	Learn NoSQL databases and management.(K2)
 
       
 **Text Books
-1. 1.	Anand Rajaraman and Jeffrey David Ullman, "Mining of Massive Datasets", Cambridge University Press, 2012.
+1. Anand Rajaraman and Jeffrey David Ullman, "Mining of Massive Datasets", Cambridge University Press, 2012.
 2.	David Loshin, "Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph", Morgan Kaufmann/El sevier Publishers, 2013.
-
 
 
 **Reference Books
