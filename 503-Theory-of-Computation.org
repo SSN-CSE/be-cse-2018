@@ -1,6 +1,6 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
-:author: Ms. A. Beulah 
+:author: Ms. A. Beulah and Mr. V. Balasubramanian
 :end:
 
 #+startup: showall
@@ -9,76 +9,51 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** COURSE OBJECTIVES
+** Course Objectives
 The student should be made to: 
-- To construct finite automata for any given pattern and find its equivalent regular expressions.
-- To understand the language hierarchy  and  to design a context free grammar for any given language.
-- To construct pushdown automata  for any CFL.
-- To understand Turing machines and their capability.
-- To understand undecidable problems.
+- Construct finite automata for any given pattern and find its equivalent regular expressions.
+- Understand the language hierarchy  and  to design a context free grammar for any given language.
+- Construct pushdown automata  for any CFL.
+- Understand Turing machines and their capability.
+- Understand undecidable problems.
 
 
 {{{unit}}}
-|UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Introduction-Basic Mathematical Notation and techniques; Finite
-Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
-Finite Automata(NFA) – Finite Automata with Epsilon Transitions-
-Equivalence of FA’s –Minimization of DFA; Regular Languages - Regular
-Expression – Equivalence of finite Automata and Regular Expressions –
-Proving Languages not to be regular – Closure Properties of Regular
-Languages.
-
+|Unit I | Finite Automata and Regular Languages  | 10 |
+Introduction-Basic Mathematical Notation and techniques; Finite Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic Finite Automata(NFA) – Finite Automata with Epsilon Transitions - Equivalence of FA’s – Minimization of DFA;  Regular Expressions and Languages: Regular Expressions - Finite Automata and Regular Expressions; Proving Languages Not to Be Regular - Closure and Decision Properties of Regular Languages. 
 
 {{{unit}}}
-|UNIT II | CONTEXT-FREE LANGUAGES  | 8 |
-Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and
-Context-Free Language (CFL) – Derivation Trees – Ambiguity in Grammars
-and Languages –Equivalence of Derivation Trees and Derivation –
-Simplification of Context-free Grammar; Chomsky Normal Form - Greibach
-Normal Form
+|Unit II | Context Free Grammars and Languages  | 8 |
+Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and Context-Free Language (CFL)  – Parse Trees – Ambiguity in Grammars and Languages; Eliminating Useless Symbols - Computing the Generating and Reachable Symbols - Eliminating Null 
+Productions - Eliminating Unit Productions - Normal Forms for Context 
+Free Grammars. 
 
 {{{unit}}}
-|UNIT III | PUSHDOWN AUTOMATA | 9 |
-Pushdown Automata-Definitions –Moves –Instantaneous descriptions
-–Deterministic pushdown automata–Equivalence of Pushdown automata and
-CFL-pumping lemma for CFL.
+|Unit III | Pushdown Automata | 9 |
+Definition of the Pushdown Automaton -The Languages of a PDA – Equivalence of PDA's and CFG's - Deterministic Pushdown Automata; Pumping Lemma for Context Free Languages. 
 
 {{{unit}}}
-|UNIT IV | TURING MACHINES  | 9 |
-Definitions of Turing machines –Models –Techniques for Turing machine
-construction –Multi head and Multi tape Turing Machines – Universal
-Turing Machine.
+|Unit IV | Turing machines  | 9 |
+The Turing Machine - Programming Techniques for Turing Machines - Extensions to the Basic Turing Machine – Restricted Turing Machines.
 
 {{{unit}}}
-|UNIT V | UNDECIDABILITY | 9 |
-Recursive Enumerable (RE) Language - Non Recursive Enumerable (RE)
-Language – Undecidable Problems: Halting Problem - Post’s
-Correspondence problem - Post’s Correspondence Problem.
+|Unit V | Undecidability | 9 |
+Language That Is Not Recursively Enumerable - Undecidable Problem That Is RE - Undecidable Problems About Turing Machines - Post's Correspondence Problem - Other Undecidable Problems. 
 
-\hfill *Total Periods: 45*
+\hfill *Total: <45>*
 
-** COURSE OUTCOMES
+** Course Outcomes
 After the completion of this course, students will be able to: 
-- Design finite automata and transform regular expressions vs finite automata.(K3)
-- Understand the need of formal languages, and grammars. (K3)
-- Design pushdown automata and grammar for any CFL. (K3)
-- Design Turing machines with its different techniques. (K3)
-- Understand the key notions, such as Recursive Enumerable (RE), Non Recursive Enumerable, decidability and undecidability(K2).
+- Construct automata, regular expression for any given pattern.(K3)
+- Understand the need of formal languages, and grammars.(K3)
+- Design pushdown automata for any CFL.(K3)
+- Design Turing machines for any Languages.(K3)
+- Explain the Decidability or Undecidability of various problems.(K2)
 
-** TEXT BOOKS 
-1. Hopcroft J.E., Motwani R. and Ullman J.D, ``Introduction to Automata
-   Theory, Languages and Computations'', Second Edition, Pearson
-   Education, 2008. (UNIT 1,2,3,4)
-2. John C Martin, ``Introduction to Languages and the Theory of
-   Computation'', Third Edition,Tata McGraw Hill Publishing Company,
-   New Delhi, 2007.(UNIT 5)
+** Text Books 
+1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata Theory, Languages and Computations”, Third Edition, Pearson Education, 2008. 
 
-** REFERENCES
-1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the
-   Theory of Computation'', Second Edition, Prentice Hall of India,
-   Pearson Education, New Delhi, 2003.
-2. Peter Linz, ``An Introduction to Formal Language and
-   Automata'',Third Edition, Narosa Publishers, New Delhi, 2002.
-3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science
-   -Automata, Languages and Computation'', Third Edition, Prentice
-   Hall of India, 2004.
+** References
+1. Harry R Lewis and Christos H Papadimitriou, “Elements of the Theory of Computation”, Second Edition, Prentice Hall of India, Pearson Education, New Delhi, 2003. 
+2. Peter Linz, “An Introduction to Formal Language and Automata”,Third Edition, Narosa Publishers, New Delhi, 2002. 
+3. Mishra K L P and Chandrasekaran N, “Theory of Computer Science -Automata, Languages and Computation”, Third Edition, Prentice Hall of India,2004.
