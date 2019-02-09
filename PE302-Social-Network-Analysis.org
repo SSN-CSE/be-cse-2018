@@ -22,15 +22,15 @@
 Social Network analysis: Development of Social Network Analysis - Key concepts and measures in network analysis - Electronic sources for network analysis: Electronic discussion networks, Blogs and online communities - Web-based networks - Social Network Data : Introduction, Boundary specification and sampling, Types of networks, Network data, Measurement and Collection
 
 {{{unit}}}
-|UNIT II | Mathematical Representation of Social Networks | 9 |
+|UNIT II | MATHEMATICAL REPRESENTATION OF SOCIAL NETWORKS | 9 |
 Notations for Social Networks:  Graph Theoretic Notations, Sociometric Notations, Algebraic Notations, Two Sets of Actors  - Graph and Matrices
 
 {{{unit}}}
-|UNIT III | Community Detection Methodologies, Applications | 9 |
+|UNIT III | COMMUNITY DETECTION METHODOLOGIES, APPLICATIONS | 9 |
 Introduction - Definition of Communities - Evaluating Communities - Methodologies of Network Community Mining: Optimization based algorithms, Heuristic methods, Other methods - Applications of Community Mining Algorithms - - Multi-Relational characterization of dynamic social network communities.
 
 {{{unit}}}
-|UNIT IV | Privacy in Online Social Networks | 9 |
+|UNIT IV | PRIVACY IN ONLINE SOCIAL NETWORKS | 9 |
 Managing Trust in Online Social Networks:  Trust in Online Environment, Trust Models Based on Subjective Logic, Trust Network Analysis, Trust Transitivity Analysis, The Dirichlet Reputation System, Combining Trust and Reputation - Security and privacy in online social networks: Security Objectives: Privacy, Integrity, and Availability, Attack Spectrum and Countermeasures.
 
 {{{unit}}}
