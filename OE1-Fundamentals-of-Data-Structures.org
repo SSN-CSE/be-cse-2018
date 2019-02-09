@@ -13,48 +13,42 @@
 - To understand the concepts of ADT 
 - To comprehend the notion of linear and non linear data structures
 - To use a suitable data structure for the given problem and implement them in a high level programming language
-- To understand the concepts of sorting and hashing techniques
+- To understand the concepts of sorting and searching techniques
 
 {{{unit}}}
 |UNIT I | LIST | 6 |
-Abstract Data Types (ADT) -- Implementation of Linked List ADT: Singly
-linked lists -- doubly-linked lists --Applications of lists:
+Abstract Data Types (ADT) -- List ADT: Linked lists -- Doubly-linked lists -- Applications of lists:
 Polynomial addition.
 
 {{{unit}}}
 |UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Operations -- Applications: Converting infix to postfix
-expression -- Evaluating arithmetic expressions; Queue ADT: Operations
-in a circular queue.
+Stack ADT: Stack model - Array implementation of stack - Applications: Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
 
 {{{unit}}}
 |UNIT III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- expression trees --
-binary search tree -- AVL Trees.
+Tree ADT: Preliminaries -- Tree traversals -- Expression trees -- Binary search tree -- AVL Trees.
 
 {{{unit}}}
 |UNIT IV | GRAPHS | 6 |
 Definitions -- Representation of graph -- Types of graph --
 Breadth-first traversal -- Depth first traversal -- Shortest-path
-algorithm: Dijkstra's algorithm; Minimum spanning tree: Kruskal's
-algorithm.
+algorithm: Dijkstra's algorithm. 
 
 {{{unit}}}
-|UNIT V | SORTING AND HASHING TECHNIQUES   | 6 |
-Sorting: Insertion sort -- Merge sort; Hashing: Separate chaining –
-Linear probing – Rehashing.
+|UNIT V | SORTING AND SEARCHING TECHNIQUES   | 6 |
+Sorting: Insertion sort -- Selection sort -- Merge sort; Searching: Linear search -- Binary search.
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
 - Represent polynomial as a linked list and perform polynomial addition
-- Array implementation of stack and queue ADTs
-- Convert infix expression to postfix  and evaluate using Stack ADT
+- Array implementation of stack ADT
+- Convert infix expression to postfix and evaluate using Stack ADT
 - Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
 - Represent graph using adjacency matrix and perform depth first traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
 - Implement insertion sort and merge sort
-- Implement hashing technique using linear probing
+- Implement linear search and binary search
 
 
 \hfill *Practical Periods: 30*
