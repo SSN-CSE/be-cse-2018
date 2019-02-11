@@ -1,5 +1,4 @@
 * <<<402>>> COMPUTER  ORGANIZATION AND ARCHITECTURE
->>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 :properties:
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 
@@ -13,9 +12,11 @@
 
 ** COURSE OBJECTIVES
 - To learn the basic structure and operations of a computer. 
-- To learn the arithmetic and logic unit and implementation of fixed-point and floating point arithmetic unit. 
+- To learn the arithmetic and logic unit and implementation of
+  fixed-point and floating point arithmetic unit.
 - To learn the basics of pipelined execution. 
-- To understand the memory hierarchies, cache and virtual memories and communication with I/O devices. 
+- To understand the memory hierarchies, cache and virtual memories and
+  communication with I/O devices.
 - To understand parallelism and multi-core processors. 
 
 {{{unit}}}
@@ -32,17 +33,16 @@ Representation: Floating Point Operations; Subword Parallelism.
 
 {{{unit}}}
 |UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
-<<<<<<< HEAD
 A Basic MIPS implementation: Building a Datapath -- Control
 Implementation Scheme; Pipelining: Pipelined datapath and control --
 Handling Data Hazards & Control Hazards -- Exceptions.
->>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 
 {{{unit}}}
 |UNIT IV | MEMORY & I/O SYSTEMS | 9 |
-Memory Hierarchy; memory technologies; cache memory: measuring and improving cache performance;
-virtual memory: TLBs; Accessing I/O Devices -- Interrupts; Direct Memory Access;
-Bus structure -- Bus operation -- Arbitration; Interface circuits; USB.
+Memory Hierarchy; memory technologies; cache memory: measuring and
+improving cache performance; virtual memory: TLBs; Accessing I/O
+Devices -- Interrupts; Direct Memory Access; Bus structure -- Bus
+operation -- Arbitration; Interface circuits; USB.
 
 {{{unit}}}
 |UNIT V  | PARALLEL PROCESSORS | 9 |
@@ -54,7 +54,6 @@ Introduction to Graphics Processing Units.
 Clusters; Warehouse Scale Computers and other Message-Passing
 Multiprocessors.
 #+END_COMMENT
->>>>>>> 42952570ac285c4a91534c60d50eb4821b19d329
 
 \hfill *Total Periods: 45*
 
