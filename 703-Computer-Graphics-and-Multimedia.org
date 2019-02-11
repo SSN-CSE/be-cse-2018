@@ -28,12 +28,12 @@ addressing and object geometry.
 
 {{{unit}}}
 |UNIT II | TWO DIMENSIONAL GRAPHICS | 9 |
-Two dimensional geometric transformations: Basic Transformations -- Matrix representations
-and homogeneous coordinates -- Composite transformations; Two
-dimensional viewing: Viewing pipeline -- viewing coordinate reference
-frame -- Window to viewport coordinate transformation -- Clipping
-operations: point and text clipping -- Line and polygon clipping
-algorithms.
+Two dimensional geometric transformations: Basic Transformations --
+Matrix representations and homogeneous coordinates -- Composite
+transformations; Two dimensional viewing: Viewing pipeline -- viewing
+coordinate reference frame -- Window to viewport coordinate
+transformation -- Clipping operations: point and text clipping -- Line
+and polygon clipping algorithms.
 
 {{{unit}}}
 |UNIT III | THREE DIMENSIONAL GRAPHICS | 10 |
@@ -56,12 +56,12 @@ Keyframe systems -- Motion specifications.
 
 {{{unit}}}
 |UNIT V | MULTIMEDIA | 10 |
-Multimedia Systems Design:Multimedia Elements -- Multimedia applications --Multimedia Systems
-Architecture -- Defining objects for multimedia systems -- Multimedia
-data interface standards; Compression and decompression; Data and
-file format standards; Hypermedia Messaging; Case Study - Blender
-Graphics: Fundamentals –- Drawing Basic Shapes -- Modelling –- Shading
-& Textures.
+Multimedia Systems Design:Multimedia Elements -- Multimedia
+applications --Multimedia Systems Architecture -- Defining objects for
+multimedia systems -- Multimedia data interface standards; Compression
+and decompression; Data and file format standards; Hypermedia
+Messaging; Case Study - Blender Graphics: Fundamentals –- Drawing
+Basic Shapes -- Modelling –- Shading & Textures.
 
 \hfill *Total Periods: 45*
 
