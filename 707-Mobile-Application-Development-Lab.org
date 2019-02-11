@@ -10,12 +10,9 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To understand the components and structure of mobile application
-  development frameworks.
-- To understand how to work with mobile application development
-  framework.
-- To learn the basic and important design concepts in developing
-  mobile applications.
+- To understand the components and structure of mobile application development frameworks.
+- To understand how to work with mobile application development framework.
+- To learn the basic and important design concepts in developing mobile applications.
 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -41,3 +38,11 @@ After the completion of this course, students will be able to:
 - Develop mobile applications using  SD Card, SMS and Notification. (K3)
 - Develop mobile web applications. (K3)
 - Develop a mobile app. (K3)
+
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Standalone Desktops preferably Intel i5 Machines - 38 Nos
+
+Software:\\
+1. Android Studio 
+2. SQLite Database
