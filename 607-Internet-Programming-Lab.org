@@ -37,6 +37,11 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 w3schools.org
 
-** HARDWARE AND SOFTWARE REQUIRED
-- Desktop machines
-- Java, MySQL, Wamp Server, NetBeans or Eclipse
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Standalone Desktops - 38 Nos
+
+Software:\\
+1. Frontend - Netbeans with Java
+2. Datanase - MySQL 
+3. Web Server - Wamp Server
