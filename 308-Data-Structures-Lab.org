@@ -41,5 +41,11 @@ After the completion of this course, students will be able to:
   for solving it (K4)
 - Implement sorting, seraching and hashing algorithms (K2)
 
+** Laboratory requirement for batch of 25 students
 
+Hardware:\\
+1. Systems - 25 
+
+Software:\\
+1. C / C++
       
