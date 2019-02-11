@@ -18,7 +18,7 @@
 - Explore image manipulation and enhancement techniques
 - Create 3D animation using any tool
 
-** LIST OF EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Study of Basic output primitives in OpenGL
 2. Implementation of Algorithms for drawing 2D Primitives –
    1. Line (DDA, Bresenham) - all slopes   
@@ -40,19 +40,18 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Demonstrate drawing of basic output primitives (line and circle)
-  using algorithms and hence draw complex shapes using them (K3)
-- Illustrate basic, composite transformations and clipping on 2
-  dimensional objects (K2)
-- Apply transformations and projections on 3 dimensional objects and
-  construct any scene with features including lighting, textures,
+- Demonstrate drawing of basic output primitives (line and circle) using algorithms and hence draw complex shapes using them (K3)
+- Illustrate basic, composite transformations and clipping on 2 dimensional objects (K2)
+- Apply transformations and projections on 3 dimensional objects and construct any scene with features including lighting, textures,
   shadows, changing camera angles (K6)
-- Illustrate basic operations on images, create GIF animated images
-  and 2D animation sequence (K6)
+- Illustrate basic operations on images, create GIF animated images and 2D animation sequence (K6)
 - Create simple 3D animation (K6)
-      
-** REQUIREMENTS FOR A BATCH OF 30 STUDENTS
-- Hardware: Standalone desktops - 30 Nos (or) Server supporting 30
-  terminals or more.
-- Software: C/C++/Java, OpenGL, Any image manipulation software, Any
-  3D animation software
+
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Standalone Desktop Machines - 38 Nos
+
+Software:\\
+1. C / C++ / Java 
+2. OpenGL / GIMP 
+3. Blender / Maya
