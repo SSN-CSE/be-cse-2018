@@ -51,9 +51,13 @@ After the completion of this course, students will be able to:
 - Write 8051 Assembly Language Programs using arithmetic and
   logical operations (K3)
 
+** Laboratory requirement for batch of 38 students
 
-** LAB EQUIPMENT FOR A BATCH OF 30 STUDENTS
-- 8086 development kits - 30 nos
-- Interfacing Units - Each 10 nos
-- Microcontroller kits- 30 nos
-- Intel Desktop Systems with MASM software- 30 nos
+Hardware:\\
+1. Standalone Desktops - 30 Nos
+2. 8086 development kits - 30 Nos
+3. Interfacing Units - Each 10 Nos
+4. Microcontroller kits- 30 nos
+
+Software:\\
+1. MASM software

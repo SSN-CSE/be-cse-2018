@@ -43,10 +43,6 @@
 
 \hfill *Total Periods: 45*
 
-** REQUIREMENT FOR A BATCH OF 30 STUDENTS
-1. Database: Oracle 10g - 30 Clients with 1 Server Node
-2. Front-end: NetBeans with JDBC (Java)
-
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Use data definitions and manipulation commands (K3)
@@ -55,3 +51,13 @@ After the completion of this course, students will be able to:
 - Design a database for real-time applications  (K3)
 - Implement and analyze the use of Tables, PL/SQL for a realistic
   database applications using a Front-end tool  (K3)
+
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Server - 1 Nos
+2. Standalone Desktops - 38 Nos
+
+Software:\\
+1. Database: Oracle 10g - 38 Clients with 1 Server Node
+2. Frontend - Netbeans / Java / JDBC
+  

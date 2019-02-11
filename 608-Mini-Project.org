@@ -18,32 +18,21 @@
 
 
 ** SUGGESTIVE LIST OF EXPERIMENTS
-Draw standard UML diagrams using an UML modeling tool for a given case
-study and map design to code and implement a 3 layered
-architecture. Test the developed code and identify whether the SRS is
-satisfied. This could be done in an incremental way and the next
-increment should undergo the same process of design, coding and
-testing to satisfy the SRS. Any one of the suggested domains could be
-chosen for the mini-project. The student could also choose his own
-interested domain based on the approval from the concerned faculty.
+raw standard UML diagrams using an UML modeling tool for a given case study and map design to code and implement a 3 layered 
+architecture. Test the developed code and identify whether the SRS is satisfied. This could be done in an incremental way and the next
+increment should undergo the same process of design, coding and testing to satisfy the SRS. Any one of the suggested domains could be
+chosen for the mini-project. The student could also choose his own interested domain based on the approval from the concerned faculty.
 1. Develop a problem statement.
 2. Document the Software Requirements Specification (SRS) for the above problem statement.
 3. Identify use cases and develop the Use Case model.
 4. Identify the conceptual classes and develop a Domain Model and also derive a Class Diagram from the already designed Domain Model.
-5. Using the identified scenarios, find the interaction between
-   objects and represent them using UML Sequence and Collaboration
+5. Using the identified scenarios, find the interaction between objects and represent them using UML Sequence and Collaboration
    Diagrams
-6. Draw relevant State Chart and Activity Diagrams for the same
-   problem.
-7. Implement the problem with the detailed design structure (1-6) and
-   satisfy the SRS.
-8. Test the developed software system. Identify the areas in which
-   refinement is needed.
-9. Refine the design of the modules and implement the same.
-10. Test the software again after refinement to check, whether it
-    satisfies the SRS, and carry over the refinement if needed.
-11. Continue the above procedures for the next increment of the same
-    software development.
+6. Draw relevant State Chart and Activity Diagrams for the same problem.
+7. Implement the problem with the detailed design structure (1-6) and satisfy the SRS.
+8. Test the developed software system. Identify the areas in which refinement is needed.
+9. Refine the design of the modules and implement the same. 
+10. Test the software again after refinement to check, whether it satisfies the SRS, and carry over the refinement if needed.
 
 ** SUGGESTED DOMAINS FOR MINI PROJECT
 1. Passport automation system.
@@ -71,11 +60,10 @@ After the completion of this course, students will be able to:
 - Map design to code and implement using UML diagrams. (K4)
 - Design and generate test cases. (K3)
 
-** LAB REQUIREMENTS 
-Hardware 
-- Any standard PC (Pentium) 
+** Laboratory requirement for batch of 38 students 
+Hardware: \\
+- Standalone Desktops - 38 Nos 
 
-Software 
-- Windows 7 or higher 
+Software: \\
 - ArgoUML that supports UML 1.4 and higher
 - Selenium, JUnit or Apache JMeter

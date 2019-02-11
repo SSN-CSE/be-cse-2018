@@ -14,7 +14,7 @@
 - To develop web applications using traditional client and server end technologies
 - To develop web applications using javascript based frameworks
 
-** LIST OF EXPERIMENTS
+** SUGGESTIVE LAB EXPERIMENTS
 - Create a web page using Table, Lists, Image and anchor elements (Ex: Bio-Data)
 - Create website for the International Conference using HTML5 and CSS3 elements.
 - Program for validation of registration form using event handling mechanisms of javascript
@@ -37,6 +37,11 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 w3schools.org
 
-** HARDWARE AND SOFTWARE REQUIRED
-- Desktop machines
-- Java, MySQL, Wamp Server, NetBeans or Eclipse
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Standalone Desktops - 38 Nos
+
+Software:\\
+1. Frontend - Netbeans with Java
+2. Datanase - MySQL 
+3. Web Server - Wamp Server

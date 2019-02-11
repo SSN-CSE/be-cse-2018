@@ -37,3 +37,11 @@ After the completion of this course, students will be able to:
 - Write Java program using polymorphic methods and objects. (K3)
 - Develop applications using generic methods and generic programming.(K3)
 - Apply appropriate features of oop programming paradigm to design mini project.(K3)
+
+** Laboratory requirement for batch of 25 students
+
+Hardware:\\
+1. Standalone Systems - 25 Nos
+
+Software:\\
+1. C++ Compiler

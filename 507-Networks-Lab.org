@@ -1,4 +1,4 @@
-* <<<507>>> NETWORKS LAB
+ <<<507>>> NETWORKS LAB
 :properties:
 :author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
 :end:
@@ -18,11 +18,7 @@
 - To learn and use simulation tools.
 - To use simulation tools to analyze the performance of various network protocols.
 
-** SUGGESTED PROGRAMMING LANGUAGES
-- C / C++ / Java / Python / Equivalent Compiler 
-- Network simulator like NS2/NS3/Glomosim/OPNET/ Packet Tracer / Equivalent
-
-** SUGGESTIVE EXERCISES
+** SUGGESTIVE LAB EXERCISES
 1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and
    traceroute. Capture ping and traceroute PDUs using a network
    protocol analyzer and examine.
@@ -50,3 +46,11 @@ After the completion of this course, students will be able to:
 - Use simulation tools to analyze the performance of various network protocols (K3)
 - Analyze various routing algorithms (K3)
 - Implement error correction codes (K2)
+
+** Laboratory requirement for batch of 38 students
+Hardware:\\
+1. Standalone Desktops - 38 Nos
+
+Software:\\
+1. C / C++ / Java / Python / Equivalent Compiler 
+2. Network simulator like NS2 / NS3 / Glomosim / OPNET/ Packet Tracer / Equivalent

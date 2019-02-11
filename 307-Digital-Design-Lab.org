@@ -44,9 +44,10 @@ After the completion of this course, students will be able to:
 - Design and Implement various sequential circuits (K3).
 - Simulate various combinational and sequential circuits using HDL (K3).
       
-** Laboratory requirement for batch of 30 students
+** Laboratory requirement for batch of 25 students
+
 Hardware:\\
-1. Digital trainer kits  - 30
+1. Digital trainer kits  - 25
 2. Digital ICs required for the experiments in sufficient numbers
 
 Software:\\
