@@ -4,9 +4,6 @@
 :date:
 :end:
 
-#+BEGIN_COMMENT
-
-#+END_COMMENT
 #+startup: showall
 
 {{{credits}}}
