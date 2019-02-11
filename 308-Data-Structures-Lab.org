@@ -44,8 +44,8 @@ After the completion of this course, students will be able to:
 ** Laboratory requirement for batch of 25 students
 
 Hardware:\\
-1. Systems - 25 
+1. Standalone Systems - 25 Nos 
 
 Software:\\
-1. C / C++
+1. C / C++ Compiler 
       
