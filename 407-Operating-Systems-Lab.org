@@ -46,5 +46,10 @@ After the completion of this course, students will be able to:
 - Profile the performance of the various Page Replacement Algorithms (K3)
 - Implement  File Organization and File Allocation Strategies (K3)
       
-** REQUIREMENTS FOR A BATCH OF 30 STUDENTS
-Desktop with Unix/Linux with C/C++ for every student
+** Laboratory requirement for batch of 38 students
+
+Hardware:\\
+1. Standalone Desktops with Linux OS  - 38 Nos
+
+Software:\\
+1. C / C++ Compiler 
