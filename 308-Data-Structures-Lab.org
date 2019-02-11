@@ -32,7 +32,7 @@
 12. Implement binary search and any two sorting algorithms 
 13. Implement hashing using separate chaining technique 
 
-\hfill *Total Periods: 45*
+\hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
