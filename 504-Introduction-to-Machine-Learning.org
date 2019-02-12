@@ -55,9 +55,9 @@ Principal Component Analysis; Optimisation and Search: Least-squares optimisatio
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
-- Understand the use of reinforcement learning techniques to various problems. (K2).
+- Understand the use of reinforcement learning techniques to various problems (K2).
 - Understand the requirement of dimensionality reduction and optimisation techniques (K2).
-
+- Apply and analyze the various machine learning algorithms for real world problems (K4).
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
