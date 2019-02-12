@@ -1,3 +1,4 @@
+
 * <<<301>>> DISCRETE MATHMATICS
 :properties:
 :author: Dr. R. Sundareswaran and Dr. N. Padmapriya
@@ -55,8 +56,8 @@ algebra - Stone’s representation Theorem.
 
 ** COURSE OUTCOMES
 On studying this course, the students will able to:
-- Write simple proofs using Propositional and First-Order Logics.
-- Write simple proofs using mathematical induction.
+- Write simple proofs using Propositional and First-Order Logics K2
+- Write simple proofs using mathematical induction K2
 - Prove simple graph properties.
 - Explain basic concepts in group theory such as semi groups, monoids
   and groups.
