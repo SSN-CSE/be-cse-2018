@@ -34,7 +34,8 @@
    Control Algorithms using NS.
 7. Study of TCP/UDP performance using Simulation tool.
 8. Simulate Distance Vector/ Link State Routing algorithm.
-9. Performance evaluation of Routing protocols using Simulation tool.
+9. Evaluate the performance of Routing protocols using Simulation
+   tool.
 10. Simulate of error correction code (like CRC).
 
 \hfill *Total Periods: 60*

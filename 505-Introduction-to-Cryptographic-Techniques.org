@@ -1,6 +1,6 @@
 * <<<505>>> INTRODUCTION TO CRYPTOGRAPHIC TECHNIQUES
 :properties:
-:author: Mr. V. Balasubramanian and Dr. J. Bhuvana
+:author:   Mr. V. Balasubramanian and Dr. J. Bhuvana
 :end:
 
 #+startup: showall
@@ -30,7 +30,7 @@ Schemes -- Security Against Chosen-Ciphertext Attacks (CCA).
 
 {{{unit}}}
 | UNIT II | MESSAGE AUTHENTICATION CODES AND COLLISION-RESISTANT HASH FUNCTIONS | 8 |
-Secure Communication and Message Integrity -- Encryption vs. Message
+Secure Communication and Message Integrity -- Encryption vs Message
 Authentication -- Message Authentication Codes -- Constructing Secure
 Message Authentication Codes -- CBC-MAC -- Collision-Resistant Hash
 Functions -- NMAC and HMAC -- Constructing CCA-Secure Encryption
@@ -72,14 +72,21 @@ Upon the completion of the course the students should be able to:
 - Classify the various attacks on security (K3)
 - Compare and contrast symmetric and asymmetric encryption systems (K3)
 - Describe the authentication schemes and  hash algorithms (K2)
-- Illustrate various Public key cryptographic techniques  (K3)
+- Apply various Public key cryptographic techniques  (K3)
 
 ** TEXT BOOK
-1. Jonathan Katz, Yehuda Lindell, ``Introduction to modern cryptography'', Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series), 2014.
+1. Jonathan Katz, Yehuda Lindell, ``Introduction to modern
+   cryptography'', Second Edition (Chapman & Hall/CRC Cryptography and
+   Network Security Series), 2014.
 
 ** REFERENCES
-- Wenbo Mao, ``Modern Cryptography – Theory and Practice”, Pearson Education, 2004.
-- Johannes A. Buchmann, ``Introduction to Cryptography”, 2nd edition, Pearson Education, Springer, 2009.
-- Charles P. Pfleeger, Shari Lawrence Pfleeger, ``Security in computing'', Third Edition, Prentice Hall of India, 2006.
-- Bruce Schneier and Neils Ferguson, “Practical Cryptography”, First Edition, Wiley Dreamtech India Pvt Ltd, 2003.
-- http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep Mukhopadhyay, IIT Kharagpur.
+1. Wenbo Mao, ``Modern Cryptography -- Theory and Practice'', Pearson
+   Education, 2004.
+2. Johannes A. Buchmann, ``Introduction to Cryptography'', 2nd
+   edition, Pearson Education, Springer, 2009.
+3. Charles P Pfleeger, Shari Lawrence Pfleeger, ``Security in
+   computing'', Third Edition, Prentice Hall of India, 2006.
+4. Bruce Schneier and Neils Ferguson, ``Practical Cryptography'', First
+   Edition, Wiley Dreamtech India Pvt Ltd, 2003.
+5. http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep
+   Mukhopadhyay, IIT Kharagpur.
