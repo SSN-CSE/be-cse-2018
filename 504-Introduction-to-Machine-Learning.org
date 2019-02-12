@@ -20,44 +20,34 @@
   problems.
 
 {{{unit}}}
-|UNIT I | INTRODUCTION  | 9 |
+|UNIT I | INTRODUCTION  | 8 |
 Introduction: Machine Learning -- Examples of Machine Learning
 Applications: Learning Associations -- Classification -- Regression --
-Unsupervised Learning -- Reinforcement Learning ; Preliminaries: Curse
+Unsupervised Learning -- Reinforcement Learning ; Preliminaries: Weight space -- Curse
 of dimensionality -- Testing machine learning algorithms -- Turning
 data into probabilities -- Basic statistics -- Bias-variance tradeoff.
 
 {{{unit}}}
-|UNIT II | SUPERVISED LEARNING  | 9 |
+|UNIT II | SUPERVISED LEARNING  | 11 |
 Neural Networks and Linear Discriminants: Brain and the neuron --
 Neural networks -- Perceptron -- Linear separability -- Linear
 regression; Multi-layer Perceptron: Going forward -- Back-propagation
-of error;
-
-Support Vector Machines; Learning with Trees: Constructing decision
-trees -- Classification and Regression trees; Ensemble learning.
+of error; Support Vector Machines.
 
 {{{unit}}}
-|UNIT III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
-Probability and Learning: Turning data into probabilities -- Naive
-Bayes classifier -- Basic Statistics -- EM algorithm -- Nearest
-neighbour methods; Graphical models: Bayesian networks -- Hidden
-Markov Models.
+|UNIT III | TREE LEARNING AND PROBABILISTIC LEARNING | 9 |
+Learning with Trees: Constructing decision trees -- Classification and Regression trees -- Classification example ; Ensemble learning: Boosting -- Bagging -- Random forests; Probabilistic Learning: Gaussian mixture models -- Nearest neighbour methods.
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-Organising feature map;
-Reinforcement learning: State and action space -- Reward -- Discount
--- Action selection -- Policy -- Markov Decision Process --
-Q-Learning.
+Reinforcement learning: State and action space -- Reward function -- Discounting
+-- Action selection -- Policy -- Markov Decision Process -- Values.
 
 {{{unit}}}
-|UNIT V | DIMENSIONALITY REDUCTION TECHNIQUES AND CASE STUDIES | 9 |
+|UNIT V | DIMENSIONALITY REDUCTION AND OPTIMISATION TECHNIQUES| 8 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
-Principal Component Analysis; Performance metrics for classification
-and regression -- Case study: E-mail spam detection -- Sentiment
-analysis -- Document classification using clustering -- Handwritten
-character recognition.
+Principal Component Analysis; Optimisation and Search: Least-squares optimisation -- Conjugate gradients -- Search approaches -- Exploitation and exploration.
 
 
 \hfill *Total Periods: 45*
