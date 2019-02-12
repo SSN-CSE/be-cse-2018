@@ -14,10 +14,9 @@
   problems.
 - To study the various supervised, unsupervised and reinforcement
   learning algorithms in machine learning.
-- To study the graphical models to represent tha data and their
+- To study the dimensionality reduction techniques to represent tha data and their
   dependencies.
-- To design appropriate machine learning algorithms for real world
-  problems.
+- To understand the need of optimisation techniques.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION  | 8 |
@@ -57,8 +56,8 @@ After the completion of this course, students will be able to:
 - Understand the basic concepts of machine learning (K2).
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
 - Understand the use of reinforcement learning techniques to various problems. (K2).
-- Understand the requirement of dimensionality reduction techniques (K2).
-- Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
+- Understand the requirement of dimensionality reduction and optimisation techniques (K2).
+
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
