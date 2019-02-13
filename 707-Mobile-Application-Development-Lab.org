@@ -10,9 +10,8 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To understand the components and structure of mobile application development frameworks.
-- To understand how to work with mobile application development framework.
-- To learn the basic and important design concepts in developing mobile applications.
+- To develop native mobile applications.
+- To develop hybrid web applications.
 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -26,8 +25,8 @@
 8. Implement an application that send a SMS and creates an alert upon receiving the SMS.
 9. Write an application that makes use of Menu.
 10. Develop an application to build an alarm clock.
-11. Implement a web application to display a web page.
-12. Mini Project
+11. Implement a hybrid mobile application for displaying a website.
+12. Mini Project (Food delivery app, Attendance tracking app, Online ticket booking app  etc. )
 
 \hfill *Total Periods: 45*
 
