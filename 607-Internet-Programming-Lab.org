@@ -42,6 +42,6 @@ Hardware:\\
 1. Standalone Desktops - 38 Nos
 
 Software:\\
-1. Frontend - Netbeans with Java
+1. Frontend - Netbeans/Eclipse with Java
 2. Database - MySQL 
 3. Web Server - WAMP Server
