@@ -89,7 +89,7 @@ After the completion of this course, students will be able to:
 1. Behrouz Forouzan and Richard Gilberg, ``UNIX and Shell Programming: A
    Textbook'', Thomson Learning Inc., 2005.
 2. Tom Phoenix, Brian D Foy, and Randal L. Schwartz, 
-   ``Learning Perl'',7th Edition, O'Reilly, 2017.
+   ``Learning Perl'', 7th Edition, O'Reilly, 2017.
 
 ** REFERENCES
 1. Richard Blum and Christine Bresnahan, ``Linux Command Line and Shell
