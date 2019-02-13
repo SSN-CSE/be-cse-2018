@@ -35,7 +35,7 @@ After the completion of this course, students will be able to:
 - Develop mobile applications using GUI, Layouts and Event Listener. (K3)
 - Develop mobile applications using Graphical primitives, Databases, Multithreading and GPS. (K3)
 - Develop mobile applications using  SD Card, SMS and Notification. (K3)
-- Develop hybrid mobile applications (K3)
+- Develop hybrid mobile applications. (K3)
 - Develop a mobile app. (K3)
 
 ** Laboratory requirement for batch of 38 students
@@ -43,5 +43,4 @@ Hardware:\\
 1. Standalone Desktops preferably Intel i5 Machines - 38 Nos
 
 Software:\\
-1. Android Studio 
-2. SQLite Database
+1. Windows or Android or iOS or  Equivalent  Mobile Application Development Tools with appropriate emulators and  debuggers.
