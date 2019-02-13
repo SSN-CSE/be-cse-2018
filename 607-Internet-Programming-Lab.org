@@ -11,17 +11,17 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To develop web applications using traditional client and server end technologies
-- To develop web applications using javascript based frameworks
+- To develop web applications using traditional client and server end technologies.
+- To develop web applications using Javascript frameworks.
 
 ** SUGGESTIVE LAB EXPERIMENTS
-- Create a web page using Table, Lists, Image and anchor elements (Ex: Bio-Data)
+- Create a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
 - Create website for the International Conference using HTML5 and CSS3 elements.
-- Program for validation of registration form using event handling mechanisms of javascript
-- Develop a web application to authenticate the user with servlet and MySQL
-- Develop a web application using sessions and servlet (Ex: Online Shopping application)
-- Develop a web application using servlet, cookies and MySQL (Ex: Super Market Billing System)
-- Develop a Popup Menu Application in AJAX using javascript, DHTML and XMLHttpRequest object to perform GET or POST request and return a result without reloading the HTML page.
+- Validate a registration form using Javascript event handling mechanisms.
+- Develop a web application to authenticate the user with servlet and MySQL.
+- Develop a web application using sessions and servlet. (Ex: Online Shopping application)
+- Develop a web application using servlet, cookies and MySQL. (Ex: Super Market Billing System)
+- Develop a Popup Menu Application using AJAX. 
 - Develop a web application using AngularJS and NodeJS. (Ex: Railway Reservation System)
 
 \hfill *Total Periods: 45*
@@ -29,8 +29,8 @@
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design websites using HTML5 and CSS3 (K3)
-- Develop MVC based web application using Servlets (K3)
-- Develop responsive application using AJAX (K3)
+- Develop multi-tier web application using Servlets (K3)
+- Develop interactive web applications using AJAX (K3)
 - Develop web applications using AngularJS and NodeJS frameworks (K3)
 
       
@@ -42,6 +42,6 @@ Hardware:\\
 1. Standalone Desktops - 38 Nos
 
 Software:\\
-1. Frontend - Netbeans with Java
-2. Datanase - MySQL 
-3. Web Server - Wamp Server
+1. Frontend - Netbeans/Eclipse with Java
+2. Database - MySQL 
+3. Web Server - WAMP Server
