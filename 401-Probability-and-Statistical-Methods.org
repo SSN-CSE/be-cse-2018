@@ -20,7 +20,7 @@
 - Calculate the various statistical quality control measurements. 
 
 {{{unit}}}
-|UNIT I| 	RANDOM VARIABLES|           12|
+|UNIT I| 	RANDOM VARIABLES| 12 |
 Probability - Axioms of probability - Conditional probability - Baye’s
 theorem - Discrete and Continuous random variables - Moments - Moment
 generating functions -Binomial, Poisson, Geometric, Uniform,
@@ -28,7 +28,7 @@ Exponential, Gamma, Normal distributions- Functions of a random
 variable
 
 {{{unit}}}
-|UNIT II| 	TWO-DIMENSIONAL RANDOM VARIABLES|      12|
+|UNIT II| 	TWO-DIMENSIONAL RANDOM VARIABLES| 12 |
 Joint distributions - Marginal and Conditional distributions -
 Covariance - Correlation and Linear regression - Transformation of
 random variables - Central limit theorem (for independent
@@ -47,7 +47,7 @@ Completely randomized design - Randomized block design - Latin square
 design - factorial design.
 
 {{{unit}}}
-|UNIT V| 	STATISTICAL QUALITY CONTROL| 12     |
+|UNIT V| 	STATISTICAL QUALITY CONTROL| 12 |
 Control charts for measurements (X and R charts) - Control charts for
 attributes (p, c and npcharts) - Tolerance limits - Acceptance
 sampling.
@@ -66,23 +66,20 @@ After the completion of this course, students will be able to:
       
 ** TEXT BOOKS
 1. Milton, J. S. and Arnold, J.C., ``Introduction to Probability and
-   Statistics'', Tata McGrawHill, New Delhi, 4th Edition, 3rd
-   Reprint, 2008.
+   Statistics'', Tata McGrawHill,4th Edition, 3rd Reprint, 2008.
 2. Johnson, R.A. and Gupta, C.B., ``Miller and Freund's Probability and
-   Statistics for Engineers'', Pearson Education, Asia, 8th
-   Edition, 2011.
+   Statistics for Engineers'', 8th Edition, Pearson Education, 2011.
 
 ** REFERENCES
 1. Devore, J.L., ``Probability and Statistics for Engineering and the
-   Sciences'', ThomsonBrooks/Cole, International Student Edition, New
-   Delhi, 7th Edition, 2008.
+   Sciences'', 7th Edition, ThomsonBrooks/Cole, International Student Edition, 2008.
 2. Walpole, R.E., Myers, R.H., Myers, S.L. and Ye, K., ``Probability
-   and Statistics forEngineers and Scientists'', Pearson Education,
-   Asia, 8th Edition, 2007.
+   and Statistics forEngineers and Scientists'', 8th Edition, Pearson Education,
+   Asia, 2007.
 3. Ross, S.M., ``Introduction to Probability and Statistics for
-   Engineers and Scientists'', Elsevier, New Delhi, 3rd Edition, 2004.
+   Engineers and Scientists'', 3rd Edition,  Elsevier, 2004.
 4. Spiegel, M.R., Schiller, J. and Srinivasan, R.A., ``Schaum’s
    Outline of Theory and Problems of Probability and Statistics'',
-   Tata McGraw Hill, New Delhi, 2004.
+   Tata McGraw Hill, 2004.
 5. Gupta, S.C and Kapoor, V.K., ``Fundamentals of Mathematical
-   Statistics'', Sultan and Chand Company, New Delhi, 2009.
+   Statistics'', Sultan and Chand Company, 2009.
