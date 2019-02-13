@@ -11,8 +11,8 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To develop web applications using traditional client and server end technologies
-- To develop web applications using javascript based frameworks
+- To develop web applications using traditional client and server end technologies.
+- To develop web applications using Javascript frameworks.
 
 ** SUGGESTIVE LAB EXPERIMENTS
 - Create a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
