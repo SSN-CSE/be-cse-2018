@@ -59,18 +59,17 @@ After the completion of this course, students will be able to:
 
       
 ** TEXT BOOKS
-1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'', Second
-   Edition , Pearson Education, 2006
-2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A
+1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', Second
+   Edition, Pearson Education, 2006
+2. Richard F Gilberg, Behrouz A Forouzan, ``Data Structures: A
    Pseudocode Approach with C'', Second Edition, Cengage India, 2007.
 
 ** REFERENCES
 1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
    Algorithms'', Pearson Education, First Edition Reprint 2003.
-2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
+2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', 2nd Edition,
    Thomson India Edition, 2005.
 3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
-   of Data Structures in C'', Second Edition, University Press, 2008
-4. S. Sridhar, ``Design and Analysis of Algorithms``, First Edition, Oxford University Press. 2014
-5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s Outlines Series), Mcgraw Hill Higher Ed., 
-   III Edition, 2010
+   of Data Structures in C'', 2nd Edition, University Press, 2008
+4. S Sridhar, ``Design and Analysis of Algorithms``, 1st Edition, Oxford University Press. 2014
+5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s Outlines Series), 3rd Edition,Mcgraw Hill Higher Ed.,2010.

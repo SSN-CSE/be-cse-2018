@@ -62,19 +62,19 @@ After the completion of this course, students will be able to:
 - Write HDL code for combinational and Sequential Circuits (K3).
 
 ** TEXT BOOKS
-1. M. Morris R. Mano, Michael D. Ciletti, ``Digital Design: With an
+1. M Morris R Mano, Michael D Ciletti, ``Digital Design: With an
    Introduction to the Verilog HDL, VHDL, and SystemVerilog'', 6th
    Edition, Pearson Education, 2017.
-2. S. Salivahanan, S. Arivazhagan, ``Digital Circuits and Design'',
+2. S Salivahanan, S Arivazhagan, ``Digital Circuits and Design'',
    5th edition, Oxford University Press, 2018.
 
 ** REFERENCES
-1. G. K. Kharate, ``Digital Electronics'', Oxford University Press, 2010.
-2. John F. Wakerly, ``Digital Design Principles and Practices'', 5th
+1. G K Kharate, ``Digital Electronics'', Oxford University Press, 2010.
+2. John F Wakerly, ``Digital Design Principles and Practices'', 5th
    Edition, Pearson Education, 2017.
-3. Charles H. Roth Jr, Larry L. Kinney,``Fundamentals of Logic Design'',
+3. Charles H Roth Jr, Larry L Kinney,``Fundamentals of Logic Design'',
    6th Edition,CENGAGE Learning, 2013.
-4. Donald D. Givone,``Digital Principles and Design'', Tata Mc Graw
+4. Donald D Givone,``Digital Principles and Design'', Tata Mc Graw
    Hill, 2003.
-5. Thomas L.Floyd, ``Digital Fundamentals'', 11th edition, Pearson
+5. Thomas L Floyd, ``Digital Fundamentals'', 11th edition, Pearson
    Education, 2017.
