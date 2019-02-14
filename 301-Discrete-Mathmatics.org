@@ -56,8 +56,8 @@ algebra - Stone’s representation Theorem.
 
 ** COURSE OUTCOMES
 On studying this course, the students will able to:
-- Write simple proofs using Propositional and First-Order Logics K2
-- Write simple proofs using mathematical induction K2
+- Write simple proofs using Propositional and First-Order Logics 
+- Write simple proofs using mathematical induction 
 - Prove simple graph properties.
 - Explain basic concepts in group theory such as semi groups, monoids
   and groups.
@@ -65,19 +65,17 @@ On studying this course, the students will able to:
   and lattices.
 
 ** TEXT BOOKS
-1. Kenneth H. Rosen, ``Discrete Mathematics and its Applications'', Tata
-   McGraw Hill Pub. Co. Ltd., New Delhi, 7th Edition, Special Indian
-   edition, 2017.
-2. Tremblay J. P. and Manohar R., ``Discrete Mathematical Structures
-   with Applications to Computer Science'', Tata McGraw Hill
-   Pub. Co. Ltd, New Delhi, 30th Reprint, 2011.
+1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th Edition,Special Indian edition, Tata
+   McGraw Hill, New Delhi, 2017.
+2. Tremblay J P and Manohar R, ``Discrete Mathematical Structures
+   with Applications to Computer Science'', 30th Reprint, Tata McGraw Hill, New Delhi,2011.
 
 ** REFERENCES
 1. Ralph P Grimaldi, ``Discrete and Combinatorial Mathematics: An
    Applied Introduction'', 4th Edition, Pearson Education Asia, 2007.
 2. Thomas Koshy, ``Discrete Mathematics with Applications'', Elsevier
    Publications, 2006.
-3. Seymour Lipschutz and Mark Lipson, ``Discrete Mathematics'',
+3. Seymour Lipschutz,  Mark Lipson, ``Discrete Mathematics'',
    Schaum's Outlines, 3rd Edition, Tata McGraw Hill, 2010.
 4. C L Liu, D P Mohapatra, ``Elements of Discrete Mathematics'', 4th
    Edition, McGraw Higher Education, 2012.
