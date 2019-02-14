@@ -88,7 +88,7 @@ After the completion of this course, students will be able to:
 ** TEXTBOOK
 1. Behrouz Forouzan and Richard Gilberg, ``UNIX and Shell Programming: A
    Textbook'', Thomson Learning Inc., 2005.
-2. Tom Phoenix, Brian D Foy, and Randal L. Schwartz, 
+2. Tom Phoenix, Brian D Foy, and Randal L Schwartz, 
    ``Learning Perl'', 7th Edition, O'Reilly, 2017.
 
 ** REFERENCES
@@ -98,6 +98,6 @@ After the completion of this course, students will be able to:
    2017.
 3. Stephen Kochan and Patrick Wood, ``Shell Programming in UNIX, Linux
    and OSX'', Addison Wesly, 2016.
-4. M.G. Venkateshmurthy , ``Introduction to Unix and Shell Programming'', 
+4. M G Venkateshmurthy , ``Introduction to Unix and Shell Programming'', 
    1st Edition, Pearson Education, 2005.
-5. Randal K. Michael ``Mastering Unix Shell Scripting'', 2nd Edition, Wiley, 2008.
+5. Randal K Michael ``Mastering Unix Shell Scripting'', 2nd Edition, Wiley, 2008.

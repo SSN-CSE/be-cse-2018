@@ -62,16 +62,16 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. Wayne Tomasi, ``Electronic communications systems: Fundamentals
    through Advanced'', 5th edition, Pearson Prentice Hall.
-2. S. Haykin, ``Digital Communications'', John Wiley, 2005.
+2. S Haykin, ``Digital Communications'', John Wiley, 2005.
 
 ** REFERENCES
-1. B. P. Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
+1. B P Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
    edition, Oxford University Press, 2007.
-2. H. P. Hsu, Schaum Outline Series – ``Analog and Digital
+2. H P Hsu, Schaum Outline Series – ``Analog and Digital
    Communications'', TMH, 2006.
-3. B. Sklar, ``Digital Communications Fundamentals and Applications'', 2/e
+3. B Sklar, ``Digital Communications Fundamentals and Applications'', 2/e
    Pearson Education, 2007.
-4. H. Taub, D.L.Schilling, G.Saha, ``Principles of Communication
+4. H Taub, D L Schilling, G Saha, ``Principles of Communication
    Systems'', 3/e, TMH, 2007.
-5. J. G. Proakis, ``Digital Communication'', 4th Edition, Tata Mc Graw
+5. J G Proakis, ``Digital Communication'', 4th Edition, Tata Mc Graw
    Hill Company, 2001.
