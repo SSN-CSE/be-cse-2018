@@ -11,11 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To introduce the fundamentals of Database systems and Conceptual Modeling .
+- To introduce the fundamentals of Database systems and Conceptual Modeling.
 - To learn SQL and relational model.
 - To learn database programming and relational database design.
 - To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
-- To understand NOSQL Databases
+- To understand NOSQL Databases.
 
 
 {{{unit}}}
@@ -42,27 +42,27 @@ Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based NOSQL Syst
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the database concepts  and apply ER models to  any real world application- (K3)
-- Apply data definition and complex SQL queries - (K3)
-- Design databases using normalization and ER to Relational mapping and write database program for a real-time application - (K3)
+- Understand the database concepts  and apply ER models to  any real world application(K3)
+- Apply data definition and complex SQL queries(K3)
+- Design databases using normalization and ER to Relational mapping and write database program for a real-time application(K3)
 - Apply transaction processing, concurrency control and recovery mechanisms for practical problems - (K3)
-- Understand  the concepts of NOSQL databases - (K2)
+- Understand  the concepts of NOSQL databases(K2)
 
 ** TEXT BOOKS 
-1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database
-   Systems'', Pearson, 7th Edition, 2016.
-2. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database
-   System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011.
+1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
+   Systems'', 7th Edition, Pearson, 2016.
+2. Abraham Silberschatz, Henry F Korth and S Sudharshan, ``Database
+   System Concepts'',6th Edition, Tata Mc Graw Hill, 2011.
 
 ** REFERENCES
 1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database
-   Systems'', Pearson Education, 3rd Edition, 2014.
-2. S. Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database
+   Systems'',3rd Edition, Pearson Education,  2014.
+2. S Sumathi, S Esakkirajan, `` Fundamentals of Relational Database
    Management Systems '', (Studies in Computational Intelligence),
    Springer-Verlag, 2007.
-3. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw
-   Hill, 4th Edition, 2010.
-4. C. J. Date, A. Kannan, S. Swamynathan, "An Introduction to Database
-   Systems", Eighth Edition, Pearson Education, 2006.
-5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, "Database
+3. Raghu Ramakrishnan, `` Database Management Systems'',4th Edition, Tata Mc Graw
+   Hill,2010.
+4. C J Date, A Kannan, S Swamynathan, "An Introduction to Database
+   Systems", 8th Edition, Pearson Education, 2006.
+5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database
    Systems:The Complete Book", 2e, Pearson.
