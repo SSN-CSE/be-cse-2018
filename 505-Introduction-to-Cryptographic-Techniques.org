@@ -57,7 +57,7 @@ Upon the completion of the course the students should be able to:
 ** References
 1.	Wenbo Mao, ``Modern Cryptography – Theory and Practice”, Pearson Education, 2004.
 2.	Johannes A. Buchmann, ``Introduction to Cryptography”, 2nd edition, Pearson Education, Springer, 2009.
-3.	Charles P. Pfleeger, Shari Lawrence Pfleeger, ``Security in computing'', 3rd Edition, 
+3.	Charles P Pfleeger, Shari Lawrence Pfleeger, ``Security in computing'', 3rd Edition, 
         Prentice Hall of India, 2006.
 4.	Bruce Schneier and Neils Ferguson, “Practical Cryptography”, 1st Edition, Wiley Dreamtech India Pvt Ltd, 2003.
 5.	http://nptel.ac.in/courses/106105031/lecture by Dr. Debdeep Mukhopadhyay, IIT Kharagpur.
