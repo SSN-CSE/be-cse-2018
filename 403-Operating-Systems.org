@@ -44,7 +44,7 @@ Recovery.
 |UNIT III | MEMORY MANAGEMENT | 8 |
 Main Memory: Contiguous Memory Allocation -- Segmentation -- Paging --
 32 and 64 bit architecture Examples; Virtual Memory: Demand paging --
-Page replacement algorithms -- Allocation -- Thrashing;
+Page replacement algorithms -- Allocation -- Thrashing.
 
 {{{unit}}}
 |UNIT IV | STORAGE MANAGEMENT | 9 |
@@ -52,7 +52,7 @@ Mass Storage Structure: Overview -- Disk scheduling and management;
 File System Storage: File concepts -- Directory and disk structure --
 Sharing and protection; File System Implementation: File system
 structure -- Directory structure -- Allocation methods -- Free space
-management -- I/O systems
+management -- I/O systems.
 
 {{{unit}}}
 |UNIT V | CASE STUDY | 7 |
