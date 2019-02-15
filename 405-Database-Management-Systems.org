@@ -56,11 +56,11 @@ After the completion of this course, students will be able to:
 
 ** REFERENCES
 1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database
-   Systems'',3rd Edition, Pearson Education,  2014.
+   Systems'', 3rd Edition, Pearson Education, 2014.
 2. S Sumathi, S Esakkirajan, `` Fundamentals of Relational Database
    Management Systems '', (Studies in Computational Intelligence),
    Springer-Verlag, 2007.
-3. Raghu Ramakrishnan, `` Database Management Systems'',4th Edition, Tata Mc Graw
+3. Raghu Ramakrishnan, `` Database Management Systems'', 4th Edition, Tata Mc Graw
    Hill,2010.
 4. C J Date, A Kannan, S Swamynathan, "An Introduction to Database
    Systems", 8th Edition, Pearson Education, 2006.
