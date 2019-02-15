@@ -35,7 +35,9 @@ of error; Support Vector Machines.
 
 {{{unit}}}
 |UNIT III | TREE LEARNING AND PROBABILISTIC LEARNING | 9 |
-Learning with Trees: Constructing decision trees -- Classification and Regression trees -- Classification example ; Ensemble learning: Boosting -- Bagging -- Random forests; Probabilistic Learning: Gaussian mixture models -- Nearest neighbour methods.
+Learning with Trees: Constructing decision trees -- Classification and Regression trees -- 
+Classification example ; Ensemble learning: Boosting -- Bagging -- Random forests; 
+Probabilistic Learning: Gaussian mixture models -- Nearest neighbour methods.
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
@@ -46,7 +48,8 @@ Reinforcement learning: State and action space -- Reward function -- Discounting
 {{{unit}}}
 |UNIT V | DIMENSIONALITY REDUCTION AND OPTIMISATION TECHNIQUES| 8 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
-Principal Component Analysis; Optimisation and Search: Least-squares optimisation -- Conjugate gradients -- Search approaches -- Exploitation and exploration.
+Principal Component Analysis; Optimisation and Search: Least-squares optimisation --
+ Conjugate gradients -- Search approaches -- Exploitation and exploration.
 
 
 \hfill *Total Periods: 45*
@@ -61,23 +64,23 @@ After the completion of this course, students will be able to:
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
-   Perspective'', Second Edition, Chapman and Hall/CRC Machine
+   Perspective'', 2nd Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
-2. Ethem Alpaydin, ``Introduction to Machine Learning'', Third Edition, The MIT
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition, The MIT
    Press 2014.
 
 
 ** REFERENCES
 1. Jason Bell, ``Machine learning – Hands on for Developers and
-   Technical Professionals'', First Edition, Wiley, 2014.
+   Technical Professionals'', 1st Edition, Wiley, 2014.
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
-   that Make Sense of Data'', First Edition, Cambridge University
+   that Make Sense of Data'', 1st Edition, Cambridge University
    Press, 2012.
 3. Richert, Willi, ``Building machine learning systems with Python'',
    Packt Publishing Ltd, 2013.
-4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education
+4. Tom M Mitchell, ``Machine Learning'', McGraw-Hill Education
    (India) Private Limited, 2013.
-5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from
+5. Y S Abu-Mostafa, M Magdon-Ismail, and H T Lin, ``Learning from
    Data'', AMLBook Publishers, 2012.
 
 
