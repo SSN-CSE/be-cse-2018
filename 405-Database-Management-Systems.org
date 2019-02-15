@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
 1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
    Systems'', 7th Edition, Pearson, 2016.
 2. Abraham Silberschatz, Henry F Korth and S Sudharshan, ``Database
-   System Concepts'',6th Edition, Tata Mc Graw Hill, 2011.
+   System Concepts'', 6th Edition, Tata Mc Graw Hill, 2011.
 
 ** REFERENCES
 1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database

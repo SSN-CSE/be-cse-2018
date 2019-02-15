@@ -61,11 +61,11 @@ Restructuring.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand principles of software engineering and choose an appropraite process model(K4).
-- Perform requirements analysis and modeling(K3).
+- Understand principles of software engineering and choose an appropraite process model (K4).
+- Perform requirements analysis and modeling (K3).
 - Apply systematic procedure for software design (K3).
-- Compare and contrast the various testing and maintenance activities(K2).
-- Manage project schedule, estimate project cost and effort required(K3).
+- Compare and contrast the various testing and maintenance activities (K2).
+- Manage project schedule, estimate project cost and effort required (K3).
       
 ** TEXT BOOKS
 1. Roger S Pressman, ``Software Engineering -- A Practitioner's
