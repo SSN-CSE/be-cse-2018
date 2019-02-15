@@ -59,30 +59,29 @@ Multiprocessors.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics structure of computers, operations and instructions. (K2)
-- Design arithmetic and logic unit. (K3)
-- Understand pipelined execution and design control unit. (K3)
-- Design of various memory systems and understand I/O communication. (K3)
-- Understand parallel processing architectures. (K2)
+- Understand the basics structure of computers, operations and instructions(K2)
+- Design arithmetic and logic unit(K3)
+- Understand pipelined execution and design control unit(K3)
+- Design of various memory systems and understand I/O communication(K3)
+- Understand parallel processing architectures(K2)
 
 ** TEXT BOOKS
-1. David A. Patterson and John L. Hennessy, ``Computer Organization
-   and Design: The Hardware/Software Interface'', Fifth Edition,
+1. David A Patterson and John L Hennessy, ``Computer Organization
+   and Design: The Hardware/Software Interface'', 5th Edition,
    Morgan Kaufmann / Elsevier, 2014. (units I, III, IV, V)
 2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky and Naraig Manjikian,
-   ``Computer Organization and Embedded Systems'', Sixth Edition, Tata
+   ``Computer Organization and Embedded Systems'', 6th Edition, Tata
    McGraw Hill, 2012. (unit II)
 
 ** REFERENCES
 1. William Stallings, ``Computer Organization and Architecture –
-   Designing for Performance'', Eighth Edition, Pearson
+   Designing for Performance'', 8th Edition, Pearson
    Education, 2010.
-3. John P. Hayes, ``Computer Architecture and Organization'', Third
+3. John P Hayes, ``Computer Architecture and Organization'', 3rd
    Edition, Tata McGraw Hill, 2012.
-4. John L. Hennessey and David A. Patterson, ``Architecture – A
+4. John L Hennessey and David A Patterson, ``Architecture – A
    Quantitative Approach'', 5th edition, Morgan Kaufmann /
    Elsevier, 2012. (Units I, III).
-6. Morris Mano M, ``Computer System Architecture'', Revised Third
-   Edition, Pearson Publication, 2017.
+6. Morris Mano M, ``Computer System Architecture'', Revised 3rd   Edition, Pearson Publication, 2017.
 7. Chakraborty P, ``Computer Architecture and Organization'', JAICO
    Publishing House, 2010.
