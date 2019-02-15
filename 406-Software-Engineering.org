@@ -76,7 +76,7 @@ After the completion of this course, students will be able to:
 
 
 ** REFERENCES
-1. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd
+1. Rajib Mall, ``Fundamentals of Software Engineering'',3rd
    Edition, PHI Learning Private Limited, 2009.
 2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley
    India, 2010.
