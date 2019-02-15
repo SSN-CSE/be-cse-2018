@@ -15,14 +15,14 @@
 - To learn the design aspects of I/O and Memory Interfacing circuits.
 - To interface microprocessors with supporting chips.
 - To study the Architecture of 8051 microcontroller.
-- To design a microcontroller based system
+- To design a microcontroller based system.
 
 {{{unit}}}
 |UNIT I | THE 8086 MICROPROCESSOR | 9 |
 Introduction to 8086 -- Microprocessor architecture -- Addressing
 modes -- Instruction set and assembler directives -- Assembly language
 programming -- Stacks -- Procedures -- Macros -- Interrupts and
-interrupt service routines -- Byte and String Manipulation
+interrupt service routines -- Byte and String Manipulation.
 
 {{{unit}}} 
 |UNIT II | 8086 SYSTEM BUS STRUCTURE  | 9 |
@@ -45,14 +45,14 @@ and Alarm Controller.
 |UNIT IV | THE 8051 MICROCONTROLLER | 9 |
 Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins
 Ports and Circuits -- Instruction set -- Addressing modes -- Assembly
-language programming
+language programming.
 
 {{{unit}}}
 |UNIT V | INTERFACING MICROCONTROLLER | 9 |
 Programming 8051 Timers -- Serial Port Programming -- Interrupts Programming -- 
 LCD & Keyboard Interfacing -- ADC, DAC & Sensor Interfacing -- External Memory Interface -- 
 Stepper Motor and Waveform generation -- Comparison of Microprocessor, Microcontroller, 
-PIC and ARM processors
+PIC and ARM processors.
 
 \hfill *Total Periods: 45*
 
