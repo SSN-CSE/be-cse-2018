@@ -14,50 +14,42 @@
   problems.
 - To study the various supervised, unsupervised and reinforcement
   learning algorithms in machine learning.
-- To study the graphical models to represent tha data and their
+- To study the dimensionality reduction techniques to represent tha data and their
   dependencies.
-- To design appropriate machine learning algorithms for real world
-  problems.
+- To understand the need of optimisation techniques.
 
 {{{unit}}}
-|UNIT I | INTRODUCTION  | 9 |
+|UNIT I | INTRODUCTION  | 8 |
 Introduction: Machine Learning -- Examples of Machine Learning
 Applications: Learning Associations -- Classification -- Regression --
-Unsupervised Learning -- Reinforcement Learning ; Preliminaries: Curse
+Unsupervised Learning -- Reinforcement Learning ; Preliminaries: Weight space -- Curse
 of dimensionality -- Testing machine learning algorithms -- Turning
 data into probabilities -- Basic statistics -- Bias-variance tradeoff.
 
 {{{unit}}}
-|UNIT II | SUPERVISED LEARNING  | 9 |
+|UNIT II | SUPERVISED LEARNING  | 11 |
 Neural Networks and Linear Discriminants: Brain and the neuron --
 Neural networks -- Perceptron -- Linear separability -- Linear
 regression; Multi-layer Perceptron: Going forward -- Back-propagation
-of error;
-
-Support Vector Machines; Learning with Trees: Constructing decision
-trees -- Classification and Regression trees; Ensemble learning.
+of error; Support Vector Machines.
 
 {{{unit}}}
-|UNIT III | PROBABILISTIC LEARNING AND GRAPHICAL MODELS  | 9 |
-Probability and Learning: Turning data into probabilities -- Naive
-Bayes classifier -- Basic Statistics -- EM algorithm -- Nearest
-neighbour methods; Graphical models: Bayesian networks -- Hidden
-Markov Models.
+|UNIT III | TREE LEARNING AND PROBABILISTIC LEARNING | 9 |
+Learning with Trees: Constructing decision trees -- Classification and Regression trees -- 
+Classification example ; Ensemble learning: Boosting -- Bagging -- Random forests; 
+Probabilistic Learning: Gaussian mixture models -- Nearest neighbour methods.
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-Organising feature map;
-Reinforcement learning: State and action space -- Reward -- Discount
--- Action selection -- Policy -- Markov Decision Process --
-Q-Learning.
+Reinforcement learning: State and action space -- Reward function -- Discounting
+-- Action selection -- Policy -- Markov Decision Process -- Values.
 
 {{{unit}}}
-|UNIT V | DIMENSIONALITY REDUCTION TECHNIQUES AND CASE STUDIES | 9 |
+|UNIT V | DIMENSIONALITY REDUCTION AND OPTIMISATION TECHNIQUES| 8 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
-Principal Component Analysis; Performance metrics for classification
-and regression -- Case study: E-mail spam detection -- Sentiment
-analysis -- Document classification using clustering -- Handwritten
-character recognition.
+Principal Component Analysis; Optimisation and Search: Least-squares optimisation --
+ Conjugate gradients -- Search approaches -- Exploitation and exploration.
 
 
 \hfill *Total Periods: 45*
@@ -66,29 +58,29 @@ character recognition.
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
 - Apply supervised and unsupervised learning algorithms for different tasks (K3).
-- Understand the use of reinforcement learning techniques to various problems. (K2).
-- Understand the requirement of dimensionality reduction techniques (K2).
-- Analyse and suggest appropriate machine learning approaches for various types of problems (K4).
+- Understand the use of reinforcement learning techniques to various problems (K2).
+- Understand the requirement of dimensionality reduction and optimisation techniques (K2).
+- Apply and analyze the various machine learning algorithms for real world problems (K4).
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
-   Perspective'', Second Edition, Chapman and Hall/CRC Machine
-   Learning and Pattern Recognition Series, 2014.
-2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT
-   Press 2004.
+   Perspective'', 2nd Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2015.
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition, The MIT
+   Press 2014.
 
 
 ** REFERENCES
 1. Jason Bell, ``Machine learning – Hands on for Developers and
-   Technical Professionals'', First Edition, Wiley, 2014.
+   Technical Professionals'', 1st Edition, Wiley, 2014.
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
-   that Make Sense of Data'', First Edition, Cambridge University
+   that Make Sense of Data'', 1st Edition, Cambridge University
    Press, 2012.
 3. Richert, Willi, ``Building machine learning systems with Python'',
    Packt Publishing Ltd, 2013.
-4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education
+4. Tom M Mitchell, ``Machine Learning'', McGraw-Hill Education
    (India) Private Limited, 2013.
-5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from
+5. Y S Abu-Mostafa, M Magdon-Ismail, and H T Lin, ``Learning from
    Data'', AMLBook Publishers, 2012.
 
 

@@ -36,10 +36,10 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear and non-linear data structures to solve a given problem (K3)
+- Implement linear and non-linear data structures to solve a given problem (K3).
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure
-  for solving it (K4)
-- Implement sorting, seraching and hashing algorithms (K2)
+  for solving it (K4).
+- Implement sorting, seraching and hashing algorithms (K2).
 
 ** Laboratory requirement for batch of 25 students
 

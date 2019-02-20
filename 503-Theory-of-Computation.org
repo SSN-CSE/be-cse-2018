@@ -65,16 +65,16 @@ After the completion of this course, students will be able to:
 - Explain the Decidability or Undecidability of various problems (K2)
 
 ** Text Books 
-1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata
-   Theory, Languages and Computations”, Third Edition, Pearson
+1. Hopcroft J E, Motwani R and Ullman J D, “Introduction to Automata
+   Theory, Languages and Computations”, 3rd Edition, Pearson
    Education, 2008.
 
 ** References
 1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory
-   of Computation'', Second Edition, Prentice Hall of India, Pearson
-   Education, New Delhi, 2003.
+   of Computation'', 2nd Edition, Prentice Hall of India, Pearson
+   Education, 2003.
 2. Peter Linz, ``An Introduction to Formal Language and
-   Automata'',Third Edition, Narosa Publishers, New Delhi, 2002.
+   Automata'',3rd Edition, Narosa Publishers,2002.
 3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science
-   -Automata, Languages and Computation'', Third Edition, Prentice
+   -Automata, Languages and Computation'', 3rd Edition, Prentice
    Hall of India,2004.

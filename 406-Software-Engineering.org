@@ -61,26 +61,26 @@ Restructuring.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand principles of software engineering and choose an appropraite process model(K4).
-- Perform requirements analysis and modeling(K3).
+- Understand principles of software engineering and choose an appropraite process model (K4).
+- Perform requirements analysis and modeling (K3).
 - Apply systematic procedure for software design (K3).
-- Compare and contrast the various testing and maintenance activities(K2).
-- Manage project schedule, estimate project cost and effort required(K3).
+- Compare and contrast the various testing and maintenance activities (K2).
+- Manage project schedule, estimate project cost and effort required (K3).
       
 ** TEXT BOOKS
-1. Roger S. Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', Seventh Edition, McGraw-Hill International
+1. Roger S Pressman, ``Software Engineering -- A Practitioner's
+   Approach'', 7th Edition, McGraw-Hill International
    Edition, 2010.
 2. Ian Sommerville, ``Software Engineering'', 9th Edition, Pearson
    Education Asia, 2011.
 
 
 ** REFERENCES
-1. Rajib Mall, ``Fundamentals of Software Engineering'', Third
+1. Rajib Mall, ``Fundamentals of Software Engineering'',3rd
    Edition, PHI Learning Private Limited, 2009.
 2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley
    India, 2010.
-3. Kelkar S.A.,``Software Engineering'', Prentice Hall of India Pvt
+3. Kelkar S A,``Software Engineering'', Prentice Hall of India Pvt
    Ltd, 2007.
-4. Stephen R.Schach, ``Software Engineering'', Tata McGraw-Hill
+4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill
    Publishing Company Limited,2007.

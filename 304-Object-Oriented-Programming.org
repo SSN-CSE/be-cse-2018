@@ -54,11 +54,11 @@ Map class – Algorithms: sorting - searching - user-defined algorithms
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Solve problems using classes and objects (K3)
-- Develop programs using inheritance and interfaces (K3)
-- Experiment the concepts of polymorphism (K3)
-- Design applications using generic programming. (K3)
-- Develop algorithms using generic collections(K3)
+- Solve problems using classes and objects(K3).
+- Develop programs using inheritance and interfaces(K3).
+- Experiment the concepts of polymorphism (K3).
+- Design applications using generic programming(K3).
+- Develop algorithms using generic collections(K3).
      
 ** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented
@@ -70,11 +70,11 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Timothy Budd, ``Understanding Object-oriented programming with
    Java'', Updated Edition, Pearson Education, 2000.
-2. C. Thomas Wu, ``An introduction to Object-oriented programming with
-   Java'', Fourth Edition, Tata McGraw-Hill Publishing company
+2. C Thomas Wu, ``An introduction to Object-oriented programming with
+   Java'', 4th Edition, Tata McGraw-Hill Publishing company
    Ltd., 2006.
-3. Cay S. Horstmann, Gary cornell, ``Core Java Volume –I
-   Fundamentals'' 9th Edition, Prentice Hall, 2013.
+3. Cay S Horstmann, Gary cornell, ``Core Java Volume –I
+   Fundamentals'', 9th Edition, Prentice Hall, 2013.
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
    Edition, Pearson, 2015.
 5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.

@@ -15,7 +15,7 @@
 - To design and implement the various combinational circuits
 - To design and implement combinational circuits using MSI devices.
 - To design and implement sequential circuits
--	To understand  and code with HDL programming
+- To understand  and code with HDL programming
 
 ** SUGGESTIVE LAB EXPERIMENTS
 1. Verification of Boolean Theorems using basic gates.

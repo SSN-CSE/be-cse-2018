@@ -11,7 +11,6 @@
 
 
 ** COURSE OBJECTIVES
-The student should be made to:
 - Understand the basic concepts of mobile computing
 - Be familiar with the protocol stack.
 - Be exposed to Ad-Hoc networks.
@@ -57,7 +56,7 @@ vs Hybrid - Mobile Web Application Frameworks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify the functionalities of datalink layer.(K3)
+- Identify the functionalities of various MAC protocols.(K3)
 - Explain the functionalities of mobile network layer and routing in Ad hoc networks.(K3)
 - Analyze the transport and application layer protocols.(K3)
 - Explain the basics of mobile telecommunication system.(K2)

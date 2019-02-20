@@ -78,22 +78,22 @@ Problems -- Traveling Salesman problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design algorithms for various computing problems (K3)
-- Analyze the time and space complexity of algorithms (K4)
-- Compare the different algorithm design techniques for a given problem (K4)
-- Modify existing algorithms to improve efficiency (K4)
-- Understand the limitations of algorithmic power (K2)
+- Design algorithms for various computing problems(K3)
+- Analyze the time and space complexity of algorithms(K4)
+- Compare the different algorithm design techniques for a given problem(K4)
+- Modify existing algorithms to improve efficiency(K4)
+- Understand the limitations of algorithmic power(K2)
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
-   Algorithms'', Third Edition, Pearson Education, 2012.
-2. S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani,
-   ``Algorithms'', McGraw Hill Education; 1st edition, 2017
+   Algorithms'', 3rd Edition, Pearson Education, 2012.
+2. S Dasgupta, C H Papadimitriou, and U V Vazirani,
+   ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
 
 ** REFERENCES
-1. Thomas H.Cormen, Charles E.Leiserson, Ronald L. Rivest and Clifford
-   Stein, ``Introduction to Algorithms'', Third Edition, PHI Learning
+1. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest and Clifford
+   Stein, ``Introduction to Algorithms'', 3rd Edition, PHI Learning
    Private Limited, 2012
-2. Steven S. Skiena, ``The Algorithm Design Manual'', Second Edition,
+2. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
 

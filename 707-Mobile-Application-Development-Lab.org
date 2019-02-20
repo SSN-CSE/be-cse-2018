@@ -10,33 +10,32 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To understand the components and structure of mobile application development frameworks.
-- To understand how to work with mobile application development framework.
-- To learn the basic and important design concepts in developing mobile applications.
+- To develop native mobile applications.
+- To develop hybrid mobile applications.
 
 
 ** SUGGESTIVE EXPERIMENTS
 1. Develop an application that uses GUI components, Layout Managers and event listeners.
 2. Develop an application to simulate a keyboard.
-3. Write an application that uses graphical primitives.
+3. Create an application that uses graphical primitives.
 4. Develop an application that makes use of databases.
 5. Implement an application that uses Multi-threading
 6. Develop a native application that uses GPS location information.
 7. Implement an application that writes data to the SD card.
 8. Implement an application that send a SMS and creates an alert upon receiving the SMS.
-9. Write an application that makes use of Menu.
+9. Create an application that makes use of Menu.
 10. Develop an application to build an alarm clock.
-11. Implement a web application to display a web page.
-12. Mini Project
+11. Implement a hybrid mobile application for displaying a website.
+12. Mini Project (Food delivery app, Attendance tracking app, Online ticket booking app  etc. )
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop mobile applications using GUI, Layouts and Event Listener. (K3)
-- Develop mobile application using Graphical primitives, Databases, Multithreading and GPS. (K3)
+- Develop mobile applications using Graphical primitives, Databases, Multithreading and GPS. (K3)
 - Develop mobile applications using  SD Card, SMS and Notification. (K3)
-- Develop mobile web applications. (K3)
+- Develop hybrid mobile applications. (K3)
 - Develop a mobile app. (K3)
 
 ** Laboratory requirement for batch of 38 students
@@ -44,5 +43,4 @@ Hardware:\\
 1. Standalone Desktops preferably Intel i5 Machines - 38 Nos
 
 Software:\\
-1. Android Studio 
-2. SQLite Database
+1. Windows or Android or iOS or  Equivalent  Mobile Application Development Tools with appropriate emulators and  debuggers.

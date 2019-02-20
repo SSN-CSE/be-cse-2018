@@ -26,25 +26,25 @@ Seeley Discriminator, PLL as FM demodulator, Superheterodyne
 receivers.
 
 {{{unit}}}
-|UNIT II| PULSE MODULATION| 								          9 |
+|UNIT II| PULSE MODULATION| 9  |
 Low pass sampling theorem – Quantization –PAM–Line coding – PCM, DPCM,
 DM, and ADM - Time Division Multiplexing, Frequency Division
 Multiplexing.
 
 {{{unit}}}
-|UNIT III| DIGITAL MODULATION AND TRANSMISSION|             			          9 |
+|UNIT III| DIGITAL MODULATION AND TRANSMISSION| 9 |
 ASK, FSK–PSK: BPSK, QPSK & DPSK –QAM– Comparison– Principles of M-ary
 signaling, ISI – Pulse shaping– Eye pattern.
 
 {{{unit}}}
-|UNIT IV| INFORMATION THEORY AND CODING| 					          9 |
+|UNIT IV| INFORMATION THEORY AND CODING| 9 |
 Entropy – Source coding theorem – Shannon–Fano coding, Huffman Coding
 – Channel capacity – Shannon-Hartley law– Error control codes - Cyclic
 codes- Encoder, Syndrome Calculator– Convolution Coding - Viterbi
 Decoding.
 
 {{{unit}}}
-|UNIT V| SPREAD SPECTRUM AND MULTIPLE ACCESS|               			          9|
+|UNIT V| SPREAD SPECTRUM AND MULTIPLE ACCESS| 9 |
 PN sequences – properties – m-sequence – DSSS – Processing gain,
 Jamming margin – FHSS – Synchronization and tracking – Multiple Access
 – FDMA, TDMA, CDMA.
@@ -53,25 +53,25 @@ Jamming margin – FHSS – Synchronization and tracking – Multiple Access
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply analog and digital communication techniques (K3)
-- Design analog and digital communication systems (K3)
-- Use pulse communication techniques-Application (K3)
-- Analyze Source and Error control coding (K3)
-- Analyze the performance of spread spectrum systems (K3)
+- Apply analog and digital communication techniques (K3).
+- Design analog and digital communication systems (K3).
+- Use pulse communication techniques-Application (K3).
+- Analyze Source and Error control coding (K3).
+- Analyze the performance of spread spectrum systems (K3).
       
 ** TEXT BOOKS
 1. Wayne Tomasi, ``Electronic communications systems: Fundamentals
-   through Advanced'', Fifth edition, Pearson Prentice Hall.
-2. S. Haykin, ``Digital Communications'', John Wiley 2005 
+   through Advanced'', 5th edition, Pearson Prentice Hall.
+2. S Haykin, ``Digital Communications'', John Wiley, 2005.
 
 ** REFERENCES
-1. B. P. Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
-   edition, Oxford University Press, 2007
-2. H. P. Hsu, Schaum Outline Series – ``Analog and Digital
-   Communications'', TMH 2006
-3. B. Sklar, ``Digital Communications Fundamentals and Applications'', 2/e
-   Pearson Education 2007.
-4. H. Taub, D.L.Schilling, G.Saha, ``Principles of Communication
-   Systems'', 3/e, TMH 2007
-5. J. G. Proakis, ``Digital Communication'', 4th Edition, Tata Mc Graw
+1. B P Lathi, ``Modern Digital and Analog Communication Systems'', 3rd
+   edition, Oxford University Press, 2007.
+2. H P Hsu, Schaum Outline Series – ``Analog and Digital
+   Communications'', TMH, 2006.
+3. B Sklar, ``Digital Communications Fundamentals and Applications'', 2/e
+   Pearson Education, 2007.
+4. H Taub, D L Schilling, G Saha, ``Principles of Communication
+   Systems'', 3/e, TMH, 2007.
+5. J G Proakis, ``Digital Communication'', 4th Edition, Tata Mc Graw
    Hill Company, 2001.

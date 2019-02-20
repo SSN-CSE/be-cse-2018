@@ -45,12 +45,12 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Use data definitions and manipulation commands (K3)
-- Write complex SQL Queries  (K3)
-- Implement Database programming using PL/SQL  (K3)
-- Design a database for real-time applications  (K3)
+- Use data definitions and manipulation commands(K3)
+- Write complex SQL Queries(K3)
+- Implement Database programming using PL/SQL(K3)
+- Design a database for real-time applications(K3)
 - Implement and analyze the use of Tables, PL/SQL for a realistic
-  database applications using a Front-end tool  (K3)
+  database applications using a Front-end tool(K3)
 
 ** Laboratory requirement for batch of 38 students
 Hardware:\\

@@ -67,8 +67,8 @@ After the completion of this course, students will be able to:
 2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,
    August 2011
 3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
-   December 2012
+   December 2012.
 4. Brad Green and Shyam Seshadri, ``AngularJS'', O'Reilly Media, Inc.,
    First Edition, 2013.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'',
-   O'Reilly Media, Inc., First Edition, 2012.
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st Edition,
+   O'Reilly Media, 2012.
