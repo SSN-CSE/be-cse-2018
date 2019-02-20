@@ -11,11 +11,13 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To become familiar with digital image fundamentals. 
-- To get exposed to simple image enhancement techniques in Spatial and Frequency domain. 
-- To learn concepts of degradation function and restoration techniques.
-- To study the image segmentation and representation techniques.
-- To become familiar with object recognition methods
+- To be familiar with digital image fundamentals. 
+- To understand the basics of simple image enhancement techniques in
+  Spatial and Frequency domain.
+- To learn the concepts of degradation function and restoration
+  techniques.
+- To study image segmentation and representation techniques.
+- To be familiar with object recognition methods.
 
 {{{unit}}}
 |UNIT I | Digital Image Fundamentals | 9 |

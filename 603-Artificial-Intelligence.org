@@ -1,4 +1,4 @@
-* <<<603>>> ARTIFICIAL INTELLIGENCE
+* <<<504>>> ARTIFICIAL INTELLIGENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. S. Kavitha
 :end:

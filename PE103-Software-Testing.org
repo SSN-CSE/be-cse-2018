@@ -1,6 +1,6 @@
 * <<<PE103>>> SOFTWARE TESTING
 :properties:
-:author: Ms. K. Madheswari and Dr. A. Chamundeswari
+:author:   Dr. K. Madheswari and Dr. A. Chamundeswari
 :end:
 
 #+startup: showall
@@ -10,12 +10,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To know what is software and the usage of different types of software
-- To know the Quality Metrics of various Software
-- To know the methodologies in making Software. 
-- To understand automation methods in software testing.
-- Test the product finally to check the product Quality.
-
+- To understand the importance of testing in project development
+- To understand  Software Quality Assessment standards
+- To analyze the product quality
+- To use various testing methods in projects
+- To apply automation tools for software testing in projects
 
 {{{unit}}}
 |UNIT I|INTRODUCTION|9| 

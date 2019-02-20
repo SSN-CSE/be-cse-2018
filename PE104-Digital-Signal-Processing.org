@@ -11,8 +11,10 @@
 
 ** Course Objectives
 - To review discrete-time signals and systems
-- To introduce DFT and its properties for discrete-time signal analysis
-- To  teach the design of IIR and FIR filters for filtering the undesired signals
+- To introduce DFT and its properties for discrete-time signal
+  analysis
+- To teach the design of IIR and FIR filters for filtering the
+  undesired signals
 - To introduce the DSP for engineering applications
 
 {{{unit}}}
@@ -22,7 +24,7 @@ Classification of DT signals, Concepts of frequency in Analog and
 Digital Signals, Need for sampling and sampling theorem, Discrete–Time
 systems - Types of DT system, Analysis of discrete time LTI systems,
 Linear convolution, Z transform and its applications for LTI system
-analysis (CO1)
+analysis
 
 {{{unit}}}
 | UNIT II | FREQUENCY ANALYSIS OF DISCRETE-TIME SIGNALS | 9 |
@@ -30,7 +32,7 @@ Introduction to Discrete Fourier Transform (DFT) – Properties of DFT –
 Circular convolution, Linear filtering based on DFT, Filtering of long
 data sequences using Overlap – save method and Overlap – add method,
 FFT Algorithms - Decimation – in – time (DIT) FFT Algorithm,
-Decimation – in – frequency (DIF) FFT Algorithm (CO2)
+Decimation – in – frequency (DIF) FFT Algorithm
 
 {{{unit}}}
 | UNIT III | DESIGN OF IIR FILTER | 9 |
@@ -40,31 +42,34 @@ design by Impulse Invariance technique (IIT) and Bilinear
 transformation technique (BLT), Structures of IIR filter – Direct
 form - I, Direct form – II, Cascade and Parallel form, Finite word
 length effects of IIR filter - limit cycle oscillations, dead band,
-signal scaling (CO3)
+signal scaling
 
 {{{unit}}}
 | UNIT IV | DESIGN OF FIR FILTER | 9 |
 Linear phase FIR filter, FIR Filter design using Rectangular, Hamming
 and Hanning windowing techniques, Structures of FIR filter –
 Transversal, linear-phase and poly-phase structures, Finite word
-length effects of FIR filter (CO4)
+length effects of FIR filter
 
 {{{unit}}}
 |UNIT V|   APPLICATIONS OF DIGITAL SIGNAL PROCESSING| 9|
 Multi-rate signal processing - Decimation, Interpolation, Multi-stage
 design of Decimation and Interpolation filters, Sub-band coding of
 speech signals, Adaptive filtering – Noise cancellation, Speech
-enhancement.  (CO5)
+enhancement.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand signals, systems and basics of digital signal processing
-- Understand and apply DFT and FFT for the analysis of DT signals & systems
-- Design and realize IIR filters using impulse invariant and bilinear transformation techniques
-- Design and realize FIR filters using various window techniques
-- Understand the need of DSP for engineering applications
+  (K2) 
+- Understand and apply DFT and FFT for the analysis of DT signals &
+  systems (K3)
+- Design and realize IIR filters using impulse invariant and bilinear
+  transformation techniques (K3)
+- Design and realize FIR filters using various window techniques (K3)
+- Understand the need of DSP for engineering applications (K2)
 
 ** TEXT BOOKS      
 1. John G. Proakis and Dimitris G Manolakis, ``Digital Signal

@@ -48,17 +48,22 @@ techniques, control, cuts, examples
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand imperative programming paradigm and some examples in C		(K3)
-- Understand object-oriented  programming paradigm and explore some examples in C++ or Java or Python 									(K3)
-- Understand functional  programming paradigm and explore some examples in Haskell										     	(K3)
-- Understand logic programming paradigm and explore some examples in Prolog	(K3)
-- Understand concurrent programming paradigm and explore some examples in Java / Ada  											(K3)
+- Understand imperative programming paradigm and some examples in C
+  (K3)
+- Understand object-oriented programming paradigm and explore some
+  examples in C++ or Java or Python (K3)
+- Understand functional programming paradigm and explore some examples
+  in Haskell (K3)
+- Understand logic programming paradigm and explore some examples in
+  Prolog (K3)
+- Understand concurrent programming paradigm and explore some examples
+  in Java / Ada (K3)
 
 ** TEXT BOOKS
 1. Ravi Sethi and Viswanatha, K.V., ``Programming Languages : Concepts
-   and constructs'', II Edition, Pearson, 2011
+   and constructs'', 2nd Edition, Pearson, 2011
 2. Allan B. Tucker and Robert E. Noonan, ``Programming Languages:
-   Principles and Paradigms'', II Edition, McGraw Hill, 2007
+   Principles and Paradigms'', 2nd Edition, McGraw Hill, 2007
 
 ** REFERENCES
 1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,

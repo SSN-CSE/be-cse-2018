@@ -10,11 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the basic programming and the object oriented programming concepts in C#.
-- To write window based applications and web applications using ADO.NET and ASP.NET.
-- To understand the basics of assemblies and .Net frameworks for communication and workflow. 
+- To learn object oriented programming concepts in C#.
+- To write windows based applications and web applications using ADO.NET and ASP.NET.
+- To understand the basics of assemblies and .Net frameworks for communication and workflow.
   
-
 {{{unit}}}
 |UNIT I | C# LANGUAGE BASICS | 9 |
 Introduction to .Net Architecture; Core C#: Variables -- Data Types --
@@ -29,7 +28,7 @@ Collections; Reflection; Errors and Exceptions; Manipulating Files:
 Managing file system -- File operations.
 
 {{{unit}}}
-|UNIT III | WINDOWS BASED APPLICATIONS AND DATA | 8 |
+|UNIT III | WINDOWS BASED APPLICATIONS AND DATA HANDLING | 8 |
 Core Windows Presentation Foundation (WPF): Geometry and
 transformations -- Brushes -- Controls -- Layouts -- Styles and
 Resources -- Triggers -- Templates; Core ADO .Net: Overview --
@@ -57,7 +56,8 @@ Overview -- Activities -- Workflows.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Apply object oriented concepts in program development using C#. (K3)
-- Develop windows based applications using C# in .NET framework using WPF. (K3)
+- Develop windows based applications using C# in .NET framework using
+  WPF. (K3)
 - Develop web applications using ASP.Net (K3)
 - Develop database applications using ADO.Net. (K3)
 - Understand the basic concepts of Assemblies, WCF and WWF. (K2)
