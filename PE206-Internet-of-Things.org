@@ -62,5 +62,5 @@ After completion of this course, students should be able to:
 2. Dieter Uckelmann, Mark Harrison, Michahelles, Florian (Eds), "Architecting the Internet of Things", Springer, 2011.
 3. Honbo Zhou, "The Internet of Things in the Cloud: A Middleware Perspective", CRC Press, 2012.
 4. Jan Holler, Vlasios Tsiatsis , Catherine Mulligan, Stamatis , Karnouskos, Stefan Avesand, David Boyle, "From Machine-to-Machine to
-the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
+   the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
 5. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of Things -- Key applications and Protocols", Wiley, 2012
