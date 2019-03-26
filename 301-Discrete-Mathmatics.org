@@ -6,8 +6,11 @@
 :end:
 
 #+begin_comment
-- Almost the same as AU
-- For changes, see the indidual units.
+- 1. Almost the same as AU
+- 2. For changes, see the indidual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
 #+end_comment
 
 #+startup: showall
