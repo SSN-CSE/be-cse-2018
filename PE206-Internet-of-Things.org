@@ -11,75 +11,56 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the fundamentals of Internet of Things.
-- To understand the architecture of IoT.
-- To learn about the basics of IoT protocols .
-- To build an embedded system using Arduino/Raspberry Pi.
-# - To apply the concept of Internet of Things in real world scenarios. 
+- To understand the fundamentals and architecture of Internet of Things
+- To learn about the sensors and different layer protocols 
+- To learn the best practices in security and data analytics in IoT infrastructure.   
+- To study the concept of Internet of Things in the real world applications. 
+
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
-M2M and IoT Technology Fundamentals -- Devices and gateways, Local and
-wide area networking, Data management, Business processes in IoT,
-Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge
-Management. An IoT Architectural Overview -- Building an architecture.
-# An IoT architecture outline
+| UNIT I | INTRODUCTION TO IOT | 9 |
+Genesis -- Impact and Challenges of IoT -- IoT Network Architecture and Design:  Need for new architectures -- Basic IoT Architecture --
+oneM2M and IoT World Forum  Architectures -- Core IoT Functional Stack -- IoT Data Management and Compute Stack.
 
 {{{unit}}}
-| UNIT II | IOT REFERENCE ARCHITECTURE | 9 |
-IoT Architecture: State of the Art -- Reference Model: Domain model --
-information model -- functional model -- communication model -- IoT
-Reference Architecture: Functional View -- Information View
+| UNIT II | ENGINEERING IoT NETWORKS | 9 |
+Sensing Devices:  Sensors -- Actuators -- MEMS -- Smart Objects -- Sensor Networks -- Connecting Smart Objects; IoT Access
+Technologies:  IEEE 802.15.4 -- IEEE 802.15.4g and 802.15.4e -- IEEE 1901.2a -- IEEE 802.11ah -- LoRaWAN -- NB-IoT and other LTE
+Variations.
 
 {{{unit}}}
-| UNIT III | IOT PROTOCOLS | 9 |
-Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols
--– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -–
-IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN --
-CoAP
+| UNIT III | IoT NETWORK AND APPLICATION LAYER PROTOCOLS | 9 |
+IP as IoT network layer -- Adoption or adaption of IP -- Need for optimization -- Optimizing IP for IoT -- Profiles and Compliances;
+IoT Application Transport Methods: Non--Application Layer -- SCADA -- Web Based Protocols -- IoT Application layer protocols : CoAP and
+MQTT.
 
 {{{unit}}}
-| UNIT IV | BUILDING IOT SYSTEMS | 9 |
-Logical design using Python -- IoT Physical devices and Endpoints:
-Basic building blocks of IoT Device -- Raspberry Pi -- Linux on
-Raspberry Pi -- Interfaces -- Programming Raspberry Pi with Python --
-Other IoT Platform: Arduino.
+| UNIT IV | DATA ANALYTICS FOR IoT | 9 |
+Introduction -- Machine Learning -- Big Data Analytics Tools and Technologies -- Edge Streaming Analytics -- Network Analytics
 
 {{{unit}}}
 | UNIT V | CASE STUDEIES AND REAL WORLD APPLICATIONS | 9 |
-Home Automation -- Weather monitoring -- Smart irrigation -- Data
-Analytics for IoT -- Software & Management Tools for IoT Cloud Storage
-Models & Communication APIs -- Cloud for IoT
-
+Cyber Security Vernacular -- Anatomy of IoT Cyber Attacks -- Physical and Hardware Security --  IoT Security and best practices -- IoT Applications: Smart and Connected Cities -- Public Safety
 
 \hfill *Total Periods: 45*
 
-
 ** COURSE OUTCOMES
 After completion of this course, students should be able to:
-- Understand the basic buiding blocks and data management in Internet
-  of Things (K2).
-- Understand different IoT architectures (K2).
-- Understand various protocols for IoT  (K2).
-- Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
-- Implement an IoT application in cloud environment (K3).
+- Explain the basics and different architectures of IoT (K2)
+- Discuss various sensors and access protocols for IoT  (K2)
+- Select different transport and application layer protocols based on application’s requirements (K2)
+- Discuss various machine learning and data analytics techniques for IoT applications (K2)
+- Use security aspects in designing real time IoT applications (K3)
+
 
 ** TEXT BOOKS
-1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to
-   the Internet of Things -- Introduction to a New Age of
-   Intelligence'', Elsevier, 2014.
-2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
-   Perspective'', CRC Press, 2012.
+1. David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton, Jerome Henry, “IoT  Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things”, Cisco Press, Pearson, 2019 
+2. Perry Lea,  "Internet of Things for Architects",  Packt Publishing, O'Reilly,  January 2018.
 
 ** REFERENCES
-1. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet
-   of Things -- Key applications and Protocols'', Wiley, 2012.
-2. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A
-   Hands-on Approach'', Universities Press, 2015.
-3. Gaston C. Hillar, ``Internet of Things with Python'', Packt
-   Publishing, 2016.
-4. Pethu Raj and Anupama C. Raman, ``The Internet of Things Enabling
-   Technologies, Platforms and Usecases'', Taylor & Francis, CRC
-   Press, 2017.
-5. Peter Waher, ``Learning Internet of Things'', PACKT publishing,
-   2015
+1. Arshdeep Bahga, Vijay Madisetti, "Internet of Things: A hands-on approach", Universities Press, 2015
+2. Dieter Uckelmann, Mark Harrison, Michahelles, Florian (Eds), "Architecting the Internet of Things", Springer, 2011.
+3. Honbo Zhou, "The Internet of Things in the Cloud: A Middleware Perspective", CRC Press, 2012.
+4. Jan Holler, Vlasios Tsiatsis , Catherine Mulligan, Stamatis , Karnouskos, Stefan Avesand, David Boyle, "From Machine-to-Machine to
+   the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
+5. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of Things -- Key applications and Protocols", Wiley, 2012

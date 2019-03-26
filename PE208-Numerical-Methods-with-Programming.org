@@ -18,75 +18,50 @@
 - To study Numerical solutions for differential equations
 
 {{{unit}}}
-|UNIT I | COMPUTATIONAL – TECHNIQUES | 7 |
-C Programming: Algorithms -- effective procedures in problem solving
--- flowcharts -- pseudo-code; C Preliminaries: Data types -- constants
--- variables -- type specification statements -- operators and
-expressions -- Library functions simple C programmes; Control
-Structures: Importance and types of structures -- structured
-programming -- if else -- while -- do-while -- for -- switch structure
--- goto -- continue and break statement; Arrays -- pointers --
-functions -- text processing and programmes using the above features.
+|UNIT I | APPROXIMATE NUMBERS | 9|
+Sources of Errors in Numerical Calculations -- Absolute and Relative
+Errors -- Representation of Numbers -- Significant Digits -- Errors of
+Elementary Operations; Basic Programming Techniques( C/C++)
 
 {{{unit}}}
-| UNIT II | INTERPOLATION | 10 |
-Finite differences -- Newton’s Forward Interpolation formula --
-Newton's Backward interpolation formula -- Central Difference
-interpolation formula -- Lagrange’s formula -- Newton’s divided
-difference interpolation formula -- Inverse Lagrange’s interpolation
-formula -- Interpolating with a cubic spline -- Curve Fitting: Method
-of Least Squares -- Linear and polynomial regression.
+| UNIT II | INTERPOLATION | 9 |
+Finite differences -- Newton’s Forward Interpolation formula -- Newton's Backward interpolation formula -- Central Difference
+interpolation formula -- Lagrange’s formula -- Newton’s divided difference interpolation formula -- Inverse Lagrange’s interpolation
+formula -- Interpolating with a cubic spline -- Curve Fitting: Method of Least Squares -- Linear and polynomial regression.
 
 {{{unit}}}
 | UNIT III | NUMERICAL INTEGRATION | 9 |
-Trapezoidal Rule -- Simpson's 1/3 Rule -- Simpson's 3/8 Rule --
-Gaussian Quadrature Formula -- Double integration using Trapezoidal
+Trapezoidal Rule -- Simpson's 1/3 Rule -- Simpson's 3/8 Rule -- Gaussian Quadrature Formula -- Double integration using Trapezoidal
 Rule -- Simpson’s Rule
 
 {{{unit}}}
-| UNIT IV | NUMERICAL SOLUTION OF EQUATIONS | 10 |
-Solution of algebraic and transcendental equations –- Bisection method
--- Method of false position -- Newton-Raphson method -- Secant method
--- Method of Successive Approximations -- Fixed point iteration method
--- Solution of linear simultaneous equations -- Gauss elimination
-method -- Gauss elimination method with partial pivoting --
-Gauss-Jordan method -- Inverse of a matrix by GaussJordan method --
-Gauss-Seidel method -- Gauss-Jacobi method Eigen Values: Power method.
+| UNIT IV | NUMERICAL SOLUTION FOR ALGEBRAIC EQUATIONS | 9 |
+Direct methods -- Gauss and Gauss–Jordan methods; Iterative methods -- Gauss-Jacobi and Gausss-Seidel methods -- Relaxation method --
+Newton’s method for nonlinear simultaneous equations -- Power method for determination eigen values -- convergence of Power method.
 
 {{{unit}}}
-|UNIT V | NUMERICAL SOLUTION OF DIFFERENTIAL EQUATIONS | 9 |
-Euler's method -- Modified Euler method -- Runge-Kutta 4th Order
-method -- Taylor's Series method -- Finite difference methods for
-ordinary differential equations -- Milne's and Adam’s predictor and
-corrector methods.
+|UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
+Numerical solution of ordinary differential equations; Single step methods -- Taylor series method -- Picard’s Method -- Euler and
+Modified Euler methods -- Runge–Kutta methods of 2nd and 4th order; Multi-step methods -- Miline’s PredictorCorrector formulas -- Adam-Bashforth and Adam-Moulton formulas.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop simple applications in C using basic constructs (K2).
+- Develop simple applications in C using basic constructs (K3).
 - Understanding the Numerical interpolation and integration (K2).
-- Provide numerical solutions for differential equations (K2).
+- Provide numerical solutions for differential equations (K3).
 - Apply Numerical methods to solve problems drawn from industry and Engineering (K3).
 - Assess the reliabilty of Numerical results (K3).
       
 ** TEXT BOOKS
-1. Veerarjan, T and Ramachandran, T. ``Numerical methods with
-   programming in C'', Second Editiion, Tata McGraw-Hill
-   Publishing.Co.Ltd, 2007.
-2. Sankara Rao K, ``Numerical Methods for Scientisits and Engineers'',
-   Third edition Printice Hall of India Private Ltd, New Delhi, 2007.
+1. Titus Adrien Beu, "INTRODUCTION TO NUMERICAL PROGRAMMING A Practical Guide for Scientists and Engineers Using Python and C/C++",  CRC Press, 2019.
+2. Steven C Chapra, Raymond P Canale, "Numerical Methods for Engineering", Sixth Edition, McGraw-Hill Publications, 2010.
 
 ** REFERENCES
-1. Chapra, S. C and Canale, R. P. ``Numerical Methods for Engineers'',
-   Fifth Edition, Tata McGraw-Hill, New Delhi, 2007.
-2. Gerald, C. F. and Wheatley, P.O., ``Applied Numerical Analysis'',
-   Sixth Edition, Pearson Education Asia, New Delhi, 2006.
-3. Grewal, B.S. and Grewal,J.S., ``Numerical methods in Engineering
-   and Science'', Sixth Edition, Khanna Publishers, New Delhi, 2004.
-4. Mate A. ``Introduction to Numerical Analysis with C
-   Program''. Brooklyn College of the City University of New York, New
-   York. 2004.
-5. Brian, ``A friendly introduction to Numerical analysis'', Pearson
-   Education, Asia, New Delhi, 2007.
+1. Jaan Kiusalaas, "Numerical Methods in Engineering with Python 3",  Cambridge University Press,  2013. 
+2. Veerarjan, T and Ramachandran, T. "Numerical methods with programming in ‘C’", Second Editiion, Tata McGraw-Hill Publishing.Co.Ltd, 2007.
+3. R. W. Hamming, "Numerical Methods for Scientists and Engineerings",  Second Edition, Dover Publications Inc, New York, 1973.
+4. Gerald, C. F. and Wheatley, P.O., "Applied Numerical Analysis",  Sixth Edition, Pearson Education Asia, New Delhi, 2006.
+5. Brian, ``A friendly introduction to Numerical analysis'', Pearson Education, Asia, New Delhi, 2007.
 
