@@ -97,5 +97,5 @@ Upon the completion of the course the students should be able to:
    Auerbach Publications, 2006.
 5. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
    and Privacy: an enterprise perspective on risks and compliance'',
-   O'Reilly Media, Inc., 2009.
+   O'Reilly Media, Inc., 2009. (Unit V)
 
