@@ -13,7 +13,7 @@
 ** COURSE OBJECTIVES
 - To understand the basics of deep neural networks
 - To understand CNN and RNN architectures of deep neural networks
-- To comprehend the advanced deep learning models
+- To comprehend advanced deep learning models
 - To learn the evaluation metrics for deep learning models
 
 {{{unit}}}
@@ -62,10 +62,11 @@ adversial networks.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand basics in deep neural networks (K2)
-- Apply Convolution Neural Network for real-world problems in image processing (K3)
-- Apply Recurrent Neural Network and its variants for text analysis (K3)
+- Apply Convolution Neural Network for image processing (K3)
+- Apply Recurrent Neural Network and its variants for text analysis
+  (K3)
+- Apply model evaluation for various applications (K3)
 - Understand the concepts in autoencoders and generative models (K2)
-- Apply model evaluation for various applications. (K3)
 
 ** TEXT BOOKS
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, ``Deep Learning'',
@@ -80,7 +81,7 @@ After the completion of this course, students will be able to:
    Processing'', Synthesis Lectures on Human Language Technologies,
    Morgan & Claypool publishers, 2017.
 3. Francois Chollet, ``Deep Learning with Python'', Manning
-   Publications Co., 2018.
+   Publications Co, 2018.
 4. Charu C. Aggarwal, ``Neural Networks and Deep Learning: A
    Textbook'', Springer International Punlishing, 2018.
 5. Josh Patterson, Adam Gibson, ``Deep Learning: A Practitioner's

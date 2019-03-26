@@ -12,8 +12,9 @@
 
 ** COURSE OBJECTIVES
 - To understand the concepts of virtualization and virtual machines.
-- To gain knowledge about virtualization Infrastructure.
-- To understand the principles of Cloud Architecture, Models and Infrastructure.
+- To learn about virtualization infrastructure.
+- To understand the principles of Cloud Architecture, Models and
+  Infrastructure.
 - To explore and experiment various Cloud deployment environments.
 - To learn about the security issues in the cloud environment. 
 
@@ -66,11 +67,13 @@ Service
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to:
-- Understand the design challenges in cloud environment(K2)
-- Apply the concept of virtualization and analyse its types(K3)
-- Experiment virtualization of hardware resources and Virtual Machine Monitors(K3)
-- Develop and deploy services on cloud  and able to set up a private cloud environment using open source software(K3)
-- Understanding the security challenges in cloud environment(K2)
+- Understand the design challenges in cloud environment (K2)
+- Apply the concept of virtualization and analyse its types (K3)
+- Experiment with virtualization of hardware resources and Virtual
+  Machine Monitors (K3)
+- Develop and deploy services on cloud and be able to set up a private
+  cloud environment using open source software (K3)
+- Understand security challenges in cloud environment (K2)
 
 
 ** TEXT BOOKS

@@ -14,21 +14,21 @@
 - To understand the fundamentals of Internet of Things.
 - To understand the architecture of IoT.
 - To learn about the basics of IoT protocols .
-- To build a small low cost embedded system using Arduino/Raspberry Pi.
-- To apply the concept of Internet of Things in real world scenarios. 
+- To build an embedded system using Arduino/Raspberry Pi.
+# - To apply the concept of Internet of Things in real world scenarios. 
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
 M2M and IoT Technology Fundamentals -- Devices and gateways, Local and
 wide area networking, Data management, Business processes in IoT,
 Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge
-Management. IoT-An Architectural Overview -- Building an architecture,
-An IoT architecture outline
+Management. An IoT Architectural Overview -- Building an architecture.
+# An IoT architecture outline
 
 {{{unit}}}
 | UNIT II | IOT REFERENCE ARCHITECTURE | 9 |
 IoT Architecture: State of the Art -- Reference Model: Domain model --
-information model --functional model -- communication model -- IoT
+information model -- functional model -- communication model -- IoT
 Reference Architecture: Functional View -- Information View
 
 {{{unit}}}

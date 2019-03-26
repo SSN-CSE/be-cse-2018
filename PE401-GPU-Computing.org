@@ -19,8 +19,8 @@
 
 {{{unit}}}
 |UNIT I | GPU ARCHITECTURE | 12 |
-Evolution of GPU architectures - Understanding Parallelism with GPU
-–Typical GPU Architecture - CUDA Hardware Overview - Threads, Blocks,
+Evolution of GPU architectures - Understanding Parallelism with GPU --
+Typical GPU Architecture - CUDA Hardware Overview - Threads, Blocks,
 Grids, Warps, Scheduling - Memory Handling with CUDA: Shared Memory,
 Global Memory, Constant Memory and Texture Memory.
 
@@ -50,10 +50,11 @@ Multiplication - Programming Heterogeneous Cluster.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand GPU Architecture (K2)
-- Write programs using CUDA, identify issues and debug them(K3)
-- Implement efficient algorithms in GPUs for common application kernels, such as matrix multiplication(K3)
-- Write simple programs using OpenCL(K3)
+- Understand GPU architecture (K2)
+- Write programs using CUDA, identify issues and debug them (K3)
+- Implement efficient algorithms in GPUs for common application
+  kernels such as matrix multiplication (K3)
+- Write simple programs using OpenCL (K3)
 - Write an efficient parallel program for a given problem(K3)
       
 ** TEXT BOOKS

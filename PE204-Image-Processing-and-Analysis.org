@@ -56,7 +56,7 @@ Watershed segmentation algorithm.
 {{{unit}}}
 |UNIT V | Feature Analysis And Object Recognition | 9 |
 Boundary representation; Boundary descriptors: Fourier Descriptor -
-Regional Descriptors - Texture - Relational Descriptors; ObjecT
+Regional Descriptors - Texture - Relational Descriptors; Object
 recognition: Patterns and Pattern classes; Recognition based on
 decision theoretic methods; Case Study for Image recognition: Face
 recognition
@@ -65,23 +65,27 @@ recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics and fundamentals of digital image processing, such as digitization, sampling, quantization (K2)
-- Operate on images using the techniques of smoothing, sharpening and enhancement in both spatial and frequency domain (K3)
-- Understand the restoration concepts and filtering techniques.(K2)
-- Analyse the segmentation methods and apply in real time applications (K4)
-- Understand and analyse the feature extraction  and object recognition methods (K4)
+- Understand the basics and fundamentals of digital image processing,
+  such as digitization, sampling, quantization (K2)
+- Operate on images using the techniques of smoothing, sharpening and
+  enhancement in both spatial and frequency domain (K3)
+- Understand the restoration concepts and filtering techniques (K2)
+- Analyse the segmentation methods and apply in real time applications
+  (K3)
+- Understand and analyse the feature extraction and object recognition
+  methods (K3)
    
 ** TEXT BOOKS
 1. Rafael C. Gonzalez, Richard E. Woods, ``Digital Image Processing'',
-   Pearson, Third Edition,2010.
+   Pearson, 3rd Edition, 2010.
 2. Anil K. Jain, ``Fundamentals of Digital Image Processing'',
    Pearson, 2002.
    
 ** REFERENCES
 1. Kenneth R. Castleman, ``Digital Image Processing'', Pearson, 2006.
 2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
-   Image Processing using MATLAB'', Pearson Education, Inc., 2011.
-3. D,E. Dudgeon and RM. Mersereau, ``Multidimensional Digital Signal
+   Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
+3. D. E. Dudgeon, R. M. Mersereau, ``Multidimensional Digital Signal
    Processing'', Prentice Hall Professional Technical Reference, 1990.
 4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
    York, 2002

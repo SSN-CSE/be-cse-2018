@@ -1,5 +1,5 @@
 * <<<OE1>>> FUNDAMENTALS OF DATA STRUCTURES
-:properties:
+:properties: Dr J Bhuvana
 :author: 
 :end:
 
@@ -10,40 +10,53 @@
 | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the concepts of ADT 
+- To understand the concepts of ADT
 - To comprehend the notion of linear and non linear data structures
-- To use a suitable data structure for the given problem and implement them in a high level programming language
+- To use a suitable data structure for the given problem and implement
+  them in a high level programming language
 - To understand the concepts of sorting and searching techniques
 
 {{{unit}}}
 |UNIT I | LIST | 6 |
-Abstract Data Types (ADT) -- List ADT -- Linked lists -- Doubly-linked lists -- Applications of lists: Polynomial addition.
+Abstract Data Types (ADT) -- List ADT -- Array implementation --
+Linked lists
+# -- Doubly-linked lists
+ -- Applications of lists: Polynomial addition.
 
 {{{unit}}}
 |UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Stack model - Array implementation of stack - Applications: Infix to postfix conversion - Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
+Stack ADT: Array implementation of stack -- Applications: Evaluating
+postfix expressions; Queue ADT: Array implementation of queues -
+Applications of queues.
 
 {{{unit}}}
 |UNIT III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- Expression trees -- Binary search trees -- AVL Trees.
+Tree ADT: Preliminaries -- Tree traversals -- Expression trees --
+Binary Search Trees -- Applications of trees.
 
 {{{unit}}}
 |UNIT IV | GRAPHS | 6 |
-Graph algorithms: Definitions – Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path
-algorithm: Dijkstra's algorithm. 
+Graph algorithms: Definitions -- Representation of graphs -- Breadth
+first traversal -- Depth first traversal -- Shortest-path algorithm:
+Dijkstra's algorithm.
 
 {{{unit}}}
 |UNIT V | SORTING AND SEARCHING TECHNIQUES   | 6 |
-Sorting: Insertion sort -- Selection sort -- Merge sort; Searching: Linear search -- Binary search.
+Sorting: Insertion sort -- Merge sort -- Quicksort; Searching:
+Linear search -- Binary search.
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
-- Represent polynomial as a linked list and perform polynomial addition
+- Implement List ADT using arrays.
+- Represent polynomial as a linked list and perform polynomial
+  addition
 - Array implementation of stack ADT
-- Convert infix expression to postfix and evaluate using Stack ADT
-- Implement binary search tree. Produce its pre-order, in-order, and post-order traversals
-- Represent graph using adjacency matrix and perform depth first traversal on the graph
+- Evaluate postfix expressions using Stack ADT
+- Produce its pre-order, in-order, and post-order traversals of binary
+  trees.
+- Represent graph using adjacency matrix and perform depth first
+  traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
 - Implement insertion sort and merge sort
 - Implement linear search and binary search
@@ -56,24 +69,25 @@ Sorting: Insertion sort -- Selection sort -- Merge sort; Searching: Linear searc
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Implement linear data structures and solve problems using them  (K3)
-- Implement trees and graphs and use them to solve problems (K3)
+- Implement stack and queue and use them to solve problems (K3)
+- Implement trees  and use them to solve problems (K3)
+- Implement graphs and use them to solve problems (K3)
 - Implement various sorting and searching algorithms (K2)
-- Compare stack, queue, trees and graphs (K2)
 
-      
 ** TEXT BOOKS
 1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'',
    Second Edition , Pearson Education, 2006
-2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A Pseudocode Approach with C'', Second Edition, Cengage India, 2007.
+2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A
+   Pseudocode Approach with C'', Second Edition, Cengage India, 2007.
 
 ** REFERENCES
 1. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
-   Algorithms'', Pearson Education, First Edition Reprint 2003.
-2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
-   Thomson India Edition, 2005.
-3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
+   Algorithms'', Pearson Education, First Edition, 2003.
+2. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
    of Data Structures in C'', Second Edition, University Press, 2008
-4. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
+3. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
    Oxford University Press. 2014
-5. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
+4. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
    Outlines Series), Mcgraw Hill Higher Ed., III Edition, 2010
+# 2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
+#   Thomson India Edition, 2005.

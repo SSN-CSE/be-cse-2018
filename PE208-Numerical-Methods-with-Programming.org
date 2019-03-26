@@ -11,7 +11,7 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand basic Programming constructs.
+- To understand basic programming constructs.
 - To know about Interpolation methods.
 - To learn about Numerical Integration.
 - To learn about Numerical solutions of equations
@@ -25,7 +25,7 @@ C Programming: Algorithms -- effective procedures in problem solving
 expressions -- Library functions simple C programmes; Control
 Structures: Importance and types of structures -- structured
 programming -- if else -- while -- do-while -- for -- switch structure
--- go to -- continue and break statement; Arrays -- pointers --
+-- goto -- continue and break statement; Arrays -- pointers --
 functions -- text processing and programmes using the above features.
 
 {{{unit}}}

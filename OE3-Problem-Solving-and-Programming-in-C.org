@@ -16,11 +16,10 @@
 
 {{{unit}}}
 |UNIT I | BASICS  | 6 |
-Algorithm -- structure of a C program -- data types: built-in,
-user-defined -- variables and constants -- input and output statements
--- operators, expressions, and assignment statements -- control
+Algorithm -- Structure of a C program -- Data types: built-in,
+user-defined -- Variables and constants -- Input and output statements
+-- Operators, expressions, and assignment statements -- Control
 statements.
-
 
 {{{unit}}}
 |UNIT II | FUNCTIONS | 6 |
@@ -31,14 +30,14 @@ parameters -- built-in functions -- -- recursion.
 | UNIT III | ARRAYS AND POINTERS | 6 |
 Arrays: declaration, initialization -- one dimensional arrays –
 multi-dimensional arrays; Pointers: pointer operators -- pointer
-operations -- array of pointers, -- passing arrays to functions
+operations -- array of pointers -- passing arrays to functions. 
 
 {{{unit}}}
 | UNIT IV | STRINGS, STRUCTURES AND UNIONS | 6 |
-Strings: constants and variables, reading and writing strings, string operations, string library;
-Command line arguments; Structures: nested structures -- structures and functions -- array of
-structures -- pointer to a structure – unions ; Dynamic memory
-allocation
+Strings: constants and variables, reading and writing strings, string
+operations, string library; Command line arguments; Structures:
+structures and functions -- array of structures -- pointer to a
+structure – unions; Dynamic memory allocation.
 
 {{{unit}}}
 | UNIT V | FILES | 6 |
@@ -51,14 +50,16 @@ and output -- line input and output – file error handling.
 ** SUGGESTIVE EXPERIMENTS
  - Program using I/O statements, conditional constructs (if, switch,
    ternary) and looping constructs (for, while, do-while)
- - Program functions with different parameter passing techniques: Call by value (e.g. swapping two numbers), call by reference (e.g. changing the elements of an array), Recursion (e.g. binary search)
- - Program one dimensional arrays (e.g. inserting an element after every ith position in an array, Insertion sort)
- - Program using multi-dimensional arrays (e.g. matrix manipulations)
- - Program using strings and their operations (e.g. concatenation of strings, extracting a substring, checking for palindrome, search for a given string using binary search)
- - Program to demonstrate simple structure manipulations (e.g. generating a transcript with CGPA and class obtained)
+ - Program functions with different parameter passing techniques: Call
+   by value, call by reference (e.g. changing the elements of an
+   array)
+ - Program one dimensional arrays (e.g. Insertion sort)
+ - Program using strings and their operations (e.g. concatenation of
+   strings, extracting a substring, checking for palindrome)
+ - Program to demonstrate simple structure manipulations
+   (e.g. generating a transcript with CGPA and class obtained)
  - Programs to demonstrate file operations (e.g. count the number of
-   characters, words and lines in a file, replace a specific word with
-   the given word in the same file)
+   characters, words and lines in a file)
 
 \hfill *Practical Periods: 30*
 
@@ -66,11 +67,11 @@ and output -- line input and output – file error handling.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic programming constructs in C (K3) 
-- Learn functions in C (K3) 
-- Develop C programs using Arrays and Pointers (K3)
-- Write programs using Strings and Structures (K3) 
-- Learn operations with files in C (K3)
+- Understand the basic programming constructs in C (K2) 
+- Write functions in C (K2) 
+- Develop C programs using arrays and pointers (K3)
+- Write programs using strings and structures (K3) 
+- Do operations with files in C (K2)
 
       
 ** TEXT BOOKS
@@ -90,5 +91,5 @@ After the completion of this course, students will be able to:
 4. Herbert Schildt, ``C The Complete Reference'', McGraw Hill
    Education, 4th Edition, 2017.
 5. Stephen G. Kochan, ``Programming in C'', 3rd edition, Pearson
-   Ed., 2004.
+   Ed, 2004.
 

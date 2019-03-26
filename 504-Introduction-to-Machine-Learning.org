@@ -22,9 +22,10 @@
 |UNIT I | INTRODUCTION  | 8 |
 Introduction: Machine Learning -- Examples of Machine Learning
 Applications: Learning Associations -- Classification -- Regression --
-Unsupervised Learning -- Reinforcement Learning ; Preliminaries: Weight space -- Curse
-of dimensionality -- Testing machine learning algorithms -- Turning
-data into probabilities -- Basic statistics -- Bias-variance tradeoff.
+Unsupervised Learning -- Reinforcement Learning ; Preliminaries:
+Weight space -- Curse of dimensionality -- Testing machine learning
+algorithms -- Turning data into probabilities -- Basic statistics --
+Bias-variance tradeoff.
 
 {{{unit}}}
 |UNIT II | SUPERVISED LEARNING  | 11 |
@@ -35,21 +36,24 @@ of error; Support Vector Machines.
 
 {{{unit}}}
 |UNIT III | TREE LEARNING AND PROBABILISTIC LEARNING | 9 |
-Learning with Trees: Constructing decision trees -- Classification and Regression trees -- 
-Classification example ; Ensemble learning: Boosting -- Bagging -- Random forests; 
-Probabilistic Learning: Gaussian mixture models -- Nearest neighbour methods.
+Learning with Trees: Constructing decision trees -- Classification and
+Regression trees -- Classification example ; Ensemble learning:
+Boosting -- Bagging -- Random forests; Probabilistic Learning:
+Gaussian mixture models -- Nearest neighbour methods.
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-Organising feature map;
-Reinforcement learning: State and action space -- Reward function -- Discounting
--- Action selection -- Policy -- Markov Decision Process -- Values.
+Reinforcement learning: State and action space -- Reward function --
+Discounting -- Action selection -- Policy -- Markov Decision Process
+-- Values.
 
 {{{unit}}}
 |UNIT V | DIMENSIONALITY REDUCTION AND OPTIMISATION TECHNIQUES| 8 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
-Principal Component Analysis; Optimisation and Search: Least-squares optimisation --
- Conjugate gradients -- Search approaches -- Exploitation and exploration.
+Principal Component Analysis; Optimisation and Search: Least-squares
+optimisation -- Conjugate gradients -- Search approaches --
+Exploitation and exploration.
 
 
 \hfill *Total Periods: 45*
@@ -57,10 +61,14 @@ Principal Component Analysis; Optimisation and Search: Least-squares optimisatio
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
-- Apply supervised and unsupervised learning algorithms for different tasks (K3).
-- Understand the use of reinforcement learning techniques to various problems (K2).
-- Understand the requirement of dimensionality reduction and optimisation techniques (K2).
-- Apply and analyze the various machine learning algorithms for real world problems (K4).
+- Apply supervised and unsupervised learning algorithms for different
+  tasks (K3).
+- Understand the use of reinforcement learning techniques to various
+  problems (K2).
+- Understand the requirement of dimensionality reduction and
+  optimisation techniques (K2).
+- Apply and analyze the various machine learning algorithms for real
+  world problems (K4).
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic

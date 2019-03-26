@@ -1,6 +1,6 @@
 * <<<OE5>>> MACHINE LEARNING APPLICATIONS
 :properties:
-:author: S.Rajalakshmi
+:author: S. Rajalakshmi
 :end:
 
 #+startup: showall
@@ -14,12 +14,12 @@
   various problems.
 - To study about the various supervised and unsupervised learning
   algorithms in machine learning.
-- To solve the real world problems using appropriate machine learning
-  algorithms.
+- To choose appropriate machine learning algorithms to solve realistic
+  problems.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 5 |
-Ingredients to Machine Learning: Tasks -- Models -- Features ;
+Ingredients of Machine Learning: Tasks -- Models -- Features ;
 Examples of Machine Learning Applications: Learning Associations --
 Supervised Learning: Classification -- Regression; Unsupervised
 Learning -- Reinforcement Learning .
@@ -29,41 +29,38 @@ Learning -- Reinforcement Learning .
 Classification: Binary Classification -- Multi class classification;
 Regression; Linear models: Least squares method -- Perceptron --
 Multi-layer Perceptron -- Support Vector Machine; Probabilistic
-Models: Naive Bayes model -- Expectation - Maximisation model.
+Models: Naive Bayes model.
+# -- Expectation Maximisation model.
 
 {{{unit}}}
-|UNIT III | TREE AND RULE MODELS| 6 |
-Tree Models: Decision Trees -- Regression Trees -- Clustering Trees;
-Rule Models: Learning ordered rule lists -- Learning unordered rule
-sets.
+|UNIT III | TREE AND RULE MODELS| 7 |
+Tree Models: Decision Trees; Rule Models: Learning ordered rule lists
+-- Learning unordered rule sets; Nearest-neighbour classification.
+#  -- Regression Trees -- Clustering Trees;
 
 {{{unit}}}
-|UNIT IV | DISTANCE BASED MODELS| 6 |
-Nearest-neighbour classification ; Distance based Clustering: K-means
--- Clustering around medoids ; Hierarchical Clustering.
-
-|UNIT IV | DISTANCE BASED MODELS| 6 |
-Nearest-neighbour classification; Distance based Clustering: K-means
--- Clustering around medoids; Hierarchical Clustering.
-
+|UNIT IV | CLUSTERING | 5 |
+Distance based Clustering: K-means -- Clustering around medoids ;
+Hierarchical Clustering.
 
 {{{unit}}}
-|UNIT V | ENSEMBLING AND CASE STUDIES | 6 |
-Ensemble Techniques: Bagging and Random Forests -- Boosting; Machine
-Learning Experiments: Performance metrics -- Cross validation; Case
-study: E-mail spam detection -- Sentiment analysis -- Document
-classification using clustering -- Handwritten character recognition.
+|UNIT V | ENSEMBLE   | 6 |
+Ensemble Techniques: Bagging, Random Forests, Boosting; Performance
+metrics -- Cross validation. Case study: E-mail spam detection --
+Document classification using clustering -- Handwritten character
+recognition.
+# Sentiment analysis -- 
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
- - Statistical Data analysis
+ - Data analysis
  - Classification of Iris dataset using Naive Bayes model
  - Loan amount prediction using linear regression
  - E-mail spam detection using Support Vector Machine
  - Diabetic decision making using Decision tree
  - Document grouping using K-means clustering
- - Sentiment analysis / Handwritten character recognition using Ensemble techniques
+# - Sentiment analysis / Handwritten character recognition using Ensemble techniques
 
 \hfill *Practical Periods: 30*
 
@@ -78,23 +75,23 @@ After the completion of this course, students will be able to:
 - Apply the appropriate algorithm for real world problems (K3).
       
 ** TEXT BOOKS
-1. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
+1. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT
+   Press 2004.
+2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012.
-2. Ethem Alpaydin, ``Introduction to Machine Learning'', The MIT
-   Press 2004.
 
 ** REFERENCES
-1. Jason Bell, ``Machine learning – Hands on for Developers and
-   Technical Professionals'', First Edition, Wiley, 2014.
-2. Stephen Marsland, ``Machine Learning – An Algorithmic
+1. Stephen Marsland, ``Machine Learning – An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2014.
-3. Richert, Willi, ``Building machine learning systems with Python'',
+2. Jason Bell, ``Machine learning -- Hands on for Developers and
+   Technical Professionals'', First Edition, Wiley, 2014.
+3. Richert, Willi, ``Building Machine Learning Systems with Python'',
    Packt Publishing Ltd, 2013.
 4. Tom M. Mitchell, ``Machine Learning'', McGraw-Hill Education
    (India) Private Limited, 2013.
-5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, ``Learning from
+5. Y. S. Abu-Mostafa, M. Magdon-Ismail, and H. T. Lin, ``Learning from
    Data'', AMLBook Publishers, 2012.
 
 

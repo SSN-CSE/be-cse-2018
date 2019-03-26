@@ -11,20 +11,26 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the basic concepts associated with the design, functioning, applications and social aspects of robots
-- To study about the electrical drive systems and sensors used in robotics for various applications
-- To learn about analyzing robot kinematics, dynamics through different methodologies and study various design aspects of robot arm manipulator and end-effector
-- To learn about various motion planning techniques and the associated control architecture 
-- To understand the implications of AI and other trending concepts of robotics
+- To understand the basic concepts associated with the design,
+  functioning, applications and social aspects of robots
+- To study about the electrical drive systems and sensors used in
+  robotics for various applications
+- To learn about analyzing robot kinematics, dynamics through
+  different methodologies and study various design aspects of robot
+  arm manipulator and end-effector
+- To learn about various motion planning techniques and the associated
+  control architecture
+- To understand the implications of AI and other trending concepts of
+  robotics
 
 {{{unit}}}
-| UNIT I | FOUNDATION FOR BEGINNERS | 9 |
+| UNIT I | FOUNDATION | 9 |
 Introduction -- brief history, definition, anatomy, types,
-classification, specification and need based applications; role and
+classification, specification and need based applications; Role and
 need of robots for the immediate problems of the society, future of
-mankind and automation-ethical issues; industrial scenario local and
+mankind and automation-ethical issues; Industrial scenario local and
 global, case studies on mobile robot research platform and industrial
-serial arm manipulator
+serial arm manipulator.
 
 {{{unit}}}
 | UNIT II | BUILDING BLOCKS OF A ROBOT | 9 |

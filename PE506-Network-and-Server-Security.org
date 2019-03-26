@@ -11,11 +11,14 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To study about an essential of computer security.
-- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual Private Networks, intrusion detection systems.
-- To understand how various security mechanisms work, and correlate these security mechanisms with security principles.
-- To learn the security aspects of data center.
-- To learn the security protocols and technologies with respect to infrastructure.
+- To study about the essentials of computer security,
+- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual
+  Private Networks, and intrusion detection systems,
+- To understand how various security mechanisms work, and correlate
+  these security mechanisms with security principles,
+- To learn the security aspects of data center,
+- To learn the security protocols and technologies with respect to
+  infrastructure.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
@@ -26,20 +29,23 @@ Authentication services – Attacks on PKI – Types of Digital
 Certificates.
 
 {{{unit}}}
-|UNIT II | Security Practice & System Security | 9 |
-Internet Firewalls for Trusted System: Roles of Firewalls – Types of Firewalls – Netfilter – Iptables – Firewall design Principles – DNS Attacks – Cache Poisoning – SET for E-Commerce Transactions. Intruder – Intrusion detection system – Virus and related threats – Countermeasures.
+|UNIT II | SECURITY PRACTICES & SYSTEM SECURITY | 9 |
+Internet Firewalls for Trusted System: Roles of Firewalls – Types of
+Firewalls – Netfilter – IPtables – Firewall design Principles – DNS
+Attacks – Cache Poisoning – SET (Secure Electronic Transaction) for
+E-Commerce Transactions. Intruder – Intrusion detection system – Virus
+and related threats – Countermeasures.
 
 {{{unit}}}
 | UNIT III | E-MAIL, IP & WEB SECURITY | 9 |
 E-mail Security: Security Services for E-mail-attacks possible through
-E-mail – establishing keys privacyauthentication of the source –
+E-mail – Establishing keys privacyauthentication of the source –
 Message Integrity-Non-repudiation – Pretty Good Privacy – S/MIME;
 IPSecurity: Overview of IPSec – IP and IPv6 – Authentication Header –
 Encapsulation Security Payload (ESP) – Internet Key Exchange (Phases
 of IKE, ISAKMP/IKE Encoding); Web Security: SSL/TLS Basic Protocol –
 Computing the keys – Client authentication – PKI as deployed by
-SSLAttacks fixed in v3 – Exportability-Encoding-Secure Electronic
-Transaction (SET).
+SSLAttacks fixed in v3 – Exportability-Encoding -  SET.
 
 {{{unit}}}
 | UNIT IV | DATA CENTER SECURITY OVERVIEW | 9 |
@@ -60,9 +66,9 @@ Server-Farm Design Alternative – Management Network.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the essentials of computer security. (K2) 
-- Understand various Network Security Applications. (K2) 
-- Understand the essentials of security practices and system security.(K2)
+- Understand the essentials of computer security (K2) 
+- Understand various applications of network security (K2) 
+- Understand the essentials of security practices and system security (K2)
 - Explain the security aspects in designing a datacenter (K2) 
 - Design the security protocols for the infrastructure (K3)
 

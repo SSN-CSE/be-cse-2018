@@ -50,7 +50,7 @@ and PROCLUS -- Frequent pattern based clustering methods -- Clustering
 in non-euclidean space -- Clustering for streams and parallelism.
 
 {{{unit}}}
-| UNIT V | NOSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
+| UNIT V | NoSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for
 data manipulation -- Key Value stores -- Document stores -- Tabular
 stores -- Object data stores -- Graph databases -- Hive -- Sharding –-
@@ -63,9 +63,10 @@ data for blogs.
 After the completion of this course, students will be able to: 
 - Work with big data tools and its analysis techniques (K3)
 - Analyze data by utilizing clustering and classification algorithms (K4)
-- Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
 - Perform analytics on data streams (K3)
-- Learn NoSQL databases and management. (K2)
+- Learn and apply different mining algorithms and recommendation
+  systems for large volumes of data (K3)
+- Learn NoSQL databases and management (K2)
 
       
 ** TEXT BOOKS
@@ -79,7 +80,7 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. EMC Education Services, ``Data Science and Big Data Analytics:
    Discovering, Analyzing, Visualizing and Presenting Data'', Wiley
-   publishers, 2015.
+   Publishers, 2015.
 2. Bart Baesens, ``Analytics in a Big Data World: The Essential Guide
    to Data Science and its Applications'', Wiley Publishers, 2015.
 3. Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical

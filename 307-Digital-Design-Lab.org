@@ -21,10 +21,10 @@
 1. Verification of Boolean Theorems using basic gates.
 2. Design and implementation of combinational circuits using basic
    gates for arbitrary functions, code converters.
-3. Design and implement Half/Full Adder and Subtractor.
+3. Design and implement half/full adder and subtractor.
 4. Design and implement combinational circuits using MSI devices:
-   - 4 – bit binary adder / subtractor
-   - Parity generator / checker
+   - 4-bit binary adder/subtractor
+   - Parity generator/hecker
    - Magnitude Comparator
    - Application using multiplexers
 5. Design and implement shift-registers.

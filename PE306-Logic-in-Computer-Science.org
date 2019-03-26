@@ -11,23 +11,24 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the role of logic in modeling and reasoning about systems.
+- To understand the role of logic in modeling and reasoning about
+  systems.
 - To learn the syntax and semantics of various logics.
-- To learn the skill of writing formal specifications in various logics.
+- To write formal specifications in various logics.
 - To learn resolution for propositional and predicate logic.
 - To learn natural deduction for modal logic.
-- To learn PROLOG.
+- To program in PROLOG.
 
 {{{unit}}}
 |UNIT I|PROPOSITIONAL LOGIC|9|
 Foundations: Syntax and Semantics -- Mathematical Induction -- Soundness
 and Completeness; Semantic Entailment: Natural Deduction; Normal
-Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers;
+Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers.
 
 {{{unit}}}
 |UNIT II|PREDICATE LOGIC|9|
 Foundations: Syntax and Semantics; Semantic Entailment: Natural
-Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand’s
+Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
 Theory; Resolution: Ground Resolution -- Unification; Refinements of
 Resolution: P-resolution -- N-resolution -- linear resolution -- unit
 resolution -- SLD resolution -- LUSH resolution;
@@ -39,13 +40,13 @@ engineering: The stock of valid formulas -- Important properties of
 the accessibility relation -- Correspondence theory -- Some Modal
 Logics; Natural deduction; Reasoning about knowledge in a multi-agent
 system: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
-Formalising the examples;
+Formalising the examples.
 
 {{{unit}}}
 | UNIT IV | LOGIC PROGRAMMING | 9 |
 Foundations: Answer Generation; Horn Clause Programs: Semantics of
 Logic Program -- Procedural Semantics -- Model-theoretic Semantics;
-Evaluation Strategies: Swapping Lemma -- PROLOG’s Evaluation Strategy --
+Evaluation Strategies: Swapping Lemma -- PROLOG's Evaluation Strategy --
 DFS -- BFS; Programming in PROLOG;
 
 {{{unit}}}

@@ -36,29 +36,30 @@ Operation -- Addresses -- Commands.
 
 {{{unit}}}
 |UNIT III|SHELLS & FILTERS|6|
-Introduction to Shells: UNIX Session -- Standard Streams -- Redirection
--- Pipes -- Command Execution -- Command-Line Editing -- Quotes -- Command
-Substitution -- Job Control -- Aliases -- Variables -- Options --
-Shell/Environment Customization; Filters; Communications: Mail --
-Remote Access -- File Transfer; awk: Execution -- Fields & Records --
-Operation -- Patterns -- Actions.
+Introduction to Shells: UNIX Session -- Standard Streams --
+Redirection -- Pipes -- Command Execution -- Command-Line Editing --
+Quotes -- Command Substitution -- Job Control -- Aliases -- Variables
+-- Options -- Shell/Environment Customization; Filters;
+Communications: Mail -- Remote Access -- File Transfer; awk: Execution
+-- Fields & Records -- Operation -- Patterns -- Actions.
 
 {{{unit}}}
 |UNIT IV|C SHELL|6|
-Interactive C Shell: C Shell Features -- Variables -- Output -- Input --
-Exit Status of a Command -- eval Command -- Environment Variables --
-On-Off Variables -- Startup and Shutdown Scripts -- Command History --
-Command Execution Scripts; C Shell Programming: Basic Script Concepts
--- Expressions -- Making Selections -- Repetition -- Special Parameters --
-shift Command -- Argument Validation -- Debugging Scripts -- Script
-Examples.
+Interactive C Shell: C Shell Features -- Variables -- Output -- Input
+-- Exit Status of a Command -- eval Command -- Environment Variables
+-- On-Off Variables -- Startup and Shutdown Scripts -- Command History
+-- Command Execution Scripts; C Shell Programming: Basic Script
+Concepts -- Expressions -- Making Selections -- Repetition -- Special
+Parameters -- shift Command -- Argument Validation -- Debugging
+Scripts -- Script Examples.
 
 {{{unit}}}
 |UNIT V|PERL|6|
-Introduction -- Data Types -- Operators -- Flow of control -- Program layout -- 
-Built-in functions -- Reading from a file -- Pattern matching -- Writing to a file -- 
-Arrays, Lists and Two-dimensional tables -- User-defined functions -- 
-Formatted printing -- Built-in variables -- The Debugger.
+Introduction -- Data Types -- Operators -- Flow of control -- Program
+layout -- Built-in functions -- Reading from a file -- Pattern
+matching -- Writing to a file -- Arrays, Lists and Two-dimensional
+tables -- User-defined functions -- Formatted printing -- Built-in
+variables -- The Debugger.
 
 
 \hfill *Total Periods: 30*

@@ -11,10 +11,14 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn fundamentals of data Science and to use Python for carrying out basic statistical modeling and analysis.
-- To identify probability distributions and statistical Inferences used for statistical modeling.
-- To obtain necessary knowledge in supervised and unsupervised methods of machine learning.
-- To explore the algorithms used for analysing  massive data problems and social networks.
+- To learn fundamentals of Data Science using Python.
+  # for carrying  out basic statistical modeling and analysis.
+- To understand probability distributions and statistical Inferences
+  # used for statistical modeling.
+- To be familar with supervised and unsupervised methods in machine
+  learning.
+- To explore the algorithms used for analysing massive data problems
+  and social networks.
 - To learn about topic and graphical models. 
 
 
@@ -40,14 +44,14 @@ weak learning -- Boosting -- Stochastic Gradient Descent.
 
 {{{unit}}}
 |UNIT IV | DATA STREAMS AND CLUSTERING | 9 |
-Frequency moments of data streams -- Matrix algorithms using sampling
-; k-Means clustering -- Spectral clustering -- Community finding --
+Frequency moments of data streams -- Matrix algorithms using sampling;
+k-Means clustering -- Spectral clustering -- Community finding --
 Graph partitioning.
 
 {{{unit}}}
 |UNIT V | TOPIC MODELS AND GRAPHICAL MODELS | 9 |
 Topic Models -- Idealized Model -- Nonnegative Matrix Factorization
---Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical
+-- Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical
 Models and Belief Propagation -- Bayesian Belief Networks -- Markov
 Random Fields.
 

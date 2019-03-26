@@ -70,17 +70,17 @@ After the completion of this course, students will be able to:
   for different applications (K3).
 
 ** TEXT BOOKS
- 1. Doughlas V Hall, "Microprocessors and Interfacing, Programming and
-    Hardware", TMH, 2012.
- 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, "The
-    8051 Microcontroller and Embedded Systems: Using Assembly and C",
+ 1. Doughlas V Hall, ``Microprocessors and Interfacing, Programming
+    and Hardware'', TMH, 2012.
+ 2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, ``The
+    8051 Microcontroller and Embedded Systems: Using Assembly and C'',
     2nd Edition, Pearson education, 2011.
  
 ** REFERENCES
-1. Yu-Cheng Liu, Glenn A Gibson, ``Microcomputer Systems: The 8086 /
-   8088 Family - Architecture, Programming and Design'', 2nd
+1. Yu-Cheng Liu, Glenn A Gibson, ``Microcomputer Systems: The
+   8086/8088 Family - Architecture, Programming and Design'', 2nd
    Edition, Prentice Hall of India, 2007.
-2. A K Ray,K M Bhurchandi,``Advanced Microprocessors and
+2. A K Ray, K M Bhurchandi,``Advanced Microprocessors and
    Peripherals'', 3rd edition, Tata McGrawHill, 2012.
 3. Barry B Bray, ``The Intel Micro processor
    8086/8088,80186,80286,80386 and 80486 - Arcitecture, Programming
