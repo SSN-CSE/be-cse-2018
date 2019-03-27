@@ -16,7 +16,7 @@
 - To understand various components of IR system
 - To understand machine learning techniques for text classification
   and clustering
-- To explore various types of IR systems for diffent applications
+- To explore various IR applications
 
 {{{unit}}}
 | UNIT I | INTRODUCTION AND MODELING | 9 |
