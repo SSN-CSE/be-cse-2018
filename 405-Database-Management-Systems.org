@@ -5,6 +5,9 @@
 :end:
 
 #+startup: showall
+#+start_comment
+- Completely different from AU
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
@@ -16,7 +19,6 @@
 - To learn database programming and relational database design.
 - To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
 - To understand NOSQL Databases.
-
 
 {{{unit}}}
 |UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
