@@ -4,6 +4,14 @@
 :date: 
 :end:
 
+#+begin_comment
+- 1. Modified 3 units of AU due to content overlapping
+- 2. For changes, see the indidual units
+- 3. The unit headings are similar to M.E syllabus with addition and deletion of topics
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -24,12 +32,23 @@ Basic Concepts: Retrieval process -- Architecture – Boolean retrieval;
 IR Models: Taxonomy and characterization of IR models -- Classical IR
 models -- Alternative algebraic models; Models for Browsing; Retrieval
 Evaluation: Performance evaluation.
+#+begin_comment
+- 1. In AU syllabus searching is covered in Unit 1, 3 and 4. We have unified the topics related to search in Unit 3.
+- 2. IR modeling and evaluation for Unit 2 of AU is moved to this unit
+- 3. Removed set theoretical model and reference collection from M.E syllabus
+#+end_comment
+
 
 {{{unit}}}
 | UNIT II | INDEXING AND QUERYING | 9 |
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
 Compression; Querying: Query languages -- Query operations: Relevance
 feedback and query expansion -- Automatic local and global analysis.
+#+begin_comment
+- 1. In AU, topics related to indexing is given along with modelling and querying topics are with classification and clustering.
+- 2. Indexing and querying are the major components of IR and hence included as a seperate unit here.
+- 3. Removed text properties and text operations from M.E syllabus
+#+end_comment
 
 {{{unit}}}
 | UNIT III | SEARCHING | 9 |
@@ -43,12 +62,19 @@ Text Classification: Naive Bayes; Vector Space Classification: Rocchio
 -- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
 clustering; Hierarchical Clustering; Matrix Decompositions and Latent
 Semantic Indexing.
+#+begin_comment
+- 1. Removed Decision tree, SVM and dimensionality reduction from AU.
+#+end_comment
 
 {{{unit}}}
 |UNIT V|APPLICATIONS|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
 Retrieval -- Online Public Access Catalogs (OPACs).
+#+begin_comment
+- 1. AU focused only on recommender system. Several applications are explored here
+- 2. Added OPACs from M.E syllabus
+#+end_comment
 
 \hfill *Total Periods: 45*
 
