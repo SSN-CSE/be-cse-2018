@@ -16,7 +16,7 @@
 - To learn fuzzy sets, fuzzy logic and fuzzy inference system
 - To understand genetic algorithm for global optimization.
 - To learn hybrids of neuro, fuzzy and genetic algorithm, and their
-  applications
+  applications.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |
@@ -65,7 +65,7 @@ Upon completion of this course, the students should be able to:
 - Design and develop different neural network algorithms (K3)
 - Analyse and apply fuzzy logic and fuzzy inference system (K3)
 - Solve problems using  Genetic Algorithm (K3)
-- Apply various soft computing techniques for complex problems (K3) 
+- Apply various soft computing techniques for complex problems (K3).
 
 ** TEXT BOOKS
 1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
