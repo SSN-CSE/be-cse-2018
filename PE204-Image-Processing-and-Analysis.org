@@ -85,8 +85,7 @@ After the completion of this course, students will be able to:
 1. Kenneth R. Castleman, ``Digital Image Processing'', Pearson, 2006.
 2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
    Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. D. E. Dudgeon, R. M. Mersereau, ``Multidimensional Digital Signal
-   Processing'', Prentice Hall Professional Technical Reference, 1990.
+3. S. Sridhar, ``Digital Image Processing'',Second Edition,Oxford University, 2016
 4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
    York, 2002
 5. Milan Sonka et al, ``Image Processing, Analysis and Machine
