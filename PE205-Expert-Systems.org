@@ -21,7 +21,8 @@
 |UNIT I|FOUNDATIONS|8|
 Introduction: Expert Systems & AI -- Examples -- Separating knowledge
 & inference -- A problem domain; Introduction to LISP: Fundamental
-Principles of LISP -- Overview of LISP Language.
+Principles of LISP -- Overview of LISP Language; Introduction to PROLOG: Logic Programming --
+Programming in PROLOG -- Overview of PROLOG Language.
 
 
 {{{unit}}}
@@ -30,8 +31,7 @@ Logic and Resolution: Propositional Logic -- First Order Logic --
 Clausal Form of Logic -- Reasoning in Logic -- Resolution and
 Propositional Logic -- Resolution and First Order Logic -- Resolution
 Strategies -- Implementation of SLD Resolution -- Applying Logic for
-building Expert Systems; Introduction to PROLOG: Logic Programming --
-Programming in PROLOG -- Overview of PROLOG Language;
+building Expert Systems.
 
 {{{unit}}}
 |UNIT III|PRODUCTION SYSTEMS & FRAMES|10|
@@ -59,9 +59,9 @@ using OPS5; CENTAUR: Prototypes -– Facts -- Reasoning in CENTAUR.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop programs in LISP (K3)
 - Implement SLD resolution using LISP (K3)
 - Develop programs in Prolog (K3)
+- Explain and compare the different models of uncertainty (K3)
 - Use OSP5 interpreter (K2)
 - Build a knowledge base for a particular problem domain, using PROLOG
   and/or LISP (K3)
