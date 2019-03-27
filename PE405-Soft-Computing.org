@@ -69,7 +69,7 @@ Upon completion of this course, the students should be able to:
 
 ** TEXT BOOKS
 1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
-   India Pvt Ltd, 2nd Edition, 2011.
+   India, 2nd Edition, 2011.
 2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
    and Soft Computing'', Prentice-Hall of India, 2002.
 
@@ -82,7 +82,7 @@ Upon completion of this course, the students should be able to:
    Applications, and Programming Techniques'', Addison Wesley, 2003.
 4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
    Logic and Genetic Algorithm, Synthesis and Applications'', PHI
-   Learning Pvt. Ltd., 2017.
+   Learning, 2017.
 5. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'',
    Oxford University Press, 2015.
 
