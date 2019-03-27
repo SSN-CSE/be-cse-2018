@@ -29,28 +29,22 @@ Response Team.
 
 {{{unit}}}
 |UNIT II | DATA ACQUISITION | 9 |
-After Detection of an Incident: Overview of the Initial Response Phase
--- Establishing an Incident Notification Procedure -- Recording the
-Details after Initial Detection -- Incident Declaration -- Assembling
-the CSIRT -- Performing Traditional Investigative Steps -- Conducting
-Interviews -- Formulating a Response Strategy; Data Acquisition:
-Understanding Storage Formats for Digital Evidence -- Determining the
-Best Acquisition Method -- Contingency Planning for Image Acquisitions
--- Using Acquisition Tools -- Validating Data Acquisitions --
-Performing RAID Data Acquisitions -- Using Remote Network Acquisition
-Tools.
+After Detection of an Incident: Initial Response Phase
+-- Incident Notification Procedure -- Recording after Initial Detection -- Incident Declaration -- Assembling
+the CSIRT -- Traditional Investigative Steps -- Conducting
+Interviews --Response Strategy; Data Acquisition:
+Storage Formats -- Determining the
+Best Acquisition Method -- Image Acquisitions
+-- Acquisition Tools -- Validating Data Acquisitions -- RAID Data Acquisitions -- Remote Network Acquisition Tools.
 
 {{{unit}}}
 |UNIT III | ANALYSIS AND VALIDATION | 9 |
 Processing Crime and Incident Scenes: Identifying Digital Evidence --
-Collecting Evidence in Private Sector Incident Scenes -- Processing
-Law Enforcement Crime Scenes -- Preparing for a Search -- Securing a
-Computer Incident or Crime Scene -- Seizing Digital Evidence at the
-Scene -- Storing Digital Evidence -- Obtaining a Digital Hash --
+Private Sector IS -- Processing Law Enforcement CS -- Search -- Securing CS --
+Seizing -- Storing -- Digital Hash --
 Reviewing a Case; Working with Windows and DOS Systems: Examining NTFS
-Disks; Computer Forensics Analysis and Validation: Determining What
-Data to Collect and Analyze -- Validating Forensic Data -– Addressing
-Data Hiding Techniques -– Performing Remote Acquisition.
+Disks; Computer Forensics Analysis and Validation: Data to Collect and Analyze -- 
+Validating -– Data Hiding Techniques -– Remote Acquisition.
 
 {{{unit}}}
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
