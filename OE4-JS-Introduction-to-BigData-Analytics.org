@@ -61,7 +61,6 @@ Upon the completion of the course the students should be able to:
 / frequency programs / matrix  multiplication)
 
 -  R
-
 1. Linear and logistic Regression (Loan prediction using Credit approval dataset, Sales prediction using  Bigmart  dataset)
 2. SVM / Decision tree classification techniques (Flower type classification based  on available attributes using  Iris dataset, Passengers survival classification using  titanic dataset)
 3. Clustering (Document categorization by multiclass techniques)
@@ -71,4 +70,4 @@ Upon the completion of the course the students should be able to:
 1. Application that stores data  in Hbase (Sentiment analysis using  twitter dataset)
 
 
-\hfill *Total: 45*
+\hfill *Total: 60*
