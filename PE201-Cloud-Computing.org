@@ -86,16 +86,15 @@ Upon the completion of the course the students should be able to:
    India, 2014. (Units I, II, III, IV)
 
 ** REFERENCES
-1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+1. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
+   and Privacy: an enterprise perspective on risks and compliance'',
+   O'Reilly Media, Inc., 2009. (Unit V)
+2. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
    Guide'', McGraw-Hill Osborne Media, 2009.
-2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
+3. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
    for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005.
-3. William von Hagen, ``Professional Xen Virtualization'', Wrox
+4. William von Hagen, ``Professional Xen Virtualization'', Wrox
    Publications, January, 2008.
-4. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
+5. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
    VMware and Microsoft Platform in the Virtual Data Center'',
    Auerbach Publications, 2006.
-5. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
-   and Privacy: an enterprise perspective on risks and compliance'',
-   O'Reilly Media, Inc., 2009.
-
