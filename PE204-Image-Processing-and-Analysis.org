@@ -4,6 +4,18 @@
 :date:  
 :end:
 
+#+begin_comment
+- 1. Almost the same as EC8093-  DIGITAL IMAGE PROCESSING in AU 2017
+- 2. Change in Unit V (see the comment below unit V)
+- 3. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
+     split into Unit- II and III
+     Image segmentation and Feature analysis methods in Unit- III of PCP1279 are moved to Unit - IV and 
+     Unit - V respectively.
+     The topic object recognition is added in Unit - V
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -60,6 +72,10 @@ Regional Descriptors - Texture - Relational Descriptors; Object
 recognition: Patterns and Pattern classes; Recognition based on
 decision theoretic methods; Case Study for Image recognition: Face
 recognition
+#+begin_comment
+Removed: Image compression
+Added: Case Study for Image recognition
+#+end_comment
 
 \hfill *Total Periods: 45*
 
@@ -85,7 +101,7 @@ After the completion of this course, students will be able to:
 1. Kenneth R. Castleman, ``Digital Image Processing'', Pearson, 2006.
 2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
    Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S. Sridhar, ``Digital Image Processing'',Second Edition,Oxford University, 2016
+3. S. Sridhar, ``Digital Image Processing'', Second Edition, Oxford University, 2016
 4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
    York, 2002
 5. Milan Sonka et al, ``Image Processing, Analysis and Machine
