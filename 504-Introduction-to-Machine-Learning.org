@@ -5,25 +5,37 @@
 
 #+startup: showall
 
+#+BEGIN_COMMENT
+- AU title is Machine Learning Techniques
+- AU text books is Tom Mitchell. It was printed in 1997 and is not
+  revised since then.
+- The text book is changed to
+  - Stephen Marsland, ``Machine Learning -- An Algorithmic
+    Perspective''
+- Unit I takes a few topics from
+  - Ethem Alpaydin, ``Introduction to Machine Learning''
+- The topics are accordingly changed to follow the flow of Stephen
+  Marsland.
+#+END_COMMENT
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the need of machine learning techniques for various
-  problems.
+- To understand machine learning problems
 - To study the various supervised, unsupervised and reinforcement
-  learning algorithms in machine learning.
-- To study the dimensionality reduction techniques to represent tha data and their
-  dependencies.
+  learning algorithms in machine learning
+- To study the dimensionality reduction techniques to represent tha
+  data and their dependencies
 - To understand the need of optimisation techniques.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION  | 8 |
-Introduction: Machine Learning -- Examples of Machine Learning
+Introduction: Machine Learning; Examples of Machine Learning
 Applications: Learning Associations -- Classification -- Regression --
-Unsupervised Learning -- Reinforcement Learning ; Preliminaries:
-Weight space -- Curse of dimensionality -- Testing machine learning
+Unsupervised Learning -- Reinforcement Learning; Preliminaries: Weight
+space -- Curse of dimensionality -- Testing machine learning
 algorithms -- Turning data into probabilities -- Basic statistics --
 Bias-variance tradeoff.
 
@@ -35,21 +47,21 @@ regression; Multi-layer Perceptron: Going forward -- Back-propagation
 of error; Support Vector Machines.
 
 {{{unit}}}
-|UNIT III | TREE LEARNING AND PROBABILISTIC LEARNING | 9 |
-Learning with Trees: Constructing decision trees -- Classification and
-Regression trees -- Classification example ; Ensemble learning:
-Boosting -- Bagging -- Random forests; Probabilistic Learning:
-Gaussian mixture models -- Nearest neighbour methods.
+| UNIT III | PROBABILISTIC LEARNING, LEARNING WITH  TREES | 9 |
+Probabilistic Learning: Gaussian mixture models -- Nearest neighbour
+methods; Learning with Trees: Constructing decision trees --
+Classification and Regression trees -- Classification example;
+Ensemble learning: Boosting -- Bagging -- Random forests.
 
 {{{unit}}}
-|UNIT IV | UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING | 9 |
-Unsupervised: K-means algorithm -- Self-Organising feature map;
+|UNIT IV | UNSUPERVISED LEARNING, REINFORCEMENT LEARNING | 9 |
+Unsupervised: K-means algorithm -- Self-organising feature map;
 Reinforcement learning: State and action space -- Reward function --
 Discounting -- Action selection -- Policy -- Markov Decision Process
--- Values.
+-- Values -- SARSA and Q-learning.
 
 {{{unit}}}
-|UNIT V | DIMENSIONALITY REDUCTION AND OPTIMISATION TECHNIQUES| 8 |
+|UNIT V | DIMENSIONALITY REDUCTION, OPTIMISATION TECHNIQUES| 8 |
 Dimensionlity Reduction Techniques: Linear Discriminant analysis,
 Principal Component Analysis; Optimisation and Search: Least-squares
 optimisation -- Conjugate gradients -- Search approaches --
@@ -74,8 +86,8 @@ After the completion of this course, students will be able to:
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
    Perspective'', 2nd Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
-2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition, The MIT
-   Press 2014.
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition,
+   The MIT Press, 2014.
 
 
 ** REFERENCES
@@ -85,11 +97,8 @@ After the completion of this course, students will be able to:
    that Make Sense of Data'', 1st Edition, Cambridge University
    Press, 2012.
 3. Richert, Willi, ``Building machine learning systems with Python'',
-   Packt Publishing Ltd, 2013.
+   Packt Publishing, 2013.
 4. Tom M Mitchell, ``Machine Learning'', McGraw-Hill Education
-   (India) Private Limited, 2013.
-5. Y S Abu-Mostafa, M Magdon-Ismail, and H T Lin, ``Learning from
-   Data'', AMLBook Publishers, 2012.
-
-
-
+   (India), 2013.
+5. Y S Abu-Mostafa, M Magdon-Ismail, H T Lin, ``Learning from Data'',
+   AMLBook Publishers, 2012.

@@ -14,41 +14,64 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To introduce the fundamentals of Database systems and Conceptual Modeling.
-- To learn SQL and relational model.
-- To learn database programming and relational database design.
-- To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
-- To understand NOSQL Databases.
+- To introduce the fundamentals of database systems and conceptual
+  modeling
+- To learn SQL and relational model
+- To learn database programming and relational database design
+- To explore the fundamental concepts of transaction processing,
+  concurrency control and recovery techniques
+- To understand NOSQL databases.
 
 {{{unit}}}
 |UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
-Characteristics of database -- Database users -- Data models, Schemas -- Three-schema architecture -- Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
+Characteristics of database -- Database users -- Data models, Schemas
+-- Three-schema architecture -- Database system environment --
+Centralized and client/server DBMS architectures -- Data modeling
+using ER model -- Enhanced-ER model.
 
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
-Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations; Relational Algebra;Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification;More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping.
+Relational Model: Concepts -- Constraints -- Update operations --
+Constraint voilations; Relational Algebra; Basic SQL: Data Definition
+-- SQL constraints -- Basic retrieval queries -- Insert, delete and
+update commands -- Schema modification; More SQL: dealing NULL --
+Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS
+function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate
+functions -- Grouping.
 
 {{{unit}}}
 |UNIT III | DATABASE PROGRAMMING AND DESIGN| 10 |
-Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms; FD: Inference rules -- minimal cover; ER-to-relational mapping.
+Triggers -- Views; Database Programming Techniques: Overview and
+Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and
+SQL/PSM ; Design guidelines -- Functional dependencies -- First,
+second and third Normal Forms -- Boyce-Codd Normal Forms; FD:
+Inference rules -- Minimal cover; ER-to-relational mapping.
 
 {{{unit}}}
-|UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
-Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery.
+| UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
+Transaction Processing: Concepts -- ACID properties -- schedules --
+serializability; Concurrency control: Two-phase locking technique --
+Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate
+update -- Multidatabase system recovery.
 
 {{{unit}}}
 |UNIT V | NOSQL DATABASES | 8 |
-Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column -- Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
+Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based
+NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column --
+Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the database concepts  and apply ER models to  any real world application (K3)
+- Understand the database concepts and apply ER models to any real
+  world application (K3)
 - Apply data definition and complex SQL queries (K3)
-- Design databases using normalization and ER to Relational mapping and write database program for a real-time application (K3)
-- Apply transaction processing, concurrency control and recovery mechanisms for practical problems (K3)
-- Understand  the concepts of NOSQL databases (K2)
+- Design databases using normalization and ER to Relational mapping
+  and write database program for a real-time application (K3)
+- Apply transaction processing, concurrency control and recovery
+  mechanisms for practical problems (K3)
+- Understand the concepts of NOSQL databases (K2)
 
 ** TEXT BOOKS 
 1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
