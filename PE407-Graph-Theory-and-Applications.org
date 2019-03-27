@@ -50,6 +50,6 @@ After the completion of this course, students will be able to:
 1. Douglous West, “Introduction to Graph Theory”, Pearson Education, 2nd Edition, 2015
 2. Narsingh Deo, “Graph Theory: With Application to Engineering and Computer Science”, Prentice Hall of India, 2003.
 3. Frank Harary, “Graph Theory”, Narosa Publishing House, 2001
-4. Gary Chrtrand, Ping Zhang, “Introduction to Graph Theory”, McGraw Hill Education, 2011
-5. Adrian Bondy, U S R Murty, “Graph Theory”, Springer, 2011
+4. Gary Chartrand, Ping Zhang, “Introduction to Graph Theory”, McGraw Hill Education, 2011
+5. Adrian Bondy, U. S. R. Murty, “Graph Theory”, Springer, 2011
 
