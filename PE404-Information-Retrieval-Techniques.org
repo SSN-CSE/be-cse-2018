@@ -13,7 +13,7 @@
 ** COURSE OBJECTIVES
 - To understand the basics of information retrieval with pertinence to
   modeling
-  To understand various components of IR system
+- To understand various components of IR system
 - To understand machine learning techniques for text classification
   and clustering
 - To explore various types of IR systems for diffent applications
