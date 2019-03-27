@@ -4,6 +4,15 @@
 :date: 
 :end:
 
+
+#+begin_comment
+- 1. Almost the same as AU
+- 2. No changes 
+- 3. Few topics of First unit in PG subject "Multicore Architectures and GPU Computing" are matching which is essential for understanding the basics. The rest of the four units are different.
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
