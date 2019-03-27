@@ -55,9 +55,8 @@ Extreme Programming; Unified Process; EVO.
 Agile testing: Nine principles and six concrete practices for testing
 on agile teams; Agile Metrics: Feature Driven Development (FDD) --
 Financial and production metrics in FDD -- Agile approach to Quality
-Assurance -- Test Driven Development; Pair Programming: Issues and
-challenges -- Agile approach to global software development; Story
-cards based requirements engineering Maturity Model (SMM).
+Assurance -- Test Driven Development; SMM: A Process Improvement Framework for Agile Requirements
+Engineering Practices.
 
 \hfill *Total Periods: 45*
 
