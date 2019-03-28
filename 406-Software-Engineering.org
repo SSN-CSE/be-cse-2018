@@ -4,13 +4,11 @@
 :date: 
 :end:
 #+start_comment
-.....
 1. 75% same as  AU; Units have been reordered
 2. For changes, see the individual units
 3. Not applicable
 4. Five course outcomes are specified and they align to each unit. Course objectives are also specified
 5. Not applicable
-.....
 #+end_comment
 
 #+startup: showall
@@ -30,6 +28,10 @@
 Introduction to Software Engineering; Principles and Practices; Software Process: Generic process model -- Perspective and Specialized
 Process Models; Introduction to Agility: Agile process.
 
+#+start_comment
+1. Extreme programming-XP Process has been removed
+2. Principles and practices, Generic process model has been added
+#+end_comment
 {{{unit}}}
 |UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
 Project Planning Process; Software Project Estimation: Decomposition Techniques -- Empirical Estimation Models -- The Make/Buy
