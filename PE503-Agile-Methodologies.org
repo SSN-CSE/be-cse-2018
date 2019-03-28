@@ -69,7 +69,7 @@ Upon the completion of the course the students should be able to:
 - Apply agile based testing and quality assurance (K3)
 
 ** TEXT BOOKS
-1. David J Anderson and Eli Schragenheim, ``Agile Management for
+1. David J Anderson, Eli Schragenheim, ``Agile Management for
    Software Engineering: Applying the Theory of Constraints for
    Business Results'', Prentice Hall, 2003. ( Unit 1, Unit 3, Unit 5)
 2. Craig Larman, ``Agile and Iterative Development: A Manager's
@@ -79,10 +79,10 @@ Upon the completion of the course the students should be able to:
 
 	
 ** REFERENCES
-1. Hazza and Dubinsky, ``Agile Software Engineering, Series:
+1. Hazza, Dubinsky, ``Agile Software Engineering, Series:
    Undergraduate Topics in Computer Science'',
    Springer, 2009. (Unit 5)
-2. Chetankumar Patel and Muthu Ramachandran, ``Story Card Maturity
+2. Chetankumar Patel, Muthu Ramachandran, ``Story Card Maturity
    Model (SMM): A Process Improvement Framework for Agile Requirements
    Engineering Practices'', Journal of Software, Academy Publishers,
    Vol 4, No 5, 422-435, Jul 2009. (Unit 5)
@@ -90,5 +90,5 @@ Upon the completion of the course the students should be able to:
    Construction, and Management'', Butterworth-Heinemann, 2007.
 4. Didar Zowghi, Zhi Jin, ``Requirements Engineering'', Springer ,
    chapter 15, 2014. (Unit 2)
-5. Aybuke Aurum and Claes Wohlin, ``Engineering and Managing Software
+5. Aybuke Aurum, Claes Wohlin, ``Engineering and Managing Software
    Requirements'', Springer 2005, chapter 14. (Unit 2)
