@@ -1,7 +1,7 @@
 * <<<PE201>>> CLOUD COMPUTING
 :properties:
 :author: Ms. Y. V. Lokeswari and Dr. J. Suresh
-:date: 
+:date: 28 Mar 2019.
 :end:
 
 #+startup: showall
