@@ -10,12 +10,16 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+start_comment
+Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
+#+end_comment
+
 ** COURSE OBJECTIVES
-- To understand the concepts of virtualization and virtual machines.
-- To learn about virtualization infrastructure.
+- To understand the concepts of virtualization and virtual machines
+- To learn about virtualization infrastructure
 - To understand the principles of Cloud Architecture, Models and
-  Infrastructure.
-- To explore and experiment various Cloud deployment environments.
+  Infrastructure
+- To explore and experiment various Cloud deployment environments
 - To learn about the security issues in the cloud environment. 
 
 {{{unit}}}
@@ -27,6 +31,9 @@ Design of Compute and Storage Clouds -- Layered Cloud Architecture
 Development -- Design Challenges -- Inter Cloud Resource Management --
 Resource Provisioning and Platform Deployment.
 
+#+start_comment
+Basic introduction about cloud computing is removed from Anna University syllabus, as this technology is been used by many people.
+#+end_comment
 
 {{{unit}}}
 |UNIT II |INTRODUCTION TO VIRTUALIZATION|9| 
@@ -38,6 +45,10 @@ structure -- Implementation levels of virtualization -- Virtualization
 Types: Full Virtualization -- Para Virtualization -- Hardware
 Virtulization.
 
+#+start_comment
+SOA, webservices and PUb/Sub systems are removed from AU syllabus as they are covered in Distributed Systems.
+#+end_comment
+
 {{{unit}}}
 |UNIT III|VIRTUALIZATION INFRASTRUCTURE|9| 
 Comprehensive Analysis -- Resource Pool -- Testing Environment --
@@ -48,12 +59,19 @@ Virtualization -- Application Virtualization-- Virtualization of CPU,
 Memory and I/O devices -- Virtual clusters and Resource Management --
 Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 
+#+start_comment
+Virtualization technology is detailed in this unit. The topics of Unit - III as per AU syllabus is moved to Unit I in Autnomus syllabus.
+#+end_comment
+
 {{{unit}}}
 |UNIT IV| CLOUD DEPLOYMENT ENVIRONMENT|12|
 Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine
 -- Amazon AWS -- Microsoft Azure; Cloud Software Environments --
 Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
 
+#+start_comment
+This unit covers programming models which is present as UNit - V in AU syllabus.
+#+end_comment
 
 {{{unit}}}
 | UNIT V | CLOUD SECURITY | 7 |
@@ -61,7 +79,11 @@ Data Security and Storage; Identity and Access Management(IAM) -- IAM
 Challenges -- IAM Architecture and Practice; Security Management in
 the Cloud -- Security Management Standards -- SaaS, Paas and IaaS
 Availability Management -- Access Control; Security-As-A-[Cloud]
-Service
+Service.
+
+#+start_comment
+This unit covers Cloud Security issues which is present as Unit - IV in AU syllabus.
+#+end_comment
 
 \hfill *Total Periods: 45*
 
@@ -73,11 +95,11 @@ Upon the completion of the course the students should be able to:
   Machine Monitors (K3)
 - Develop and deploy services on cloud and be able to set up a private
   cloud environment using open source software (K3)
-- Understand security challenges in cloud environment (K2)
+- Understand security challenges in cloud environment (K2).
 
 
 ** TEXT BOOKS
-1. Kai Hwang, Geoffery C. Fox and Jack J. Dongarra, ``Distributed and
+1. Kai Hwang, Geoffery C Fox, Jack J Dongarra, ``Distributed and
    Cloud Computing: Clusters, Grids, Clouds and the Future of
    Internet'', First Edition, Morgan Kaufman Publisher, an Imprint of
    Elsevier, 2012. (Unit I, II, IV)
@@ -86,15 +108,16 @@ Upon the completion of the course the students should be able to:
    India, 2014. (Units I, II, III, IV)
 
 ** REFERENCES
-1. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
+1. Tim Mather, Subra Kumaraswamy, Shahed Latif , ``Cloud Security
    and Privacy: an enterprise perspective on risks and compliance'',
-   O'Reilly Media, Inc., 2009. (Unit V)
+   O'Reilly Media, 2009. (Unit V)
 2. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
    Guide'', McGraw-Hill Osborne Media, 2009.
-3. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
+3. James E Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
    for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005.
 4. William von Hagen, ``Professional Xen Virtualization'', Wrox
    Publications, January, 2008.
-5. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
+5. David Marshall, Wade A Reynolds, ``Advanced Server Virtualization:
    VMware and Microsoft Platform in the Virtual Data Center'',
    Auerbach Publications, 2006.
+   
