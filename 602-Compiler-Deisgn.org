@@ -103,7 +103,7 @@ After the completion of this course, students will be able to:
 
 ** REFERENCE BOOKS
 1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern
-   Architectures: A Dependence based Approach'', Morgan Kaufmann
+   Architectures: A Dependence Based Approach'', Morgan Kaufmann
    Publishers, 2002.
 2. Steven S. Muchnick, ``Advanced Compiler Design and
    Implementation'', Morgan Kaufmann Publishers - Elsevier Science,
