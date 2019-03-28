@@ -67,7 +67,7 @@ Upon the completion of the course the students should be able to:
 - Able to solve synchronization and state consistency problems (K3)
 - Demonstrate the resource sharing techniques in Distributed systems (K3)
 - Comprehend the working model of consensus and reliability of Distributed Systems (K3)
-- Identify the fundamentals of Peer-to-Peer Systems(K2).
+- Identify the fundamentals of Peer-to-Peer Systems (K2).
 
 
 ** Text Books
