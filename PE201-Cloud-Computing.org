@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+start_comment
+#+begin_comment
 Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
 #+end_comment
 
@@ -31,7 +31,7 @@ Design of Compute and Storage Clouds -- Layered Cloud Architecture
 Development -- Design Challenges -- Inter Cloud Resource Management --
 Resource Provisioning and Platform Deployment.
 
-#+start_comment
+#+begin_comment
 Basic introduction about cloud computing is removed from Anna University syllabus, as this technology is been used by many people.
 #+end_comment
 
@@ -45,7 +45,7 @@ structure -- Implementation levels of virtualization -- Virtualization
 Types: Full Virtualization -- Para Virtualization -- Hardware
 Virtulization.
 
-#+start_comment
+#+begin_comment
 SOA, webservices and PUb/Sub systems are removed from AU syllabus as they are covered in Distributed Systems.
 #+end_comment
 
@@ -59,7 +59,7 @@ Virtualization -- Application Virtualization-- Virtualization of CPU,
 Memory and I/O devices -- Virtual clusters and Resource Management --
 Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 
-#+start_comment
+#+begin_comment
 Virtualization technology is detailed in this unit. The topics of Unit - III as per AU syllabus is moved to Unit I in Autnomus syllabus.
 #+end_comment
 
@@ -69,7 +69,7 @@ Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine
 -- Amazon AWS -- Microsoft Azure; Cloud Software Environments --
 Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
 
-#+start_comment
+#+begin_comment
 This unit covers programming models which is present as UNit - V in AU syllabus.
 #+end_comment
 
@@ -81,7 +81,7 @@ the Cloud -- Security Management Standards -- SaaS, Paas and IaaS
 Availability Management -- Access Control; Security-As-A-[Cloud]
 Service.
 
-#+start_comment
+#+begin_comment
 This unit covers Cloud Security issues which is present as Unit - IV in AU syllabus.
 #+end_comment
 
