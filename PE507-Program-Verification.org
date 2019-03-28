@@ -10,6 +10,10 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment:
+We are not aware of any Program Verification course in Anna University curriculum. This syllabus is completely independent of any Program Verification course.
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To understand the need of logics for specification and verification
   of computer systems.
