@@ -3,6 +3,13 @@
 :author: Ms. K. Madheswari and Ms. S. Angel Deborah
 :date: 
 :end:
+#+start_comment
+-1. 75% same as  AU; Units have been reordered
+-2. For changes, see the individual units
+-3. Not applicable
+-4. Five course outcomes are specified and they align to each unit. Course objectives are also specified
+-5. Not applicable
+#+end_comment
 
 #+startup: showall
 
@@ -44,10 +51,11 @@ Software Testing Fundamentals; Internal and External Views of Testing:  White Bo
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand principles of software engineering and choose an appropraite process model (K4)
+- Manage project schedule, estimate project cost and effort required (K3).
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
 - Compare and contrast the various testing and maintenance activities (K2)
-- Manage project schedule, estimate project cost and effort required (K3).
+
       
 ** TEXT BOOKS
 1. Roger S Pressman, ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Seven Edition, 2010.
