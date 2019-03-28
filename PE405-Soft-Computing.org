@@ -36,9 +36,7 @@ Evolution of neural networks -- Basic modals of ANN -- McCulloch and
 Pitts neuron -- Linear separability -- Hebb network.
 
 #+start_comment
-
 Almost same, but removed Hebbian  and  Delta-Perceptron Network-Adaline Network-Madaline Network from AU syllabus
-
 #+end_comment
 
 {{{unit}}}
@@ -52,10 +50,8 @@ Kohonen neural network -- Learning vector quantization -- Adaptive
 resonance theory networks.
 
 #+start_comment
-
 - Removed Spike Neuron Models from AU syllabus
 - Organised as per supervised, unsupervised learning techniques
-
 #+end_comment
 
 {{{unit}}}
@@ -72,10 +68,8 @@ Operators -- Stopping condition -- Constraints -- Classification --
 Genetic programming; Applications of genetic algorithm.
 
 #+start_comment
-
 - Removed individual operator names  in GA 
 - Added Constraints, Classification, Genetic programming and Applications
-
 #+end_comment
 
 {{{unit}}}
@@ -87,10 +81,8 @@ Optimization of Traveling Salesman Problem using genetic algorithm --
 Soft computing based hybrid fuzzy controllers.
 
 #+start_comment
-
 - Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:  A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
 - Added Applications of Soft Computing, Optimization of Traveling Salesman Problem using genetic algorithm, Soft computing based hybrid fuzzy controllers.
-
 #+end_comment
 
 \hfill *Total Periods: 45*
