@@ -5,7 +5,7 @@
 :date: 28 March 2019
 
 |L|T|P|C|
-|3|0|0|3|
+|2|0|2|3|
 
 ** Course Objectives
 - To understand the protocol layering and physical level communication
@@ -16,31 +16,31 @@
 
 
 {{{unit}}}
-UNIT I Introduction to Computer Networks  6
+|UNIT I| Introduction to Computer Networks  |6|
 
 Introduction: Networks – Network Types – Protocol Layering – TCP/IP Protocol suite – OSI Model;  Network devices; Performance. 
 
 
 {{{unit}}}
-UNIT II Networking and Access control 6
+|UNIT II| Networking and Access Control |6|
 Addressing; Ethernet Networking; VLAN: Basics - Configuring VLAN; ACL; Firewall; Working of Packet Tracer.  
 
 
 {{{unit}}}
-UNIT III Networking Protocols				6
+|UNIT III| Networking Protocols	|6|
 
 Network as a graph; Routing Protocols: RIP - OSPF; Autonomous System: EIGRP; TCP; UDP.
 
 
 {{{unit}}}
-UNIT IV Simulation Basics			6
+|UNIT IV| Simulation Basics |6|
 Types of simulation; The need for communications network modeling and simulation; 
 Types of communications networks; modeling constructs; Performance targets for simulation purposes.
 
 
 
 {{{unit}}}
-UNIT V Network Simulator NS3  6
+|UNIT V| Network Simulator NS3 |6|
 Overview of Simulators; Introduction to NS3: Background of NS3 - Establishing a network in NS3; Study of performance of TCP protocol. 
  
 
@@ -79,4 +79,3 @@ Upon Completion of the course, the students should be able to:
 2. Nader F. Mir, Computer and Communication Networks, Second Edition, Prentice Hall, 2014.
 3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, Computer Networks: An Open Source Approach, McGraw Hill Publisher, 2011.
 4. James F. Kurose, Keith W. Ross, Computer Networking, A Top-Down Approach Featuring the Internet, Sixth Edition, Pearson Education, 2013.
-
