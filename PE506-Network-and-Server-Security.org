@@ -72,15 +72,15 @@ After the completion of this course, students will be able to:
 - Explain the security aspects in designing a datacenter (K2) 
 - Design the security protocols for the infrastructure (K3)
 
+** TEXT BOOKS
+1. William Stallings, ``Network Security Essentials: Applications and Standards'', Sixth Edition, Pearson, 2017.
+2. Mauricio Arregoces, Maurizio Portolani, ``Data Center Fundamentals'', Cisco Press, 2003.
       
 ** REFERENCES
-1. William Stallings, ``Network Security Essentials: Applications and
-   Standards'', Sixth Edition, Pearson, 2017.
-2. Charlie Kaufman, Radia Perlman and Mike Speciner , ``Network
+1. Charlie Kaufman, Radia Perlman and Mike Speciner , ``Network
    Security: Private Communication in a Public World'', Second
    Edition, Pearson Education, 2017.
-3. Wenliang Du, ``Computer Security: A Hands-on Approach'',
+2. Wenliang Du, ``Computer Security: A Hands-on Approach'',
    CreateSpace Independent Publishing Platform, First Edition, 2017.
-4. Mauricio Arregoces, Maurizio Portolani, ``Data Center
-   Fundamentals'', Cisco Press, 2003.
+
 
