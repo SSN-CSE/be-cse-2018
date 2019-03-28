@@ -7,7 +7,7 @@
   - A unit may have headings and has topics.
   - If a unit has headings, headings should be in title case. Follow a
     heading with a colon.
-  - Separate topics with two dashes. Leave space before and after the
+  - Separate topics with two dashes (=--=). Leave space before and after the
     double-dash.
   - Topics should be in sentence case (start with upper case). End the
     last topic under a heading with a semicolon.
@@ -67,12 +67,10 @@
 * Notes
   - If the subject was in Anna University 2017 currculum, then include
     notes about the changes.
-  - Include your notes before the course objectves, using the
-    following tags.
-    #+BEGIN_CENTER
-    #+start_comment
-    ... your notes ...
-    #+end_comment
-    #+END_CENTER
+  - Include your notes before the course objectves, between the
+    following tags.  
+    =#+start_comment=\\
+    =... your notes ...=\\
+    =#+end_comment=\\
   - You can also include notes at the end of every unit, using the
     same tags.
