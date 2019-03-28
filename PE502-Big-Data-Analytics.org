@@ -6,8 +6,8 @@
 
 #+begin_comment
 - 1. Almost the same as AU
-- 2. For changes, see the individual units. Unit - III of AU 2017 syllabus is removed.
-- 3. Not Applicable
+- 2. For changes, see the individual units. Unit - III of AU 2017 syllabus is removed
+- 3. There are difference in three units
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
 #+end_comment
@@ -22,7 +22,7 @@
 - To know the fundamental concepts of big data and analytics
 - To explore tools and practices for working with big data
 - To learn about stream computing
-- To know about the research that requires the integration of large amounts of data.
+- To know about the techniques that requires the integration of large amounts of data.
 
 
 {{{unit}}}
@@ -30,9 +30,9 @@
 Evolution of big data -- Best practices for big data analytics -- Big
 data characteristics; Validating -- Promotion of the value of big data
 -- Big data use cases -- Characteristics of big data applications --
-Perception and quantification of value; Understanding big data storage
+Perception and quantification of value; Big Data Tools and Techniques: Understanding big data storage
 -- General overview of high-performance architecture -- HDFS --
-MapReduce and YARN -- Map Reduce programming model; Review of basic
+MapReduce and YARN; Map Reduce programming model; Review of basic
 data analytic methods using R.
 #+begin_comment
 Added: Review of basic data analytic methods using R
@@ -72,11 +72,11 @@ Modified:  Mining frequent itemsets and Clustering techniques for big data
 #+end_comment
 
 {{{unit}}}
-| UNIT V | NoSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
+| UNIT V | NoSQL DATA MANAGEMENT FOR BIG DATA | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for
-data manipulation -- Key Value stores -- Document stores -- Tabular
-stores -- Object data stores -- Graph databases -- Hive -- Sharding –-
-Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big
+data manipulation -- Key value stores -- Document stores -- Tabular
+stores -- Object data stores -- Graph databases; Hive; Sharding;
+Hbase; Case Study: Analyzing big data with twitter -- Big data for E-Commerce Big
 data for blogs.
 #+begin_comment
 Moved: Review of basic data analytic methods using R to Unit - I
@@ -86,31 +86,30 @@ Moved: Review of basic data analytic methods using R to Unit - I
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Work with big data tools and its analysis techniques (K3)
-- Analyze data by utilizing clustering and classification algorithms (K4)
+- Analyze data by utilizing regression and classification algorithms (K4)
 - Perform analytics on data streams (K3)
-- Learn and apply different mining algorithms and recommendation
-  systems for large volumes of data (K3)
-- Learn NoSQL databases and management (K2)
+- Apply different mining algorithms and clustering techniques on big data (K3)
+- Learn NoSQL databases and management (K2).
 
       
 ** TEXT BOOKS
-1. Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive
-   Datasets'', Cambridge University Press, 2012.
-2. David Loshin, ``Big Data Analytics: From Strategic Planning to
+1. David Loshin, ``Big Data Analytics: From Strategic Planning to
    Enterprise Integration with Tools, Techniques, NoSQL, and Graph'',
    Morgan Kaufmann / Elsevier Publishers, 2013.
+2. Anand Rajaraman, Jeffrey David Ullman, ``Mining of Massive
+   Datasets'', Cambridge University Press, 2012.
 
 
 ** REFERENCES
 1. EMC Education Services, ``Data Science and Big Data Analytics:
    Discovering, Analyzing, Visualizing and Presenting Data'', Wiley
-   Publishers, 2015.
+   Publishers, 2015. (Unit -II)
 2. Bart Baesens, ``Analytics in a Big Data World: The Essential Guide
    to Data Science and its Applications'', Wiley Publishers, 2015.
-3. Kim H. Pries and Robert Dunnigan, ``Big Data Analytics: A Practical
+3. Kim H Pries, Robert Dunnigan, ``Big Data Analytics: A Practical
    Guide for Managers'', CRC Press, 2015.
-4. Jimmy Lin and Chris Dyer, ``Data-Intensive Text Processing with
+4. Jimmy Lin, Chris Dyer, ``Data-Intensive Text Processing with
    MapReduce'', Synthesis Lectures on Human Language Technologies,
    Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
-5. Arshdeep Bahga and Vijay Madisetti, ``Big Data Science & Analytics:
+5. Arshdeep Bahga, Vijay Madisetti, ``Big Data Science & Analytics:
    A Hands-On Approach'', VPT, 2016.
