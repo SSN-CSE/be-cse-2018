@@ -10,6 +10,10 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+start_comment:
+We are not aware of any Expert Systems course in Anna University curriculum. This syllabus is completely independent of any Expert System course.
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To learn resolution for Propositional and Predicate Logic
 - To learn inference in Production Systems
