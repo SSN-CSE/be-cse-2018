@@ -1,6 +1,6 @@
 * <<<OE4>>> Introduction to Big Data Analytics
 :properties:
-:author: R. Priyadharsini, S.Rajalakshmi 
+:author: R. Priyadharsini
 :end:
 
 #+startup: showall
