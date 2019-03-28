@@ -71,7 +71,7 @@
     notes about the changes.
   - Include your notes before the course objectves, between the
     following tags.\\  
-    =#+start_comment= 
+    =#+begin_comment= 
 
     =... your notes ...= 
 
