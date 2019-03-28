@@ -29,8 +29,8 @@ Introduction to Software Engineering; Principles and Practices; Software Process
 Process Models; Introduction to Agility: Agile process.
 
 #+start_comment
-1. Extreme programming-XP Process has been removed
-2. Principles and practices, Generic process model has been added
+1. Removed: Extreme programming, XP Process
+2. Added: Principles and practices, Generic process model
 #+end_comment
 {{{unit}}}
 |UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
