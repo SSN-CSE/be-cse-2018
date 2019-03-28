@@ -1,4 +1,4 @@
-* DISTRIBUTED SYSTEMS
+* <<<701>>> DISTRIBUTED SYSTEMS
 :properties:
 :author: Mr. H. Shahul Hamead, Y V Lokeswari.
 :date: 28 Mar 2019.
@@ -8,7 +8,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+start_comment
+#+begin_comment
 Anna University Regulation 2017 has this course. The topics of AU and Autonomous syllabi are one and the same.
 #+end_comment
 
@@ -23,7 +23,7 @@ Anna University Regulation 2017 has this course. The topics of AU and Autonomous
 |UNIT I|INTRODUCTION |8| 
 Introduction: Definition-Relation to computer system components -- Motivation -- Relation to parallel multiprocessor/multicomputer systems -- Message-passing systems versus shared memory systems -- Primitives for distributed communication -- Synchronous versus asynchronous executions -- Design issues and challenges; A model of distributed computations: A distributed program -- A model of distributed executions -- Models of communication networks -- Global state of a distributed system -- Cuts of a distributed computation -- Past and future cones of an event -- Models of process communications.
 
-#+start_comment
+#+begin_comment
 The topics of AU and Autonomous syllabi is one and the same. Logical Time is moved from UNit - I to Unit - II in Autonomous syllabus.
 #+end_comment
 
@@ -31,7 +31,7 @@ The topics of AU and Autonomous syllabi is one and the same. Logical Time is mov
 |UNIT II |LOGICAL TIME AND GLOBAL STATE |12| 
 Logical Time: Physical clock synchronization: NTP -- A framework for a system of logical clocks -- Scalar time -- Vector time; Message ordering and group communication: Message ordering paradigms -- Asynchronous execution with synchronous communication -- Synchronous program order on an asynchronous system -- Group communication -- Causal order (CO) Total order; Global state and snapshot recording algorithms: Introduction -- System model and definitions -- Snapshot algorithms for FIFO channels.
 
-#+start_comment
+#+begin_comment
 The topics of AU and Autonomous syllabi is one and the same.
 #+end_comment
 
@@ -39,7 +39,7 @@ The topics of AU and Autonomous syllabi is one and the same.
 |UNIT III|DISTRIBUTED MUTEX AND DEADLOCK |12| 
 Distributed mutual exclusion algorithms: Introduction -- Preliminaries -- Lamport’s algorithm -- Ricart–Agrawala algorithm -- Quorum-based mutual exclusion algorithms -- Maekawa’s algorithm -- Token-based algorithms -- Suzuki–Kasami’s broadcast algorithm; Deadlock detection in distributed systems: Introduction -- System model -- Preliminaries -- Models of deadlocks -- Knapp’s classification of distributed deadlock detection algorithms -- Mitchell and Merritt’s algorithm  for the single resource model -- Chandy–Misra–Haas algorithm for the AND model -- Chandy–Misra–Haas algorithm for the OR model.
 
-#+start_comment
+#+begin_comment
 The topics of AU and Autonomous syllabi is one and the same.
 #+end_comment
 
@@ -47,7 +47,7 @@ The topics of AU and Autonomous syllabi is one and the same.
 |UNIT IV| CONSENSUS AND RECOVERY |12|
 Consensus and agreement algorithms: Problem definition -- Overview of results -- Agreement in a failure-free system (synchronous or asynchronous) -- Agreement in (message-passing) synchronous systems with failures; Checkpointing and rollback recovery: Introduction -- Background and definitions -- Issues in failure recovery -- Checkpoint-based recovery -- Log-based rollback recovery -- Koo–Toueg coordinated checkpointing algorithm -- Juang–Venkatesan algorithm for asynchronous checkpointing and recovery.
 
-#+start_comment
+#+begin_comment
 The topics of AU and Autonomous syllabi is one and the same.
 #+end_comment
 
@@ -55,7 +55,7 @@ The topics of AU and Autonomous syllabi is one and the same.
 |UNIT V|PEER TO PEER AND DISTRIBUTED SHARED MENORY|6|
 Peer-to-peer computing and overlay graphs: Introduction -- Data indexing and overlays -- Tapestry; Distributed shared memory: Abstraction and advantages -- Memory consistency models -- Lamport's Bakery Algorithm.
 
-#+start_comment
+#+begin_comment
 The topics of AU and Autonomous syllabi is one and the same.
 #+end_comment
 
