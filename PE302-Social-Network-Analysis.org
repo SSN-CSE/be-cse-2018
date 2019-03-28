@@ -52,7 +52,7 @@ Spectrum and Countermeasures.
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
 Graph theory -- Centrality -- Clustering -- Node-Edge Diagrams -- Matrix
-representation –- Visualizing online social networks -- Visualizing
+representation -- Visualizing online social networks -- Visualizing
 social networks with matrix-based representations -- Matrix and
 Node-Link Diagrams -- Hybrid representations -- Applications -- Covert
 networks -- Community welfare -- Collaboration networks -- Co-Citation
