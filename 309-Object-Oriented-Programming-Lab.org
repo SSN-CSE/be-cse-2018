@@ -12,8 +12,8 @@
 
 ** COURSE OBJECTIVES
 - To build software development skills using object oriented
-  programming for real world applications.
-- To develop applications using inheritance and polymorphism.
+  programming for real world applications
+- To develop applications using inheritance and polymorphism
 - To understand and implement generic programming.
 
 ** SUGGESTIVE EXPERIMENTS
@@ -32,10 +32,10 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop applications in Java using classes and methods(K3).
-- Apply inheritance interface and concepts to write programs(K3).
-- Write Java program using polymorphic methods and objects(K3).
-- Develop applications using generic methods and generic programming(K3).
+- Develop applications in Java using classes and methods(K3)
+- Apply inheritance interface and concepts to write programs(K3)
+- Write Java program using polymorphic methods and objects(K3)
+- Develop applications using generic methods and generic programming(K3)
 - Apply appropriate features of oop programming paradigm to design mini project(K3).
 
 ** Laboratory requirement for batch of 25 students
