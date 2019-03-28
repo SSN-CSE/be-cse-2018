@@ -20,41 +20,41 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |
-Introduction: Neural Networks -- Fuzzy Logic -- Genetic Algorithm --
-Hybrid Systems; Artificial Neural Network: Fundamental Concepts --
-Evolution of Neural Networks -- Basic Modals of ANN -- McCulloch and
-Pitts Neuron -- Linear Separability -- Hebb Network.
-
+Introduction: Neural networks -- Fuzzy logic -- Genetic algorithm --
+Hybrid systems; Artificial Neural Network: Fundamental concepts --
+Evolution of neural networks -- Basic modals of ANN -- McCulloch and
+Pitts neuron -- Linear separability -- Hebb network.
 
 {{{unit}}}
 | UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
-Perceptron Networks -- Adaptive Linear Neuron -- Multiple Adaptive
-Linear Neurons -- Back propagation Networks -- Radial Bias Function
-Network; Associative Memory Networks: Auto associative Memory Network
--- Bidirectional Associative Memory -- Hopfield Networks; Unspervised
-learning Networks: Hamming Network -- Kohonen Neural Network --
-Learning Vector Quantization -- Adaptive Resonance Theory Networks.
+Supervised Learning Network: Perceptron Networks -- Adaptive linear
+neuron -- Multiple adaptive linear neurons -- Back propagation
+networks -- Radial Bias Function network; Associative Memory Networks:
+Autoassociative memory network -- Bidirectional associative memory --
+Hopfield networks; Unspervised Learning Networks: Hamming network --
+Kohonen neural network -- Learning vector quantization -- Adaptive
+resonance theory networks.
 
 {{{unit}}}
 | UNIT III | FUZZY SYSTEMS | 9 |
-Introduction to Fuzzy Logic -- Classical Sets and Fuzzy Sets -- Fuzzy
-Relations -- Membership Functions -- Defuzzification Methods -- Fuzzy
-Arithmetic -- Fuzzy Measures -- Fuzzy Rule Base and Approximate
-Reasoning -- Fuzzy Decision Making.
+Introduction to fuzzy logic -- Classical sets -- Fuzzy sets -- Fuzzy
+relations -- Membership functions -- Defuzzification methods -- Fuzzy
+arithmetic -- Fuzzy measures -- Fuzzy rule base and approximate
+reasoning -- Fuzzy decision making.
 
 {{{unit}}}
 | UNIT IV | GENETIC ALGORITHMS | 8 |
-Genetic Algorithm and Search Space -- General Genetic Algorithm --
-Operators -- Stopping Condition -- Constraints -- Classification --
-Genetic Programming -- Applications of Genetic Algorithm.
+Genetic Algorithm and search space -- General genetic algorithm --
+Operators -- Stopping condition -- Constraints -- Classification --
+Genetic programming; Applications of genetic algorithm.
 
 {{{unit}}}
 | UNIT V | HYBRID SOFT COMPUTING TECHNIQUES & APPLICATIONS | 9 |
-Neuro-Fuzzy Hybrid Systems -- Genetic Neuro Hybrid Systems -- Genetic
-Fuzzy Hybrid and Fuzzy Genetic Hybrid Systems; Applications: A fusion
-approach of multispectral images with SAR -- Optimization of Traveling
-Salesman Problem using Genetic Algorithm -- Soft Computing Based
-Hybrid Fuzzy Controllers.
+Neuro-Fuzzy hybrid systems -- Genetic neuro hybrid systems -- Genetic
+fuzzy hybrid and fuzzy genetic hybrid systems; Applications of Soft
+Computing: A fusion approach of multispectral images with SAR --
+Optimization of Traveling Salesman Problem using genetic algorithm --
+Soft computing based hybrid fuzzy controllers.
 
 \hfill *Total Periods: 45*
 
