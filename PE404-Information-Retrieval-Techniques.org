@@ -24,13 +24,13 @@
 - To understand various components of IR system
 - To understand machine learning techniques for text classification
   and clustering
-- To explore various IR applications
+- To explore various IR applications.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION AND MODELING | 9 |
 Basic Concepts: Retrieval process -- Architecture – Boolean retrieval;
 IR Models: Taxonomy and characterization of IR models -- Classical IR
-models -- Alternative algebraic models; Models for Browsing; Retrieval
+models -- Alternative algebraic models -- Models for Browsing -- Retrieval
 Evaluation: Performance evaluation.
 #+begin_comment
 - 1. In AU syllabus searching is covered in Unit 1, 3 and 4. We have unified the topics related to search in Unit 3.
@@ -59,8 +59,8 @@ Searching using hyperlinks.
 {{{unit}}}
 | UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
 Text Classification: Naive Bayes; Vector Space Classification: Rocchio
--- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
-clustering; Hierarchical Clustering; Matrix Decompositions and Latent
+-- k-Nearest Neighbour -- Flat Clustering: K-Means -- Model-based
+clustering; Hierarchical Clustering -- Matrix Decompositions and Latent
 Semantic Indexing.
 #+begin_comment
 - 1. Removed Decision tree, SVM and dimensionality reduction from AU.
@@ -87,7 +87,7 @@ After the completion of this course, students will be able to:
   clustering for efficient Information Retrieval (K3)
 - Describe various IR applications (K2)
 - Apply IR evaluation metrics to measure the performance of IR
-  systems (K3)
+  systems (K3).
 
 ** TEXT BOOKS
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
@@ -100,8 +100,8 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Stefan Buttcher, Charles L A Clarke, Gordon V Cormack,``Information
    Retrieval -- Implementing and Evaluating Search Engines'', The MIT
-   Press, Cambridge, Massachusetts London, England, 2010
-2. Cheng Xiang Zhai and Sean Massung, ``Text Data Management and
+   Press, Cambridge, Massachusetts London, England, 2010.
+2. Cheng Xiang Zhai, Sean Massung, ``Text Data Management and
    Analysis: A Practical Introduction to Information Retrieval and
    Text Mining'', ACM Books, 2016.
 3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media
