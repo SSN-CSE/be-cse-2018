@@ -4,6 +4,16 @@
 :date: 
 :end:
 
+
+#+begin_comment
+- 1. No equivalent course in AU 2017 Curriculum
+- 2. We checked other university courses relevant to this
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
+
 #+startup: showall
 
 {{{credits}}}
@@ -25,34 +35,28 @@
 {{{unit}}}
 |UNIT I | DATA SCIENCE AND PYTHON | 9 |
 Introduction: Computational tools -- Need for data science --
-Causality and experiments; Python: Array computing -- Vectors --
-Basics of numerical Python arrays -- Vectorization -- Advanced
-vectorization of functions -- Matrices and arrays -- Reading and
-writing spreadsheet files; Visualization: Graphs and tables.
+Causality and experiments; Array computing in Python: Vectors --
+Arrays -- Advanced vectorization of functions -- Higher-dimensional arrays: Matrices and arrays; Dictionaries and strings.
 
 {{{unit}}}
 |UNIT II | PROBABILITY AND STATISTICS | 9 |
-Randomness -- Empirical distributions -- Bayes theorem; Testing
-hypothesis -- Estimation -- Why the mean matters -- Prediction --
-Inference for regression.
+Randomness; Empirical distributions; Testing
+hypothesis; Estimation; Why the mean matters; Prediction; Inference for regression.
 
 {{{unit}}}
-|UNIT III | MACHINE LEARNING ALGORITHMS | 9 |
+|UNIT III | MACHINE LEARNING | 9 |
 Perceptron algorithm -- Kernel functions -- Overfitting and uniform
 convergence -- Regularization -- Support Vector Machines -- Strong and
-weak learning -- Boosting -- Stochastic Gradient Descent.
+weak learning -- Stochastic Gradient Descent.
 
 {{{unit}}}
 |UNIT IV | DATA STREAMS AND CLUSTERING | 9 |
-Frequency moments of data streams -- Matrix algorithms using sampling;
-k-Means clustering -- Spectral clustering -- Community finding --
-Graph partitioning.
+Algorithms for Massive Data Problems: Frequency moments of data streams -- Matrix algorithms using sampling; Clustering: k-Means clustering -- Spectral clustering -- Community finding and
+graph partitioning.
 
 {{{unit}}}
 |UNIT V | TOPIC MODELS AND GRAPHICAL MODELS | 9 |
-Topic Models -- Idealized Model -- Nonnegative Matrix Factorization
--- Latent Dirichlet Allocation -- Hidden Markov Models -- Graphical
-Models and Belief Propagation -- Bayesian Belief Networks -- Markov
+Topic Models -- Nonnegative matrix factorization -- Latent Dirichlet allocation -- Hidden Markov models -- Bayesian Belief Networks -- Markov
 Random Fields.
 
 \hfill *Total Periods: 45*
@@ -66,14 +70,14 @@ After the completion of this course, students will be able to:
 - Discuss topic and graphical modeling techniques in real world problem.(K2)
  
 ** TEXT BOOKS
-1. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of
-   Data Science'', Vorabversion eines Lehrbuchs, 2016.
-2. Ani Adhikari and John DeNero, ``Computational and Inferential
-   Thinking: The Foundations of Data Science'', GitBook, 2017.
+1. Ani Adhikari and John DeNero, ``Computational and Inferential
+   Thinking: The Foundations of Data Science'', GitBook, 2017. (Unit- I, II)
+2. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of
+   Data Science'', Vorabversion eines Lehrbuchs, 2016.  (Unit-III, IV, V) 
 
 ** REFERENCES
 1. Hans Petter Langtangen, ``A Primer on Scientific Programming with
-   Python'', 4th Edition, Springer, 2016.
+   Python'', 4th Edition, Springer, 2016. (Unit - I)
 2. Jonathan Dinu, ``Foundations of Data Science: A Practical
    Introduction to Data Science with Python'', Addison-wesley Data &
    Analytics Series, 2016.
