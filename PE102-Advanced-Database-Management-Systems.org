@@ -11,19 +11,19 @@
 
 ** COURSE OBJECTIVES
 The student should be able to:
-- To acquire knowledge on parallel and distributed databases and their applications. 
-- To study the usage and applications of Object and Object Relational Databases. 
-- To learn about XML Database. 
-- To acquire Knowledge in Unstructured Databases. 
-- To understand the concepts of HBase and HIVE.
+- To acquire knowledge on parallel and distributed databases and their applications 
+- To study the usage and applications of Object and Object Relational Databases
+- To learn about XML Database
+- To acquire Knowledge in Unstructured Databases
+- To understand the concepts of HBase and HIVE
 
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
-Database System Architectures: Centralized and Client-Server Architectures – Server System Architectures – Parallel Systems-
-Distributed Systems- Parallel Databases: I/O Parallelism – Inter and Intra Query Parallelism – Inter and Intra operation Parallelism –
-Design of Parallel Systems- Distributed Database Concepts - Distributed Data Storage – Distributed Transactions – Commit Protocols
-– Concurrency Control – Distributed Query Processing – Case Studies 
+Database System Architectures: Centralized and client-server architectures -- Server system architectures -- Parallel systems --
+Distributed systems -- Parallel Databases: I/O parallelism -- Inter and intra query parallelism -- Inter and intra operation parallelism --
+Design of parallel systems-- Distributed database concepts -- Distributed data storage -- Distributed transactions -- Commit protocols
+-- Concurrency control -- Distributed query processing -- Case studies.
 
 {{{unit}}}
 |UNIT II | OBJECT AND OBJECT RELATIONAL DATABASES | 9 |
