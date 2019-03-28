@@ -10,6 +10,10 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment:
+We are not aware of any Logic in Computer Science course in Anna University curriculum. This syllabus is completely independent of any Logic in Computer Science course.
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To understand the role of logic in modeling and reasoning about
   systems.
