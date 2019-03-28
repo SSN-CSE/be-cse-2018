@@ -4,6 +4,16 @@
 :date: 
 :end:
 
+
+#+begin_comment
+- 1. One professional elective is offered by the same name in AU 2017
+- 2. Refered other university syllabus.
+- 3. Offered only in AU BE 2017 curriculum
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
+
 #+startup: showall
 
 {{{credits}}}
@@ -25,6 +35,12 @@ Hybrid systems; Artificial Neural Network: Fundamental concepts --
 Evolution of neural networks -- Basic modals of ANN -- McCulloch and
 Pitts neuron -- Linear separability -- Hebb network.
 
+#+start_comment
+
+Almost same, but removed Hebbian  and  Delta-Perceptron Network-Adaline Network-Madaline Network from AU syllabus
+
+#+end_comment
+
 {{{unit}}}
 | UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
 Supervised Learning Network: Perceptron Networks -- Adaptive linear
@@ -34,6 +50,13 @@ Autoassociative memory network -- Bidirectional associative memory --
 Hopfield networks; Unspervised Learning Networks: Hamming network --
 Kohonen neural network -- Learning vector quantization -- Adaptive
 resonance theory networks.
+
+#+start_comment
+
+- Removed Spike Neuron Models from AU syllabus
+- Organised as per supervised, unsupervised learning techniques
+
+#+end_comment
 
 {{{unit}}}
 | UNIT III | FUZZY SYSTEMS | 9 |
@@ -48,6 +71,13 @@ Genetic Algorithm and search space -- General genetic algorithm --
 Operators -- Stopping condition -- Constraints -- Classification --
 Genetic programming; Applications of genetic algorithm.
 
+#+start_comment
+
+- Removed individual operator names  in GA 
+- Added Constraints, Classification, Genetic programming and Applications
+
+#+end_comment
+
 {{{unit}}}
 | UNIT V | HYBRID SOFT COMPUTING TECHNIQUES & APPLICATIONS | 9 |
 Neuro-Fuzzy hybrid systems -- Genetic neuro hybrid systems -- Genetic
@@ -55,6 +85,13 @@ fuzzy hybrid and fuzzy genetic hybrid systems; Applications of Soft
 Computing: A fusion approach of multispectral images with SAR --
 Optimization of Traveling Salesman Problem using genetic algorithm --
 Soft computing based hybrid fuzzy controllers.
+
+#+start_comment
+
+- Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:  A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
+- Added Applications of Soft Computing, Optimization of Traveling Salesman Problem using genetic algorithm, Soft computing based hybrid fuzzy controllers.
+
+#+end_comment
 
 \hfill *Total Periods: 45*
 
