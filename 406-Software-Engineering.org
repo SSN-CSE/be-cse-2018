@@ -28,7 +28,7 @@
 Introduction to Software Engineering; Principles and Practices; Software Process: Generic process model -- Perspective and Specialized
 Process Models; Introduction to Agility: Agile process.
 
-#+start_comment
+#+begin_comment
 1. Removed: Extreme programming, XP Process
 2. Added: Principles and practices, Generic process model
 #+end_comment
@@ -38,7 +38,7 @@ Process Models; Introduction to Agility: Agile process.
 Project Planning Process; Software Project Estimation: Decomposition Techniques -- Empirical Estimation Models -- The Make/Buy
 Decision -- Project Scheduling; Risk Management: Risk identification -- Risk Projection -- Risk Mitigation.
 
-#+start_comment
+#+begin_comment
 1. Removed: CASE TOOLS, RMMM Plan
 2. This unit was fifth unit in AU R2017
 #+end_comment
@@ -48,7 +48,7 @@ Decision -- Project Scheduling; Risk Management: Risk identification -- Risk Pro
 Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- requirements validation -- requirements
 management; Classical Analysis: Structured system analysis; Petri Nets.
 
-#+start_comment
+#+begin_comment
 1. Removed: Data dictionary
 2. This unit was second unit in AU R2017
 #+end_comment
@@ -57,7 +57,7 @@ management; Classical Analysis: Structured system analysis; Petri Nets.
 |UNIT IV | SOFTWARE DESIGN | 9 |
 Design Concepts: Design process -- Design concepts -- Design model -- Modeling Principles; Architectural Design: Architectural styles --Architectural mapping using data flow; User Interface Design: The golden rules -- Interface analysis -- Interface design; Component Level Design: Designing class based components -- Traditional components.
 
-#+start_comment
+#+begin_comment
 1. Removed: Design Heuristic
 2. This unit was third unit in AU R2017
 #+end_comment
@@ -66,7 +66,7 @@ Design Concepts: Design process -- Design concepts -- Design model -- Modeling P
 |UNIT V | TESTING AND MAINTENANCE | 9 |
 Software Testing Fundamentals; Internal and External Views of Testing:  White Box Testing -- Basis path testing -- Control structure testing -- Black box testing -- Unit testing -- Integration testing -- Regression testing -- Validation testing -- System testing; Debugging; Software Implementation: Coding practices and principles; Maintenance: Types -- Reengineering -- Reverse Engineering -- Restructuring.
 
-#+start_comment
+#+begin_comment
 1. Removed: Refactoring, BPR model, Forward Engineering
 2. Added: Coding Principles
 3. This unit was fourth unit in AU R2017
