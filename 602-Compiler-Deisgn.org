@@ -3,6 +3,14 @@
 :author: Dr. B. Bharathi and Dr. B. Prabavathy
 :end:
 
+#+begin_comment
+- 1. Suggestive experiments are changed
+- 2. For changes, see the indidual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Suggestive experiments are given since it is a integrated course
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -13,43 +21,50 @@
 - To learn various phases of compiler
 - To learn various parsing techniques
 - To understand intermediate code generation 
-- To learn to implement code generator and optimize the code
+- To learn to implement code generator and optimize the code.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO COMPILERS | 9 |
-Language processors – Phases of compiler – Role of lexical analyzer –
-Input buffering – Specification of tokens – Recognition of tokens –
-Lexical analyzer generator: Structure of lex program - Lookahead
-operator and conflict resolution
+Language processors -- Phases of compiler -- Role of lexical analyzer --
+Input buffering -- Specification of tokens -- Recognition of tokens;
+Lexical analyzer generator: Structure of lex program -- Lookahead
+operator and conflict resolution.
+#+begin_comment
+Added:Lookahead operator and conflict resolution. 
+#+end_comment
 
 {{{unit}}}
 |UNIT II | SYNTAX ANALYSIS | 9 |
-Role of Parser – Writing grammars for language constructs – Types of
-grammars: Ambiguity - deterministic and recursive - Top down parsers:
-Recursive descent parser - Predictive parser - Bottom up parsers: SLR
-Parser - CLR Parser - LALR Parser; Error handling and recovery in
+Role of Parser -- Writing grammars for language constructs -- Types of
+grammars: Ambiguity -- Deterministic and recursive; Top down parsers:
+Recursive descent parser -- Predictive parser; Bottom up parsers: SLR
+Parser -- CLR Parser -- LALR Parser; Error handling and recovery in
 syntax analyzer; Syntax analyzer generator: Structure of yacc program
-– Creating yacc lexical analyzers with lex
+– Creating yacc lexical analyzers with lex.
 
 {{{unit}}}
 |UNIT III | INTERMEDIATE CODE GENERATION | 9 |
-Syntax directed definitions: Synthesized attribute - Inherited
-attribute - Dependency graph - Evaluation order of syntax directed
-definitions; Intermediate languages: Syntax tree - Three address code;
-SDD for type checking - declarations - evaluation of expressions and
-flow of control statements - Bottom-up evaluation of S-attribute
-definitions
+Syntax directed definitions: Synthesized attribute -- Inherited
+attribute -- Dependency graph -- Evaluation order of syntax directed
+definitions; Intermediate languages: Syntax tree -- Three address code;
+SDD for type checking -- declarations -- evaluation of expressions and
+flow of control statements -- Bottom-up evaluation of S-attribute
+definitions.
+#+begin_comment
+Added:evaluation of expressions and flow of control statements -- Bottom-up evaluation of S-attribute
+definitions.
+#+end_comment
 
 {{{unit}}}
 |UNIT IV | RUNTIME ENVIRONMENTS AND CODE GENERATION | 9 |
-Source language issues - Storage organization - Storage allocation
-strategies: Static, Stack and Heap – Implementation of symbol table -
-Issues in code generation - Design of a simple code generator
+Source language issues -- Storage organization -- Storage allocation
+strategies: Static, Stack and Heap -- Implementation of symbol table --
+Issues in code generation -- Design of a simple code generator.
 
 {{{unit}}}
 |UNIT V | CODE OPTIMIZATION | 9 |
-Principal sources of optimization – Peephole optimization - DAG-
-Optimization of basic blocks -Global data flow analysis - Efficient
+Principal sources of optimization -- Peephole optimization -- DAG --
+Optimization of basic blocks -- Global data flow analysis -- Efficient
 data flow algorithm
 
 \hfill *Theory Periods: 45* 
@@ -65,7 +80,9 @@ data flow algorithm
    print the intermediate code after every phase. It is necessary to
    print the output of lexical, syntax, semantic, intermediate code
    generation, code optimization and code generation phases
-
+#+begin_comment
+Changes:Suggestive experiments are changed based on the units.
+#+end_comment
 \hfill *Practical Periods: 30*
 
 \hfill *Total Periods: 75*
@@ -76,24 +93,24 @@ After the completion of this course, students will be able to:
 - Apply different parsing algorithm to develop the parsers for the given grammar(K3)
 - Write syntax directed translation for programming language constructs(K3)
 - Understand and implement simple code generator(K3)
-- Understand and implement code optimization techniques(K3)
+- Understand and implement code optimization techniques(K3).
 
       
-** TEXT BOOKS
+** TEXT BOOK
 1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', Second Edition,
-   Pearson Education, 2009
+   Pearson Education, 2009.
 
 ** REFERENCE BOOKS
 1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern
    Architectures: A Dependence based Approach'', Morgan Kaufmann
-   Publishers, 2002
+   Publishers, 2002.
 2. Steven S. Muchnick, ``Advanced Compiler Design and
    Implementation'', Morgan Kaufmann Publishers - Elsevier Science,
-   India, Indian Reprint 2003
-3. Keith D Cooper and Linda Torczon, ``Engineering a Compiler'',
-   Morgan Kaufmann Publishers Elsevier Science, 2004
-4. Andrew W. Appel, ``Modern compiler implementation in C'', Cambridge
-   University Press, First edition, 2004
-5. Watson, Des, ``A Practical approach to compiler construction'',
-   First edition, Springer-Verlog, 2017
+   India, Indian Reprint 2003.
+3. Keith D Cooper, Linda Torczon, ``Engineering a Compiler'',
+   Morgan Kaufmann Publishers Elsevier Science, 2004.
+4. Andrew W. Appel, ``Modern Compiler Implementation in C'', Cambridge
+   University Press, First edition, 2004.
+5. Watson, Des, ``A Practical Approach to Compiler Construction'',
+   First edition, Springer-Verlog, 2017.
