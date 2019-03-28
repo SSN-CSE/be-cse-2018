@@ -60,7 +60,7 @@ Searching using hyperlinks.
 | UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
 Text Classification: Naive Bayes; Vector Space Classification: Rocchio
 -- k-Nearest Neighbour -- Flat Clustering: K-Means -- Model-based
-clustering; Hierarchical Clustering -- Matrix Decompositions and Latent
+clustering -- Hierarchical Clustering -- Matrix Decompositions and Latent
 Semantic Indexing.
 #+begin_comment
 - 1. Removed Decision tree, SVM and dimensionality reduction from AU.
