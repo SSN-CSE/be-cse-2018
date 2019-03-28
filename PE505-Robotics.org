@@ -48,7 +48,7 @@ driving cars
 Robot kinematics - Geometric approach for 2R, 3R manipulators - 
 homogenous transformation using D-H representation -- Kinematics of WMR --
 Lagrangian formulation for 2R robot dynamics -- Mechanical design
-aspects of a 2R manipulator, WMR -- End-effector : common types and
+aspects of a 2R manipulator, WMR -- End-effector : Common types and
 design case study.
 
 {{{unit}}}
@@ -63,7 +63,7 @@ problems -- Programming methodologies of a robot
 |UNIT V | AI AND OTHER RESEARCH TRENDS IN ROBOTICS | 9 |
 Application of Machine learning -- AI -- Expert systems -- Tele-robotics
 and Virtual reality -- Micro & Nanorobots -- Unmanned vehicles -- Cognitive
-robotics, Evolutionary robotics, Humanoids
+robotics -- Evolutionary robotics -- Humanoids
 
 
 \hfill *Total Periods: 45*
