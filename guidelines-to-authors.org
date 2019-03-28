@@ -1,4 +1,6 @@
 #+title: Typesetting Conventions for Syllabus
+#+author: 
+#+OPTIONS: toc:nil
 
 * Units
   - Edit your syllabus files directly in github.
@@ -68,9 +70,11 @@
   - If the subject was in Anna University 2017 currculum, then include
     notes about the changes.
   - Include your notes before the course objectves, between the
-    following tags.  
-    =#+start_comment=\\
-    =... your notes ...=\\
-    =#+end_comment=\\
+    following tags.\\  
+    =#+start_comment= 
+
+    =... your notes ...= 
+
+    =#+end_comment= 
   - You can also include notes at the end of every unit, using the
     same tags.
