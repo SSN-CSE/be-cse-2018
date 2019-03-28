@@ -4,6 +4,14 @@
 :date: 12-11-2018
 :end:
 
+#+begin_comment
+- 1. Almost the same as AU
+- 2. For changes, see the individual units. Unit - III of AU 2017 syllabus is removed.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -11,9 +19,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To know the fundamental concepts of big data and analytics.
+- To know the fundamental concepts of big data and analytics
 - To explore tools and practices for working with big data
-- To learn about stream computing.
+- To learn about stream computing
 - To know about the research that requires the integration of large amounts of data.
 
 
@@ -26,6 +34,9 @@ Perception and quantification of value; Understanding big data storage
 -- General overview of high-performance architecture -- HDFS --
 MapReduce and YARN -- Map Reduce programming model; Review of basic
 data analytic methods using R.
+#+begin_comment
+Added: Review of basic data analytic methods using R
+#+end_comment
 
 {{{unit}}}
 | UNIT II | REGRESSION AND CLASSIFICATION | 9 |
@@ -33,12 +44,20 @@ Advanced analytical theory and methods -- Regression : Linear
 regression -- Logistic regression ; Classification: Decision trees --
 Overview of a decision tree -- General algorithm -- Decision tree
 algorithms -- Evaluating a decision tree -- Decision trees in R --
-Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier -- Naïve Bayes
-in R.
+Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier in R.
+#+begin_comment
+Added: Regression 
+Added: Naïve Bayes classifier in R
+Moved: Clustering to Unit - IV
+#+end_comment
 
 {{{unit}}}
 |UNIT III | DATA STREAM ANALYSIS | 9 |
 Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions.
+#+begin_comment
+Moved:  Unit - IV in AU 2017 syllabus to Unit - III
+Removed: Using Graph Analytics for Big Data: Graph Analytics
+#+end_comment
 
 {{{unit}}}
 |UNIT IV | FREQUENT ITEMSETS AND CLUSTERING  | 9 |
@@ -48,6 +67,9 @@ Counting frequent itemsets in a stream -- Clustering techniques :
 Hierarchical -- k-Means -- Clustering high dimensional data -- CLIQUE
 and PROCLUS -- Frequent pattern based clustering methods -- Clustering
 in non-euclidean space -- Clustering for streams and parallelism.
+#+begin_comment
+Modified:  Mining frequent itemsets and Clustering techniques for big data
+#+end_comment
 
 {{{unit}}}
 | UNIT V | NoSQL DATA MANAGEMENT FOR BIG DATA AND VISUALIZATION | 9 |
@@ -56,7 +78,9 @@ data manipulation -- Key Value stores -- Document stores -- Tabular
 stores -- Object data stores -- Graph databases -- Hive -- Sharding –-
 Hbase --Analyzing big data with twitter -- Big data for E-Commerce Big
 data for blogs.
-
+#+begin_comment
+Moved: Review of basic data analytic methods using R to Unit - I
+#+end_comment
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
