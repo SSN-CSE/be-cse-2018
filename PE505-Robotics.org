@@ -25,44 +25,44 @@
 
 {{{unit}}}
 | UNIT I | FOUNDATION | 9 |
-Introduction -- brief history, definition, anatomy, types,
-classification, specification and need based applications; Role and
-need of robots for the immediate problems of the society, future of
-mankind and automation-ethical issues; Industrial scenario local and
-global, case studies on mobile robot research platform and industrial
+Introduction -- brief history -- definition -- anatomy -- types --
+classification -- specification and need based applications -- Role and
+need of robots for the immediate problems of the society -- Future of
+mankind and automation-ethical issues -- Industrial scenario local and
+global -- case studies on mobile robot research platform and industrial
 serial arm manipulator.
 
 {{{unit}}}
 | UNIT II | BUILDING BLOCKS OF A ROBOT | 9 |
-Types of electric motors - DC, Servo, Stepper; specification, drives
-for motors - speed & direction control and circuitry, Selection
-criterion for actuators, direct drives, non-traditional actuators;
-Sensors for localization, navigation, obstacle avoidance and path
-planning in known and unknown environments – optical, inertial,
-thermal, chemical, biosensor, other common sensors; Case study on
+Types of electric motors : DC -- Servo -- Stepper; Specification -- drives
+for motors -- speed & direction control and circuitry -- Selection
+criterion for actuators -- Direct drives -- Non-traditional actuators -
+Sensors for localization -- Navigation -- Obstacle avoidance and path
+planning in known and unknown environments -– Optical -- Inertial --
+Thermal -- Chemical -- Biosensor -- Other common sensors -- Case study on
 choice of sensors and actuators for maze solving robot and self
 driving cars
 
 {{{unit}}}
 | UNIT III | KINEMATICS, DYNAMICS AND DESIGN OF ROBOTS & END-EFFECTORS | 9 |
-Robot kinematics - Geometric approach for 2R, 3R manipulators,
-homogenous transformation using D-H representation, kinematics of WMR,
-Lagrangian formulation for 2R robot dynamics; Mechanical design
-aspects of a 2R manipulator, WMR; End-effector - common types and
+Robot kinematics - Geometric approach for 2R, 3R manipulators - 
+homogenous transformation using D-H representation -- Kinematics of WMR --
+Lagrangian formulation for 2R robot dynamics -- Mechanical design
+aspects of a 2R manipulator, WMR -- End-effector : common types and
 design case study.
 
 {{{unit}}}
 | UNIT IV | NAVIGATION, PATH PLANNING AND CONTROL ARCHITECTURE | 9 |
-Mapping & Navigation – SLAM, Path planning for serial manipulators;
-types of control architectures - Cartesian control, Force control and
-hybrid position/force control, Behaviour based control, application of
+Mapping & Navigation -– SLAM, Path planning for serial manipulators --
+Types of control architectures -- Cartesian control -- Force control and
+hybrid position/force control -- Behaviour based control -- Application of
 Neural network, fuzzy logic, optimization algorithms for navigation
-problems, programming methodologies of a robot
+problems -- Programming methodologies of a robot
 
 {{{unit}}}
 |UNIT V | AI AND OTHER RESEARCH TRENDS IN ROBOTICS | 9 |
-Application of Machine learning - AI, Expert systems; Tele-robotics
-and Virtual Reality, Micro & Nanorobots, Unmanned vehicles, Cognitive
+Application of Machine learning -- AI -- Expert systems -- Tele-robotics
+and Virtual reality -- Micro & Nanorobots -- Unmanned vehicles -- Cognitive
 robotics, Evolutionary robotics, Humanoids
 
 
