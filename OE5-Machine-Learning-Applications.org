@@ -3,6 +3,14 @@
 :author: S. Rajalakshmi
 :end:
 
+#+begin_comment
+- 1. No equivalent course in AU 2017 Curriculum
+- 2. Framed the syllabus with a balance of theory concept and practical implementation
+- 3. Text book and syllabus are different from M.E syllabus
+- 4. Five Course outcomes specified and aligned with units
+- 5. Suggestive experiments are given
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -11,9 +19,9 @@
 
 ** COURSE OBJECTIVES
 - To understand the need and types of machine learning techniques for
-  various problems.
-- To study about the various supervised and unsupervised learning
-  algorithms in machine learning.
+  various problems
+- To study about the various supervised learning
+  algorithms in machine learning
 - To choose appropriate machine learning algorithms to solve realistic
   problems.
 
@@ -46,9 +54,10 @@ recognition.
 
 ** SUGGESTIVE EXPERIMENTS
  - Data analysis
+ - Develop a machine learning application using California housing prices dataset 
  - Classification of Iris dataset using multiclass classification
  - Loan amount prediction using linear regression
- - E-mail spam detection using Support Vector Machine
+ - E-mail spam detection using support vector machine
  - Diabetic decision making using decision tree
  - Handwritten character recognition using neural networks
 # - Classification of Iris dataset using Naive Bayes model
@@ -61,11 +70,12 @@ recognition.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic concepts and types of machine learning (K2).
-- Apply linear and probabilistic algorithms for classification and regression tasks (K3).
-- Apply tree and rule models for various problems (K3).
-- Develop solutions using clustering and ensembling methods for machine learning tasks (K3).
-- Apply the appropriate algorithm for real world problems (K3).
+- Understand the basic concepts and types of machine learning (K2)
+- Understand the various steps in developing a machine learning application (K2)
+- Apply various algorithms for classification and regression tasks (K3)
+- Apply tree and ensemble models for various problems (K3)
+#- Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
+- Apply the neural network algorithm for real world problems (K3).
       
 ** TEXT BOOKS
 1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and TensorFlow'', O'Reilly Media, 2017.
