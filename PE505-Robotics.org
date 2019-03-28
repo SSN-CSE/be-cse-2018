@@ -41,7 +41,7 @@ Sensors for localization -- Navigation -- Obstacle avoidance and path
 planning in known and unknown environments -– Optical -- Inertial --
 Thermal -- Chemical -- Biosensor -- Other common sensors -- Case study on
 choice of sensors and actuators for maze solving robot and self
-driving cars
+driving cars.
 
 {{{unit}}}
 | UNIT III | KINEMATICS, DYNAMICS AND DESIGN OF ROBOTS & END-EFFECTORS | 9 |
@@ -57,7 +57,7 @@ Mapping & Navigation -– SLAM, Path planning for serial manipulators --
 Types of control architectures -- Cartesian control -- Force control and
 hybrid position/force control -- Behaviour based control -- Application of
 Neural network, fuzzy logic, optimization algorithms for navigation
-problems -- Programming methodologies of a robot
+problems -- Programming methodologies of a robot.
 
 {{{unit}}}
 |UNIT V | AI AND OTHER RESEARCH TRENDS IN ROBOTICS | 9 |
