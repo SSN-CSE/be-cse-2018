@@ -77,10 +77,10 @@ Software Testing Fundamentals; Internal and External Views of Testing:  White Bo
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand principles of software engineering and choose an appropraite process model (K4)
-- Manage project schedule, estimate project cost and effort required (K3).
+- Manage project schedule, estimate project cost and effort required (K3)
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
-- Compare and contrast the various testing and maintenance activities (K2)
+- Compare and contrast the various testing and maintenance activities (K2).
 
       
 ** TEXT BOOKS
