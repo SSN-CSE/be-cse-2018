@@ -4,11 +4,11 @@
 :date: 
 :end:
 #+start_comment
--1. 75% same as  AU; Units have been reordered
--2. For changes, see the individual units
--3. Not applicable
--4. Five course outcomes are specified and they align to each unit. Course objectives are also specified
--5. Not applicable
+1. 75% same as  AU; Units have been reordered
+2. For changes, see the individual units
+3. Not applicable
+4. Five course outcomes are specified and they align to each unit. Course objectives are also specified
+5. Not applicable
 #+end_comment
 
 #+startup: showall
