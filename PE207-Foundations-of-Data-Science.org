@@ -21,14 +21,14 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn fundamentals of Data Science using Python.
-  # for carrying  out basic statistical modeling and analysis.
+- To learn fundamentals of Data Science using Python
+  # for carrying  out basic statistical modeling and analysis
 - To understand probability distributions and statistical Inferences
-  # used for statistical modeling.
+  # used for statistical modeling
 - To be familar with supervised and unsupervised methods in machine
-  learning.
+  learning
 - To explore the algorithms used for analysing massive data problems
-  and social networks.
+  and social networks
 - To learn about topic and graphical models. 
 
 
@@ -56,23 +56,22 @@ graph partitioning.
 
 {{{unit}}}
 |UNIT V | TOPIC MODELS AND GRAPHICAL MODELS | 9 |
-Topic Models -- Nonnegative matrix factorization -- Latent Dirichlet allocation -- Hidden Markov models -- Bayesian Belief Networks -- Markov
-Random Fields.
+Topic Models -- Nonnegative matrix factorization -- Latent Dirichlet allocation -- Hidden Markov models -- Bayesian Belief Networks -- Markov Random Fields.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop Python programs to perform analysis on data. (K3)
-- Understand various probability distributions and statistical inferences. (K2)
-- Develop applications to demonstrate machine learning algorithms in practice. (K3)
-- Understand the principles of handling data streams. (K2)
-- Discuss topic and graphical modeling techniques in real world problem.(K2)
+- Develop Python programs to perform analysis on data (K3)
+- Understand various probability distributions and statistical inferences (K2)
+- Develop applications to demonstrate machine learning algorithms in practice (K3)
+- Understand the principles of handling data streams (K2)
+- Discuss topic and graphical modeling techniques in real world problem (K2).
  
 ** TEXT BOOKS
-1. Ani Adhikari and John DeNero, ``Computational and Inferential
+1. Ani Adhikari, John DeNero, ``Computational and Inferential
    Thinking: The Foundations of Data Science'', GitBook, 2017. (Unit- I, II)
-2. Avrim Blum, John Hopcroft and Ravindran Kannan, ``Foundations of
+2. Avrim Blum, John Hopcroft, Ravindran Kannan, ``Foundations of
    Data Science'', Vorabversion eines Lehrbuchs, 2016.  (Unit-III, IV, V) 
 
 ** REFERENCES
@@ -81,12 +80,12 @@ After the completion of this course, students will be able to:
 2. Jonathan Dinu, ``Foundations of Data Science: A Practical
    Introduction to Data Science with Python'', Addison-wesley Data &
    Analytics Series, 2016.
-3. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman, ``Mining of
+3. Jure Leskovek, Anand Rajaraman, Jeffrey Ullman, ``Mining of
    Massive Datasets'', V2.1, Cambridge University Press, 2014.
 4. EMC Education Services, ``Data Science and Big Data Analytics:
    Discovering, Analyzing, Visualizing and Presenting Data'', Wiley
    publishers, 2015.
-5. Cathy O'Neil and Rachel Schutt. ``Doing Data Science, Straight Talk
+5. Cathy O'Neil, Rachel Schutt. ``Doing Data Science, Straight Talk
    From The Frontline'', O'Reilly, 2014.
 
 
