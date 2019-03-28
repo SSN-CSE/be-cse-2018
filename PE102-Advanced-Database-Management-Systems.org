@@ -28,7 +28,7 @@ and Intra Query Parallelism -- Inter and Intra operation Parallelism
 -- Design of Parallel Systems -- Distributed Database Concepts --
 Distributed Data Storage -- Distributed Transactions -- Commit
 Protocols -- Concurrency Control -- Distributed Query Processing --
-Case Studies
+Case Studies.
 
 {{{unit}}}
 |UNIT II | OBJECT ORIENTED AND OBJECT RELATIONAL DATABASES | 9 |
