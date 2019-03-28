@@ -90,7 +90,7 @@ After the completion of this course, students will be able to:
   systems (K3).
 
 ** TEXT BOOKS
-1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
+1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
    Retrieval: The Concepts and Technology behind Search'', ACM Press
    Books, Second Edition, 2011.
 2. Christopher D Manning, Prabhakar Raghavan, Hinrich Schutze,
