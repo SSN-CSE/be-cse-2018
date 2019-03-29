@@ -10,10 +10,16 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment
-There is no change in the first and second units.
-The last unit of AU-2017 was puhed to 3rd unit.
-The 4th and 5th units are new units which gives exposure current industry trends
+1. One professional elective was offered by AU-2017 "Advanced Topics on Databases".
+2.No changes in the first and second units.The last unit of AU-2017 was puhed to 3rd unit.
+The 4th and 5th units are new units.
+3.Syllabus is different from M.E syllabus
+4.Five course outcomes are specified and alligned with units.
+5.Not Applicable.
 #+end_comment
+
+ 
+
 
 
 ** COURSE OBJECTIVES
@@ -48,10 +54,25 @@ Web databases.
 Why NoSQL: Aggregate datamodels -- The CAP theorem -- Key-value databases -- Document databases -- Column-Family stores -- Graph
 databases.
 
+#+begin_comment
+
+Newly added to get exposure of industry trends
+
+#+end_comment
+
+
 {{{unit}}}
 |UNIT V | HBASE AND HIVE | 9 |
 Introduction to Hadoop and MapReduce; HBase Basic Features: CRUD operations -- Batch operations -- Row Locks; Advanced Features: Filters -
 counters -- Htablepool; HiveQL: Data definition -- Data manipulation -- Queries.
+
+#+begin_comment
+
+Newly added to get exposure of industry trends
+
+#+end_comment
+
+
 
 \hfill *Total Periods: 45*
 

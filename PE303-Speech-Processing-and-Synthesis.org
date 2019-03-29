@@ -116,5 +116,5 @@ After the completion of this course, students will be able to:
    Processing of Speech Signals'', Wiley-IEEE Press, NY, USA, 1999.
 5. Daniel Jurafsky, James H Martin, ``Speech and Language
    Processing: An Introduction to Natural Language Processing,
-   Computational Linguistics and Speech Recognition'',2nd edition,
+   Computational Linguistics and Speech Recognition'', 2nd edition,
    Person education, 2013.
