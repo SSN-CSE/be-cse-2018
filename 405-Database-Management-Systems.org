@@ -5,9 +5,14 @@
 :end:
 
 #+startup: showall
-#+start_comment
-- Completely different from AU
+#+begin_comment
+1.Fifth unit is new unit. All other units are already discussed in AU-2017.
+2. For changes, see the individual units.
+3. This subject is not offered under M.E syllabus.
+4. Five Course outcomes specified and aligned with units.
+5. Done.
 #+end_comment
+
 
 {{{credits}}}
 | L | T | P | C |
@@ -29,6 +34,9 @@ Characteristics of database -- Database users -- Data models, Schemas
 Centralized and client/server DBMS architectures -- Data modeling
 using ER model -- Enhanced-ER model.
 
+#+begin_comment
+No change. Part of first unit in AU-2017
+#+end_comment
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational Model: Concepts -- Constraints -- Update operations --
@@ -39,6 +47,11 @@ Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS
 function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate
 functions -- Grouping.
 
+#+begin_comment
+Part of first unit in AU-2017. Extended with more titles to provide better
+ understanding towards relational model. 
+#+end_comment
+
 {{{unit}}}
 |UNIT III | DATABASE PROGRAMMING AND DESIGN| 10 |
 Triggers -- Views; Database Programming Techniques: Overview and
@@ -47,6 +60,13 @@ SQL/PSM ; Design guidelines -- Functional dependencies -- First,
 second and third Normal Forms -- Boyce-Codd Normal Forms; FD:
 Inference rules -- Minimal cover; ER-to-relational mapping.
 
+#+begin_comment
+Second unit in AU-2017. Added database triggers,views to provide better
+ knowledge towards database programming. 
+#+end_comment
+
+
+
 {{{unit}}}
 | UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
 Transaction Processing: Concepts -- ACID properties -- schedules --
@@ -54,11 +74,19 @@ serializability; Concurrency control: Two-phase locking technique --
 Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate
 update -- Multidatabase system recovery.
 
+
+
 {{{unit}}}
 |UNIT V | NOSQL DATABASES | 8 |
 Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based
 NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column --
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
+
+#+begin_comment
+Added as new unit to meet industry requirements.
+#+end_comment
+
+
 
 \hfill *Total Periods: 45*
 
@@ -71,7 +99,7 @@ After the completion of this course, students will be able to:
   and write database program for a real-time application (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
-- Understand the concepts of NOSQL databases (K2)
+- Understand the concepts of NOSQL databases (K2).
 
 ** TEXT BOOKS 
 1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
