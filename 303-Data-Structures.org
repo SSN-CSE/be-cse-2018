@@ -35,13 +35,24 @@ Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation o
 | UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
 Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT; AVL trees; B-Trees; Priority Queues: Binary heap.
 
+#+BEGIN_COMMENT
+Application of trees is included along with tree traversals. It's in the text book.
+Threaded binary trees and B+ tree is removed as per AU syllabus, since it requires more no. of hours.
+#+END_COMMENT
 
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
 Graph Algorithms: Definitions -- Representation of graphs -- Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path -- Breadth-first traversal -- Depth-first traversal -- Biconnectivity.
 
+#+BEGIN_COMMENT
+Cut vertex and Euler circuits are removed as per AU syllabus as we have included the application of graph i.e Shortest-Path Algorithms.
+#+END_COMMENT
 
 | UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
 Searching: Linear search -- Binary search; Sorting: Insertion sort -- Selection sort -- Shell sort; Hashing: Hash function -- Separate chaining -- Open addressing -- Rehashing.
+
+#+BEGIN_COMMENT
+Few sorting techniques are removed as per AU syllabus due to time constraint.
+#+END_COMMENT
 
 \hfill *Total Periods: 45*
 
