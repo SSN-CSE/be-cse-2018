@@ -18,10 +18,10 @@ Unit-2:  AU-Unit I topics included
 Unit-3: AU-Unit II topics included
         AU-Unit III topics included
 
-Unit-4: AU-Unit III is included 
+Unit-4: AU-Unit III topics included 
 
-Unit-5:  New tools topics included in SNU syllabus
-         Ehtical hacking given in AU-Unit IV and V is not included in SNU.
+Unit-5:  New tools topics included
+         Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -38,7 +38,7 @@ Understanding computer forensics; Introduction to the Incident Response Process;
 
 {{{unit}}}
 |UNIT II | DATA ACQUISITION | 9 |
-After Detection of an Incident: Initial response phase -- Incident motification procedure -- Recording after initial detection -- Incident declaration -- Assembling the CSIRT -- Traditional investigative steps -- Conducting interviews --Response strategy; Data Acquisition: Storage formats -- Determining the best acquisition method -- Image acquisitions
+After Detection of an Incident: Initial respo in SNU syllabusnse phase -- Incident motification procedure -- Recording after initial detection -- Incident declaration -- Assembling the CSIRT -- Traditional investigative steps -- Conducting interviews --Response strategy; Data Acquisition: Storage formats -- Determining the best acquisition method -- Image acquisitions
 -- Acquisition tools -- Validating data acquisitions -- RAID data acquisitions -- Remote network acquisition tools.
 
 {{{unit}}}
@@ -50,7 +50,7 @@ Processing Crime and Incident Scenes: Identifying digital evidence -- Private se
 Network Forensics: Developing standard procedures for network forensics -- Using network tools; E-mail Investigations: Understanding E-mail servers -- Using specialized E-mail forensics tools; Cell Phone and Mobile Device Forensics: Understanding mobile device forensics -- Understanding acquisition procedures for cell phones and mobile devices.
 
 # Mobile Network Forensic: Introduction -- Mobile Network Technology --
-# Investigations -- Collecting Evidence -- Where to seek Digital Data
+# Investigations -- Collecting Evidence -- Wher in SNU syllabuse to seek Digital Data
 # for further Investigations -- Interpretation of Digital Evidence on
 # Mobile Network.
 
