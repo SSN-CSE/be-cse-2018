@@ -27,27 +27,40 @@
 
 {{{unit}}}
 | UNIT I | MACHINE LEARNING LANDSCAPE | 5 |
-Machine learning and it's use -- Types of machine learning: Supervised/Unsupervised -- Batch and online -- Instance based and model based; Challenges of machine learning: Insufficient data -- Nonrepresentative data -- Poor quality data -- Irrelevant features -- Overfitting and underfitting; Testing and validating.
+Machine learning and it's use; Types of machine learning; Challenges
+of machine learning; Testing and validating.
 
 {{{unit}}}
 | UNIT II | DEVELOPING A MACHINE LEARNING APPLICATION| 6 |
-Working with real data -- Frame the problem -- Select performance measure -- Check assumptions -- Get the data -- Discover and visualize the data -- Data preparation -- Select and train model -- Fine tune model -- Launch the system.
+Working with real data -- Frame the problem -- Select performance
+measure -- Check assumptions -- Get the data -- Discover and visualize
+the data -- Data preparation -- Select and train model -- Fine tune
+model -- Launch the system.
 
 {{{unit}}}
 |UNIT III | CLASSIFICATION AND REGRESSION | 8 |
-Classification: Training a binary classifier -- Performance measures -- Multiclass classification; Regression: Linear regression -- Gradient descent; Support Vector Machines: Linear SVM classification -- Nonlinear SVM classification.
+Classification: Training a binary classifier -- Performance measures
+-- Multiclass classification; Regression: Linear regression --
+Gradient descent; Support Vector Machines: Linear SVM classification
+-- Nonlinear SVM classification.
 
 {{{unit}}}
 |UNIT IV | TREE MODELS AND ENSEMBLE LEARNING | 6 |
-Decision Trees: Training and visualizing trees -- Making predictions -- Estimating class probabilities -- CART training algorithm -- Regularization of hyperparameters; Ensemble learning: Voting classifiers -- Bagging -- Random forests -- Boosting.
+Decision Trees: Training and visualizing trees -- Making predictions
+-- Estimating class probabilities -- CART training algorithm --
+Regularization of hyperparameters; Ensemble learning: Voting
+classifiers -- Bagging -- Random forests -- Boosting.
 
 {{{unit}}}
 |UNIT V | ARTIFICIAL NEURAL NETWORKS  | 5 |
-From Biological to Artificial Neurons: Biological neurons -- Logical computations with neurons -- Perceptron -- Multi-Layer Perceptron and backpropagation; Training a MLP network -- Fine tuning neural network hyperparameters; Introduction to Deep Learning.
-
-#Case study: E-mail spam detection --
+From Biological to Artificial Neurons: Biological neurons -- Logical
+computations with neurons -- Perceptron -- Multi-Layer Perceptron and
+backpropagation; Training a MLP network -- Fine tuning neural network
+hyperparameters; Introduction to Deep Learning.
 Document classification using clustering -- Handwritten character
 recognition.
+
+# Case study: E-mail spam detection --
 # Sentiment analysis -- 
 
 \hfill *Theory Periods: 30*
@@ -74,14 +87,15 @@ After the completion of this course, students will be able to:
 - Understand the various steps in developing a machine learning application (K2)
 - Apply various algorithms for classification and regression tasks (K3)
 - Apply tree and ensemble models for various problems (K3)
-#- Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
 - Apply the neural network algorithm for real world problems (K3).
+# - Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
       
 ** TEXT BOOKS
-1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and TensorFlow'', O'Reilly Media, 2017.
+1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and
+   TensorFlow'', O'Reilly Media, 2017.
 
 ** REFERENCES
-1. Stephen Marsland, ``Machine Learning â€“ An Algorithmic
+1. Stephen Marsland, ``Machine Learning -- An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2014.
 2. Jason Bell, ``Machine learning -- Hands on for Developers and
