@@ -23,7 +23,7 @@ include at least one application of trees (?)
 
 
 | UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
-Algorithm Analysis: Running time calculations; Abstract Data Types (ADTs) -- List ADT: Array implementation of lists --
+Algorithm Analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array implementation of lists --
 Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of lists: Polynomial manipulation.
 
 
