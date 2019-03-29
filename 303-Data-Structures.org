@@ -28,8 +28,8 @@ Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of 
 
 
 | UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 8 |
-Stack ADT: Stack model - Implementation of stacks - Applications: Balancing symbols - Infix to postfix conversion -
-Evaluating postfix expressions - Queue ADT: Queue model - Array implementation of queues - Applications of queues.
+Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion --
+Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
 
 
 | UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
