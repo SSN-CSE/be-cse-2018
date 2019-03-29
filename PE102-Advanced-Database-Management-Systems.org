@@ -1,4 +1,4 @@
-* <<<PE102>>> ADVANCED DATABASE MANAGEMENT SYSTEMS
+`* <<<PE102>>> ADVANCED DATABASE MANAGEMENT SYSTEMS
 :properties:
 :author: Ms. A. Beulah and Dr. P. Mirunalini
 :end:
@@ -8,6 +8,14 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+#+begin_comment
+There is no change in the first and second units.
+The last unit of AU-2017 was puhed to 3rd unit.
+The 4th and 5th units are new units which gives exposure current industry trends
+
+#+end_comment
+
 
 ** COURSE OBJECTIVES
 The student should be able to:
