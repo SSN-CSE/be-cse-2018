@@ -24,7 +24,7 @@
 - To understand the basic concepts and algorithms of speech processing
 - To be familiar with the various speech signal representation, coding
   and recognition techniques
-- To study the concepts and evaluation method of speech synthesis
+- To study the concepts and evaluation method of speech synthesis.
 
 {{{unit}}}
 |UNIT I | FUNDAMENTALS OF DIGITAL SPEECH PROCESSING | 9 |
@@ -96,25 +96,25 @@ After the completion of this course, students will be able to:
 - Extract features from the speech signal in time domain (K3)
 - Analyze the speech signal in frequency domain (K3)
 - Develop a speech recognition system using statistical approach (K3)
-- Compare the various methods of speech synthesis (K2)
+- Compare the various methods of speech synthesis (K2).
       
 ** TEXT BOOKS
-1. L. R. Rabiner, R. W. Schafer, ``Digital Processing of Speech
-   Signals'', Pearson Education, Delhi, India, 2004
+1. L R Rabiner, R W Schafer, ``Digital Processing of Speech
+   Signals'', Pearson Education, Delhi, India, 2004.
 2. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language
    Processing -- A guide to Theory, Algorithm and System
    Development'', Prentice Hall PTR, 2001.
 
 ** REFERENCES
-1. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, ``Fundamentals of
+1. L R Rabiner, B H Jhuang, B Yegnanarayana, ``Fundamentals of
    Speech Recognition'', Pearson Education, 2009.
-2. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'',
+2. Thomas F Quatieri, ``Discrete-Time Speech Signal Processing'',
    Pearson Education, 2002.
-3. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'',
+3. Ben Gold, Nelson Morgan, ``Speech and Audio Signal Processing'',
    John Wiley and Sons Inc, 2004.
-4. J. R. Deller Jr, J. H. L. Hansen and J. G. Proakis, ``Discrete-Time
+4. J R Deller Jr, J H L Hansen, J G Proakis, ``Discrete-Time
    Processing of Speech Signals'', Wiley-IEEE Press, NY, USA, 1999.
-5. Daniel Jurafsky and James H. Martin. ``Speech and Language
+5. Daniel Jurafsky, James H Martin, ``Speech and Language
    Processing: An Introduction to Natural Language Processing,
    Computational Linguistics and Speech Recognition'',2nd edition,
    Person education, 2013.
