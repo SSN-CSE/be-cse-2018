@@ -56,7 +56,7 @@ databases.
 
 #+begin_comment
 
-Newly added to get exposure of industry trends
+Newly added to meet industry requirements
 
 #+end_comment
 
@@ -68,7 +68,7 @@ counters -- Htablepool; HiveQL: Data definition -- Data manipulation -- Queries.
 
 #+begin_comment
 
-Newly added to get exposure of industry trends
+Newly added to meet industry requirements
 
 #+end_comment
 
