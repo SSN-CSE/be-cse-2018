@@ -56,8 +56,7 @@ computations with neurons -- Perceptron -- Multi-Layer Perceptron and
 backpropagation; Training a MLP network -- Fine tuning neural network
 hyperparameters; Introduction to Deep Learning.
 
-# Document classification using clustering -- Handwritten character
-recognition.
+# Document classification using clustering -- Handwritten character recognition.
 
 # Case study: E-mail spam detection --
 # Sentiment analysis -- 
