@@ -32,16 +32,14 @@ of machine learning; Testing and validating.
 
 {{{unit}}}
 | UNIT II | DEVELOPING A MACHINE LEARNING APPLICATION| 6 |
-Working with real data -- Frame the problem -- Select performance
-measure -- Check assumptions -- Get the data -- Discover and visualize
-the data -- Data preparation -- Select and train model -- Fine tune
-model -- Launch the system.
+Working with real data -- Look at the big picture -- Get the data -- Discover and visualize
+the data -- Data preparation -- Select and train model.
 
 {{{unit}}}
 |UNIT III | CLASSIFICATION AND REGRESSION | 8 |
 Classification: Training a binary classifier -- Performance measures
 -- Multiclass classification; Regression: Linear regression --
-Gradient descent; Support Vector Machines: Linear SVM classification
+Gradient descent -- Logistic Regression; Support Vector Machines: Linear SVM classification
 -- Nonlinear SVM classification.
 
 {{{unit}}}
@@ -57,7 +55,7 @@ From Biological to Artificial Neurons: Biological neurons -- Logical
 computations with neurons -- Perceptron -- Multi-Layer Perceptron and
 backpropagation; Training a MLP network -- Fine tuning neural network
 hyperparameters; Introduction to Deep Learning.
-Document classification using clustering -- Handwritten character
+#Document classification using clustering -- Handwritten character
 recognition.
 
 # Case study: E-mail spam detection --
