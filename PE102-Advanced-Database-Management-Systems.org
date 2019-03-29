@@ -10,98 +10,64 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-<<<<<<< HEAD
 The student should be able to:
 - To acquire knowledge on parallel and distributed databases and their applications 
 - To study the usage and applications of Object and Object Relational Databases
 - To learn about XML Database
 - To acquire Knowledge in Unstructured Databases
-- To understand the concepts of HBase and HIVE
-=======
-- To acquire knowledge on parallel and distributed databases and their
-  applications.
-- To study the usage and applications of Object Oriented and Object
-  Relational Databases.
-- To learn about XML Databases.
-- To acquire knowledge in Unstructured Databases.
 - To understand the concepts of HBase and HIVE.
->>>>>>> d262bb578f1e6a411e60029639871b3d0682ee1a
 
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
-<<<<<<< HEAD
 Database System Architectures: Centralized and client-server architectures -- Server system architectures -- Parallel systems --
-Distributed systems -- Parallel Databases: I/O parallelism -- Inter and intra query parallelism -- Inter and intra operation parallelism --
-Design of parallel systems-- Distributed database concepts -- Distributed data storage -- Distributed transactions -- Commit protocols
+Distributed systems; Parallel Databases: I/O parallelism -- Inter and intra query parallelism -- Inter and intra operation parallelism --
+Design of parallel systems -- Distributed database concepts -- Distributed data storage -- Distributed transactions -- Commit protocols
 -- Concurrency control -- Distributed query processing -- Case studies.
-=======
-Database System Architectures: Centralized and Client-Server
-Architectures -- Server System Architectures -- Parallel Systems-
-Distributed Systems -- Parallel Databases: I/O Parallelism -- Inter
-and Intra Query Parallelism -- Inter and Intra operation Parallelism
--- Design of Parallel Systems -- Distributed Database Concepts --
-Distributed Data Storage -- Distributed Transactions -- Commit
-Protocols -- Concurrency Control -- Distributed Query Processing --
-Case Studies
->>>>>>> d262bb578f1e6a411e60029639871b3d0682ee1a
 
 {{{unit}}}
-|UNIT II | OBJECT ORIENTED AND OBJECT RELATIONAL DATABASES | 9 |
-Concepts for Object Databases: Object Identity -- Object structure --
-Type Constructors -- Encapsulation of Operations -- Methods --
-Persistence -- Type and Class Hierarchies -- Inheritance -- Complex
-Objects -- Object Database Standards, Languages and Design: ODMG Model
--- ODL -- OQL -- Object Relational and Extended -- Relational Systems:
-Object Relational features in SQL/Oracle -- Case Studies.
+|UNIT II | OBJECT AND OBJECT RELATIONAL DATABASES | 9 |
+Concepts for Object Databases: Object identity -- Object structure -- Type constructors -- Encapsulation of operations -- Methods --
+Persistence -- Type and class hierarchies -- Inheritance -- Complex Objects -- Object database standards; Languages and Design: ODMG model
+-- ODL -- OQL -- Object relational and extended; Relational Systems: Object relational features in SQL/Oracle -- Case studies.
 
 {{{unit}}}
 |UNIT III | XML DATABASES | 9 |
-XML Databases: XML-Related Technologies -- XMLSchema -- XML Query
-Languages -- Storing XML in Databases -- XML and SQL -- Native XML
-Databases -- Web Databases
+XML Databases: XML-related technologies -- XMLSchema -- XML Query Languages -- Storing XML in databases -- XML and SQL -- Native XML databases --
+Web databases.
 
 {{{unit}}}
 |UNIT IV | NOSQL DATABASE | 9 |
-Why NoSQL: Aggregate datamodels -- The CAP theorem -- Key-value
-Databases -- Document databases -- Column-Family Stores -- Graph
-Databases.
+Why NoSQL: Aggregate datamodels -- The CAP theorem -- Key-value databases -- Document databases -- Column-Family stores -- Graph
+databases.
 
 {{{unit}}}
 |UNIT V | HBASE AND HIVE | 9 |
-Introduction to Hadoop and MapReduce -- HBase Basic Features: CRUD
-Operations -- Batch Operations -- Row Locks; Advanced Features:
-Filters -- Counters -- Htablepool; HiveQL: Data Definition -- Data
-Manipulation -- Queries.
+Introduction to Hadoop and MapReduce; HBase Basic Features: CRUD operations -- Batch operations -- Row Locks; Advanced Features: Filters -
+counters -- Htablepool; HiveQL: Data definition -- Data manipulation -- Queries.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design parallel and distributed databases (K3)
-- Design Object Oriented and Object Relational Databases (K3)
-- Design an application using XML Databases (K3)
+- Design Parallel and Distributed Databases (K3)
+- Understand Object and Object Relational Databases (K2)
+- Design an application using XML Database (K3)
 - Implement different NoSQL Databases (K3)
-- Design an application using the concepts of HBase and HIVE (K3)
+- Design an application using the concepts of HBase and HIVE (K3).
 
 ** TEXT BOOKS 
-1. Elmasri, Ramez, and Shamkant Navathe. ``Fundamentals of database
-   systems'', Addison-Wesley Publishing Company, 2011. (Unit I, II,
-   III)
-2. Fowler, Martin, and Pramod Sadalage. ``NoSQL Distilled'', Addison
-   Wesely (2013).(Unit IV)
+1. Elmasri, Ramez, Shamkant Navathe. ``Fundamentals of database systems'', Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
+2. Fowler, Martin, Pramod Sadalage. ``NoSQL Distilled'' Addison Wesely, 2013.(Unit IV)
 
 ** REFERENCES
-1. George, Lars. ``HBase: The Definitive Guide: Random Access to Your
-   Planet-Size Data'', O'Reilly Media, Inc.", 2011. (Unit V)
-2. Capriolo, Edward, Dean Wampler, and Jason Rutherglen. ``Programming
-   Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
-   Media, Inc., 2012.
-3. Henry F Korth, Abraham Silberschatz, S. Sudharshan, ``Database
-   System Concepts'', Sixth Edition, McGraw Hill, 2011.
-4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard
-   T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database
-   Systems'', Morgan Kaufmann publishers,2006
-5. Membrey, Peter, Eelco Plugge, and DUPTim Hawkins. ``The Definitive
-   Guide to MongoDB: The NoSQL Database for Cloud and Desktop
+1. George, Lars. ``HBase: The Definitive Guide: Random Access to Your Planet-Size Data'', O'Reilly Media, Inc.", 2011.(Unit V)
+2. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
+   Media, Inc.", 2012.
+3. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database System Concepts'', 6th Edition, McGraw Hill, 2011.
+4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
+   Systems'', Morgan Kaufmann publishers,2006 
+5. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive Guide to MongoDB: The NoSQL Database for Cloud and Desktop
    Computing'', Apress, 2011.
+
+
