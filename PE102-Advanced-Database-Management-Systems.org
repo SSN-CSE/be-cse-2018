@@ -13,7 +13,6 @@
 There is no change in the first and second units.
 The last unit of AU-2017 was puhed to 3rd unit.
 The 4th and 5th units are new units which gives exposure current industry trends
-
 #+end_comment
 
 
@@ -67,15 +66,16 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS 
 1. Elmasri, Ramez, Shamkant Navathe. ``Fundamentals of database systems'', Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
 2. Fowler, Martin, Pramod Sadalage. ``NoSQL Distilled'' Addison Wesely, 2013.(Unit IV)
+3. George, Lars. ``HBase: The Definitive Guide: Random Access to Your Planet-Size  Data'', O'Reilly Media, Inc.", 2011.(Unit V) 
 
 ** REFERENCES
-1. George, Lars. ``HBase: The Definitive Guide: Random Access to Your Planet-Size Data'', O'Reilly Media, Inc.", 2011.(Unit V)
-2. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
+
+1. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
    Media, Inc.", 2012.
-3. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database System Concepts'', 6th Edition, McGraw Hill, 2011.
-4. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
-   Systems'', Morgan Kaufmann publishers,2006 
-5. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive Guide to MongoDB: The NoSQL Database for Cloud and Desktop
-   Computing'', Apress, 2011.
+2. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database System Concepts'', 6th Edition, McGraw Hill, 2011.
+3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
+  Systems'', Morgan Kaufmann publishers,2006 
+4. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive Guide to MongoDB: The NoSQL Database for Cloud and Desktop
+  Computing'', Apress, 2011.
 
 
