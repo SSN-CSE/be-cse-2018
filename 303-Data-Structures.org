@@ -33,8 +33,7 @@ Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation o
 
 
 | UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
-Trees: Preliminaries -- Tree traversals -- Binary trees -- Expression trees -- Binary search tree ADT -- AVL trees -- 
-B-Tree -- Applications of trees; Priority Queues: Binary heap.
+Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT; AVL trees; B-Trees; Priority Queues: Binary heap.
 
 
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
