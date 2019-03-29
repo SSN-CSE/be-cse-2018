@@ -11,9 +11,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn computer forensics and understand incident responce.
-- To konw the methods to collect and store digital evidence.  
-- To Understand the approaches to analyse and validate data.
+- To learn computer forensics and understand incident response.
+- To know the methods to collect and store digital evidence.  
+- To understand the approaches to analyse and validate data.
 - To investigate network and mobile forensic data.
 - To be familiar with forensics tools.  
 
@@ -29,34 +29,31 @@ Response Team.
 
 {{{unit}}}
 |UNIT II | DATA ACQUISITION | 9 |
-After Detection of an Incident: Overview of the Initial Response Phase
--- Establishing an Incident Notification Procedure -- Recording the
-Details after Initial Detection -- Incident Declaration -- Assembling
-the CSIRT -- Performing Traditional Investigative Steps -- Conducting
-Interviews -- Formulating a Response Strategy; Data Acquisition:
-Understanding Storage Formats for Digital Evidence -- Determining the
-Best Acquisition Method -- Contingency Planning for Image Acquisitions
--- Using Acquisition Tools -- Validating Data Acquisitions --
-Performing RAID Data Acquisitions -- Using Remote Network Acquisition
-Tools.
+After Detection of an Incident: Initial Response Phase
+-- Incident Notification Procedure -- Recording after Initial Detection -- Incident Declaration -- Assembling
+the CSIRT -- Traditional Investigative Steps -- Conducting
+Interviews --Response Strategy; Data Acquisition:
+Storage Formats -- Determining the
+Best Acquisition Method -- Image Acquisitions
+-- Acquisition Tools -- Validating Data Acquisitions -- RAID Data Acquisitions -- Remote Network Acquisition Tools.
 
 {{{unit}}}
 |UNIT III | ANALYSIS AND VALIDATION | 9 |
 Processing Crime and Incident Scenes: Identifying Digital Evidence --
-Collecting Evidence in Private Sector Incident Scenes -- Processing
-Law Enforcement Crime Scenes -- Preparing for a Search -- Securing a
-Computer Incident or Crime Scene -- Seizing Digital Evidence at the
-Scene -- Storing Digital Evidence -- Obtaining a Digital Hash --
+Private Sector IS -- Processing Law Enforcement CS -- Search -- Securing CS --
+Seizing -- Storing -- Digital Hash --
 Reviewing a Case; Working with Windows and DOS Systems: Examining NTFS
-Disks; Computer Forensics Analysis and Validation: Determining What
-Data to Collect and Analyze -- Validating Forensic Data -– Addressing
-Data Hiding Techniques -– Performing Remote Acquisition.
+Disks; Computer Forensics Analysis and Validation: Data to Collect and Analyze -- 
+Validating -– Data Hiding Techniques -– Remote Acquisition.
 
 {{{unit}}}
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
 Network Forensics: Developing Standard Procedures for Network
 Forensics -- Using Network Tools; E-mail Investigations: Understanding
-E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone and Mobile Device Forensics: Understanding mobile device forensics -- Understanding acquisition procedures for Cell Phones and Mobile Devices.  
+E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone
+and Mobile Device Forensics: Understanding mobile device forensics --
+Understanding acquisition procedures for Cell Phones and Mobile
+Devices.
 
 # Mobile Network Forensic: Introduction -- Mobile Network Technology --
 # Investigations -- Collecting Evidence -- Where to seek Digital Data
@@ -65,22 +62,21 @@ E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone and Mobil
 
 {{{unit}}}
 |UNIT V | COMPUTER FORENSIC TOOLS| 9 |
-The Investigator’s Office and Laboratory: Understanding Forensics Lab
+The Investigator's Office and Laboratory: Understanding Forensics Lab
 Certification Requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 -- FTK -- Autopsy -- Sleuth kit Forensic Browser -- FIRE -- Found
-stone Forensic ToolKit -- WinHex -- Linux dd and other open source
-tools.
+stone Forensic ToolKit -- WinHex -- Linux and other open source tools.
 
-\hfill *Total Peiods: 45*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand how to prepare the incident response (K2)
-- Apply data acquisition techniques(K3)
+- Understand the preparation of incident response (K2)
+- Apply data acquisition techniques (K3)
 - Analyze and validate forensics data (K3)
-- Understand network and mobile forensics(K2)
-- Apply forensics tools (K3)
+- Understand network and mobile forensics (K2)
+- Use forensics tools (K3)
 
 ** TEXT BOOKS 
 1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
@@ -89,13 +85,13 @@ After the completion of this course, students will be able to:
    Investigations'', Cengage Learning, India Edition, 2008.
 
 ** REFERENCES 
-1. Dhillon G, ``Principles of information systems security'', John
+1. Dhillon G, ``Principles of Information Systems Security'', John
    Wiley & Sons, 2007.
-2. Whitman ME, Mattord HJ, ``Principles of information security'',
+2. Whitman ME, Mattord HJ, ``Principles of Information Security'',
    Third Edition, Thompson Course Technology, 2009.
 3. John R.Vacca, ``Computer Forensics'', Cengage Learning, 2005.
 4. Marjie T.Britz, ``Computer Forensics and Cyber Crime: An
    Introduction'', Third Edition, Prentice Hall, 2013.
-5. Marcella Jr, Albert, and Doug Menendez, ``Cyber forensics: a field
-   manual for collecting, examining, and preserving evidence of
-   computer crimes'', Auerbach Publications, 2007.
+5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
+   Manual for Collecting, Examining, and Preserving Evidence of
+   Computer Crimes'', Auerbach Publications, 2007.

@@ -12,10 +12,12 @@
 
 ** COURSE OBJECTIVES
 - To learn the fundamentals of XML.
-- To provide an overview of Service Oriented Architecture and Web services and their importance.
-- To learn the web services standards and technologies.
-- To learn the web service extensions.
-- To learn service oriented analysis and design for developing SOA based applications.  
+- To understand Service Oriented Architecture, Web services and
+  their importance.
+- To know the web services standards and technologies.
+- To study the web service extensions.
+- To develop SOA based applications using service oriented analysis
+  and design.
 
 
 {{{unit}}}
@@ -25,19 +27,19 @@ Schema; Parsing XML using DOM -- SAX; XPath -- XML Transformation and
 XSLT –- Xquery.
 
 {{{unit}}}
-|UNIT II |SERVICE ORIENTED ARCHITECTURE (SOA) BASICS|9| 
+| UNIT II | SERVICE ORIENTED ARCHITECTURE  BASICS | 9 |
 Characteristics of SOA -- Benefits of SOA -- Comparing SOA with Client
 -- Server and Distributed architectures -- Principles of Service
-Orientation -– Service layers
+Orientation -– Service layers.
 
 {{{unit}}}
-|UNIT III|WEB SERVICES (WS) AND STANDARDS|8| 
+| UNIT III | WEB SERVICES AND STANDARDS | 8 |
 Web Services Platform –- Service descriptions –- WSDL –- Messaging
 with SOAP –- Service discovery –- UDDI –- Service-Level Interaction
-Patterns –- Orchestration and Choreography
+Patterns –- Orchestration and Choreography.
 
 {{{unit}}}
-|UNIT IV| WEB SERVICES EXTENSIONS|8|
+| UNIT IV | WEB SERVICES EXTENSIONS | 8 |
 WS-Addressing -- WS-ReliableMessaging -- WS-Policy –- WS-Coordination
 -– WS-Transactions -- WS-Security -- Examples -- XML Web services for
 .Net
@@ -47,7 +49,7 @@ WS-Addressing -- WS-ReliableMessaging -- WS-Policy –- WS-Coordination
 |UNIT V|SERVICE ORIENTED ANALYSIS AND DESIGN|11|
 Service Oriented Enterprise Applications -- Service Oriented Analysis
 and Design: Need for Models -- Principles of Service Design -- Design
-of Activity Services -- Design of Data Services -- Design of Cliernt
+of Activity Services -- Design of Data Services -- Design of Client
 Services -- Design of Business Process Services.
 
 \hfill *Total Periods: 45*
@@ -58,23 +60,24 @@ Upon the completion of the course the students should be able to:
 - Understand service orientation, benefits of SOA (K2).
 - Understand web services and WS standards (K2).
 - Apply web services extensions to develop solutions(K3).
-- Understand and apply service modeling, service oriented analysis and design for application development (K3).
+- Understand and apply service modeling, service oriented analysis and
+  design for application development (K3).
 
 ** TEXT BOOKS
 1. Thomas Erl, ``Service Oriented Architecture: Concepts, Technology,
    and Design'', Pearson Education, 2005
-2. Sahankar Kambhampaly, ``Service-Oriented Architecture for
-   Enterprise Applications'', Wiley India Pvt.Ltd, 2008
+# 2. Sahankar Kambhampaly, ``Service-Oriented Architecture for
+#   Enterprise Applications'', Wiley India Pvt.Ltd, 2008
 	
 ** REFERENCES
 1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew,
    ``Java Web Services Architecture'', Elsevier, 2003.
 2. Ron Schmelzer et al.  ``XML and Web Services'', Pearson
    Education, 2002.
-3. Frank P. Coyle, ``XML, Web Services and the Data Revolution'',
+3. Frank P Coyle, ``XML, Web Services and the Data Revolution'',
    Pearson Education, 2002.
-4. Sandeep Chatterjee and James Webber, ``Developing Enterprise Web
+4. Sandeep Chatterjee, James Webber, ``Developing Enterprise Web
    Services: An Architect's Guide'', Prentice Hall, 2004.
-5. Eric Newcomer and Greg Lomow, ``Understanding SOA with Web
+5. Eric Newcomer, Greg Lomow, ``Understanding SOA with Web
    Services'', Pearson Education, 2005.
 

@@ -11,16 +11,20 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the key aspects of managerial process in Software organization.
-- To  apply the practices followed in project planning, estimation, and scheduling
-- To gain knowledge of the overall project activities in Agile and Devops
+- To learn the key aspects of managerial process in software
+  organization.
+- To apply the practices followed in project planning, estimation, and
+  scheduling
+- To be familiar with the overall project activities in Agile and
+  DevOps
 - To study the various issues in people management
-- To distinguish between security and risk activities related with software development 
+- To distinguish between security and risk activities related with
+  software development
 
 {{{unit}}}
 |UNIT I | PROJECT PLANNING| 9 |
 Project management life cycle -- project evaluation and programme
-management - project planning -- project models : waterfall -- spiral
+management -- project planning; Project models: waterfall -- spiral
 -- prototyping -- incremental delivery -- DSDM -- agile -- scrum --
 XP; lean software development -- process model selection.
 
@@ -54,21 +58,24 @@ program -- Evaluating performance.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development.(K2)
+- Select a process model for software development (K2)
 - Estimate cost to manage the software development (K3)
-- Develop a project using agile and devops software development practices(K3)
-- Identify the activities of security and risk in various types of software projects(K1)
-- Recognize management skills and techniques to develop commercial software projects(K2)  
+- Develop a project using agile and devops software development
+  practices (K3)
+- Identify the activities of security and risk in various types of
+  software projects (K1)
+- Recognize management skills and techniques to develop commercial
+  software projects (K2)
       
 ** TEXT BOOKS
 1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', Sixth Edition, Tata McGraw Hill, 2018.
+   Management'', 6th Edition, Tata McGraw Hill, 2018.
 2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
    for Software Project Managers'', Auerbach Publication, 2007
 
 ** REFERENCES
 1. Roger S. Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', Seventh Edition, Mc Graw-Hill International
+   Approach'', 7th Edition, Mc Graw-Hill International
    Edition, 2010.
 2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
    PHI Learning Pvt. Ltd., 2009.
@@ -77,6 +84,5 @@ Upon completion of the course, the student should be able to:
 4. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016.
 5. Ronald L. Krutz, Russell Dean Vines, ``Cloud Security -- A
-   comprehensive Guide to Secure Cloud Computing'', Wiley –
-   India, 2010.
+   comprehensive Guide to Secure Cloud Computing'', Wiley-India, 2010.
 

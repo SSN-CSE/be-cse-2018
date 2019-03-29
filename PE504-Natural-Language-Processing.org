@@ -11,12 +11,12 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To learn the language models.
-- To understand the levels of knowledge in language processing.
-- To understand the NLP applications. 
+- To learn language models
+- To understand the levels of knowledge in language processing
+- To develop NLP applications
 
 {{{unit}}}
-|UNIT I |OVERVIEW AND LANGUAGE MODELING|8| 
+| UNIT I | OVERVIEW AND LANGUAGE MODELING | 8 |
 Origins and challenges of NLP -- Knowledge in language processing --
 NLP applications; Language Modeling: Language and grammar --
 Grammar-based language models -- Lexical functional grammar --
@@ -38,7 +38,7 @@ The representation of Meaning: Meaning representation -- Computational
 desiderata for representation; Lexical Semantics: word senses --
 relations -- WordNet; Word Sense Disambiguation: Dictionary-based --
 Supervised -- Minimally-supervised -- Word Similarity: thesaurus
-methods -- distributional methods; Discourse Processing: Reference
+methods -- Distributional methods; Discourse Processing: Reference
 resolution -- Anaphora resolution algorithms -- Co-reference
 resolution.
 
@@ -71,17 +71,16 @@ Upon the completion of the course the students should be able to:
    Processing: An introduction to Natural Language Processing,
    Computational Linguistics and Speech Recognition'', 2nd Edition,
    Prentice Hall, 2008.
-2. Tanveer Siddiqui, U.S. Tiwary, ``Natural Language Processing and
+2. Tanveer Siddiqui, U S Tiwary, ``Natural Language Processing and
    Information Retrieval'', Oxford University Press, 2008.
 
 ** REFERENCES
-1. Christopher D. Manning, Hinrich Schutze, ``Foundations of
+1. Christopher D Manning, Hinrich Schutze, ``Foundations of
    Statistical Natural Language Processing'', MIT Press, 1999.
-2. Nitin Indurkhya, Fred J. Damerau, ``Handbook of Natural Language
+2. Nitin Indurkhya, Fred J Damerau, ``Handbook of Natural Language
    Processing'', 2nd Edition, CRC Press, 2010.
 3. Steven Bird, Ewan Klein, ``Natural Language Processing with
    Python'', O'Reilly Media, 2009.
 4. Ruslan Mitkov, ``The Oxford Handbook of Computational
    Linguistics'', Oxford University Press, 2009.
 5. NLTK -- Natural Language Tool Kit - http://www.nltk.org/.
-

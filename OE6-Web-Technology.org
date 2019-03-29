@@ -1,6 +1,6 @@
 * <<<OE6>>> WEB TECHNOLOGY
 :properties:
-:author: Dr. V.S. Felix Enigo 
+:author: Dr. V. S. Felix Enigo 
 :end:
 
 #+startup: showall

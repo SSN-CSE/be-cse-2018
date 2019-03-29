@@ -4,6 +4,14 @@
 :date: 
 :end:
 
+#+begin_comment
+- 1. Modified 3 units of AU due to content overlapping
+- 2. For changes, see the indidual units
+- 3. The unit headings are similar to M.E syllabus with addition and deletion of topics
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -11,24 +19,36 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basics of information retrieval with pertinence to modeling -- query operations and indexing
-- To get an understanding of machine learning techniques for text classification and clustering
-- To understand the various applications of information retrieval giving emphasis to multimedia IR --  
-   web search and digital libraries
-- To explore various IR applications using case studies 
+- To understand the basics of information retrieval with pertinence to
+  modeling
+- To understand various components of IR system
+- To understand machine learning techniques for text classification
+  and clustering
+- To explore various IR applications.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION AND MODELING | 9 |
 Basic Concepts: Retrieval process -- Architecture – Boolean retrieval;
 IR Models: Taxonomy and characterization of IR models -- Classical IR
-models -- Alternative algebraic models; Models for Browsing; Retrieval
+models -- Alternative algebraic models -- Models for Browsing -- Retrieval
 Evaluation: Performance evaluation.
+#+begin_comment
+- 1. In AU syllabus searching is covered in Unit 1, 3 and 4. We have unified the topics related to search in Unit 3.
+- 2. IR modeling and evaluation for Unit 2 of AU is moved to this unit
+- 3. Removed set theoretical model and reference collection from M.E syllabus
+#+end_comment
+
 
 {{{unit}}}
 | UNIT II | INDEXING AND QUERYING | 9 |
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
 Compression; Querying: Query languages -- Query operations: Relevance
-feedback and query expansion - Automatic local and global analysis.
+feedback and query expansion -- Automatic local and global analysis.
+#+begin_comment
+- 1. In AU, topics related to indexing is given along with modelling and querying topics are with classification and clustering.
+- 2. Indexing and querying are the major components of IR and hence included as a seperate unit here.
+- 3. Removed text properties and text operations from M.E syllabus
+#+end_comment
 
 {{{unit}}}
 | UNIT III | SEARCHING | 9 |
@@ -39,40 +59,49 @@ Searching using hyperlinks.
 {{{unit}}}
 | UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
 Text Classification: Naive Bayes; Vector Space Classification: Rocchio
--- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
-clustering; Hierarchical Clustering; Matrix Decompositions and Latent
+-- k-Nearest Neighbour -- Flat Clustering: K-Means -- Model-based
+clustering -- Hierarchical Clustering -- Matrix Decompositions and Latent
 Semantic Indexing.
+#+begin_comment
+- 1. Removed Decision tree, SVM and dimensionality reduction from AU.
+#+end_comment
 
 {{{unit}}}
 |UNIT V|APPLICATIONS|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
 Retrieval -- Online Public Access Catalogs (OPACs).
+#+begin_comment
+- 1. AU focused only on recommender system. Several applications are explored here
+- 2. Added OPACs from M.E syllabus
+#+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques. (K2)
-- Identify and design the various components of an Information Retrieval system. (K3)
-- Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)
-- Describe various IR applications. (K2)
-- Apply IR evaluation metrics to measure the performance of IR systems. (K3)
+- Describe various IR modeling techniques (K2)
+- Identify and design the various components of an Information
+  Retrieval system (K3)
+- Apply machine learning techniques to text classification and
+  clustering for efficient Information Retrieval (K3)
+- Describe various IR applications (K2)
+- Apply IR evaluation metrics to measure the performance of IR
+  systems (K3).
 
 ** TEXT BOOKS
-1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
-   Retrieval: The concepts and Technology behind Search'', ACM Press
+1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
+   Retrieval: The Concepts and Technology behind Search'', ACM Press
    Books, Second Edition, 2011.
-2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze,
+2. Christopher D Manning, Prabhakar Raghavan, Hinrich Schutze,
    ``Introduction to Information Retrieval'', Cambridge University
    Press, First South Asian Edition, 2008.
 
 ** REFERENCES
-1. Stefan Buttcher, Charles L. A. Clarke, Gordon
-   V. Cormack,``Information Retrieval - Implementing and Evaluating
-   Search Engines'', The MIT Press, Cambridge, Massachusetts London,
-   England, 2010
-2. ChengXiang Zhai and Sean Massung, ``Text Data Management and
+1. Stefan Buttcher, Charles L A Clarke, Gordon V Cormack,``Information
+   Retrieval -- Implementing and Evaluating Search Engines'', The MIT
+   Press, Cambridge, Massachusetts London, England, 2010.
+2. Cheng Xiang Zhai, Sean Massung, ``Text Data Management and
    Analysis: A Practical Introduction to Information Retrieval and
    Text Mining'', ACM Books, 2016.
 3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media
@@ -80,5 +109,5 @@ After the completion of this course, students will be able to:
    Press, 2014.
 4. Vipin Tyagi, ``Content-Based Image Retrieval: Ideas, Influences,
    and Current Trends'', 1st Edition, Springer, 2017.
-5. Marcia J. Bates, ``Understanding Information Retrieval Systems:
+5. Marcia J Bates, ``Understanding Information Retrieval Systems:
    Management, Types, and Standards'', CRC Press, 2012.

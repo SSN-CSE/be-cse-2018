@@ -11,35 +11,36 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the architecture and programming of ARM processor.
-- To become familiar with the embedded computing platform design and analysis.
-- To get thorough knowledge in interfacing concepts.
-- To learn an embedded firmware and its designs
-- To design an embedded system and to develop programs
+- To learn the architecture and programming of ARM processor,
+- To be familiar with the embedded computing platform design and
+  analysis,
+- To study interfacing concepts,
+- To learn an embedded firmware and its designs,
+- To design embedded systems and to develop programs.
 
 {{{unit}}}
-| UNIT I | INTRODUCTION TO EMBEDDED COMPUTING AND ARM PROCESSORS | 9 |
-Complex systems and micro processors– Embedded system design process
-–Design example: Model train controller- Instruction sets
-preliminaries - ARM Processor – CPU: programming input and output-
-supervisor mode, exceptions and traps – Co-processors- Memory system
-mechanisms – CPU performance- CPU power consumption.
+| UNIT I | EMBEDDED COMPUTING AND ARM PROCESSORS | 9 |
+Complex systems and micro processors -- Embedded system design process
+-- Design example: Model train controller - Instruction sets
+preliminaries - ARM Processor - CPU: programming input and output -
+supervisor mode, exceptions and traps - Co-processors - Memory system
+mechanisms - CPU performance - CPU power consumption.
 
 {{{unit}}}
 | UNIT II | EMBEDDED COMPUTING PLATFORM DESIGN | 9 |
-The CPU Bus-Memory devices and systems–Designing with computing
-platforms – consumer electronics architecture – platform-level
-performance analysis - Components for embedded programs- Models of
-programs- Assembly, linking and loading – compilation techniques-
+CPU Bus - Memory devices and systems–Designing with computing
+platforms – Consumer electronics architecture – Platform-level
+performance analysis - Components for embedded programs - Models of
+programs - Assembly, linking and loading – Compilation techniques -
 Program level performance analysis – Software performance optimization
 – Program level energy and power analysis and optimization – Analysis
-and optimization of program size- Program validation and testing.
+and optimization of program size - Program validation and testing.
 
 {{{unit}}}
 | UNIT III | SENSOR INTERFACING WITH ARDUINO | 9 |
-Basics of hardware design and functions of basic passive
-components-sensors and actuatorsArduino code - library file for sensor
-interfacing-construction of basic applications
+Basics of hardware design and functions of basic passive components -
+Sensors and actuators - Arduino code - library file for sensor
+interfacing - Construction of basic applications.
 
 {{{unit}}}
 | UNIT IV | EMBEDDED FIRMWARE | 9 |
@@ -49,36 +50,35 @@ Development Languages.
 
 {{{unit}}}
 | UNIT V | EMBEDDED C PROGRAMMING | 9 |
-Introduction-Creating 'hardware delays' using Timer 0 and Timer
-1-Reading switches-Adding Structure to the code-Generating a minimum
-and maximum delay-Example: Creating a portable hardware delay- Timeout
-mechanisms-Creating loop timeouts-Testing loop timeouts- hardware
-timeouts-Testing a hardware timeout
-
+Introduction - Creating hardware delays using Timer 0 and Timer 1
+- Reading switches - Adding Structure to the code - Generating a
+minimum and maximum delay-Example: Creating a portable hardware
+delay - Timeout mechanisms - Creating loop timeouts - Testing loop
+timeouts - Hardware timeouts - Testing a hardware timeout.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the architecture and programming of ARM processor(K2).
-- Understand the concepts of embedded systems (K2).
-- Understand the Concepts of peripherals and interfacing of sensors (K2).
-- Apply the system design techniques to develop firmware (K3).
-- Demonstrate the code for constructing a system (K3).
+- Understand the architecture and programming of ARM processor (K2)
+- Understand the concepts of embedded systems (K2)
+- Understand peripherals and interfacing of sensors (K2)
+- Apply the system design techniques to develop firmware (K3)
+- Implement the code for constructing a system (K3)
 
 ** TEXT BOOKS
 1. Marilyn Wolf, ``Computers as Components -- Principles of Embedded
    Computing System Design'', Third Edition, Morgan Kaufmann Publisher
    (An imprint from Elsevier), 2012.
-2. Michael J. Pont, ``Embedded C'' , 2 nd Edition, Pearson
+2. Michael J Pont, ``Embedded C'' , 2nd Edition, Pearson
    Education, 2008.
 
 ** REFERENCES
-1. Shibu K.V, ``Introduction to Embedded Systems'', McGraw Hill.2014.
-2. Jonathan W.Valvano, ``Embedded Microcomputer Systems Real Time
+1. Shibu K V, ``Introduction to Embedded Systems'', McGraw Hill, 2014.
+2. Jonathan W Valvano, ``Embedded Microcomputer Systems Real Time
    Interfacing'', Third Edition Cengage Learning, 2012.
 3. Raj Kamal, ``Embedded Systems-Architecture, Programming and
    Design'', 3rd edition, TMH, 2015.
 4. Lyla, ``Embedded Systems'', Pearson, 2013.
-5. David E. Simon, ``An Embedded Software Primer'', Pearson
+5. David E Simon, ``An Embedded Software Primer'', Pearson
    Education,2000.

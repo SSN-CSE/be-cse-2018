@@ -5,6 +5,14 @@
 :date:
 :end:
 
+#+begin_comment
+- 1. Almost the same as AU
+- 2. For changes, see the indidual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -25,6 +33,9 @@ Propositional Logic - Propositional equivalences - Predicates and
 quantifiers - Nested quantifiers - Rules of inference - Introduction
 to proofs - Proof methods and strategy - Normal forms - Applications
 to switching circuits.
+#+begin_comment
+Added: Normal forms - Applications to switching circuits.
+#+end_comment
 
 {{{unit}}}
 |UNIT II | COMBINATORICS | 11 |
@@ -51,6 +62,9 @@ Partial ordering - Posets - Lattices as Posets - Properties of
 lattices - Lattices as algebraic systems - Sub lattices - Direct
 product and Homomorphism - Distributive and Modular lattices - Boolean
 algebra - Stone’s representation Theorem.
+#+begin_comment
+Added: Distributive and Modular lattices, Stone’s representation Theorem. 
+#+end_comment
 
 \hfill *Total Periods: 60*
 

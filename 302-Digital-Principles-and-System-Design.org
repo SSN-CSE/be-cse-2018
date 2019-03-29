@@ -15,54 +15,54 @@
 - To analyze and design combinational circuits
 - To analyze and design synchronous and asynchronous sequential circuits
 - To understand Programmable Logic Devices
-- To write HDL code for combinational and sequential circuits
+- To write HDL code for combinational and sequential circuits.
 
 {{{unit}}}
 |UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
-Number Systems - Arithmetic Operations - Binary Codes- Boolean Algebra
-and Logic Gates - Theorems and Properties of Boolean Algebra - Boolean
-Functions - Canonical and Standard Forms - Simplification of Boolean
-Functions using Karnaugh Map - Logic Gates – NAND and NOR
+Number Systems -- Arithmetic Operations -- Binary Codes-- Boolean Algebra
+and Logic Gates -- Theorems and Properties of Boolean Algebra -- Boolean
+Functions -- Canonical and Standard Forms -- Simplification of Boolean
+Functions using Karnaugh Map -- Logic Gates – NAND and NOR
 Implementations.
 
 {{{unit}}}
 |UNIT II | COMBINATIONAL LOGIC | 9 |
-Combinational Circuits – Analysis and Design Procedures - Binary
-Adder-Subtractor - Decimal Adder - Binary Multiplier - Magnitude
-Comparator - Decoders – Encoders – Multiplexers - Introduction to HDL
-– HDL Models of Combinational circuits.
+Combinational Circuits -- Analysis and Design Procedures -- Binary
+Adder--Subtractor -- Decimal Adder -- Binary Multiplier -- Magnitude
+Comparator -- Decoders -- Encoders -- Multiplexers -- Introduction to
+HDL -- HDL Models of Combinational circuits.
 
 {{{unit}}}
 |UNIT III | MEMORY AND PROGRAMMABLE LOGIC | 9 |
-RAM – Memory Decoding – Error Detection and Correction - ROM -
-Programmable Logic Array – Programmable Array Logic – Sequential
+RAM -- Memory Decoding -- Error Detection and Correction -- ROM --
+Programmable Logic Array -- Programmable Array Logic -- Sequential
 Programmable Devices.
 
 {{{unit}}}
 |UNIT IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
-Sequential Circuits - Storage Elements: Latches , Flip-Flops; Analysis
-of Clocked Sequential Circuits - State Reduction and Assignment -
-Design Procedure - Registers and Counters - HDL Models of Sequential
+Sequential Circuits -- Storage Elements: Latches , Flip--Flops; Analysis
+of Clocked Sequential Circuits -- State Reduction and Assignment --
+Design Procedure -- Registers and Counters -- HDL Models of Sequential
 Circuits.
 
 {{{unit}}}
 |UNIT V | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
-Analysis and Design of Asynchronous Sequential Circuits – Reduction of
-State and Flow Tables – Race-free State Assignment – Hazards.
+Analysis and Design of Asynchronous Sequential Circuits -- Reduction
+of State and Flow Tables -- Race-free State Assignment -- Hazards.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Simplify Boolean functions using KMap (K3).
-- Analyze and design Combinational Circuits (K4).
-- Analyze and design Sequential Circuits (K4).
+- Simplify Boolean functions using KMap (K3)
+- Analyze and design Combinational Circuits (K4)
+- Analyze and design Sequential Circuits (K4)
 - Understand various memories and implement Boolean functions using
-  Programmable Logic Devices (K3).
+  Programmable Logic Devices (K3)
 - Write HDL code for combinational and Sequential Circuits (K3).
 
 ** TEXT BOOKS
-1. M Morris R Mano, Michael D Ciletti, ``Digital Design: With an
+1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an
    Introduction to the Verilog HDL, VHDL, and SystemVerilog'', 6th
    Edition, Pearson Education, 2017.
 2. S Salivahanan, S Arivazhagan, ``Digital Circuits and Design'',

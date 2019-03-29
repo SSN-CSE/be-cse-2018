@@ -12,7 +12,8 @@
 ** COURSE OBJECTIVES
 - To understand different client and server end technologies
 - To develop web application using traditional technologies
-- To understand and develop web application using emerging web application frameworks 
+- To understand and develop web application using emerging web
+  application frameworks
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
@@ -43,7 +44,6 @@ Request Object-Call Back Methods
 Introduction to AngularJS – Directives and Controllers, Data binding
 and Models, Form validation, Form controls – Services: Dependency
 injection, order of injection – Server communication using $http.
-
 
 {{{unit}}}
 |UNIT V | SERVER END FRAMEWORK | 9 |

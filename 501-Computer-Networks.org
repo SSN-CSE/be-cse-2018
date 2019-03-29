@@ -62,14 +62,15 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th Edition TMH, 2013.
+2. Larry L Peterson, Bruce S Davie, ``Computer Networks: A Systems Approach'', 5th Edition,
+ Morgan Kaufmann Publishers Inc., 2012.
 
 ** REFERENCES
-1. Larry L Peterson, Bruce S Davie, ``Computer Networks: A Systems Approach'', 5th Edition,
- Morgan Kaufmann Publishers Inc., 2012.
-2. William Stallings, ``Data and Computer Communications'', 10th Edition, Pearson Education, 2013.
-3. Nader F Mir, ``Computer and Communication Networks'', 2nd Edition, Prentice Hall, 2014.
-4. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, ``Computer Networks: An Open Source Approach'',
+
+1. William Stallings, ``Data and Computer Communications'', 10th Edition, Pearson Education, 2013.
+2. Nader F Mir, ``Computer and Communication Networks'', 2nd Edition, Prentice Hall, 2014.
+3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, ``Computer Networks: An Open Source Approach'',
  McGraw Hill Publisher, 2011.
-5. James F Kurose, Keith W Ross, ``Computer Networking, A Top-Down Approach Featuring the Internet'', 
-6th Edition, Pearson Education, 2013.
-6. Andrew S. Tanenbaum, David J Wetherall, ``Computer Networks'', 5th Edition, Pearson Education,2013.
+4. James F Kurose, Keith W Ross, ``Computer Networking, A Top-Down Approach Featuring the Internet'', 
+ 6th Edition, Pearson Education, 2013.
+5. Andrew S. Tanenbaum, David J Wetherall, ``Computer Networks'', 5th Edition, Pearson Education,2013.

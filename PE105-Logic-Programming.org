@@ -10,10 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the foundations of Logic programming.
-- To learn PROLOG.
-- To learn implementation of informed and uninformed search algorithms in PROLOG.
-- To learn  implementation of Expert system shell in PROLOG.
+- To understand the foundations of Logic programming.
+- To learn programming in PROLOG.
+- To implement informed and uninformed search algorithms in PROLOG.
+- To implement Expert system shell in PROLOG.
 
 {{{unit}}}
 |UNIT I|INTRODUCTION TO LOGIC|9|
@@ -22,7 +22,7 @@ Entailment; Normal Forms; Resolution in PL; Horn Logic; Foundations of
 First Order Logic: Syntax and Semantics; Normal Forms; Undecidability
 of Predicate Logic; Resolution in FOL: Unification; Refinements of
 Resolution: P-resolution – N-resolution – linear resolution – unit
-resolution -- SLD resolution – LUSH resolution;
+resolution -- SLD resolution – LUSH resolution.
 
 
 {{{unit}}}
@@ -30,14 +30,14 @@ resolution -- SLD resolution – LUSH resolution;
 Foundations: Answer Generation; Horn Clause Programs: Semantics of
 Logic Program – Procedural Semantics – Model-theoretic Semantics;
 Evaluation Strategies: Swapping Lemma – PROLOG’s Evaluation Strategy –
-DFS -- BFS;
+DFS -- BFS.
 
 {{{unit}}}
 |UNIT III|PROGRAMMING IN PROLOG|9|
 Syntax & Semantics of PROLOG -- Programming with relations -- Facts --
 Questions -- Variables -- Conjunctions of goals -- backtracking --
 Rules -- Structures -- Recursive programs -- Lists -- Controlling
-execution -- the cut – Input Output – Exception Handling;
+execution -- The cut – Input Output – Exception Handling.
 
 {{{unit}}}
 |UNIT IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
@@ -49,7 +49,7 @@ Tree Representations; Problem Solving Strategies in AI: DFS – BFS –
 Best-first Search – A* Search; Problem Reduction & AND/OR Graph: Basic
 AND/OR search procedure -- Best-first AND/OR search; Game Playing: The
 minimax principle -- The alpha-beta algorithm -- Minimax-based
-programs;
+programs.
 
 {{{unit}}}
 |UNIT V|PROLOG AND EXPERT SYSTEMS|9|
@@ -63,6 +63,8 @@ Shell: Implementation--Dealing with uncertainty;
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
+- Understand the foundations of logic (K2).
+- Understand the foundations of logic programming (K2).
 - Write programs in PROLOG (K3).
 - Implement AI search algorithms in PROLOG (K3).
 - Implement a simple Expert system shell in PROLOG (K3).
@@ -71,7 +73,7 @@ After the completion of this course, students will be able to:
 1. Uwe Schoning, ``Logic for Computer Scientists'',
    Birkhauser, 1999. (Units I, II)
 2. Ivan Bratko, ``PROLOG: Programming for Artificial Intelligence'',
-   4th Edn, Pearson, 2011. (Units III, IV, V)
+   4th Ed., Pearson, 2011. (Units III, IV, V)
    
 ** REFERENCES:
 1. Kees Doets, ``From Logic to Logic Programming'', MIT Press 1994

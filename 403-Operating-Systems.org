@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 - Understand the basic services and functionalities of operating systems(K2)
 - Analyze various scheduling algorithms, and understand the different
   deadlock, prevention and avoidance schemes(K4)
-- Compare and contrast various memory management schemes(K2)
+- Understand the different memory management schemes(K2)
 - Understand the functionality of file systems(K2)
 - Compare and contrast Linux, Windows and mobile operating systems(K3)
 

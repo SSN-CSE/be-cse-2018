@@ -11,21 +11,21 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the basic concepts of Agile software process.
-- To gain knowledge about agile requirement engineering.
-- To learn Planning and management in agile software development.
-- To gain knowledge in various agile methodologies.
-- To learn the principles of agile testing and Quality assurance. 
+- To understand the basic concepts of Agile software process
+- To learn about agile requirement engineering
+- To learn planning and management in agile software development
+- To study various agile methods
+- To learn the principles of agile testing and quality assurance. 
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
 Iterative and evolutionary development; Introduction to Agile: Agile
 development -- Classification of methods -- Agile manifesto and
 principles -- Communication and feedback -- Specific agile methods --
-agile modelling; Theories for agile management; Management accounting
+Agile modelling; Theories for agile management; Management accounting
 for systems; Agile Project Management: Traditional versus RAD model
 for project management -- Task planning and effort tracking -- The
-project manager’s new work.
+project manager's new work.
 
 {{{unit}}}
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
@@ -33,8 +33,8 @@ Traditional and agile requirement engineering; Methods and Tools for
 Agile Practitioners: Requirements elicitation -- Requirements
 representation and documentation -- Requirements analysis,
 Requirements management; Agile Approaches to Requirements Engineering:
-The customer -- Waste in requirements -- Requirements evolution --
-Non-Functional requirements; Tools for Requirements Management in AMs.
+The customer -- Requirements evolution -- Non-Functional requirements;
+Tools for Requirements Management in AMs.
 
 {{{unit}}}
 | UNIT III | AGILE PROJECT PLANNING AND DEVELOPMENT MANAGEMENT | 9 |
@@ -46,7 +46,7 @@ Model: A new maturity model.
 
 {{{unit}}}
 | UNIT IV | AGILE METHODS | 9 |
-Scrum: Method Overview -- Life cycle -- Work products – Values --
+Scrum: Method Overview -- Life cycle -- Work products -- Values --
 Roles and Practices -- Process mixtures -- Adoption strategies;
 Extreme Programming; Unified Process; EVO.
 
@@ -54,23 +54,22 @@ Extreme Programming; Unified Process; EVO.
 | UNIT V | AGILE TESTING AND QUALITY ASSURANCE | 9 |
 Agile testing: Nine principles and six concrete practices for testing
 on agile teams; Agile Metrics: Feature Driven Development (FDD) --
-Financial and production metrics in FDD --Agile approach to Quality
-Assurance -- Test Driven Development; Pair Programming: Issues and
-challenges -- Agile approach to global software development; Story
-cards based Requirements engineering Maturity Model (SMM).
+Financial and production metrics in FDD -- Agile approach to Quality
+Assurance -- Test Driven Development; SMM: A Process Improvement Framework for Agile Requirements
+Engineering Practices.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Understand evolutionary, iterative and adaptive development methods (K2).
-- Apply agile software process in requirement engineering (K3).
-- Understand agile methods for project planning and developement (K2).
-- Apply agile methodologies for software design (K3).
-- Apply agile based testing and quality assurance (K3).
+- Understand evolutionary, iterative and adaptive development methods (K2)
+- Apply agile software process in requirement engineering (K3)
+- Understand agile methods for project planning and developement (K2)
+- Apply agile methods for software design (K3)
+- Apply agile based testing and quality assurance (K3)
 
 ** TEXT BOOKS
-1. David J. Anderson and Eli Schragenheim, ``Agile Management for
+1. David J Anderson, Eli Schragenheim, ``Agile Management for
    Software Engineering: Applying the Theory of Constraints for
    Business Results'', Prentice Hall, 2003. ( Unit 1, Unit 3, Unit 5)
 2. Craig Larman, ``Agile and Iterative Development: A Manager's
@@ -80,16 +79,16 @@ Upon the completion of the course the students should be able to:
 
 	
 ** REFERENCES
-1. Hazza and Dubinsky, ``Agile Software Engineering, Series:
+1. Hazza, Dubinsky, ``Agile Software Engineering, Series:
    Undergraduate Topics in Computer Science'',
    Springer, 2009. (Unit 5)
-2. Chetankumar Patel and Muthu Ramachandran, ``Story Card Maturity
+2. Chetankumar Patel, Muthu Ramachandran, ``Story Card Maturity
    Model (SMM): A Process Improvement Framework for Agile Requirements
    Engineering Practices'', Journal of Software, Academy Publishers,
    Vol 4, No 5, 422-435, Jul 2009. (Unit 5)
-3. Kevin C. Desouza, ``Agile Information Systems: Conceptualization,
+3. Kevin C Desouza, ``Agile Information Systems: Conceptualization,
    Construction, and Management'', Butterworth-Heinemann, 2007.
 4. Didar Zowghi, Zhi Jin, ``Requirements Engineering'', Springer ,
    chapter 15, 2014. (Unit 2)
-5. Aybüke Aurum and Claes Wohlin, ``Engineering and Managing Software
+5. Aybuke Aurum, Claes Wohlin, ``Engineering and Managing Software
    Requirements'', Springer 2005, chapter 14. (Unit 2)

@@ -10,31 +10,50 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+start_comment:
+This course is based on a different text book therefore, the syllabus is entirely different. In particular, this course does not have any portions from Combinatorics as the one in Anna University curriculum.
+#+end_comment
+
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- Be familiar with fundamental Graph Theory topics and results.
+- Be exposed to the techniques of proofs and analysis.
 
 {{{unit}}}
-|UNIT I | <Title> | <Periods> |
+|UNIT I | INTRODUCTION| 8 |
+Graphs: Definition – Graphs as Models – Matrices and Isomorphism; Paths, Cycles and Trails: Connections in Graphs – Bipartite Graphs – Eulerian Circuits; Vertex Degrees and Counting:  Counting and Bijections – Extremal Problems; Directed Graphs: Definitions – Vertex Degrees – Eulerian Graphs – Orientation and Tournaments.
 
 {{{unit}}}
-|UNIT II | <Title> | <Periods> |
+|UNIT II | TREES AND MATCHING | 9 |
+Basic Properties: Properties of Trees – Distance in Trees and Graphs; Spanning Trees and Enumeration: Enumeration of Trees – Spanning Trees in Graphs;  Optimization and Trees: Minimum Spanning Trees – Shortest Paths – Trees in Computer Science; Matchings and Covers: Maximum Matching – Hall’s Matching Condition – Min-Max Theorems – Independent Sets and Covers; Algorithms: Maximum Bipartite Matching – Weighted Bipartite Matching – Stable Matchings.
 
 {{{unit}}}
-|UNIT III | <Title> | <Periods> |
+|UNIT III | CONNECTIVITY AND COLORING | 9|
+Cuts and Connectivity: Connectivity – Edge Connectivity – Blocks; k-Connected Graphs:  2-Connected Graphs – Connectivity of Digraphs –   k-Connected and  k-Edge-Connected Graphs; Network Flow Problems: Maximum Network Flow – Integral Flows; Vertex Colorings and Upper Bounds: Definitions – Upper Bounds – Brooks’ Theorem; Structure of  k-Chromatic Graphs: Graphs with Large Chromatic Number – Extremal Problems and Turan’s Theorem.
 
 {{{unit}}}
-|UNIT IV | <Title> | <Periods> |
+|UNIT IV | PLANARITY, EDGES AND CYCLES | 8|
+Embeddings and Euler’s Formula: Drawings in the Plane – Dual Graphs – Euler’s Formula; Characterization of Planar Graphs: Kuratawoski’s Theorem – Convex Embeddings – Planarity Testing; Line Graphs and Edge Colorings: Edge Coloring – Characterization of Line Graphs; Hamiltonian Cycles: Necessary and Sufficient Conditions – Cycles in Digraphs; Planarity, Coloring & Cycles: Tate’s Theorem – Grinberg’s Theorem.
 
 {{{unit}}}
-|UNIT V | <Title> | <Periods> |
+|UNIT V | ADVANCED TOPICS  | 10 |
+Matroids: Properties of Matroids – Dual of a Matroid – Matroid Operations; Ramsey Theory: Ramsey’s Theorem – Ramsey Numbers – Graph Ramsey Theory; Random Graphs: Existence and Expectation – Properties of Almost all Graphs – Threshold Functions – Martingales; Eigenvalues of Graphs: The Characteristic Polynomial – Eigenvalues and Graph Parameters – Eigenvalues of Regular Graphs – Eigenvalues and Expanders.
 
-
-\hfill *Total: <Total Periods>*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
+- Write precise mathematical definitions of objects in graph theory. (K2)
+- Read and analyse proofs on Trees and Bipartite Graph matching. (K4)
+- Read and analyse proofs on Graph Coloring and Connectivity. (K4)
+- Read and analyse proofs on Graph Planarity. (K4)
+- Read and analyse proofs on Matroids, Ramsey Theory, Graph Eigenvalues. (K4)
+
+
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+1. Douglous West, “Introduction to Graph Theory”, Pearson Education, 2nd Edition, 2015
+2. Narsingh Deo, “Graph Theory: With Application to Engineering and Computer Science”, Prentice Hall of India, 2003.
+3. Frank Harary, “Graph Theory”, Narosa Publishing House, 2001
+4. Gary Chartrand, Ping Zhang, “Introduction to Graph Theory”, McGraw Hill Education, 2011
+5. Adrian Bondy, U. S. R. Murty, “Graph Theory”, Springer, 2011
+

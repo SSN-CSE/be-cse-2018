@@ -3,6 +3,14 @@
 :author: S.Rajalakshmi & V.S. Felix Enigo
 :end:
 
+#+begin_comment
+- 1. Reduced the content from AU 2017 syllabus (last 3 units)
+- 2. Since the AU syllabus is vast, we have reduced some concepts to have indepth knowledge in basics. For changes, see the individual units.
+- 3. No Corresponding course in M.E
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -10,11 +18,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the basic programming and the object oriented programming concepts in C#.
-- To write window based applications and web applications using ADO.NET and ASP.NET.
-- To understand the basics of assemblies and .Net frameworks for communication and workflow. 
+- To learn object oriented programming concepts in C#
+- To write windows based applications and web applications using ADO.NET and ASP.NET
+- To understand the basics of assemblies and .Net frameworks for communication and workflow.
   
-
 {{{unit}}}
 |UNIT I | C# LANGUAGE BASICS | 9 |
 Introduction to .Net Architecture; Core C#: Variables -- Data Types --
@@ -27,14 +34,24 @@ Operators and Casts; Examples in C#.
 Delegates, Lambdas and Events; Strings and Regular Expressions;
 Collections; Reflection; Errors and Exceptions; Manipulating Files:
 Managing file system -- File operations.
+#+begin_comment
+Added: File concept
+Removed: Memory Management and Pointers
+Moved: Generics to Unit I
+#+end_comment
 
 {{{unit}}}
-|UNIT III | WINDOWS BASED APPLICATIONS AND DATA | 8 |
+|UNIT III | WINDOWS BASED APPLICATIONS AND DATA HANDLING | 8 |
 Core Windows Presentation Foundation (WPF): Geometry and
 transformations -- Brushes -- Controls -- Layouts -- Styles and
 Resources -- Triggers -- Templates; Core ADO .Net: Overview --
 Database Connections -- Commands -- Data Reader -- Dataset Class --
 Data Adapter; Case study: Library management system.
+
+#+begin_comment
+Modified: Unit III, IV, V from AU syllabus are modified and some concepts are removed
+Added: Windows programming, WPF, and Data management as Unit III, ASP.Net web programming as Unit IV, Basics and WCF and WWF in Unit V
+#+end_comment
 
 {{{unit}}}
 |UNIT IV | ASP .NET | 9 |
@@ -56,11 +73,12 @@ Overview -- Activities -- Workflows.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply object oriented concepts in program development using C#. (K3)
-- Develop windows based applications using C# in .NET framework using WPF. (K3)
+- Apply object oriented and advanced concepts in program development using C# (K3)
+- Develop windows based applications using C# in .NET framework using
+  WPF (K3)
 - Develop web applications using ASP.Net (K3)
-- Develop database applications using ADO.Net. (K3)
-- Understand the basic concepts of Assemblies, WCF and WWF. (K2)
+- Develop database applications using ADO.Net (K3)
+- Understand the basic concepts of Assemblies, WCF and WWF (K2).
  
 ** TEXT BOOK
 1. Christian Nagel, Bill Evjen, Jay Glynn, Karli Watson, Morgan
