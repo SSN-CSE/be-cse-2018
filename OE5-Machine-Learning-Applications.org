@@ -55,7 +55,8 @@ From Biological to Artificial Neurons: Biological neurons -- Logical
 computations with neurons -- Perceptron -- Multi-Layer Perceptron and
 backpropagation; Training a MLP network -- Fine tuning neural network
 hyperparameters; Introduction to Deep Learning.
-#Document classification using clustering -- Handwritten character
+
+# Document classification using clustering -- Handwritten character
 recognition.
 
 # Case study: E-mail spam detection --
@@ -65,7 +66,7 @@ recognition.
 
 ** SUGGESTIVE EXPERIMENTS
  - Data analysis
- - Develop a machine learning application using California housing prices dataset 
+ - Machine learning application for house price prediction 
  - Classification of Iris dataset using multiclass classification
  - Loan amount prediction using linear regression
  - E-mail spam detection using support vector machine
