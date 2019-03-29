@@ -37,7 +37,7 @@ Preliminaries: Implementation of trees -- Tree traversals with an application; B
 
 
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
-Graph Algorithms: Definitions -- Representation of graphs -- Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path -- Breadth-first traversal -- Depth-first traversal -- Biconnectivity -- Applications of graphs.
+Graph Algorithms: Definitions -- Representation of graphs -- Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path -- Breadth-first traversal -- Depth-first traversal -- Biconnectivity.
 
 
 | UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
