@@ -6,7 +6,7 @@
 
 #+startup: showall
 #+begin_comment
-1.Fifth unit is new unit. All other units are already discussed in AU-2017.
+1. Fifth unit is new unit. All other units are already discussed in AU-2017.
 2. For changes, see the individual units.
 3. This subject is not offered under M.E syllabus.
 4. Five Course outcomes specified and aligned with units.
@@ -83,7 +83,7 @@ NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column --
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 #+begin_comment
-Added as new unit to meet industry requirements.
+Added as new unit to meet recent trend and industry requirements.
 #+end_comment
 
 
