@@ -40,7 +40,7 @@ Examples in Java.
 {{{unit}}}
 |UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
 Polymorphism: Method overloading and overriding -- Dynamic method
-dispatch; Exceptions: Hierarch -- Built-in exceptions -- Creating own
+dispatch; Exceptions: Hierarchy -- Built-in exceptions -- Creating own
 exception; Packages in Java -- Examples in Java.
 
 {{{unit}}}
