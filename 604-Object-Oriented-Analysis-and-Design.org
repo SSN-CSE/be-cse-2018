@@ -1,7 +1,16 @@
 * <<<604>>> OBJECT ORIENTED ANALYSIS AND DESIGN
 :properties:
-:author: Dr. K. Valli Devi
+:author: Dr. K. Valli Devi and Ms. S. Manisha
+:date:
 :end:
+
+#+begin_comment
+- 1. Almost the same as AU
+- 2. No changes from AU 2017.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
 
 #+startup: showall
 
@@ -45,7 +54,7 @@ and Deployment diagrams
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
 Designing objects with responsibilities – Creator – Information expert
-– Low Coupling – High Cohesion – Controller Design Patterns –
+– Low Coupling – High Cohesion – Controller. Design Patterns –
 creational – factory method – structural – Bridge – Adapter –
 behavioural – Strategy – observer –Applying GoF design patterns –
 Mapping design to code
