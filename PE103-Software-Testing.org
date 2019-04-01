@@ -1,6 +1,6 @@
-﻿* <<<PE103>>> SOFTWARE TESTING
+<<<PE103>>> SOFTWARE TESTING
 :properties:
-:author: Ms. K. Madheswari and Dr. A. Chamundeswari
+:author: Dr. K. Madheswari and Dr. A. Chamundeswari
 :end:
 
 #+startup: showall
