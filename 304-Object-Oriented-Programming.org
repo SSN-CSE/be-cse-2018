@@ -5,6 +5,12 @@
 :end:
 
 #+startup: showall
+#+begin_comment
+- 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017.
+- 2. The same course is not offered in P.G. Hence, there is no requirement of comparison of this syllabus with PG syllabus
+- 3. Five course outcomes are specified and aligned with the units
+- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course is available
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
