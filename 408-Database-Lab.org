@@ -17,7 +17,7 @@
 - To design a database schema for an application using Normalization
 - To implement typical database applications using Front-end tools
 
-** EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Data Definition Commands 
    * Creating tables with constraints, constraint voilations
    * schema modifications

@@ -17,11 +17,19 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO BIG DATA | 6 |
-Evolution of Big data: Best Practices for Big data Analytics - Big data characteristics - Validating The Promotion of the Value of Big Data - Big Data Use Cases; Characteristics of Big Data Applications ; Perception and Quantification of Value ; Understanding Big Data Storage: HDFS; Map Reduce Programming Model.
+Evolution of Big data: Best Practices for Big data Analytics - Big
+data characteristics - Validating The Promotion of the Value of Big
+Data - Big Data Use Cases; Characteristics of Big Data Applications ;
+Perception and Quantification of Value ; Understanding Big Data
+Storage: HDFS; Map Reduce Programming Model.
 
 {{{unit}}}
 |UNIT II | CLUSTERING AND CLASSIFICATION | 6 |
-Advanced Analytical Theory and Methods: Overview of Clustering - K-means - Use Cases; Classification: Decision Trees - Overview of a Decision Tree - The General Algorithm - Decision Tree Algorithms - Evaluating a Decision Tree ; Naïve Bayes - Bayes‘ Theorem - Naïve Bayes Classifier.
+Advanced Analytical Theory and Methods: Overview of Clustering -
+K-means - Use Cases; Classification: Decision Trees - Overview of a
+Decision Tree - The General Algorithm - Decision Tree Algorithms -
+Evaluating a Decision Tree ; Naïve Bayes - Bayes‘ Theorem - Naïve
+Bayes Classifier.
 
 {{{unit}}}
 |UNIT III | ASSOCIATION AND RECOMMENDATION SYSTEM | 6 |

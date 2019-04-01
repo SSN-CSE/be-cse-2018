@@ -11,7 +11,10 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment
-Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.
+
+Anna University Regulation 2017 has this course. The syllabus content
+across units were modified in Autonomous syllabus as adviced by the
+domain expert committee.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -23,23 +26,44 @@ Anna University Regulation 2017 has this course. The syllabus content across uni
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Iterative and evolutionary development; Introduction to Agile: Agile development -- Classification of methods -- Agile manifesto and principles -- Communication and feedback -- Specific agile methods -- Agile modelling; Theories for agile management; Management accounting for systems; Agile Project Management: Traditional versus RAD model for project management -- Task planning and effort tracking -- The project manager's new work.
+Iterative and evolutionary development; Introduction to Agile: Agile
+development -- Classification of methods -- Agile manifesto and
+principles -- Communication and feedback -- Specific agile methods --
+Agile modelling; Theories for agile management; Management accounting
+for systems; Agile Project Management: Traditional versus RAD model
+for project management -- Task planning and effort tracking -- The
+project manager's new work.
 
 {{{unit}}}
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
-Traditional and agile requirement engineering; Methods and Tools for Agile Practitioners: Requirements elicitation -- Requirements representation and documentation -- Requirements analysis, Requirements management; Agile Approaches to Requirements Engineering: The customer -- Requirements evolution -- Non-Functional requirements; Tools for Requirements Management in AMs.
+Traditional and agile requirement engineering; Methods and Tools for
+Agile Practitioners: Requirements elicitation -- Requirements
+representation and documentation -- Requirements analysis,
+Requirements management; Agile Approaches to Requirements Engineering:
+The customer -- Requirements evolution -- Non-Functional requirements;
+Tools for Requirements Management in AMs.
 
 {{{unit}}}
 | UNIT III | AGILE PROJECT PLANNING AND DEVELOPMENT MANAGEMENT | 9 |
-Agile Project Planning: The Project buffer and its usage -- Logical collection of inventory -- Critical path -- Parallel path -- Critical chain -- Project tracking metrics; Agile Development Management: Identifying and monitoring the flow -- Bottleneck; Agile Maturity Model: A new maturity model.
+Agile Project Planning: The Project buffer and its usage -- Logical
+collection of inventory -- Critical path -- Parallel path -- Critical
+chain -- Project tracking metrics; Agile Development Management:
+Identifying and monitoring the flow -- Bottleneck; Agile Maturity
+Model: A new maturity model.
 
 {{{unit}}}
 | UNIT IV | AGILE METHODS | 9 |
-Scrum: Method overview -- Life cycle -- Work products -- Values -- Roles and practices -- Process mixtures -- Adoption strategies; Extreme Programming; Unified Process; EVO.
+Scrum: Method overview -- Life cycle -- Work products -- Values --
+Roles and practices -- Process mixtures -- Adoption strategies;
+Extreme Programming; Unified Process; EVO.
 
 {{{unit}}}
 | UNIT V | AGILE TESTING AND QUALITY ASSURANCE | 9 |
-Agile testing: Nine principles and six concrete practices for testing on agile teams; Agile Metrics: Feature driven development (FDD) -- Financial and production metrics in FDD -- Agile approach to quality assurance -- Test driven development; SMM: A process improvement framework for agile requirements engineering practices.
+Agile testing: Nine principles and six concrete practices for testing
+on agile teams; Agile Metrics: Feature driven development (FDD) --
+Financial and production metrics in FDD -- Agile approach to quality
+assurance -- Test driven development; SMM: A process improvement
+framework for agile requirements engineering practices.
 
 \hfill *Total Periods: 45*
 

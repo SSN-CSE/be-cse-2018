@@ -13,7 +13,7 @@
 ** COURSE OBJECTIVES
 - To learn language models
 - To understand the levels of knowledge in language processing
-- To develop NLP applications
+- To develop NLP applications.
 
 {{{unit}}}
 | UNIT I | OVERVIEW AND LANGUAGE MODELING | 8 |
@@ -64,7 +64,7 @@ Upon the completion of the course the students should be able to:
 - Explain levels of knowledge in language processing (K2)
 - Apply computational methods in semantic and discourse processing (K3)
 - Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K3)
-- Apply evaluation metrics for different NLP applications (K3)
+- Apply evaluation metrics for different NLP applications (K3).
 
 ** TEXT BOOKS
 1. Daniel Jurafsky and James H Martin, ``Speech and Language

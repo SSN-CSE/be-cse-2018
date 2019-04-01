@@ -1,4 +1,4 @@
-* <<<402>>> COMPUTER  ORGANIZATION AND ARCHITECTURE
+* <<<402>>> COMPUTER ORGANIZATION AND ARCHITECTURE
 :properties:
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 

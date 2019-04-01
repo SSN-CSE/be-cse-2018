@@ -17,7 +17,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 2 | 4 |
+| 3 | 2 | 0 | 4 |
 
 ** COURSE OBJECTIVES
 - Understand the classical logic, implications and equivalences,
@@ -79,10 +79,11 @@ On studying this course, the students will able to:
   and lattices.
 
 ** TEXT BOOKS
-1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th Edition,Special Indian edition, Tata
-   McGraw Hill, New Delhi, 2017.
-2. Tremblay J P and Manohar R, ``Discrete Mathematical Structures
-   with Applications to Computer Science'', 30th Reprint, Tata McGraw Hill, New Delhi,2011.
+1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th
+   Edition,Special Indian edition, Tata McGraw Hill, New Delhi, 2017.
+2. Tremblay J P and Manohar R, ``Discrete Mathematical Structures with
+   Applications to Computer Science'', 30th Reprint, Tata McGraw Hill,
+   New Delhi,2011.
 
 ** REFERENCES
 1. Ralph P Grimaldi, ``Discrete and Combinatorial Mathematics: An

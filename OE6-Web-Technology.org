@@ -54,15 +54,22 @@ JSP-JavaBeans Classes and JSP-Tag Libraries.
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
-- To design a web page using HTML5 semantic elements (Eg. Table, article, aside, details, figure, nav etc.)
-- Design a web page using form controls and perform in-build validation (Eg. Login form, Registration form)
-- Use Embedded, inline and External Style sheets for styling a web page
-- Use Selectors to format texts, margins, padding, borders, tables, forms for a web page
-- Develop a Java script application using events (Eg. Calculator, Tic Tac Toe game)
-- Design a web page where the content, formatting change dynamically using DOM 
-- Develop 2-tier web application using HTML form and Servlet 
-- Develop 3 –tier web application using HTML Form, Servlet and Database (Eg. Login Authentication, payroll management system)
-- Develop a JSP based 3-tier web application using Scriptlet tags 
+- To design a web page using HTML5 semantic elements (Eg. Table,
+  article, aside, details, figure, nav etc.)
+- Design a web page using form controls and perform in-build
+  validation (Eg. Login form, Registration form)
+- Use Embedded, inline and External Style sheets for styling a web
+  page
+- Use Selectors to format texts, margins, padding, borders, tables,
+  forms for a web page
+- Develop a Java script application using events (Eg. Calculator, Tic
+  Tac Toe game)
+- Design a web page where the content, formatting change dynamically
+  using DOM
+- Develop 2-tier web application using HTML form and Servlet
+- Develop 3 –tier web application using HTML Form, Servlet and
+  Database (Eg. Login Authentication, payroll management system)
+- Develop a JSP based 3-tier web application using Scriptlet tags
 - Develop a JSP based 2-tier web application using JSTL Tags
 
 

@@ -62,7 +62,7 @@ classification -- Clustering and association.
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Design a Data warehouse system and perform business analysis with
-  OLAP tools. (K3)
+  OLAP tools (K3)
 - Apply suitable pre-processing techniques (K3)
 - Apply frequent pattern and association rule mining techniques for
   data analysis (K3)

@@ -23,35 +23,49 @@ include at least one application of trees (?)
 
 
 | UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
-Algorithm Analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array implementation of lists --
-Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of lists: Polynomial manipulation.
+Algorithm Analysis: Running time calculations; Abstract Data Types
+(ADTs); List ADT: Array implementation of lists -- Linked lists --
+Circular linked lists -- Doubly linked lists -- Applications of lists:
+Polynomial manipulation.
 
 
 | UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 8 |
-Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion --
-Evaluating postfix expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
+Stack ADT: Stack model -- Implementation of stacks -- Applications:
+Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
+expressions; Queue ADT: Queue model -- Array implementation of queues
+-- Applications of queues.
 
 
 | UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
-Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT; AVL trees; B-Trees; Priority Queues: Binary heap.
+Preliminaries: Implementation of trees -- Tree traversals with an
+application; Binary trees: Expression trees; Binary search tree ADT;
+AVL trees; B-Trees; Priority Queues: Binary heap.
 
 #+BEGIN_COMMENT
-Application of trees is included along with tree traversals. It's in the text book.
-Threaded binary trees and B+ tree is removed as per AU syllabus, since it requires more no. of hours.
+Application of trees is included along with tree traversals. It's in
+the text book.  Threaded binary trees and B+ tree is removed as per AU
+syllabus, since it requires more no. of hours.
 #+END_COMMENT
 
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
-Graph Algorithms: Definitions -- Representation of graphs -- Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path -- Breadth-first traversal -- Depth-first traversal -- Biconnectivity.
+Graph Algorithms: Definitions -- Representation of graphs --
+Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
+All-pairs shortest path -- Breadth-first traversal -- Depth-first
+traversal -- Biconnectivity.
 
 #+BEGIN_COMMENT
-Cut vertex and Euler circuits are removed as per AU syllabus as we have included the application of graph i.e Shortest-Path Algorithms.
+Cut vertex and Euler circuits are removed as per AU syllabus as we
+have included the application of graph i.e Shortest-Path Algorithms.
 #+END_COMMENT
 
 | UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
-Searching: Linear search -- Binary search; Sorting: Insertion sort -- Selection sort -- Shell sort; Hashing: Hash function -- Separate chaining -- Open addressing -- Rehashing.
+Searching: Linear search -- Binary search; Sorting: Insertion sort --
+Selection sort -- Shell sort; Hashing: Hash function -- Separate
+chaining -- Open addressing -- Rehashing.
 
 #+BEGIN_COMMENT
-Few sorting techniques are removed as per AU syllabus due to time constraint.
+Few sorting techniques are removed as per AU syllabus due to time
+constraint.
 #+END_COMMENT
 
 \hfill *Total Periods: 45*
@@ -62,7 +76,8 @@ After the completion of this course, students will be able to:
 - Implement non linear data structures and apply for suitable problems (K3)
 - Elucidate the concept of searching, sorting and hashing techniques (K2)
 - Compare and contrast searching and sorting algorithms (K2)
-- Analyze a problem statement and choose an appropriate data structure to solve it. (K4)
+- Analyze a problem statement and choose an appropriate data structure
+  to solve it (K4).
 
       
 ** TEXT BOOKS

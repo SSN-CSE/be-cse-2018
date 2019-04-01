@@ -1,6 +1,6 @@
 * <<<PE501>>> PARALLEL ALGORITHMS
 :properties:
-:author: Mr. H. Shahul Hamead and Ms. M. Saritha
+:author: Dr D V V Prasad and V Balasubramanian
 :date: 
 :end:
 

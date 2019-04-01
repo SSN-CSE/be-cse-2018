@@ -22,7 +22,8 @@
 - To know the fundamental concepts of big data and analytics
 - To explore tools and practices for working with big data
 - To learn about stream computing
-- To know about the techniques that requires the integration of large amounts of data.
+- To know about the techniques that requires the integration of large
+  amounts of data.
 
 
 {{{unit}}}
@@ -30,10 +31,10 @@
 Evolution of big data -- Best practices for big data analytics -- Big
 data characteristics; Validating -- Promotion of the value of big data
 -- Big data use cases -- Characteristics of big data applications --
-Perception and quantification of value; Big Data Tools and Techniques: Understanding big data storage
--- General overview of high-performance architecture -- HDFS --
-MapReduce and YARN; Map Reduce programming model; Review of basic
-data analytic methods using R.
+Perception and quantification of value; Big Data Tools and Techniques:
+Understanding big data storage -- General overview of high-performance
+architecture -- HDFS -- MapReduce and YARN; Map Reduce programming
+model; Review of basic data analytic methods using R.
 #+begin_comment
 Added: Review of basic data analytic methods using R
 #+end_comment

@@ -78,10 +78,10 @@ After the completion of this course, students will be able to:
 
 
 ** TEXT BOOKS 
-1. C. Siva Ram Murthy and B. S. Manoj, ``Ad Hoc Wireless Networks –
+1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks –
    Architectures and Protocols'', Pearson Education, 2006.
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for
-   Wireless Sensor Networks'', John Wiley & Sons, Inc., 2005.
+   Wireless Sensor Networks'', John Wiley & Sons, 2005.
 
 ** REFERENCES
 1. Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile
@@ -93,5 +93,5 @@ After the completion of this course, students will be able to:
    Wireless Sensor Networks Theory and Practice'', John Wiley and
    Sons, 2010
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
-   Applications'', 1227th edition, Cambridge university Press,2008.
+   Applications'', Cambridge university Press, 2008.
 

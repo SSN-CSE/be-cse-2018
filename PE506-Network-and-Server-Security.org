@@ -73,8 +73,10 @@ After the completion of this course, students will be able to:
 - Design the security protocols for the infrastructure (K3)
 
 ** TEXT BOOKS
-1. William Stallings, ``Network Security Essentials: Applications and Standards'', Sixth Edition, Pearson, 2017.
-2. Mauricio Arregoces, Maurizio Portolani, ``Data Center Fundamentals'', Cisco Press, 2003.
+1. William Stallings, ``Network Security Essentials: Applications and
+   Standards'', Sixth Edition, Pearson, 2017.
+2. Mauricio Arregoces, Maurizio Portolani, ``Data Center
+   Fundamentals'', Cisco Press, 2003.
       
 ** REFERENCES
 1. Charlie Kaufman, Radia Perlman and Mike Speciner , ``Network
