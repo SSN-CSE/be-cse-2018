@@ -106,9 +106,9 @@ Thought process
 After the completion of this course, students will be able to: 
 - Design a modern website using HTML5 and CSS3  (K3)
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
-- Develop web application using Servlet (K3)
 - Develop responsive web application using Servlets and AJAX (K3)
-- Develop web applications using AngularJS and NodeJS frameworks (K3)
+- Develop web application using AngularJS framework (K3)
+- Develop web application using NodeJS (K3)
       
 ** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
