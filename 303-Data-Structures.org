@@ -7,8 +7,9 @@
 #+BEGIN_COMMENT
 1. As per the suggestion, application of trees has been included
 2. Comments for the addition,deletion with respect to AU R-2017 have been included along with the units
-3. NA
+3. The syllabi for UG and PG are different to a larger extent
 4. Course outcomes 
+5. Suggestive experiments are specified in the separte lab course for this subject
 #+END_COMMENT
 #+startup: showall
 
