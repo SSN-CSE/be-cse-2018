@@ -20,24 +20,24 @@
 - To understand different client and server end technologies
 - To develop web application using traditional technologies
 - To understand and develop web application using emerging web
-  application frameworks
+  application frameworks.
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients, Servers and Communication – The Internet –
-Basic Internet protocols – World wide web – HTTP Request Message –
-HTTP Response Message – Web Clients – Web Servers – HTML5: Tables,
-Lists, Image, Redefined form elements, Semantic elements, Audio and
-video controls - CSS3: Inline, embedded and external style sheets,
-Rule cascading, Inheritance, Adding graphics to web pages,
-Transformations, Transitions and Animations.
+Web Essentials: Clients -- Servers -- Communication; 
+Basic internet protocols -- World wide web -– HTTP Request Message –-
+HTTP Response Message –- Web Clients –- Web Servers –- HTML5: Tables --
+Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and
+video controls -- CSS3: Inline -- embedded -- external style sheets --
+Rule cascading -- Inheritance -- Adding graphics to web pages --
+Transformations -- Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-Client side programming language – Javascript: Variables, Data types,
-Statements, Operators, Objects, Arrays, Built-in objects and Event
-handling – DOM: Introduction, Document tree, Node object, Document,
-element and text nodes, Event handling, Event propagation.
+Client side programming language –- Javascript: Variables -- Data types --
+Statements -- Operators -- Objects -- Arrays -- Built-in objects -- Event
+handling –- DOM: Introduction -- Document tree -- Node object -- Document --
+element -- text nodes -- Event handling -- Event propagation.
 
 #+BEGIN_COMMENT
 Removal
@@ -50,9 +50,9 @@ Thought Process
 
 {{{unit}}}
 |UNIT III | SERVER SIDE PROGRAMMING| 9 |
-Servlets: Architecture, Life Cycle, Parameter data, Sessions, Cookies
-and URL rewriting – AJAX: Ajax Client Server Architecture-XML Http
-Request Object-Call Back Methods
+Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions -- Cookies
+and URL rewriting -– AJAX: Ajax Client Server Architecture -- XML Http
+Request Object -- Call Back Methods.
 
 #+BEGIN_COMMENT
 Removal
@@ -65,7 +65,7 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Introduction to ReactJS – Pure react: React elements – ReactDOM – Children – Constructing elements with data – React components; Props, state and compoenet tree – React router: Incorporation – Netsing – Parameters; Communication of react with server
+Introduction to ReactJS –- Pure react: React elements -– ReactDOM –- Children -– Constructing elements with data -– React components; Props, state and compoenet tree –- React router: Incorporation –- Netsing -– Parameters; Communication of react with server.
 
 #+BEGIN_COMMENT
 Removal
@@ -82,9 +82,9 @@ Thought process
 
 {{{unit}}}
 |UNIT V | SERVER SIDE FRAMEWORK | 9 |
-Introduction to NodeJS – Event Loop – Patterns – Core APIs:
-EventEmitter, Callback syntax, Streams - File system, Buffers –
-Process module - Data Access – NoSQL and Document stores: MongoDB.
+Introduction to NodeJS –- Event Loop -– Patterns -– Core APIs:
+EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers --
+Process module -- Data Access -– NoSQL and Document stores: MongoDB.
 
 #+BEGIN_COMMENT
 Removal
@@ -108,7 +108,7 @@ After the completion of this course, students will be able to:
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
 - Develop responsive web application using Servlets and AJAX (K3)
 - Develop web application using AngularJS framework (K3)
-- Develop web application using NodeJS framework (K3)
+- Develop web application using NodeJS framework. (K3)
       
 ** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
