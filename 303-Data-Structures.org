@@ -96,7 +96,14 @@ After the completion of this course, students will be able to:
 - Compare and contrast searching and sorting algorithms (K2)
 - Analyze a problem statement and choose an appropriate data structure
   to solve it (K4).
-
+  
+ #+BEGIN_COMMENT
+Elucidate and implement various operations of List (K2)
+Develop applications using stack and queue (K3)
+Implement the operations of balanced and unbalanced trees (K2)
+Develop applications using traversal and shortest path algorithms for graphs (K3)
+Choose a suitable searching and sorting algorithms to solve a computing problem (K4)
+#+END_COMMENT
       
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', Second
