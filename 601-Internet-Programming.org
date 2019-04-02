@@ -7,7 +7,7 @@
 1. Comments for the addition, deletion in this syllabus with respect to AU R-2017 have been included along with the units
 2. The syllabi for UG and PG are different to a larger extent
 4. Course outcomes are specified and aligned with the units 
-5. Suggestive experiments are specified in the separte lab course for this subject
+5. Suggestive experiments are specified in the separate lab course for this subject
 #+END_COMMENT
 
 #+startup: showall
