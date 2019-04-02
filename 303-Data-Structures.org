@@ -28,6 +28,10 @@ Algorithm Analysis: Running time calculations; Abstract Data Types
 Circular linked lists -- Doubly linked lists -- Applications of lists:
 Polynomial manipulation.
 
+#+BEGIN_COMMENT
+Inclusion - Algorithm Analysis: Running time calculations; 
+Thoughtprocess - To study the general notations of algorithm analysis
+#+END_COMMENT
 
 | UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 8 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
@@ -43,19 +47,35 @@ AVL trees; B-Trees; Priority Queues: Binary heap.
 
 #+BEGIN_COMMENT
 Application of trees is included along with tree traversals. It's in
-the text book.  Threaded binary trees and B+ tree is removed as per AU
+the text book.  Threaded binary tree and B+ tree is removed as per AU
 syllabus, since it requires more no. of hours.
+
+Removal 
+       Threaded binary tree and B+ tree
+Thought process  
+       Removed as they will consume more time
+       Having an idea of b-tree and binary search tree, students will be able to learn the concepts of the above               
 #+END_COMMENT
 
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
 Graph Algorithms: Definitions -- Representation of graphs --
 Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
-All-pairs shortest path -- Breadth-first traversal -- Depth-first
-traversal -- Biconnectivity.
+All-pairs shortest path; Traversals: Breadth-first traversal -- Depth-first
+traversal: Biconnectivity.
 
 #+BEGIN_COMMENT
 Cut vertex and Euler circuits are removed as per AU syllabus as we
 have included the application of graph i.e Shortest-Path Algorithms.
+
+Inclusion 
+         Specific applications of graph namely, shortest path algorithms have been included 
+Thought process
+         Because in R-2017, it has been mentioned in genral
+Removal
+       Cut vertex and Euler circuits
+Thought process
+       These are again the applications of DFS. One such (Bi connectivity) is already discussed
+         
 #+END_COMMENT
 
 | UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
