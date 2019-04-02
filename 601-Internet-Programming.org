@@ -65,5 +65,6 @@ After the completion of this course, students will be able to:
 3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
    December 2012.
 4. Alex Banks and Eve Porcello, ``Learning React: Functional web development with React and Redux'', O'Reilly Media Inc., May 2017.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st Edition,
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', First Edition,
    O'Reilly Media, 2012.
+6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.
