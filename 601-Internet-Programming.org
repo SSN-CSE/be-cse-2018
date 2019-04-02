@@ -4,7 +4,7 @@
 :end:
 
 #+BEGIN_COMMENT
-1. Comments for the addition, deletion in this syllabus with respect to AU R-2017 have been included along with the units
+1. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
 2. The syllabi for UG and PG are different to a larger extent
 3. Course outcomes are specified and aligned with the units 
 4. Suggestive experiments are specified in the separate lab course for this subject
