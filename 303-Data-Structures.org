@@ -5,9 +5,11 @@
 :end:
 
 #+BEGIN_COMMENT
-include at least one application of trees (?)
+1. As per the suggestion, application of trees has been included
+2. Comments for the addition,deletion with respect to AU R-2017 have been included along with the units
+3. NA
+4. Course outcomes 
 #+END_COMMENT
-
 #+startup: showall
 
 | L | T | P | C |
@@ -70,7 +72,7 @@ have included the application of graph i.e Shortest-Path Algorithms.
 Inclusion 
          Specific applications of graph namely, shortest path algorithms have been included 
 Thought process
-         Because in R-2017, it has been mentioned in genral
+         Because in R-2017, it has been mentioned in general
 Removal
        Cut vertex and Euler circuits
 Thought process
@@ -81,12 +83,7 @@ Thought process
 | UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
 Searching: Linear search -- Binary search; Sorting: Insertion sort --
 Selection sort -- Shell sort; Hashing: Hash function -- Separate
-chaining -- Open addressing -- Rehashing.
-
-#+BEGIN_COMMENT
-Few sorting techniques are removed as per AU syllabus due to time
-constraint.
-#+END_COMMENT
+chaining -- Open addressing -- Rehashing -- Extendible hashing.
 
 \hfill *Total Periods: 45*
 
