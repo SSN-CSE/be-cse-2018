@@ -6,10 +6,10 @@
 
 #+BEGIN_COMMENT
 1. As per the suggestion, application of trees has been included
-2. Comments for the addition,deletion with respect to AU R-2017 have been included along with the units
+2. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
 3. The syllabi for UG and PG are different to a larger extent
-4. Course outcomes 
-5. Suggestive experiments are specified in the separte lab course for this subject
+4. Course outcomes are specified and aligned with the units
+5. Suggestive experiments are specified in the separate lab course for this subject
 #+END_COMMENT
 #+startup: showall
 
@@ -90,20 +90,12 @@ chaining -- Open addressing -- Rehashing -- Extendible hashing.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Implement linear data structures and apply for suitable problems (K3)
-- Implement non linear data structures and apply for suitable problems (K3)
-- Elucidate the concept of searching, sorting and hashing techniques (K2)
-- Compare and contrast searching and sorting algorithms (K2)
-- Analyze a problem statement and choose an appropriate data structure
-  to solve it (K4).
-  
- #+BEGIN_COMMENT
-Elucidate and implement various operations of List (K2)
-Develop applications using stack and queue (K3)
-Implement the operations of balanced and unbalanced trees (K2)
-Develop applications using traversal and shortest path algorithms for graphs (K3)
-Choose a suitable searching and sorting algorithms to solve a computing problem (K4)
-#+END_COMMENT
+- Elucidate and implement various operations of List (K3)
+- Develop applications using stack and queue (K3)
+- Implement the operations of balanced and unbalanced trees (K3)
+- Develop applications using shortest path and traversal algorithms of graph  (K3)
+- Choose a suitable searching and sorting algorithms to solve a computing problems. (K4)
+   
       
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', Second
