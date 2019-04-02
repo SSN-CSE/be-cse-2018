@@ -6,8 +6,8 @@
 #+BEGIN_COMMENT
 1. Comments for the addition, deletion in this syllabus with respect to AU R-2017 have been included along with the units
 2. The syllabi for UG and PG are different to a larger extent
-4. Course outcomes are specified and aligned with the units 
-5. Suggestive experiments are specified in the separate lab course for this subject
+3. Course outcomes are specified and aligned with the units 
+4. Suggestive experiments are specified in the separate lab course for this subject
 #+END_COMMENT
 
 #+startup: showall
@@ -108,7 +108,7 @@ After the completion of this course, students will be able to:
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
 - Develop responsive web application using Servlets and AJAX (K3)
 - Develop web application using AngularJS framework (K3)
-- Develop web application using NodeJS (K3)
+- Develop web application using NodeJS framework (K3)
       
 ** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
