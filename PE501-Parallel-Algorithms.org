@@ -60,19 +60,13 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOK
 
-1. Michael J. Quinn, "Parallel Computing : Theory & Practice", Tata McGraw Hill
-Edition, Second edition, 2017.
-2. V Rajaraman, C Siva Ram Murthy, " Parallel computers- Architecture and
-Programming ", PHI learning, 2016.
+1. Michael J. Quinn, "Parallel Computing : Theory & Practice", Second edition, Tata McGraw Hill, 2017.
+2. V Rajaraman, C Siva Ram Murthy, " Parallel computers- Architecture and Programming ", PHI learning, 2016.
 
 ** REFERENCES
-1. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar,
-   ``Introduction to Parallel Computing'', 2nd Edition, Pearson, 2003.
-2. Salem G Akl, ``The Design and Analysis of Parallel Algorithms'',
-   Prentice Hall, 1989.
-3. Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran, "Fundamentals of
-   Computer Algorithms", University press, Second edition , 2011
-4. M Sasikumar, Dinesh Shikhare and P Ravi Prakash , " Introduction to Parallel
-   Processing", PHI learning , 2013.
+1. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, ``Introduction to Parallel Computing'', 2nd Edition, Pearson, 2003.
+2. Salem G Akl, ``The Design and Analysis of Parallel Algorithms'', Prentice Hall, 1989.
+3. Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran, "Fundamentals of Computer Algorithms", University press, Second edition , 2011 
+4. M Sasikumar, Dinesh Shikhare and P Ravi Prakash , " Introduction to Parallel Processing", PHI learning , 2013.
 5. Joseph JaJa, “Introduction to Parallel Algorithms”, Addison-Wesley, 1992.
  
