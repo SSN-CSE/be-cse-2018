@@ -13,11 +13,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the structure and functions of OS.
-- Learn about Processes, Threads and Scheduling algorithms. 
-- Understand the principles of concurrency and Deadlocks. 
-- Learn various memory management schemes. 
-- Study I/O management and File systems.
+- To understand the structure and functions of OS.
+- To learn about Processes, Threads and Scheduling algorithms. 
+- To understand the principles of concurrency and Deadlocks. 
+- To learn various memory management schemes. 
+- To study I/O management and File systems.
 
 
 {{{unit}}}
@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 - Understand the basic services and functionalities of operating
   systems (K2)
 - Analyze various scheduling algorithms, and understand the different
-  deadlock, prevention and avoidance schemes (K4)
+  schemes for handling deadlocks(K4)
 - Understand the different memory management schemes (K2)
 - Understand the functionality of file systems (K2)
 - Compare and contrast Linux, Windows and mobile operating systems (K3).
