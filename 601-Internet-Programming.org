@@ -19,7 +19,7 @@
 ** COURSE OBJECTIVES
 - To understand different client and server end technologies
 - To develop web application using traditional technologies
-- To understand and develop web application using emerging web
+- To understand and develop web applications using emerging web
   application frameworks.
 
 {{{unit}}}
@@ -44,7 +44,7 @@ Removal
       Contents related to JSON in AU R-2017 has been removed
 Thought Process
       Due to time constraint
-      JSON is a structure used for tranferring data in web applications. Since it will not be explicitly being utilized for trasnfer in the development of web applications      
+      JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.      
        
 #+END_COMMENT
 
@@ -56,10 +56,10 @@ Request Object -- Call Back Methods.
 
 #+BEGIN_COMMENT
 Removal
-      Contents related to JSP in AU R-2017 has been removed      
+      Contents related to JSP in AU R-2017 have been removed      
 Thought Process
       Both servlet and JSP are serverside scripting languages
-      Since Servlet itself is enough for the students to undertand the configuration of web applications, JSP is removed
+      Since Servlet itself is enough for the students to undertand the configuration of web applications, JSP has been removed
        
 #+END_COMMENT
 
@@ -97,18 +97,18 @@ Thought Process
 Inclusion
       Concepts related to NodeJS have been included
 Thought process
-      It is a recently developed lightweight sever side framework useful for quick development of web application
+      It is a recently developed lightweight sever side framework useful for quick development of web applications
 #+END_COMMENT
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design a modern website using HTML5 and CSS3  (K3)
+- Design modern websites using HTML5 and CSS3  (K3)
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
-- Develop responsive web application using Servlets and AJAX (K3)
-- Develop web application using AngularJS framework (K3)
-- Develop web application using NodeJS framework. (K3)
+- Develop responsive web applications using Servlets and AJAX (K3)
+- Develop web applications using AngularJS framework (K3)
+- Develop web applications using NodeJS framework. (K3)
       
 ** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
