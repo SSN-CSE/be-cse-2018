@@ -94,7 +94,7 @@ After the completion of this course, students will be able to:
 - Develop applications using stack and queue (K3)
 - Implement the operations of balanced and unbalanced trees (K3)
 - Develop applications using shortest path and traversal algorithms of graph  (K3)
-- Choose a suitable searching and sorting algorithms to solve a computing problems. (K4)
+- Choose suitable searching and sorting algorithms to solve various computing problems. (K4)
    
       
 ** TEXT BOOKS
