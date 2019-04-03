@@ -3,6 +3,7 @@
 :author: S. V. Jansi Rani, R. Priyadharsini
 :date: 28 March 2019
 
+#+startup: showall
 |L|T|P|C|
 |2|0|2|3|
 
@@ -51,11 +52,11 @@ Establishing a network in NS3; Study of performance of TCP protocol.
  - Performance Study of TCP in NS3
 
 
-*Theory Periods: 30*
+\hfill *Theory Periods: 30*
 
-*Practical Periods: 30*
+\hfill *Practical Periods: 30*
 
-*Total Periods: 60*
+\hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 Upon Completion of the course, the students should be able to:
