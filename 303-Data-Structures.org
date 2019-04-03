@@ -19,7 +19,7 @@
 ** COURSE OBJECTIVES
 - To understand the concepts of ADT
 - To comprehend the notion of linear and non linear data structures
-- To design a suitable data structure for the given problem and
+- To design suitable data structures for different problems and
   implement them in a high level programming language
 - To understand the different types of searching and sorting techniques
 - To learn the introductory concepts of hashing techniques.
