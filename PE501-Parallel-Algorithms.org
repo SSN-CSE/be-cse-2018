@@ -1,6 +1,6 @@
 * <<<PE501>>> PARALLEL ALGORITHMS
 :properties:
-:author: Dr D V V Prasad and V Balasubramanian
+:author: Dr. Venkata Vara Prasad and Mr. V. Balasubramanian 
 :date: 
 :end:
 
@@ -13,61 +13,66 @@
 ** COURSE OBJECTIVES
 - To understand the design of parallel algorithms
 - To select suitable procedures for parallel algorithms
-- To study merging algorithm for various models
-- To study sorting algorithm for various models
-- To study the searching algorithm for various models
+- To understand different parallel architectures and models of computation.
+- To introduce the various classes of parallel algorithms.
+- To study parallel algorithms for basic problems. 
 
 
 {{{unit}}}
-| UNIT I | INTRODUCTION TO PARALLEL ALGORITHMS | 9 |
-The Need for Parallel Computers -- Models of Computation -- Analyzing
-Algorithms -- Expressing Algorithms
+| UNIT I | INTRODUCTION | 9 |
+Need for Parallel Processing -- Data and Temporal Parallelism -- Models of Computation -
+RAM and PRAM Model –- Shared Memory and Message Passing Models -- Processor
+Organisations -- PRAM Algorithm –- Analysis of PRAM Algorithms -- Parallel Programming
+Languages.
 
 {{{unit}}}
-| UNIT II | SELECTION | 9 |
-The Problem and a Lower Bound -- A Sequential Algorithm -- Desirable
-Properties for Parallel Algorithms -- Two Useful Procedures -- An
-Algorithm for Parallel Selection
+| UNIT II | PRAM Algorithms | 9 |
+Parallel Algorithms for Reduction: Prefix Sum -- List Ranking -- Preorder Tree Traversal –-
+Searching -- Sorting -- Merging Two Sorted Lists -- Matrix Multiplication -- Graph Coloring --
+Graph Searching.
 
 {{{unit}}}
-|UNIT III | MERGING | 9 |
-A Network for Merging -- Merging on the CREW Model -- Merging on the
-EREW Model -- A better Algorithm for the EREW Model
+|UNIT III | SIMD Algorithms-I | 9 |
+Parallel Algorithms for Reduction: 2D Mesh SIMD Model -- Prefix Computation -- Selection --
+Odd-Even Merge Sorting -- Matrix Multiplication 
 
 {{{unit}}}
-| UNIT IV | SORTING | 9 |
-A network for Sorting -- Sorting on a Linear Array -- Sorting on the
-CRCW Model -- Sorting on the CREW Model -- Sorting on the EREW Model
+| UNIT IV | SIMD Algorithms-II | 9 |
+Hypercube SIMD Model -- Parallel Algorithms for Selection -- Odd-Even Merge Sort -- Bitonic
+Sort -- Matrix Multiplication Shuffle Exchange SIMD Model -- Parallel Algorithms for Reduction
+-- Bitonic Merge Sort -- Matrix Multiplication -- Minimum Cost Spanning Tree 
 
 {{{unit}}}
-| UNIT V | SEARCHING | 9 |
-Searching a Sorted Sequence -- Searching a Random Sequence --
-Searching on SM SIMD Computers -- Searching on a Tree -- Searching on
-a Mesh
+| UNIT V | MIMD Algorithms | 9 |
+UMA Multiprocessor Model -- Parallel Summing on Multiprocessor -- Matrix Multiplication on
+Multiprocessors and Multicomputer -- Parallel Quick Sort -- Mapping Data to Processors.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Describe the theory of parallel algorithms (K2)  
+After the completion of this course, students will be able to:
+- Understand why communication and coordination are critical to ensure correctness(K2)
+- Understand the parallelism inherent in a simple sequential algorithm (K2)  
 - Apply suitable procedures for parallel algorithms (K3)
-- Analyze merging techniques for parallel models (K4)
-- Analyze sorting techniques for parallel models (K4)
-- Analyze searching techniques for parallel models (K4)
+- Develop parallel algorithms for standard problems and applications(K5)
+- Analyse efficiency of different parallel algorithms(K4)
+
 
 ** TEXT BOOK
-1. Salem G Akl, ``The Design and Analysis of Parallel Algorithms'',
-   Prentice Hall, 1989.
+
+1. Michael J. Quinn, "Parallel Computing : Theory & Practice", Tata McGraw Hill
+Edition, Second edition, 2017.
+2. V Rajaraman, C Siva Ram Murthy, " Parallel computers- Architecture and
+Programming ", PHI learning, 2016.
 
 ** REFERENCES
-1. Henri Casanova, Arnaud Legrand, Yves Robert, ``Parallel Algorithms''
-   1st Edition, CRC Press, 2008.
-2. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar,
+1. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar,
    ``Introduction to Parallel Computing'', 2nd Edition, Pearson, 2003.
-3. Fayez Gebali, ``Algorithms and Parallel Computing'', Wiley, 2011.
-4. Kai Hwang, Naresh Jotwani, ``Advanced Computer Architecture:
-   Parallelism, Scalability, Programmability'', Tata
-   McGraw-Hill, 2001.
-5. F. Thomson Leighton, ``Introduction to Parallel Algorithms and
-   Architectures'', Morgan Kaufmann Publishers, 1992.
+2. Salem G Akl, ``The Design and Analysis of Parallel Algorithms'',
+   Prentice Hall, 1989.
+3. Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran, "Fundamentals of
+   Computer Algorithms", University press, Second edition , 2011
+4. M Sasikumar, Dinesh Shikhare and P Ravi Prakash , " Introduction to Parallel
+   Processing", PHI learning , 2013.
+5. Joseph JaJa, “Introduction to Parallel Algorithms”, Addison-Wesley, 1992.
  
