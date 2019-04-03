@@ -88,7 +88,7 @@ Inclusion
 After the completion of this course, students will be able to: 
 - Solve problems using classes and objects(K3)
 - Develop programs using inheritance and interfaces(K3)
-- Experiment the concepts of polymorphism (K3)
+- Apply the concepts of polymorphism (K3)
 - Design applications using generic programming(K3)
 - Develop algorithms using generic collections(K3).
      
