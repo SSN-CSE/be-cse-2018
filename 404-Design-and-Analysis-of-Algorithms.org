@@ -18,42 +18,42 @@
 |UNIT I|INTRODUCTION AND ANALYSIS |10| 
 Introduction: Notion of an algorithm -- Fundamentals of algorithmic
 Problem solving -- Important problem types; Fundamentals of the
-Analysis of Algorithm Efficiency: The Analysis Framework –- Asymptotic
-Notations, properties and Basic Efficiency Classes -– Mathematical
-analysis for Recursive and Non-recursive algorithms -- Empirical
-Analysis of Algorithms -- Algorithm Visualization.
+Analysis of Algorithm Efficiency: The analysis framework -- Asymptotic
+notations, properties and basic efficiency classes -- Mathematical
+analysis for recursive and non-recursive algorithms -- Empirical
+analysis of algorithms -- Algorithm visualization.
 
 {{{unit}}}
 |UNIT II|BRUTE FORCE AND DIVIDE AND CONQUER |8| 
-Brute Force and Exhaustive Search: Brute-Force String Matching --
-Closest-Pair and Convex-Hull Problems; Exhaustive Search: Traveling
-Salesman Problem -- Knapsack Problem -- Assignment problem.  Divide
-and conquer: Mergesort –- Quicksort -– Multiplication of Large
-Integers and Strassen's Matrix Multiplication -- Closest-Pair and
-Convex-Hull Problems.
+Brute Force and Exhaustive Search: Brute-force string matching --
+Closest-pair and convex-hull problems; Exhaustive search: Traveling
+salesman problem -- Knapsack problem -- Assignment problem.  Divide
+and Conquer: Mergesort -- Quicksort -- Multiplication of large
+integers and Strassen's matrix multiplication -- Closest-pair and
+Convex-hull problems.
 
 {{{unit}}}
 |UNIT III |DYNAMIC PROGRAMMING AND GREEDY TECHNIQUE |9| 
-Dynamic Programming: Computing a Binomial Coefficient -- Knapsack
-Problem and Memory functions -- Optimal Binary Search Trees --
-Warshall's and Floyd's algorithm.  Greedy Technique: Prim's algorithm
--- Kruskal's Algorithm -- Dijkstra's Algorithm -- Huffman Trees and
+Dynamic Programming: Computing a binomial coefficient -- Knapsack
+problem and memory functions -- Optimal binary search trees --
+Warshall's and Floyd's algorithm -- Greedy Technique: Prim's algorithm
+-- Kruskal's algorithm -- Dijkstra's algorithm -- Huffman trees and
 codes.
 
 {{{unit}}}
 |UNIT IV | ITERATIVE IMPROVEMENT AND BACKTRACKING |9| 
-Iterative Improvement: The Simplex Method -- The Maximum-Flow Problem
-–- Maximum Matching in Bipartite Graphs -- The Stable marriage Problem;
-Backtracking: n-Queens problem –- Hamiltonian Circuit Problem --
-Subset Sum Problem.
+Iterative Improvement: The simplex method -- The maximum-flow problem
+--  Maximum matching in bipartite graphs -- The stable marriage Problem;
+Backtracking: N-queens problem -- Hamiltonian circuit problem --
+Subset sum problem.
 
 {{{unit}}}
 |UNIT V | BRANCH & BOUND AND LIMITATIONS OF ALGORITHM POWER |9| 
-Branch and Bound: Assignment problem -- Knapsack Problem -- Traveling
-Salesman Problem; Limitations of Algorithm Power: Lower-Bound
-Arguments -- P, NP and NP-Complete Problems; Coping with the
-Limitations of Algorithm Power: Approximation Algorithms for NP-Hard
-Problems -- Traveling Salesman problem -- Knapsack problem.
+Branch and Bound: Assignment problem -- Knapsack problem -- Traveling
+salesman problem; Limitations of algorithm power: Lower-bound
+arguments -- P, NP and NP-complete problems; Coping with the
+Limitations of Algorithm Power: Approximation algorithms for NP-Hard
+problems -- Traveling salesman problem -- Knapsack problem.
 
 \hfill *Theory Periods: 45*
 
@@ -78,22 +78,22 @@ Problems -- Traveling Salesman problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design algorithms for various computing problems(K3)
-- Analyze the time and space complexity of algorithms(K4)
-- Compare the different algorithm design techniques for a given problem(K4)
-- Modify existing algorithms to improve efficiency(K4)
-- Understand the limitations of algorithmic power(K2)
+- Design algorithms for various computing problems (K3)
+- Analyze the time and space complexity of algorithms (K4)
+- Compare the different algorithm design techniques for a given problem (K4)
+- Modify existing algorithms to improve efficiency (K4)
+- Understand the limitations of algorithmic power (K2).
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
    Algorithms'', 3rd Edition, Pearson Education, 2012.
-2. S Dasgupta, C H Papadimitriou, and U V Vazirani,
+2. S Dasgupta, C H Papadimitriou, U V Vazirani,
    ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
 
 ** REFERENCES
-1. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest and Clifford
+1. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford
    Stein, ``Introduction to Algorithms'', 3rd Edition, PHI Learning
-   Private Limited, 2012
+   Private Limited, 2012.
 2. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
 
