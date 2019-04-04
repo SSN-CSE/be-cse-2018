@@ -13,10 +13,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the structure and functions of OS.
-- To learn about Processes, Threads and Scheduling algorithms. 
-- To understand the principles of concurrency and Deadlocks. 
-- To learn various memory management schemes. 
+- To understand the structure and functions of OS
+- To learn about Processes, Threads and Scheduling algorithms
+- To understand the principles of concurrency and Deadlocks
+- To learn various memory management schemes
 - To study I/O management and File systems.
 
 
@@ -26,7 +26,7 @@ Computer System Overview: Basic elements -- Instruction execution –
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
 Overview: Objectives and functions -- Evolution of operating
-system;Computer System Organization; Operating System Structure and
+system;Computer system organization; Operating System Structure and
 Operations: System calls -- System programs -- OS generation and
 system boot.
 
@@ -34,15 +34,15 @@ system boot.
 |UNIT II | PROCESS MANAGEMENT | 12 |
 Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess Communication; Threads: Overview --
-Multithreading Models -- Thread Issues; Process Synchronization -
-Critical Section Problem -- Mutex Locks -- Semophores -- Monitors; CPU
+Multithreading models -- Thread issues; Process synchronization --
+Critical section problem -- Mutex locks -- Semophores -- Monitors; CPU
 Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Montonic and EDF
 scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
 |UNIT III | MEMORY MANAGEMENT | 8 |
-Main Memory: Contiguous Memory Allocation -- Segmentation -- Paging --
+Main Memory: Contiguous memory allocation -- Segmentation -- Paging --
 32 and 64 bit architecture Examples; Virtual Memory: Demand paging --
 Page replacement algorithms -- Allocation -- Thrashing.
 
@@ -74,7 +74,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, ``Operating
-   System Concepts'', 9th Edition, John Wiley and Sons Inc., 2012.
+   System Concepts'', 9th Edition, John Wiley and Sons Inc, 2012.
 2. Neil Smyth, ``iPhone iOS 4 Development Essentials - Xcode'', 4th
    Edition, Payload media,2011.
 
