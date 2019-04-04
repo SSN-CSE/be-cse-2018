@@ -24,9 +24,9 @@
 {{{unit}}}
 |UNIT I |INTRODUCTION | 10 |
 Principles of OOP: Classes -- Objects -- Data hiding -- Data
-encapsulation -- Inheritance -- Polymorphism; Definition of classes:
+encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
 Objects -- Methods -- Access specifiers -- Static and final classes and
-members; Object construction and destruction -- Fundamental programming
+members; Object Construction and Destruction -- Fundamental programming
 structures in Java; Streams: Input-Output -- Examples in Java.
 #+begin_comment
 Retain 
@@ -71,8 +71,8 @@ Removal
 
 {{{unit}}}
 |UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
-Introduction to collections -- Collection classes and interfaces: Array
-list -- Linked list -- Queue -- set -- trees; Iterators for collections --
+Introduction to collections -- Collection Classes and Interfaces: Array
+list -- Linked list -- Queue -- Set -- Trees; Iterators for collections --
 Map class -- Algorithms: Sorting -- Searching -- User-defined algorithms
 -- Examples in Java.
 #+begin_comment
