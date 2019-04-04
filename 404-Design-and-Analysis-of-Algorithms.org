@@ -55,7 +55,7 @@ arguments -- P, NP and NP-complete problems; Coping with the
 Limitations of Algorithm Power: Approximation algorithms for NP-Hard
 problems -- Traveling salesman problem -- Knapsack problem.
 
-\hfill *Theory Periods: 45*
+ *Theory Periods: 45*
 
 ** SUGGESTIVE EXPERIMENTS
 1. Implementation of non-recursive and recursive algothms for the given
