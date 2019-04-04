@@ -11,13 +11,13 @@
 | 3 | 2 | 0 | 4 |
 
 ** COURSE OBJECTIVES
-- Identify the standard distributions and apply them in solving problems
-- Understand the concept of two-dimensional random variables and solve
+- To identify the standard distributions and apply them in solving problems
+- To understand the concept of two-dimensional random variables and solve
   problems in finding the Joint probabilities and correlation between
   them
-- Perform hypothesis testing using normal, t-distribution and F-distribution
-- Evaluate the tests of significance in analysis of variance
-- Calculate the various statistical quality control measurements.
+- To perform hypothesis testing using normal, t-distribution and F-distribution
+- To evaluate the tests of significance in analysis of variance
+- To calculate the various statistical quality control measurements.
 
 {{{unit}}}
 | UNIT I | RANDOM VARIABLES | 12 |
@@ -32,7 +32,7 @@ variable.
 Joint distributions -- Marginal and conditional distributions --
 Covariance -- Correlation and linear regression -- Transformation of
 random variables -- Central limit theorem (for independent
-andidentically distributed random variables).
+and identically distributed random variables).
 
 {{{unit}}}
 | UNIT III | TESTS OF SIGNIFICANCE | 12 |
@@ -74,7 +74,7 @@ After the completion of this course, students will be able to:
 1. Devore J L, ``Probability and Statistics for Engineering and the
    Sciences'', 7th Edition, ThomsonBrooks/Cole, International Student Edition, 2008.
 2. Walpole R E, Myers R H, Myers S L and Ye K, ``Probability
-   and Statistics forEngineers and Scientists'', 8th Edition, Pearson Education,
+   and Statistics for Engineers and Scientists'', 8th Edition, Pearson Education,
    Asia, 2007.
 3. Ross S M, ``Introduction to Probability and Statistics for
    Engineers and Scientists'', 3rd Edition,  Elsevier, 2004.
