@@ -86,11 +86,11 @@ Inclusion
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Solve problems using classes and objects(K3)
-- Develop programs using inheritance and interfaces(K3)
+- Solve problems using classes and objects (K3)
+- Develop programs using inheritance and interfaces (K3)
 - Apply the concepts of polymorphism (K3)
-- Design applications using generic programming(K3)
-- Develop algorithms using generic collections(K3).
+- Design applications using generic programming (K3)
+- Develop algorithms using generic collections (K3).
      
 ** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented
