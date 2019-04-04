@@ -10,14 +10,14 @@
 | 3 | 0 | 2 | 4 |
 
 ** COURSE OBJECTIVES
-- Learn the algorithm analysis techniques.
-- Become familiar with the different algorithm design techniques.
+- Learn the algorithm analysis techniques
+- Become familiar with the different algorithm design techniques
 - Understand the limitations of algorithm power.
 
 {{{unit}}}
 |UNIT I|INTRODUCTION AND ANALYSIS |10| 
-Introduction: Notion of an Algorithm –- Fundamentals of Algorithmic
-Problem Solving –- Important Problem Types; Fundamentals of the
+Introduction: Notion of an algorithm -- Fundamentals of algorithmic
+Problem solving -- Important problem types; Fundamentals of the
 Analysis of Algorithm Efficiency: The Analysis Framework –- Asymptotic
 Notations, properties and Basic Efficiency Classes -– Mathematical
 analysis for Recursive and Non-recursive algorithms -- Empirical
