@@ -25,19 +25,19 @@
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
 Web Essentials: Clients -- Servers -- Communication; 
-Basic internet protocols -- World wide web -– HTTP Request Message –-
-HTTP Response Message –- Web Clients –- Web Servers –- HTML5: Tables --
+Basic internet protocols -- World wide web -- HTTP Request Message --
+HTTP Response Message -- Web Clients -- Web Servers -- HTML5: Tables --
 Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and
-video controls -- CSS3: Inline -- embedded -- external style sheets --
+video controls -- CSS3: Inline -- Embedded -- External style sheets --
 Rule cascading -- Inheritance -- Adding graphics to web pages --
 Transformations -- Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-Client side programming language –- Javascript: Variables -- Data types --
+Client side programming language -- Javascript: Variables -- Data types --
 Statements -- Operators -- Objects -- Arrays -- Built-in objects -- Event
-handling –- DOM: Introduction -- Document tree -- Node object -- Document --
-element -- text nodes -- Event handling -- Event propagation.
+handling -- DOM: Introduction -- Document tree -- Node object -- Document --
+Element -- Text nodes -- Event handling -- Event propagation.
 
 #+BEGIN_COMMENT
 Removal
@@ -51,7 +51,7 @@ Thought Process
 {{{unit}}}
 |UNIT III | SERVER SIDE PROGRAMMING| 9 |
 Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions -- Cookies
-and URL rewriting -– AJAX: Ajax Client Server Architecture -- XML Http
+and URL rewriting -- AJAX: Ajax Client Server Architecture -- XML Http
 Request Object -- Call Back Methods.
 
 #+BEGIN_COMMENT
@@ -65,7 +65,9 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Introduction to ReactJS –- Pure react: React elements -– ReactDOM –- Children -– Constructing elements with data -– React components; Props, state and compoenet tree –- React router: Incorporation –- Netsing -– Parameters; Communication of react with server.
+Introduction to ReactJS -- Pure React: React elements -- ReactDOM -- Children --
+Constructing elements with data -- React components; Props, state and compoenet tree -- 
+React router: Incorporation -- Netsing -- Parameters; Communication of react with server.
 
 #+BEGIN_COMMENT
 Removal
@@ -82,9 +84,9 @@ Thought process
 
 {{{unit}}}
 |UNIT V | SERVER SIDE FRAMEWORK | 9 |
-Introduction to NodeJS –- Event Loop -– Patterns -– Core APIs:
+Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs:
 EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers --
-Process module -- Data Access -– NoSQL and Document stores: MongoDB.
+Process module -- Data Access -- NoSQL and Document stores: MongoDB.
 
 #+BEGIN_COMMENT
 Removal
@@ -108,16 +110,16 @@ After the completion of this course, students will be able to:
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
 - Develop responsive web applications using Servlets and AJAX (K3)
 - Develop web applications using AngularJS framework (K3)
-- Develop web applications using NodeJS framework. (K3)
+- Develop web applications using NodeJS framework (K3).
       
 ** TEXT BOOKS
-1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
+1. Jeffrey C, Jackson, ``Web Technologies A Computer Science
    Perspective'', Pearson Education, 2011.
 2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,
    August 2011
 3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
    December 2012.
-4. Alex Banks and Eve Porcello, ``Learning React: Functional web development with React and Redux'', O'Reilly Media Inc., May 2017.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', First Edition,
+4. Alex Banks, Eve Porcello, ``Learning React: Functional web development with React and Redux'', O'Reilly Media Inc., May 2017.
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st Edition,
    O'Reilly Media, 2012.
 6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.
