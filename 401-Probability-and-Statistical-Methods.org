@@ -11,78 +11,75 @@
 | 3 | 2 | 0 | 4 |
 
 ** COURSE OBJECTIVES
-- Identify the standard distributions and apply them in solving problems.
-- Understand the concept of two-dimensional random variables and solve
+- To identify the standard distributions and apply them in solving problems
+- To understand the concept of two-dimensional random variables and solve
   problems in finding the Joint probabilities and correlation between
-  them.
-- Perform hypothesis testing using normal, t-distribution and F-distribution.
-- Evaluate the tests of significance in analysis of variance.
-- Calculate the various statistical quality control measurements. 
+  them
+- To perform hypothesis testing using normal, t-distribution and F-distribution
+- To evaluate the tests of significance in analysis of variance
+- To calculate the various statistical quality control measurements.
 
 {{{unit}}}
-|UNIT I| 	RANDOM VARIABLES|           12|
-Probability - Axioms of probability - Conditional probability - Baye’s
-theorem - Discrete and Continuous random variables - Moments - Moment
-generating functions -Binomial, Poisson, Geometric, Uniform,
-Exponential, Gamma, Normal distributions- Functions of a random
-variable
+| UNIT I | RANDOM VARIABLES | 12 |
+Probability -- Axioms of probability--- Conditional probability -- Baye’s
+theorem -- Discrete and continuous random variables -- Moments -- Moment
+generating functions -- Binomial, Poisson, Geometric, Uniform,
+Exponential, Gamma, Normal distributions -- Functions of a random
+variable.
 
 {{{unit}}}
-|UNIT II| 	TWO-DIMENSIONAL RANDOM VARIABLES|      12|
-Joint distributions - Marginal and Conditional distributions -
-Covariance - Correlation and Linear regression - Transformation of
-random variables - Central limit theorem (for independent
-andidentically distributed random variables).
+| UNIT II | TWO-DIMENSIONAL RANDOM VARIABLES | 12 |
+Joint distributions -- Marginal and conditional distributions --
+Covariance -- Correlation and linear regression -- Transformation of
+random variables -- Central limit theorem (for independent
+and identically distributed random variables).
 
 {{{unit}}}
-| UNIT III | 	TESTS OF SIGNIFICANCE | 12 |
-Sampling distributions -Small and large sample test- Test based on
+| UNIT III | TESTS OF SIGNIFICANCE | 12 |
+Sampling distributions -- Small and large sample test -- Test based on
 Normal and t distribution (Single and difference of mean and
-proportion)- \chi^2- Test forgoodness of fit, Independence of attributes-
+proportion)-- \chi^2 -- Test forgoodness of fit, Independence of attributes-
 F test for variance.
 
 {{{unit}}}
-| UNIT IV | 	DESIGN OF EXPERIMENTS | 12 |
-Completely randomized design - Randomized block design - Latin square
-design - factorial design.
+| UNIT IV | DESIGN OF EXPERIMENTS | 12 |
+Completely randomized design -- Randomized block design -- Latin square
+design -- Factorial design.
 
 {{{unit}}}
-|UNIT V| 	STATISTICAL QUALITY CONTROL| 12     |
-Control charts for measurements (X and R charts) - Control charts for
-attributes (p, c and npcharts) - Tolerance limits - Acceptance
+| UNIT V | 	STATISTICAL QUALITY CONTROL | 12 |
+Control charts for measurements (X and R charts) -- Control charts for
+attributes (p, c and npcharts) -- Tolerance limits -- Acceptance
 sampling.
 
-\hfill *Total Periods: 75*
+\hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify standard distributions and apply them.
+- Identify standard distributions and apply them
 - Solve problems in two dimension random variables and find the
-  correlation between them.
+  correlation between them
 - Identify and apply the suitable testing of hypothesis under normal
-  and t and F distribution.
-- Solve problems in analysis of variance.
+  and t and F distribution
+- Solve problems in analysis of variance
 - Analyze quality control by applying control chart methods.
       
 ** TEXT BOOKS
-1. Milton, J. S. and Arnold, J.C., ``Introduction to Probability and
-   Statistics'', Tata McGrawHill, New Delhi, 4th Edition, 3rd
-   Reprint, 2008.
-2. Johnson, R.A. and Gupta, C.B., ``Miller and Freund's Probability and
-   Statistics for Engineers'', Pearson Education, Asia, 8th
-   Edition, 2011.
+1. Milton J S and Arnold J C, ``Introduction to Probability and
+   Statistics'', 4th Edition, 3rd Reprint, Tata McGrawHill, 2008.
+2. Johnson R A and Gupta C B, ``Miller and Freund's Probability and
+   Statistics for Engineers'', 8th Edition, Pearson Education, 2011.
 
 ** REFERENCES
-1. Devore, J.L., ``Probability and Statistics for Engineering and the
-   Sciences'', ThomsonBrooks/Cole, International Student Edition, New
-   Delhi, 7th Edition, 2008.
-2. Walpole, R.E., Myers, R.H., Myers, S.L. and Ye, K., ``Probability
-   and Statistics forEngineers and Scientists'', Pearson Education,
-   Asia, 8th Edition, 2007.
-3. Ross, S.M., ``Introduction to Probability and Statistics for
-   Engineers and Scientists'', Elsevier, New Delhi, 3rd Edition, 2004.
-4. Spiegel, M.R., Schiller, J. and Srinivasan, R.A., ``Schaum’s
+1. Devore J L, ``Probability and Statistics for Engineering and the
+   Sciences'', 7th Edition, ThomsonBrooks/Cole, International Student Edition, 2008.
+2. Walpole R E, Myers R H, Myers S L and Ye K, ``Probability
+   and Statistics for Engineers and Scientists'', 8th Edition, Pearson Education,
+   Asia, 2007.
+3. Ross S M, ``Introduction to Probability and Statistics for
+   Engineers and Scientists'', 3rd Edition,  Elsevier, 2004.
+4. Spiegel M R, Schiller J and Srinivasan R A, ``Schaum’s
    Outline of Theory and Problems of Probability and Statistics'',
-   Tata McGraw Hill, New Delhi, 2004.
-5. Gupta, S.C and Kapoor, V.K., ``Fundamentals of Mathematical
-   Statistics'', Sultan and Chand Company, New Delhi, 2009.
+   Tata McGraw Hill, 2004.
+5. Gupta S C and Kapoor V K, ``Fundamentals of Mathematical
+   Statistics'', Sultan and Chand Company, 2009.

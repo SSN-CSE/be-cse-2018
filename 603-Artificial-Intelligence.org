@@ -1,4 +1,4 @@
-* <<<603>>> ARTIFICIAL INTELLIGENCE
+* <<<504>>> ARTIFICIAL INTELLIGENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. S. Kavitha
 :end:
@@ -8,6 +8,10 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
+
+#+begin_comment:
+This course syllabus is substantially different from the current one in Anna University curriculum as we have followed a different text book. In particular, we do not have a unit on Expert Systems.
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To Study the fundamental concepts of AI agents and environments.

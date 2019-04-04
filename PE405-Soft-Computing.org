@@ -4,6 +4,16 @@
 :date: 
 :end:
 
+
+#+begin_comment
+- 1. One professional elective is offered by the same name in AU 2017
+- 2. Refered other university syllabus.
+- 3. Offered only in AU BE 2017 curriculum
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
+
 #+startup: showall
 
 {{{credits}}}
@@ -12,48 +22,64 @@
 
 ** COURSE OBJECTIVES
 - To learn the basic concepts of Soft Computing 
-- To explore various learning networks in Artificial Neural  networks 
-- To introduce different techniques of fuzzy sets, fuzzy logic and to familiarize with fuzzy inference system
-- To understand the working of  genetic algorithm for  global optimization.
-- To learn possible hybrids of neuro, fuzzy and genetic algorithm with applications
+- To study various Artificial Neural network architectures
+- To learn fuzzy sets, fuzzy logic and fuzzy inference system
+- To understand genetic algorithm for global optimization.
+- To learn hybrids of neuro, fuzzy and genetic algorithm, and their
+  applications.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |
-Introduction: Neural Networks -- Fuzzy Logic -- Genetic Algorithm --
-Hybrid Systems; Artificial Neural Network: Fundamental Concepts --
-Evolution of Neural Networks -- Basic Modals of ANN -- McCulloch and
-Pitts Neuron -- Linear Separability -- Hebb Network.
-
+Introduction: Neural networks -- Fuzzy logic -- Genetic algorithm --
+Hybrid systems; Artificial Neural Network: Fundamental concepts --
+Evolution of neural networks -- Basic modals of ANN -- McCulloch and
+Pitts neuron -- Linear separability -- Hebb network.
+#+start_comment
+Almost same, but removed Hebbian  and  Delta-Perceptron Network-Adaline Network-Madaline Network from AU syllabus
+#+end_comment
 
 {{{unit}}}
-| UNIT II | SUPERVISED LEARNING, ASSOCIATIVE NETWORKS AND UNSUPERVISED LEARNING NETWORK | 11 |
-Perceptron Networks -- Adaptive Linear Neuron -- Multiple Adaptive
-Linear Neurons -- Back propagation Networks -- Radial Bias Function
-Network; Associative Memory Networks: Autoassociative Memory Network
--- Bidirectional Associative Memory -- Hopfield Networks; Unspervised
-learning Networks: Hamming Network -- Kohonen Neural Network --
-Learning Vector Quantization -- Adaptive Resonance Theory Networks.
+| UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
+Supervised Learning Network: Perceptron Networks -- Adaptive linear
+neuron -- Multiple adaptive linear neurons -- Back propagation
+networks -- Radial Bias Function network; Associative Memory Networks:
+Autoassociative memory network -- Bidirectional associative memory --
+Hopfield networks; Unspervised Learning Networks: Hamming network --
+Kohonen neural network -- Learning vector quantization -- Adaptive
+resonance theory networks.
+#+start_comment
+Removed Spike Neuron Models from AU syllabus
+Organised as per supervised, unsupervised learning techniques
+#+end_comment
 
 {{{unit}}}
 | UNIT III | FUZZY SYSTEMS | 9 |
-Introduction to Fuzzy Logic -- Classical Sets and Fuzzy Sets -- Fuzzy
-Relations -- Membership Functions -- Defuzzification Methods -- Fuzzy
-Arithmetic -- Fuzzy Measures -Fuzzy Rule Base and Approximate
-Reasoning -- Fuzzy Decision Making.
+Introduction to fuzzy logic -- Classical sets -- Fuzzy sets -- Fuzzy
+relations -- Membership functions -- Defuzzification methods -- Fuzzy
+arithmetic -- Fuzzy measures -- Fuzzy rule base and approximate
+reasoning -- Fuzzy decision making.
 
 {{{unit}}}
 | UNIT IV | GENETIC ALGORITHMS | 8 |
-Genetic Algorithm and Search Space -- General Genetic Algorithm --
-Operators -- Stopping Condition -- Constraints -- Classification --
-Genetic Programming -- Applications of Genetic Algorithm.
+Genetic Algorithm and search space -- General genetic algorithm --
+Operators -- Stopping condition -- Constraints -- Classification --
+Genetic programming; Applications of genetic algorithm.
+#+start_comment
+Removed individual operator names  in GA 
+Added Constraints, Classification, Genetic programming and Applications
+#+end_comment
 
 {{{unit}}}
 | UNIT V | HYBRID SOFT COMPUTING TECHNIQUES & APPLICATIONS | 9 |
-Neuro-Fuzzy Hybrid Systems - Genetic Neuro Hybrid Systems - Genetic
-Fuzzy Hybrid and Fuzzy Genetic Hybrid Systems; Applications: A fusion
-approach of multispectral images with SAR -- Optimization of Traveling
-Salesman Problem using Genetic Algorithm -- Soft Computing Based
-Hybrid Fuzzy Controllers.
+Neuro-Fuzzy hybrid systems -- Genetic neuro hybrid systems -- Genetic
+fuzzy hybrid and fuzzy genetic hybrid systems; Applications of Soft
+Computing: A fusion approach of multispectral images with SAR --
+Optimization of Traveling Salesman Problem using genetic algorithm --
+Soft computing based hybrid fuzzy controllers.
+#+start_comment
+Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:  A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
+Added Applications of Soft Computing, Optimization of Traveling Salesman Problem using genetic algorithm, Soft computing based hybrid fuzzy controllers.
+#+end_comment
 
 \hfill *Total Periods: 45*
 
@@ -64,25 +90,24 @@ Upon completion of this course, the students should be able to:
 - Design and develop different neural network algorithms (K3)
 - Analyse and apply fuzzy logic and fuzzy inference system (K3)
 - Solve problems using  Genetic Algorithm (K3)
-- Apply various soft computing techniques for complex problems (K3) 
+- Apply various soft computing techniques for complex problems (K3).
 
 ** TEXT BOOKS
-1. S.N.Sivanandam , S.N.Deepa, ``Principles of Soft Computing'', Wiley
-   India Pvt. Ltd., 2nd Edition, 2011.
+1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
+   India, 2nd Edition, 2011.
 2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
    and Soft Computing'', Prentice-Hall of India, 2002.
 
 ** REFERENCES
-1. Kwang H.Lee, ``First course on Fuzzy Theory and Applications'',
+1. Kwang H Lee, ``First course on Fuzzy Theory and Applications'',
    Springer, 2005.
-2. George J. Klir and Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and
+2. George J Klir, Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and
    Applications'', Prentice Hall, 1996.
-3. James A. Freeman and David M. Skapura, ``Neural Networks
-   Algorithms, Applications, and Programming Techniques'', Addison
-   Wesley, 2003.
-4. S.Rajasekaran, G.A.Vijayalakshmi Pai, ``Neural Networks, Fuzzy
+3. James A Freeman, David M Skapura, ``Neural Networks Algorithms,
+   Applications, and Programming Techniques'', Addison Wesley, 2003.
+4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
    Logic and Genetic Algorithm, Synthesis and Applications'', PHI
-   Learning Pvt. Ltd., 2017.
-5. N.P.Padhy, S.P.Simon, ``Soft Computing with MATLAB Programming'',
+   Learning, 2017.
+5. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'',
    Oxford University Press, 2015.
 

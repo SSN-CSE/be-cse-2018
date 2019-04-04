@@ -1,0 +1,80 @@
+#+title: Typesetting Conventions for Syllabus
+#+author: 
+#+OPTIONS: toc:nil
+
+* Units
+  - Edit your syllabus files directly in github.
+  - The UNIT titles should be all upper case.\\
+    =| UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |=
+  - A unit may have headings and has topics.
+  - If a unit has headings, headings should be in title case. Follow a
+    heading with a colon.
+  - Separate topics with two dashes (=--=). Leave space before and after the
+    double-dash.
+  - Topics should be in sentence case (start with upper case). End the
+    last topic under a heading with a semicolon.
+  - End a unit with a period.
+  - Do not leave space before any punctuation symbol, except double
+    dash. Leave space before and after double dash. Always leave a
+    space after any puctuation symbol.
+  - Course objectives: no punctuation at the end of an
+    objective. End the last objective with a period.
+  - Course outcomes: after each outcome, leave a space, and then
+    specify the knowledge level in parentheses. No punctuation at the
+    end of an outcome. End the last outcome with a period.
+
+* Example
+    #+BEGIN_EXAMPLE
+    | UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
+    Supervised Learning Network: Perceptron networks -- Adaptive linear
+    neuron -- Multiple adaptive linear neurons -- Back propagation
+    networks -- Radial Bias Function network; Associative Memory Networks:
+    Autoassociative memory network -- Bidirectional associative memory --
+    Hopfield networks; Unspervised Learning Networks: Hamming network --
+    Kohonen neural network -- Learning vector quantization -- Adaptive
+    resonance theory networks.
+    #+END_EXAMPLE
+  - =Supervised Learning Network= and =Associative Memory Networks=
+    are headings. They are in title case and followed by colon.
+  - =Perceptron networks -- Adaptive linear neuron= are topics
+    separated by =--= (double dash).
+  - =Radial Bias Function network;= is the last topic under the
+    heading =Supervised Learning Network=. It is ended with =;=
+    (semicolon).
+  - =Adaptive resonance theory networks.= is the last topic of the
+    unit. It is ended with =.= (period).
+
+* Books
+  - A book reference should have these parts: authors, title, publisher,
+    edition (if any), year.
+  - Authors, titles, publishers, and editions should be in title case.
+  - An author name should be in title case.
+  - Do not punctuate (not even period) between the parts of author name.
+  - Separate the authors with comma. Do not use =and= before the last
+    author. 
+  - The title of the book should be in title case (words such as =the=,
+    =of=, =and= should be in lower case).
+  - Delimit the title with two backticks (=``=) at the start and two single
+    quotes (=''=) at the end.
+  - Drop such words as =Pvt=, and =Ltd=. in the publishers.
+  - End year with a period.
+    #+BEGIN_EXAMPLE
+      ** TEXT BOOKS
+      1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
+      India, 2nd Edition, 2011.
+      2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
+      and Soft Computing'', Prentice-Hall of India, 2002.
+    #+END_EXAMPLE
+
+* Notes
+  - If the subject was in Anna University 2017 currculum, then include
+    notes about the changes.
+  - Include your notes before the course objectves, between the
+    following tags.\\  
+    =#+begin_comment= 
+
+    =... your notes ...= 
+
+    =#+end_comment= 
+  - You can also include notes at the end of every unit, using the
+    same tags.

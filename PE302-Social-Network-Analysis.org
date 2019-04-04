@@ -13,52 +13,84 @@
 ** COURSE OBJECTIVES
 - To understand the social network concepts, measures and data  
 - To learn mathematical representation of social networks
-- To be exposed to community detection methods and applications
-- To understand the privacy and security issues in social network
-- To learn visualization of social networks
+- To be familiar with community detection methods and applications
+- To understand privacy and security issues in social network
+- To visualize social networks.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Social Network analysis: Development of Social Network Analysis - Key concepts and measures in network analysis - Electronic sources for network analysis: Electronic discussion networks, Blogs and online communities - Web-based networks - Social Network Data : Introduction, Boundary specification and sampling, Types of networks, Network data, Measurement and Collection
+Social Network analysis: Development of Social Network Analysis -- Key
+concepts and measures in network analysis -- Electronic sources for
+network analysis: Electronic discussion networks -- Blogs and online
+communities -- Web-based networks -- Social Network Data: Introduction --
+Boundary specification and sampling -- Types of networks -- Network data --
+Measurement and Collection.
 
 {{{unit}}}
 |UNIT II | MATHEMATICAL REPRESENTATION OF SOCIAL NETWORKS | 9 |
-Notations for Social Networks:  Graph Theoretic Notations, Sociometric Notations, Algebraic Notations, Two Sets of Actors  - Graph and Matrices
+Notations for Social Networks: Graph Theoretic Notations -- Sociometric
+Notations -- Algebraic Notations -- Two Sets of Actors -- Graph and
+Matrices.
 
 {{{unit}}}
 |UNIT III | COMMUNITY DETECTION METHODOLOGIES, APPLICATIONS | 9 |
-Introduction - Definition of Communities - Evaluating Communities - Methodologies of Network Community Mining: Optimization based algorithms, Heuristic methods, Other methods - Applications of Community Mining Algorithms - - Multi-Relational characterization of dynamic social network communities.
+Introduction - Definition of Communities -- Evaluating Communities --
+Methodologies of Network Community Mining: Optimization based
+algorithms -- Heuristic methods -- Other methods -- Applications of
+Community Mining Algorithms -- Multi-Relational characterization of
+dynamic social network communities.
 
 {{{unit}}}
 |UNIT IV | PRIVACY IN ONLINE SOCIAL NETWORKS | 9 |
-Managing Trust in Online Social Networks:  Trust in Online Environment, Trust Models Based on Subjective Logic, Trust Network Analysis, Trust Transitivity Analysis, The Dirichlet Reputation System, Combining Trust and Reputation - Security and privacy in online social networks: Security Objectives: Privacy, Integrity, and Availability, Attack Spectrum and Countermeasures.
+Managing Trust in Online Social Networks: Trust in Online Environment --
+Trust Models Based on Subjective Logic -- Trust Network Analysis -- Trust
+Transitivity Analysis -- The Dirichlet Reputation System -- Combining
+Trust and Reputation - Security and privacy in online social networks:
+Security Objectives: Privacy -- Integrity -- Availability -- Attack
+Spectrum and Countermeasures.
 
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
-Graph theory - Centrality - Clustering - Node-Edge Diagrams - Matrix representation – Visualizing online social networks, Visualizing social networks with matrix-based representations - Matrix and Node-Link Diagrams - Hybrid representations - Applications - Covert networks - Community welfare - Collaboration networks - Co-Citation networks.
-
-
+Graph theory -- Centrality -- Clustering -- Node-Edge Diagrams -- Matrix
+representation -- Visualizing online social networks -- Visualizing
+social networks with matrix-based representations -- Matrix and
+Node-Link Diagrams -- Hybrid representations -- Applications -- Covert
+networks -- Community welfare -- Collaboration networks -- Co-Citation
+networks.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
-- Represent mathematically social networks (K2)
-- Select appropriate community detection algorithm for online Social networks (K3)
+- Represent social networks mathematically (K2)
+- Select appropriate community detection algorithm for online Social
+  networks (K3)
 - Explain the privacy and security concepts in online Social networks (K2) 
-- Apply Visualization to social networks (K3)
+- Apply visualization to social networks (K3).
 
 ** TEXTBOOKS
-1. Peter Mika, “Social Networks and the Semantic Web”, First Edition, Springer 2007.    (Unit I)
-2. Stanley Wasserman and Katherine Faust, "Social Network Analysis methods and applications",  1st Edition, Cambridge University Press. (Unit I, Unit II)
-3. Borko Furht, “Handbook of Social Network Technologies and Applications”, 1st Edition, Springer,2010. (Unit III, Unit IV, Unit V)
+1. Peter Mika, ``Social Networks and the Semantic Web'', First Edition,
+   Springer, 2007. 
+2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis
+   Methods and Applications'', 1st Edition, Cambridge University
+   Press, 1994.
+3. Borko Furht, ``Handbook of Social Network Technologies and
+   Applications'', 1st Edition, Springer, 2010.
 
       
 ** REFERENCES
-1. John Scott, "Social Network Analysis", 4th Edition, SAGE Publications Ltd.
-2. Stephen P. Borgatti, Martin G. Everett and Jeffrey G. Johnson,  "Analyzing Social Networks ", SAGE Publications Inc., 2nd Edition, 2018.
-3. Robert A. Hanneman and Mark Riddle, "Introduction to social network methods", 2005.
-4. Charles Kadushin, "Understanding Social Networks: Theories, Concepts, and Findings",  1st Edition, Kindle Edition, Oxford University Press. 
-5. Guandong Xu ,Yanchun Zhang and Lin Li, “Web Mining and Social Networking – Techniques and applications”, First Edition Springer, 2011.
+1. John Scott, ``Social Network Analysis'', 4th Edition, SAGE
+   Publications, 2017.
+2. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson,
+   ``Analyzing Social Networks'', SAGE Publications, 2nd
+   Edition, 2018.
+3. Robert A Hanneman, Mark Riddle, ``Introduction to social network
+   methods'', University of California, Riverside, 2005.
+4. Charles Kadushin, ``Understanding Social Networks: Theories,
+   Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
+   University Press, 2012.
+5. Guandong Xu ,Yanchun Zhang, Lin Li, ``Web Mining and Social
+   Networking – Techniques and applications'', First Edition
+   Springer, 2011.
 

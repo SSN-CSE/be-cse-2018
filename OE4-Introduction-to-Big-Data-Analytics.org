@@ -1,74 +1,86 @@
-* <<<OE4>>> Introduction to Big Data Analytics
+* INTRODUCTION TO BIG DATA ANALYTICS
 :properties:
-:author: R. Priyadharsini, S.Rajalakshmi 
+:author: J Suresh
+:date: 27 March 2019
 :end:
 
-#+startup: showall
-
 {{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 2 | 3 |
+|L|T|P|C|
+|2|0|2|3|
 
-** Course Objectives
--	To know the fundamental concepts of big data and analytics.
--	To explore tools and practices for working with big data.
--	To learn about stream computing.
--	To know about the research that requires the integration of large amounts of data.
+** COURSE OBJECTIVES
+- To understand the competitive advantages of big data analytics 
+- To understand the distributed storage for big data
+- To learn distributed method for processing of big data
+- To understand how to represent unstructured data using NoSQL and processing
+- To learn how statistical methods are used for analyzing big data
 
-{{{unit}}}
-|UNIT I | INTRODUCTION TO BIG DATA | 6 |
-Evolution of Big data: Best Practices for Big data Analytics - Big data characteristics - Validating The Promotion of the Value of Big Data - Big Data Use Cases; Characteristics of Big Data Applications ; Perception and Quantification of Value ; Understanding Big Data Storage: HDFS; Map Reduce Programming Model.
 
 {{{unit}}}
-|UNIT II | CLUSTERING AND CLASSIFICATION | 6 |
-Advanced Analytical Theory and Methods: Overview of Clustering - K-means - Use Cases; Classification: Decision Trees - Overview of a Decision Tree - The General Algorithm - Decision Tree Algorithms - Evaluating a Decision Tree ; Naïve Bayes - Bayes‘ Theorem - Naïve Bayes Classifier.
+|Unit I|Introduction to Big Data|7| 
+Introduction -- Understanding Big Data -- Big Data: Benifitting --
+Managing -- Organizing and Analyzing Big Data: Learning and Analytics;
+Technology Challenges for Big Data.
 
 {{{unit}}}
-|UNIT III | ASSOCIATION AND RECOMMENDATION SYSTEM | 6 |
-Association Rules: Overview - Apriori Algorithm - Evaluation of Candidate Rules - Applications of Association Rules;  Recommendation System: Collaborative Recommendation - Content Based Recommendation. 
+|Unit II| HDFS |9| 
+Introduction -- Distributed File System -- Google File System -- HDFS
+Design Goals -- Using HDFS.
 
 {{{unit}}}
-|UNIT IV | STREAM DATA ANALYSIS | 6 |
-Introduction to Streams Concepts: Stream Data Model and Architecture - Stream Computing; Sampling Data in a Stream: Filtering Streams - Counting Distinct Elements in a Stream - Estimating moments - Counting oneness in a Window - Decaying Window. 
+|Unit III|Data Processing using MapReduce |10| 
+Introduction -- MapReduce Overview -- Working of MapReduce --
+Programming -- Writing and Testing MapReduce Programs
 
 {{{unit}}}
-|UNIT V | NOSQL DATA MANAGEMENT | 6 |
-NoSQL Databases : Schema-less Models; Increasing Flexibility for Data Manipulation : Key Value Stores - Document Stores - Tabular Stores - Object Data Stores; Graph Databases Hive - Sharding - Hbase. 
+|Unit IV|NoSQL|9|
+Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage
+Types -- Advantages and Drawbacks - NoSQL Database Framework: Hive and
+HBase
+
+{{{unit}}}
+|Unit V|Data Analysis |10|
+Statistical Methods: Regression modelling – Multivariate analysis;
+Classification: SVM – Decision Trees; Linear Classifiers
 
 ** SUGGESTIVE EXPERIMENTS
-1.	 Statistical data analysis
-2.	 Decision tree classification techniques (Flower type classification based on available attributes using Iris dataset, Passengers survival classification using titanic dataset)
-3.	 K-means clustering (Document categorization by multiclass techniques)
-4.	Association rule mining (Market basket analysis) 
-5.	Set up of Hadoop environment
-6.	Applications using Map-Reduce programming (Examples: word count / frequency programs / matrix multiplication)
-7.	Application that stores data in NoSQL (Sentiment analysis using twitter dataset)
+- Hadoop
+  1. Applications using Map-Reduce programming (Examples: word count /
+     frequency programs / matrix multiplication)
 
- 
-*Theory Periods: 30*
+- R
+  1. Linear and logistic Regression (Loan prediction using Credit approval dataset, Sales prediction using  Bigmart  dataset)
+  2. SVM / Decision tree classification techniques (Flower type classification based  on available attributes using  Iris dataset, Passengers survival classification using  titanic dataset)
+  3. Clustering (Document categorization by multiclass techniques)
+  4. Visualize  data  using  any plotting framework
 
-*Practical Periods: 30*
+- Database
+  1. Application that stores data  in Hbase (Sentiment analysis using  twitter dataset)
 
-*Total Periods: 60*
+\hfill *Total: 60*
 
-** Course Outcomes
-After the completion of this course, students will be able to: 
--	Work with big data tools and its analysis techniques (K3)
--	Analyze data by utilizing clustering and classification algorithms (K4)
--	Learn and apply different mining algorithms and recommendation systems for large volumes of data (K3)
--	Perform analytics on data streams (K2)
--	Learn NoSQL databases and management.(K2)
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to: 
+- Understand how to leverage the insights from big data analytics (K2)
+- Understand and apply distributed computing for better storage of data (K3)
+- Develop applications using Hadoop related tools(K4)
+- Use database frameworks like Hive  and  Hbase for data  analysis(K3)
+- Solve applications using  statistical and data  analytic methods (K3)
 
-      
-**Text Books
-1. Anand Rajaraman and Jeffrey David Ullman, "Mining of Massive Datasets", Cambridge University Press, 2012.
-2.	David Loshin, "Big Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph", Morgan Kaufmann/El sevier Publishers, 2013.
+** TEXT BOOKS
+1. Parag Kulkarni, Sarang Joshi, ``Big Data Analytics'', PHI
+   Learning, 2016.
+2. Anil Maheshwari, ``Big Data Essentials'', McGraw Hill, 2019
 
-
-**Reference Books
-1. 1.	EMC Education Services, "Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data", Wiley publishers, 2015.
-2.	Bart Baesens, "Analytics in a Big Data World: The Essential Guide to Data Science and its Applications", Wiley Publishers, 2015.
-3.	Dietmar Jannach and Markus Zanker, "Recommender Systems: An Introduction", Cambridge University Press, 2010.
-4.	Kim H. Pries and Robert Dunnigan, "Big Data Analytics: A Practical Guide for Managers " CRC Press, 2015.
-5.	Jimmy Lin and Chris Dyer, "Data-Intensive Text Processing with MapReduce", Synthesis Lectures on Human Language Technologies, Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
+** REFERENCES
+1. Arshdeep Bahga, Vijay Madisetti, ``Big Data Analytics: A Hands-On
+   Approach'',  Published by A Hands-on Approach Textbooks,  2016.  
+2. Bill Franks, ``Taming the Big Data Tidal Wave: Finding
+   Opportunities in Huge Data Streams with Advanced Analytics'', John
+   Wiley & sons, 2012. 
+3. Gaurav Vaish, ``Getting Started with NoSQL'', Packt Publishing
+   Ltd, 2013.
+4. E. Capriolo, D. Wampler, and J. Rutherglen, ``Programming Hive'',
+   O'Reilly, 2012.
+5. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
 

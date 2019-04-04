@@ -10,8 +10,16 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment:
+
+We are not aware of any Expert Systems course in Anna University
+curriculum. This syllabus is completely independent of any Expert
+System course.
+
+#+end_comment
+
 ** COURSE OBJECTIVES
-- To learn Resolution for Propositional and Predicate Logic
+- To learn resolution for Propositional and Predicate Logic
 - To learn inference in Production Systems
 - To learn inheritance in Frames
 - To learn the various techniques of handling uncertainty in Expert Systems
@@ -19,12 +27,11 @@
 
 {{{unit}}}
 |UNIT I|FOUNDATIONS|8|
-Introduction: Expert Systems & AI -- Examples -- Separating Knowledge
-& Inference -- A Problem Domain; Introduction to PROLOG: Logic
-Programming -- Programming in PROLOG -- Overview of PROLOG Language;
-Introduction to LISP: Fundamental Principles of LISP -- Overview of
-LISP Language.
-
+Introduction: Expert Systems & AI -- Examples -- Separating knowledge
+& inference -- A problem domain; Introduction to LISP: Fundamental
+Principles of LISP -- Overview of LISP Language; Introduction to
+PROLOG: Logic Programming -- Programming in PROLOG -- Overview of
+PROLOG Language.
 
 {{{unit}}}
 |UNIT II|LOGIC & REASONING |10|
@@ -34,7 +41,6 @@ Propositional Logic -- Resolution and First Order Logic -- Resolution
 Strategies -- Implementation of SLD Resolution -- Applying Logic for
 building Expert Systems.
 
-
 {{{unit}}}
 |UNIT III|PRODUCTION SYSTEMS & FRAMES|10|
 Production Rules and Inference: Knowledge representation in a
@@ -42,7 +48,6 @@ production system -- Inference in a production system -- Production
 rules as a representation formalism; Frames and Inheritance: Semantic
 Nets -- Frames and single inheritance -- Frames and multiple
 inheritance -- Frames as a representation formalism.
-
 
 {{{unit}}}
 |UNIT IV|UNCERTAINTY|10|
@@ -58,16 +63,16 @@ The OPS5 interpreter -- The rete algorithm -- Building expert systems
 using OPS5; CENTAUR: Prototypes -– Facts -- Reasoning in CENTAUR.
 
 
-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develope programs in Prolog (K3)
-- Develope programs in LISP (K3)
 - Implement SLD resolution using LISP (K3)
+- Develop programs in Prolog (K3)
+- Explain and compare the different models of uncertainty (K3)
 - Use OSP5 interpreter (K2)
-- Build a knowledge base for a particular problem domain, using PROLOG and/or LISP (K3)
+- Build a knowledge base for a particular problem domain, using PROLOG
+  and/or LISP (K3)
 
 
 ** TEXT BOOKS

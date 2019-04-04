@@ -1,4 +1,4 @@
-* <<<PE106>>> WIRELESS ADHOC AND SENSOR NETWORKS 
+* <<<PE106>>> WIRELESS AD HOC AND SENSOR NETWORKS 
 :properties:
 :author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :end:
@@ -10,25 +10,28 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To learn about the issues and challenges in the design of wireless ad hoc networks.
-- To understand the working of MAC Protocols for ad hoc and sensor networks
-- To understand the working of Routing Protocols for ad hoc and sensor networks
+- To learn about the issues and challenges in the design of wireless
+  ad hoc networks.
+- To understand the working of MAC Protocols for ad hoc and sensor
+  networks
+- To understand the working of Routing Protocols for ad hoc and sensor
+  networks
 - To learn about the Transport Layer protocols and their QoS for ad
   hoc and sensor networks.
 - To understand various security issues in ad hoc and sensor networks
   and the corresponding solutions.
 
 {{{unit}}}
-|UNIT I | MAC AND ROUTING IN ADHOC NETWORKS | 9 |
+|UNIT I | MAC AND ROUTING IN AD HOC NETWORKS | 9 |
 Introduction -- Issues and challenges in ad hoc networks -- MAC Layer
 Protocols for wireless ad hoc networks -- Contention-Based MAC
-protocols -- MAC Protocols Using Directional Antennas --
+protocols -- MAC Protocols using Directional Antennas --
 Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing
 in Adhoc Networks -- Design Issues -- Proactive, Reactive and Hybrid
 Routing Protocols
 
 {{{unit}}}
-|UNIT II | TRANSPORT AND QOS IN ADHOC NETWORKS | 9 |
+|UNIT II | TRANSPORT AND QOS IN AD HOC NETWORKS | 9 |
 TCP's challenges and Design Issues in Ad Hoc Networks -- Transport
 protocols for ad hoc networks -- Issues and Challenges in providing
 QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS
@@ -38,7 +41,7 @@ Model
 |UNIT III | MAC AND ROUTING IN WIRELESS SENSOR NETWORKS | 9 |
 Introduction -- Applications -- Challenges -- Sensor network
 architecture -- MAC Protocols for wireless sensor networks -- Low duty
-cycle protocols and wakeup concepts -- ContentionBased protocols --
+cycle protocols and wakeup concepts -- Contention Based protocols --
 Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control
 -- Routing Protocols
 
@@ -62,19 +65,23 @@ protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify different issues in wireless ad hoc and sensor networks .(K2)
-- Analyze the MAC protocols developed for ad hoc and sensor networks .(K2)
-- Understand the working of routing protocols for ad hoc and sensor networks(K2)
-- AnalyseTransport Layer protocols and their QoS  and to apply them for ad hoc and sensor
-  networks.(K3)
-- Identify and understand security issues in ad hoc and sensor networks. (K2)
+- Identify different issues in wireless ad hoc and sensor networks
+  (K2)
+- Analyze the MAC protocols developed for ad hoc and sensor networks
+  (K2)
+- Understand the working of routing protocols for ad hoc and sensor
+  networks (K2)
+- Analyse Transport Layer protocols and their QoS and to apply them for
+  ad hoc and sensor networks (K3)
+- Identify and understand security issues in ad hoc and sensor
+  networks (K2)
 
 
 ** TEXT BOOKS 
-1. C.Siva Ram Murthy and B.S.Manoj, ``Ad Hoc Wireless Networks –
+1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks –
    Architectures and Protocols'', Pearson Education, 2006.
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for
-   Wireless Sensor Networks'', John Wiley & Sons, Inc., 2005.
+   Wireless Sensor Networks'', John Wiley & Sons, 2005.
 
 ** REFERENCES
 1. Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile
@@ -86,5 +93,5 @@ After the completion of this course, students will be able to:
    Wireless Sensor Networks Theory and Practice'', John Wiley and
    Sons, 2010
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
-   Applications'', 1227th edition, Cambridge university Press,2008.
+   Applications'', Cambridge university Press, 2008.
 

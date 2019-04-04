@@ -11,24 +11,34 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the key aspects of managerial process in Software organization.
-- To  apply the practices followed in project planning, estimation, and scheduling
-- To gain knowledge of the overall project activities in Agile and Devops
+- To learn the key aspects of managerial process in software
+  organization.
+- To apply the practices followed in project planning, estimation, and
+  scheduling
+- To be familiar with the overall project activities in Agile and
+  DevOps
 - To study the various issues in people management
-- To distinguish between security and risk activities related with software development 
+- To distinguish between security and risk activities related with
+  software development
 
 {{{unit}}}
 |UNIT I | PROJECT PLANNING| 9 |
 Project management life cycle -- project evaluation and programme
-management - project planning -- project models : waterfall -- spiral
+management -- project planning; Project models: waterfall -- spiral
 -- prototyping -- incremental delivery -- DSDM -- agile -- scrum --
 XP; lean software development -- process model selection.
+#+begin_comment
+...Included project model in Unit I instead of having it in AU-Unit II...
+#+end_comment
 
 {{{unit}}}
 |UNIT II | ESTIMATION AND SCHEDULING | 9 |
 Effort estimation techniques: Expert judgement -- FPA -- FP mark II --
 COSMIC -- COCOMO II -- cost estimation; project schedules -- network
 model -- identifying critical activities.
+#+ begin _comment
+...Included scheduling in Unit II instead of having it in AU-Unit III...
+#+end_comment
 
 {{{unit}}}
 |UNIT III | AGILE AND DEVOPS | 9 |
@@ -36,6 +46,9 @@ SCRUM: organization -- estimation -- planning -- changes in scrum --
 risk in scrum -- product backlog -- sprint backlog -- release --
 Identifying Stories and Preparing to Build; DevOps: Motivation --
 Cloud as a platform -- Operations -- Deployment Pipeline.
+#+ begin _comment
+...New process model is added in syllabus which is not provided in AU...
+#+end_comment
 
 {{{unit}}}
 |UNIT IV | SECURITY AND RISK MANAGEMENT | 9 |
@@ -43,6 +56,10 @@ Cloud Information Security Objectives -- Cloud Security Services --
 Secure Development Practices -- Risk culture -- risk management
 process -- risk attributes -- risk identification -- types of risk
 analysis -- responding to risk -- risk tracking -- risk models.
+#+ begin _comment
+...Added security topic in syllabus, which is not provided in AU...
+...Added risk in Unit IV instead of AU-Unit III...
+#+end_comment
 
 {{{unit}}}
 |UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
@@ -50,33 +67,40 @@ Visualizing Progress: Relationship between people and effort -- Task
 Set & Network -- Earned Value Analysis -- SCM -- Managing Contracts -–
 Working in teams -- Developing metrics on a software development
 program -- Evaluating performance.
+#+ begin _comment
+...Included monitoring topics in Unit V instead of AU-Unit IV...
+#+end_comment
+
+
 
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development.(K2)
+- Select a process model for software development (K2)
 - Estimate cost to manage the software development (K3)
-- Develop a project using agile and devops software development practices(K3)
-- Identify the activities of security and risk in various types of software projects(K1)
-- Recognize management skills and techniques to develop commercial software projects(K2)  
+- Develop a project using agile and devops software development
+  practices (K3)
+- Identify the activities of security and risk in various types of
+  software projects (K1)
+- Recognize management skills and techniques to develop commercial
+  software projects (K2)
       
 ** TEXT BOOKS
 1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', Sixth Edition, Tata McGraw Hill, 2018.
+   Management'', 6th Edition, Tata McGraw Hill, 2018.
 2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
    for Software Project Managers'', Auerbach Publication, 2007
 
 ** REFERENCES
 1. Roger S. Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', Seventh Edition, Mc Graw-Hill International
+   Approach'', 7th Edition, Mc Graw-Hill International
    Edition, 2010.
 2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
    PHI Learning Pvt. Ltd., 2009.
-3. ``A Guide to the Scrum Body of Knowledge (SBOK Guide)'', 2016
+3. Tridibesh Satpathy, ``A Guide to the Scrum Body of Knowledge (SBOK Guide)'', 2016
    edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
 4. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016.
 5. Ronald L. Krutz, Russell Dean Vines, ``Cloud Security -- A
-   comprehensive Guide to Secure Cloud Computing'', Wiley –
-   India, 2010.
+   comprehensive Guide to Secure Cloud Computing'', Wiley-India, 2010.
 

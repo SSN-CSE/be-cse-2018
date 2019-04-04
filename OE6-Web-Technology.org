@@ -1,6 +1,6 @@
 * <<<OE6>>> WEB TECHNOLOGY
 :properties:
-:author: Dr. V.S. Felix Enigo 
+:author: Dr. V. S. Felix Enigo 
 :end:
 
 #+startup: showall
@@ -10,60 +10,42 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
-- Understand the Web Client/Server environment. 
-- Learn to design static web pages using HTML and CSS.
-- Learn to design interactive websites using Java Script and DOM.
-- Be familiar with creating web applications using Servlets.  
-- Be exposed to developing web applications using JSP.
+-To learn to design static web pages using HTML5 and CSS3
+-To learn to develop client side scripts using JavaScript
+-To learn to write server side scripts using Node.js 
+-To learn to develop web application using ExpressJS.
+
 
 {{{unit}}}
-|UNIT I | WEBSITE BASICS, HTML5  | 6   |
-Web Essentials: Clients, Servers and Communication – The Internet –
-Basic Internet protocols – World Wide web – HTTP Request Message –
-HTTP Response Message – Web Clients – Web Servers – Introducing HTML5
-– Structuring pages with Semantic elements – Writing more meaningful
-Markup – Building better Forms – Audio and Video.
+|UNIT I | WEB PAGE DESIGN USING HTML5 | 6 |
+HTML Basics -- Document Structure -- Formatting Texts -- Lists and Backgrounds -- Hyperlinks and Anchors -- Navigation -- Layouts -- Tables -- Forms -- Sound and Videos.
 
 {{{unit}}}
-|UNIT II | STYLING WITH CASCADING STYLE SHEETS  | 6   |
-CSS3 Basics - HTML for CSS – Styles and Style Sheets - Selectors -
-Style Inheritance – Cascading – Formatting Texts – Margins, Padding
-and Borders – CSS Transforms, Transitions and Animations - Formatting
-Tables and Forms.
+|UNIT II | STYLING WEBPAGE WITH CSS3 | 6 |
+HTML for CSS –- Creating Styles and Style Sheets –- Selectors –- Formatting Texts -– Margin, Padding and Borders –- Adding Graphics to web pages -– Navigation bars and links -- Formatting Tables and Forms.
 
 {{{unit}}}
-|UNIT III | INTERACTIVE CLIENT SIDE SCRIPTING  | 6   |
-An introduction to JavaScript – JavaScript DOM Model - Date and
-Objects - Regular Expressions- Exception Handling-Validation-Built-in
-objects-Event Handling - Host Objects: Browsers and the
-DOM-Introduction to the Document Object Model -Intrinsic Event
-Handling-Modifying Element Style-The Document Tree-DOM Event Handling.
+|UNIT III | CLIENT SIDE JAVA SCRIPT | 6 |
+Introduction to Java script:  JavaScript usage -- Role in Web page -- Role in Web Development; Script setup –- Data Types, Literals, Variables -– Dialog box –- Operators –- Conditionals & loops –- Functions –- Objects –- Core Objects -- Working with forms, images -- Handling Events.   
 
 {{{unit}}}
-|UNIT IV | SERVER SIDE SCRIPTING | 6   |
-Introduction to Java Servlets- Architecture - Overview - A
-Servlet-Generating Dynamic Content-Life Cycle- Parameter
-Data-Sessions-Cookies-URL Rewriting.
+|UNIT IV | SERVER SIDE JAVASCRIPT WITH NODE AND EXPRESS | 6 |
+Introduction to Express -- Introduction to Node -– Saving time with Express: Scaffolding ExpressJS -– Views and Layouts -– Static and Dynamic Content in Views; Request and Response Objects -– Templating with Handlebars. 
 
 {{{unit}}}
-|UNIT V | ADVANCED SERVER SIDE SCRIPTING | 6   |
-Separating Programming and Presentation: JSP Technology
-Introduction-JSP and Servlets-Running JSP Applications Basic
-JSP-JavaBeans Classes and JSP-Tag Libraries.
+|UNIT V | BUILDING WEB APPLICATION	 | 6 |
+Form Handling: Sending Client data to Server -- HTML forms -- Different approaches for form handling -- Form Handling with Express; Persistence -- Routing –- Handling Static Content –- Debugging.
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
-- To design a web page using HTML5 semantic elements (Eg. Table, article, aside, details, figure, nav etc.)
-- Design a web page using form controls and perform in-build validation (Eg. Login form, Registration form)
-- Use Embedded, inline and External Style sheets for styling a web page
+- Design a Personal website using HTML5 elements. 
+- Design a web page using form controls and perform in-built validation (e.g. Login form, Registration form)
+- Use Embedded, Inline and External Style sheets for styling a web page
 - Use Selectors to format texts, margins, padding, borders, tables, forms for a web page
-- Develop a Java script application using events (Eg. Calculator, Tic Tac Toe game)
-- Design a web page where the content, formatting change dynamically using DOM 
-- Develop 2-tier web application using HTML form and Servlet 
-- Develop 3 –tier web application using HTML Form, Servlet and Database (Eg. Login Authentication, payroll management system)
-- Develop a JSP based 3-tier web application using Scriptlet tags 
-- Develop a JSP based 2-tier web application using JSTL Tags
+- Develop Java script programs using event handling mechanism (e.g. Calculator, Tic Tac Toe game)
+- Develop a web application for personal website using ExpressJS
+- Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
 
 
 \hfill *Practical Periods: 30*
@@ -72,28 +54,22 @@ JSP-JavaBeans Classes and JSP-Tag Libraries.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Use Web Client/Server environment for developing applications. (K3)
-- Design static Web pages using HTML and CSS.  (K3)
-- Design interactive websites using Java Script and DOM. (K3)
-- Create web application using Servlets. (K3)
-- Develop efficient web application using JSP. (K3)
+- Design static web pages using HTML5 (K3)
+- Style the web pages using CSS3 (K3)
+- Develop client side scripts using JavaScript (K3)
+- Create server side scripts using Node.js (K3)
+- Develop web applications using ExpressJS. (K3)
       
 ** TEXT BOOKS
-1. Jeffrey C. Jackson, ``Web Technologies -- A Computer Science
-   Perspective'', Pearson Education, 2006. (Unit I)
-2. Mathew Mac Donald, ``HTML5: The Missing Manual'', O'Reilly, 2nd
-   Edition, 2013.  (Unit – I, III, IV and V)
-3. David McFarland, ``CSS3: The Missing Manual'', 3rd Edition,
-   O'Reilly, December 2012. (Unit II)
+1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft, O'Reilly, 2013. (Unit I)
+2. David McFarland, ``CSS3: The Missing Manual'', 3rd Edition, , O'Reilly, December 2012. (Unit II)
+3. Ellie Quigley, ``JavaScript by example'', Second Edition, Prentice Hall, 2011. (Unit III)
+4. Ethan Brown, ``Development with Node and Express'', O’Reilly, 1st Edition, July 2014. (Unit IV, Unit V) 
 
 ** REFERENCE BOOKS
-1. Jennifer Niederst Robbins, ``Learning Web Design'', O'Reilly, 4th
-   Edition.
-2. Robert. W. Sebesta, ``Programming the World Wide Web'', Fourth
-   Edition, Pearson Education, 2007.
-3. Deitel, Deitel, Goldberg, ``Internet & World Wide Web How To
-   Program'', Third Edition, Pearson Education, 2006.
-4. Marty Hall and Larry Brown, ``Core Web Programming'', Second
-   Edition, Volume I and II, Pearson Education, 2001.
-5. Bates, ``Developing Web Applications'', Wiley, 2006.
+1. Jennifer Niederst Robbins, ``Learning Web Design'', O'Reilly, 4th Edition, 2012.
+2. Robert. W. Sebesta, ``Programming the World Wide Web'', Fourth Edition, Pearson Education, 2007.
+3. Shelly Powers, ``Learning JavaScript'', O'Reilly, Second Edition, 2008.
+4. Basaret Ali Syed, ``Beginning Node.js'', Apress, December 2014.
+5. Azat Mardan, ``Express.js Guide'', Lean Publishing, 2014.
 

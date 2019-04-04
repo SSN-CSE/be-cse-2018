@@ -4,6 +4,26 @@
 :date: 
 :end:
 
+
+#+begin_comment
+
+- 1. Almost the same as AU
+- 2. No changes 
+- 3. Few topics of First unit in PG subject "Multicore Architectures
+  and GPU Computing" are matching which is essential for understanding
+  the basics. The rest of the four units are different.  With respect
+  to the PG Elective paper "Parallel Programming", the following
+  observations are noticed:
+  + Few topics in Unit 1 of both the subjects are matched.
+  + Third unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is
+    same as fourth unit of PE231-Parallel Programming of PG syllabus.
+  + Fourth unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING
+    is same as second unit of PE231-Parallel Programming of PG
+    syllabus.
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -25,7 +45,7 @@ Architectures -- Cache coherence -- Performance Issues – Parallel
 program design.
 
 {{{unit}}}
-|UNIT II | PARALLEL PROGRAM CHALLENGES | 9 |
+|UNIT II | PARALLEL PROGRAMMING | 9 |
 Performance -- Scalability; Synchronization and data sharing -- Data
 races -- Synchronization primitives (mutexes, locks, semaphores,
 barriers); deadlocks and livelocks; communication between threads
@@ -39,10 +59,10 @@ Functional Parallelism -- Handling Loops -- Performance
 Considerations.
 
 {{{unit}}}
-|UNIT IV | SHARED MEMORY PROGRAMMING WITH MPI | 9 |
+|UNIT IV | DISTRIBUTED MEMORY PROGRAMMING WITH MPI | 9 |
 MPI program execution: MPI constructs -- libraries; MPI send and
 receive -- Point-to-point and Collective communication; MPI derived
-datatypes -- Performance evaluation
+datatypes -- Performance evaluation.
 
 {{{unit}}}
 |UNIT V | PARALLEL PROGRAM DEVELOPMENT | 9 |
@@ -53,11 +73,13 @@ implementations and comparison.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the limitations of single core processors and the study various multi-core architectures(K2) 
-- Identify the issues in programming Parallel Processors(K2)
-- Develop the programs using OpenMP(K3) 
-- Develop the program using  MPI(K3)
-- Compare and contrast programming for serial processors and programming for parallel processors(K3)
+- Understand the limitations of single core processors and the study
+  various multi-core architectures (K2)
+- Identify the issues in programming Parallel Processors (K2)
+- Develop the programs using OpenMP (K3) 
+- Develop the program using  MPI (K3)
+- Compare and contrast programming for serial processors and
+  programming for parallel processors (K3)
   
 ** TEXT BOOKS
 1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'',

@@ -5,6 +5,12 @@
 :end:
 
 #+startup: showall
+#+begin_comment
+- 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017. Comments have been added along with the units
+- 2. The same course is not offered in P.G. Hence, there is no requirement for comparison of this syllabus with PG syllabus
+- 3. Five course outcomes are specified and are aligned with the units
+- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course available
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
@@ -13,42 +19,68 @@
 ** COURSE OBJECTIVES
 - To learn the basics of Object Oriented Programming 
 - To know the principles of inheritance and polymorphism
-- To learn the concepts of generic methods and  generic collections
+- To learn the concepts of generic methods and  generic collections.
 
 {{{unit}}}
 |UNIT I |INTRODUCTION | 10 |
-Principles of OOP: Classes - Objects - Data hiding - Data
-encapsulation- Inheritance - Polymorphism; Definition of classes:
-objects - methods - Access specifiers – Static and final classes and
-members; Object construction and destruction – Fundamental programming
-structures in Java; Streams: Input-Output; Examples in Java.
-
+Principles of OOP: Classes -- Objects -- Data hiding -- Data
+encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
+Objects -- Methods -- Access specifiers -- Static and final classes and
+members; Object Construction and Destruction -- Fundamental programming
+structures in Java; Streams: Input-Output -- Examples in Java.
+#+begin_comment
+Retain 
+      Introduction to the OO concepts and fundamental programming structures in Java 
+Inclusion
+      I/O streams
+#+end_comment
 {{{unit}}}
 |UNIT II | INHERITANCE 	 | 10 |
-Inheritance: Definition - Types of inheritance: Single - multilevel -
-multiple - hierarchical - hybrid; Subclass constructors – Interfaces
-in Java: Definition, Implementation - Extending interfaces -
-Inheritance versus delegation – Inheritance rules - inner classes;
-Examples in Java
+Inheritance: Definition -- Types of inheritance: Single -- Multilevel --
+Multiple -- Hierarchical -- Hybrid; Subclass constructors -- Interfaces
+in Java: Definition -- Implementation -- Extending interfaces --
+Inheritance versus delegation -- Inheritance rules -- Inner classes --
+Examples in Java.
 
 {{{unit}}}
 |UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
-Polymorphism: Method overloading and overriding - Dynamic method
-dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own
-exception; Packages in Java; Examples in Java
+Polymorphism: Method overloading and overriding -- Dynamic method
+dispatch; Exceptions: Hierarchy -- Built-in exceptions -- Creating own
+exception; Packages in Java -- Examples in Java.
+#+begin_comment
+Retain
+	Exception handling
+Inclusion
+	Basic concepts of polymorphism and exception handling
+Removal
+	Since I/O streams (AU R-2017) have been studied in Unit I, it is removed
+#+end_comment
 
 {{{unit}}}
 |UNIT IV |GENERIC TYPES AND METHODS	 | 9 |
-Definition and concepts: generic classes and generic methods – generic
-types – Restrictions and limitations – Inheritance rules for generic
-types – reflections; Examples in Java
+Definition and concepts: Generic classes and generic methods -- Generic
+types -- Restrictions and limitations -- Inheritance rules for generic
+types -- Reflections -- Examples in Java.
+
+#+begin_comment
+Retain
+	Generic Programming 
+Removal 
+	Since, multithreading (AU R-2017) is specific to programming language, it is removed 
+#+end_comment
 
 {{{unit}}}
 |UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
-Introduction to collections; Collection classes and interfaces: Array
-list - Linked list - Queue - set - trees; Iterators for collections –
-Map class – Algorithms: sorting - searching - user-defined algorithms
-– Examples in Java
+Introduction to collections -- Collection Classes and Interfaces: Array
+list -- Linked list -- Queue -- Set -- Trees; Iterators for collections --
+Map class -- Algorithms: Sorting -- Searching -- User-defined algorithms
+-- Examples in Java.
+#+begin_comment
+Removal
+	Since event-driven programming (AU R-2017) is specific to programming language, it is removed 
+Inclusion
+	Generic collections have been included
+#+end_comment
 
 \hfill *Total Periods: 45*
 
@@ -56,9 +88,9 @@ Map class – Algorithms: sorting - searching - user-defined algorithms
 After the completion of this course, students will be able to: 
 - Solve problems using classes and objects (K3)
 - Develop programs using inheritance and interfaces (K3)
-- Experiment the concepts of polymorphism (K3)
-- Design applications using generic programming. (K3)
-- Develop algorithms using generic collections(K3)
+- Apply the concepts of polymorphism (K3)
+- Design applications using generic programming (K3)
+- Develop algorithms using generic collections (K3).
      
 ** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented
@@ -70,11 +102,11 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Timothy Budd, ``Understanding Object-oriented programming with
    Java'', Updated Edition, Pearson Education, 2000.
-2. C. Thomas Wu, ``An introduction to Object-oriented programming with
-   Java'', Fourth Edition, Tata McGraw-Hill Publishing company
+2. C Thomas Wu, ``An introduction to Object-oriented programming with
+   Java'', 4th Edition, Tata McGraw-Hill Publishing company
    Ltd., 2006.
-3. Cay S. Horstmann, Gary cornell, ``Core Java Volume –I
-   Fundamentals'' 9th Edition, Prentice Hall, 2013.
+3. Cay S Horstmann, Gary cornell, ``Core Java Volume –I
+   Fundamentals'', 9th Edition, Prentice Hall, 2013.
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
    Edition, Pearson, 2015.
 5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.

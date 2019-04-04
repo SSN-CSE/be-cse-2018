@@ -21,7 +21,7 @@
 
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Introduction-Basic Mathematical Notation and techniques; Finite
+Introduction-Basic Mathematical Notation and Techniques; Finite
 Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
 Finite Automata(NFA) – Finite Automata with Epsilon Transitions -
 Equivalence of FA’s – Minimization of DFA; Regular Expressions and
@@ -40,7 +40,7 @@ Productions - Normal Forms for Context Free Grammars.
 {{{unit}}}
 |UNIT III | PUSHDOWN AUTOMATA | 9 |
 Definition of the Pushdown Automaton -The Languages of a PDA –
-Equivalence of PDA's and CFG's - Deterministic Pushdown Automata;
+Equivalence of PDAs and CFGs - Deterministic Pushdown Automata;
 Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
@@ -65,16 +65,16 @@ After the completion of this course, students will be able to:
 - Explain the Decidability or Undecidability of various problems (K2)
 
 ** Text Books 
-1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata
-   Theory, Languages and Computations”, Third Edition, Pearson
+1. Hopcroft J E, Motwani R and Ullman J D, “Introduction to Automata
+   Theory, Languages and Computations”, 3rd Edition, Pearson
    Education, 2008.
 
 ** References
 1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory
-   of Computation'', Second Edition, Prentice Hall of India, Pearson
-   Education, New Delhi, 2003.
+   of Computation'', 2nd Edition, Prentice Hall of India, Pearson
+   Education, 2003.
 2. Peter Linz, ``An Introduction to Formal Language and
-   Automata'',Third Edition, Narosa Publishers, New Delhi, 2002.
+   Automata'',3rd Edition, Narosa Publishers,2002.
 3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science
-   -Automata, Languages and Computation'', Third Edition, Prentice
+   -Automata, Languages and Computation'', 3rd Edition, Prentice
    Hall of India,2004.
