@@ -20,33 +20,24 @@
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
 Introduction: Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic
-Finite Automata(NFA) -- Finite Automata with Epsilon Transitions -- Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
-Languages: Regular Expressions -- Finite Automata and Regular Expressions; Properties of Regular Languages: Proving Languages Not to Be Regular -- Closure and Decision Properties of Regular Languages.
+Finite Automata(NFA) -- Finite automata with epsilon transitions -- Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
+Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure and decision properties of regular languages.
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
-Chomsky’s hierarchy of languages; Context-Free Grammar (CFG) and
-Context-Free Language (CFL) – Parse Trees – Ambiguity in Grammars and
-Languages; Eliminating Useless Symbols - Computing the Generating and
-Reachable Symbols - Eliminating Null Productions - Eliminating Unit
-Productions - Normal Forms for Context Free Grammars.
+Chomsky’s hierarchy of languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Eliminating useless symbols -- Computing the generating and reachable symbols -- eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) -- Greibach Normal Form (GNF).
 
 {{{unit}}}
 |UNIT III | PUSHDOWN AUTOMATA | 9 |
-Definition of the Pushdown Automaton -The Languages of a PDA –
-Equivalence of PDAs and CFGs - Deterministic Pushdown Automata;
-Pumping Lemma for Context Free Languages.
+Pushdown Automaton (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic pushdown automata; Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
-The Turing Machine - Programming Techniques for Turing Machines -
-Extensions to the Basic Turing Machine – Restricted Turing Machines.
+The Turing Machine -- Programming Techniques for Turing Machines -- Extensions to the Basic Turing Machine -- Restricted Turing Machines.
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Language That Is Not Recursively Enumerable - Undecidable Problem That
-Is RE - Undecidable Problems About Turing Machines - Post's
-Correspondence Problem - Other Undecidable Problems.
+Undecidablity: Language that is not Recursively Enumerable(RE) -- Undecidable problem that is RE - Undecidable problems about turing machines -- Post's Correspondence Problem (PCP) - Other undecidable problems.
 
 \hfill *Total Periods: 45*
 
@@ -59,16 +50,12 @@ After the completion of this course, students will be able to:
 - Explain the Decidability or Undecidability of various problems (K2)
 
 ** Text Books 
-1. Hopcroft J E, Motwani R and Ullman J D, “Introduction to Automata
-   Theory, Languages and Computations”, 3rd Edition, Pearson
-   Education, 2008.
+1. Hopcroft J E, Motwani R and Ullman J D, ``Introduction to Automata Theory, Languages and Computations'', Pearson
+   Education, 3rd Edition, 2008.
 
 ** References
-1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory
-   of Computation'', 2nd Edition, Prentice Hall of India, Pearson
-   Education, 2003.
-2. Peter Linz, ``An Introduction to Formal Language and
-   Automata'',3rd Edition, Narosa Publishers,2002.
-3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science
-   -Automata, Languages and Computation'', 3rd Edition, Prentice
-   Hall of India,2004.
+1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, Pearson
+   Education, 2nd Edition,  2003.
+2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
+3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science -Automata, Languages and Computation'',  Prentice
+   Hall of India, 3rd Edition, 2004.
