@@ -83,7 +83,7 @@ After the completion of this course, students will be able to:
 - Elucidate the concept of Knowledge Representation and inference using logics (K2)
 - Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
 - Elucidate the concept of learning in AI applications (K3)
-- Implement various search, inference and learning algorithms in AI. (K4)
+- Implement various search, inference and learning algorithms in AI (K4).
 
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern
@@ -98,11 +98,11 @@ After the completion of this course, students will be able to:
 2. Elaine Rich and Kevin Knight, ``Artificial Intelligence'', 2nd
    Edition, Tata McGraw-Hill, 2003.
 3. Andreas Muller and Sarah Guido, ``Introduction to Machine Learning
-   with Python: A Guide for Data Scientists'', Shroff/O'Reilly; First
+   with Python: A Guide for Data Scientists'', Shroff/O'Reilly; 1st
    edition, 2016.
 4. David Poole and Alan Mackworth, ``Artificial Intelligence :
    Foundation of Computational Agents'', Cambridge University Press;
-   Second Edition, 2017.
+   2nd Edition, 2017.
 5. Prateek Joshi, ``Artificial Intelligence with Python'', Packt
    Publishing Limited; 1st edition, 2017.
 
