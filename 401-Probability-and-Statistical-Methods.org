@@ -56,12 +56,12 @@ sampling.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify standard distributions and apply them.
+- Identify standard distributions and apply them
 - Solve problems in two dimension random variables and find the
-  correlation between them.
+  correlation between them
 - Identify and apply the suitable testing of hypothesis under normal
-  and t and F distribution.
-- Solve problems in analysis of variance.
+  and t and F distribution
+- Solve problems in analysis of variance
 - Analyze quality control by applying control chart methods.
       
 ** TEXT BOOKS
