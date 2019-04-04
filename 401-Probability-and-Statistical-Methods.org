@@ -22,15 +22,15 @@
 {{{unit}}}
 | UNIT I | RANDOM VARIABLES | 12 |
 Probability -- Axioms of probability--- Conditional probability -- Baye’s
-theorem -- Discrete and Continuous random variables -- Moments -- Moment
+theorem -- Discrete and continuous random variables -- Moments -- Moment
 generating functions -- Binomial, Poisson, Geometric, Uniform,
 Exponential, Gamma, Normal distributions -- Functions of a random
 variable.
 
 {{{unit}}}
 | UNIT II | TWO-DIMENSIONAL RANDOM VARIABLES | 12 |
-Joint distributions -- Marginal and Conditional distributions --
-Covariance -- Correlation and Linear regression -- Transformation of
+Joint distributions -- Marginal and conditional distributions --
+Covariance -- Correlation and linear regression -- Transformation of
 random variables -- Central limit theorem (for independent
 andidentically distributed random variables).
 
