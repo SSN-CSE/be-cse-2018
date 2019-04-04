@@ -7,7 +7,7 @@
 
 #+begin_comment
 - 1. Almost the same as AU
-- 2. For changes, see the indidual units.
+- 2. For changes, see the individual units.
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
@@ -17,15 +17,15 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 2 | 4 |
+| 3 | 2 | 0 | 4 |
 
 ** COURSE OBJECTIVES
-- Understand the classical logic, implications and equivalences,
+- To understand the classical logic, implications and equivalences,
   normal forms and its applications.
-- Learn Mathematical Induction.
-- Learn the basic concepts in graph theory and prove simple properties.
-- Understand the basics of group theory.
-- Understand the basics of lattices and Boolean algebra.
+- To learn Mathematical Induction.
+- To learn the basic concepts in graph theory and prove simple properties.
+- To understand the basics of group theory.
+- To understand the basics of lattices and Boolean algebra.
 
 {{{unit}}}
 |UNIT I | LOGIC AND PROOFS  | 13 |
@@ -79,10 +79,11 @@ On studying this course, the students will able to:
   and lattices.
 
 ** TEXT BOOKS
-1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th Edition,Special Indian edition, Tata
-   McGraw Hill, New Delhi, 2017.
-2. Tremblay J P and Manohar R, ``Discrete Mathematical Structures
-   with Applications to Computer Science'', 30th Reprint, Tata McGraw Hill, New Delhi,2011.
+1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th
+   Edition,Special Indian edition, Tata McGraw Hill, New Delhi, 2017.
+2. Tremblay J P and Manohar R, ``Discrete Mathematical Structures with
+   Applications to Computer Science'', 30th Reprint, Tata McGraw Hill,
+   New Delhi,2011.
 
 ** REFERENCES
 1. Ralph P Grimaldi, ``Discrete and Combinatorial Mathematics: An

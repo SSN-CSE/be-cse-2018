@@ -1,4 +1,4 @@
-* <<<402>>> COMPUTER  ORGANIZATION AND ARCHITECTURE
+* <<<402>>> COMPUTER ORGANIZATION AND ARCHITECTURE
 :properties:
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 
@@ -11,45 +11,45 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the basic structure and operations of a computer. 
+- To learn the basic structure and operations of a computer 
 - To learn the arithmetic and logic unit and implementation of
-  fixed-point and floating point arithmetic unit.
-- To learn the basics of pipelined execution. 
+  fixed-point and floating point arithmetic unit
+- To learn the basics of pipelined execution 
 - To understand the memory hierarchies, cache and virtual memories and
-  communication with I/O devices.
+  communication with I/O devices
 - To understand parallelism and multi-core processors. 
 
 {{{unit}}}
 |UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM | 9 |
 Functional Units -- Basic Operational Concepts -- Performance;
-Instructions: Language of the Computer -- Operations, Operands --
-Instruction representation; Logical operations -- decision making;
-MIPS Addressing.
+Instructions: Language of the computer -- Operations, Operands --
+Instruction representation; Logical operations -- Decision making;
+MIPS addressing.
 
 {{{unit}}}
 |UNIT II | ARITHMETIC FOR COMPUTERS | 9 |
-Addition and Subtraction; Multiplication; Division; Floating Point
-Representation: Floating Point Operations; Subword Parallelism.
+Addition and subtraction; Multiplication; Division; Floating Point
+Representation: Floating point operations; Subword parallelism.
 
 {{{unit}}}
 |UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
-A Basic MIPS implementation: Building a Datapath -- Control
-Implementation Scheme; Pipelining: Pipelined datapath and control --
-Handling Data Hazards & Control Hazards -- Exceptions.
+A Basic MIPS implementation: Building a datapath -- Control
+implementation scheme; Pipelining: Pipelined datapath and control --
+Handling data hazards & Control hazards -- Exceptions.
 
 {{{unit}}}
 |UNIT IV | MEMORY & I/O SYSTEMS | 9 |
-Memory Hierarchy; memory technologies; cache memory: measuring and
-improving cache performance; virtual memory: TLBs; Accessing I/O
-Devices -- Interrupts; Direct Memory Access; Bus structure -- Bus
+Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
+improving cache performance; Virtual Memory: TLBs; Accessing I/O
+devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
 
 {{{unit}}}
 |UNIT V  | PARALLEL PROCESSORS | 9 |
 Parallel processing challenges; Flynn's classification: SISD -- MIMD
--- SIMD --SPMD and Vector Architectures; Hardware multithreading;
-Multi-core processors and other Shared Memory Multiprocessors;
-Introduction to Graphics Processing Units.
+-- SIMD -- SPMD and vector architectures; Hardware multithreading;
+Multi-core processors and other shared memory multiprocessors;
+Introduction to graphics processing units.
 #+BEGIN_COMMENT
 Clusters; Warehouse Scale Computers and other Message-Passing
 Multiprocessors.
@@ -59,11 +59,11 @@ Multiprocessors.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics structure of computers, operations and instructions(K2)
-- Design arithmetic and logic unit(K3)
-- Understand pipelined execution and design control unit(K3)
-- Design of various memory systems and understand I/O communication(K3)
-- Understand parallel processing architectures(K2)
+- Understand the basics structure of computers, operations and instructions (K2)
+- Design arithmetic and logic unit (K3)
+- Understand pipelined execution and design control unit (K3)
+- Design of various memory systems and understand I/O communication (K3)
+- Understand parallel processing architectures (K2).
 
 ** TEXT BOOKS
 1. David A Patterson and John L Hennessy, ``Computer Organization

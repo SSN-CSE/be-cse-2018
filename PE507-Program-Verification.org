@@ -67,6 +67,7 @@ KRONOS;
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
+- Explain, analyse and compare various model checking algorithms (K3).
 - Prove partial correctness of simple programs using Hoare logic (K3).
 - Write formal properties and specifications in CTL and LTL (K3).
 - Specify and verify simple systems using NuSMV (K3).

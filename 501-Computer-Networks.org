@@ -26,7 +26,7 @@ Transmission media -- Switching -- Circuit-switched Networks -- Packet
 Switching.
 
 {{{unit}}}
-|UNIT II | DATE-LINK LAYER AND MEDIA ACCESS | 9 |
+|UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 9 |
 Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer
 Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs:
 Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth
@@ -46,7 +46,7 @@ User Datagram Protocol -- Transmission Control Protocol -- SCTP.
 
 {{{unit}}}
 |UNIT V | APPLICATION LAYER | 9 |
-Traditional applications -Electronic Mail (SMTP, POP3, IMAP, MIME) –
+Traditional Applications -Electronic Mail (SMTP, POP3, IMAP, MIME) –
 HTTP – File Transfer Protocol - Secure Shell (SSH) - DNS – SNMP.
 
 \hfill *Total Periods: 45*

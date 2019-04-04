@@ -5,7 +5,7 @@
 
 #+begin_comment
 - 1. Suggestive experiments are changed
-- 2. For changes, see the indidual units.
+- 2. For changes, see the individual units.
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Suggestive experiments are given since it is a integrated course
@@ -18,7 +18,7 @@
 | 3 | 0 | 2 | 4 |
 
 ** COURSE OBJECTIVES
-- To learn various phases of compiler
+- To learn various phases of a compiler
 - To learn various parsing techniques
 - To understand intermediate code generation 
 - To learn to implement code generator and optimize the code.
@@ -72,8 +72,8 @@ data flow algorithm
 * SUGGESTIVE EXPERIMENTS
 1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
-3. Generation of TAC for simple program using LEX and YACC
-4. Extend the Lexical Analyzer to implement symbol table
+3. Generation of TAC for a simple program using LEX and YACC
+4. Extension of the Lexical Analyzer to implement symbol table
 5. Implementation of Simple Code Optimization Techniques (Constant
    Folding, Strength reduction and Algebraic transformation)
 6. Consider a simple program as an input and process this code to
@@ -90,7 +90,7 @@ Changes:Suggestive experiments are changed based on the units.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design a lexical analyzer for a sample language (K3)
-- Apply different parsing algorithm to develop the parsers for the given grammar(K3)
+- Apply different parsing algorithms to develop the parsers for the given grammar(K3)
 - Write syntax directed translation for programming language constructs(K3)
 - Understand and implement simple code generator(K3)
 - Understand and implement code optimization techniques(K3).

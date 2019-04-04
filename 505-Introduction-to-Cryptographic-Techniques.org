@@ -56,7 +56,7 @@ Public-Key Encryption – An Overview -- Definitions --  Hybrid Encryption -- RS
 Upon the completion of the course the students should be able to: 
 - Describe and implement classical and symmetric ciphers (K2)
 - Describe the authentication schemes and  hash algorithms (K2)
-- Understand the number theory foundations of cryptography (K3)
+- Understand the number theoretic foundations of cryptography (K3)
 - Compare and contrast various Public key cryptographic techniques (K3)
 - Illustrate various Public key cryptographic techniques (K3).
 

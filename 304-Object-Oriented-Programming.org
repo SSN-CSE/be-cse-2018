@@ -5,6 +5,12 @@
 :end:
 
 #+startup: showall
+#+begin_comment
+- 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017. Comments have been added along with the units
+- 2. The same course is not offered in P.G. Hence, there is no requirement for comparison of this syllabus with PG syllabus
+- 3. Five course outcomes are specified and are aligned with the units
+- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course available
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
@@ -18,11 +24,16 @@
 {{{unit}}}
 |UNIT I |INTRODUCTION | 10 |
 Principles of OOP: Classes -- Objects -- Data hiding -- Data
-encapsulation -- Inheritance -- Polymorphism; Definition of classes:
+encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
 Objects -- Methods -- Access specifiers -- Static and final classes and
-members; Object construction and destruction -- Fundamental programming
+members; Object Construction and Destruction -- Fundamental programming
 structures in Java; Streams: Input-Output -- Examples in Java.
-
+#+begin_comment
+Retain 
+      Introduction to the OO concepts and fundamental programming structures in Java 
+Inclusion
+      I/O streams
+#+end_comment
 {{{unit}}}
 |UNIT II | INHERITANCE 	 | 10 |
 Inheritance: Definition -- Types of inheritance: Single -- Multilevel --
@@ -34,8 +45,16 @@ Examples in Java.
 {{{unit}}}
 |UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
 Polymorphism: Method overloading and overriding -- Dynamic method
-dispatch; Exceptions: Hierarch -- Built-in exceptions -- Creating own
+dispatch; Exceptions: Hierarchy -- Built-in exceptions -- Creating own
 exception; Packages in Java -- Examples in Java.
+#+begin_comment
+Retain
+	Exception handling
+Inclusion
+	Basic concepts of polymorphism and exception handling
+Removal
+	Since I/O streams (AU R-2017) have been studied in Unit I, it is removed
+#+end_comment
 
 {{{unit}}}
 |UNIT IV |GENERIC TYPES AND METHODS	 | 9 |
@@ -43,22 +62,35 @@ Definition and concepts: Generic classes and generic methods -- Generic
 types -- Restrictions and limitations -- Inheritance rules for generic
 types -- Reflections -- Examples in Java.
 
+#+begin_comment
+Retain
+	Generic Programming 
+Removal 
+	Since, multithreading (AU R-2017) is specific to programming language, it is removed 
+#+end_comment
+
 {{{unit}}}
 |UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
-Introduction to collections -- Collection classes and interfaces: Array
-list -- Linked list -- Queue -- set -- trees; Iterators for collections --
+Introduction to collections -- Collection Classes and Interfaces: Array
+list -- Linked list -- Queue -- Set -- Trees; Iterators for collections --
 Map class -- Algorithms: Sorting -- Searching -- User-defined algorithms
 -- Examples in Java.
+#+begin_comment
+Removal
+	Since event-driven programming (AU R-2017) is specific to programming language, it is removed 
+Inclusion
+	Generic collections have been included
+#+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Solve problems using classes and objects(K3)
-- Develop programs using inheritance and interfaces(K3)
-- Experiment the concepts of polymorphism (K3)
-- Design applications using generic programming(K3)
-- Develop algorithms using generic collections(K3).
+- Solve problems using classes and objects (K3)
+- Develop programs using inheritance and interfaces (K3)
+- Apply the concepts of polymorphism (K3)
+- Design applications using generic programming (K3)
+- Develop algorithms using generic collections (K3).
      
 ** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented

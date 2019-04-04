@@ -6,14 +6,20 @@
 
 
 #+begin_comment
+
 - 1. Almost the same as AU
 - 2. No changes 
-- 3. Few topics of First unit in PG subject "Multicore Architectures and GPU Computing" are matching which is essential for                   understanding the basics. The rest of the four units are different.
-     With respect to the PG Elective paper "Parallel Programming", the following observations are noticed:
-     i) Few topics in Unit 1 of both the subjects are matched.
-     ii)Third unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as fourth unit of PE231-Parallel Programming of PG syllabus.
-     iii) Fourth unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as second unit of PE231-Parallel Programming of PG      
-          syllabus.
+- 3. Few topics of First unit in PG subject "Multicore Architectures
+  and GPU Computing" are matching which is essential for understanding
+  the basics. The rest of the four units are different.  With respect
+  to the PG Elective paper "Parallel Programming", the following
+  observations are noticed:
+  + Few topics in Unit 1 of both the subjects are matched.
+  + Third unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is
+    same as fourth unit of PE231-Parallel Programming of PG syllabus.
+  + Fourth unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING
+    is same as second unit of PE231-Parallel Programming of PG
+    syllabus.
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
 #+end_comment

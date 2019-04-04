@@ -16,6 +16,7 @@
   - Ethem Alpaydin, ``Introduction to Machine Learning''
 - The topics are accordingly changed to follow the flow of Stephen
   Marsland.
+- Syllabus in M.E and B.E differs in Unit I, IV and V
 #+END_COMMENT
 
 {{{credits}}}

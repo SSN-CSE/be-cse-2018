@@ -3,6 +3,13 @@
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
 :end:
 
+#+BEGIN_COMMENT
+1. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
+2. The syllabi for UG and PG are different to a larger extent
+3. Course outcomes are specified and aligned with the units 
+4. Suggestive experiments are specified in the separate lab course for this subject
+#+END_COMMENT
+
 #+startup: showall
 
 {{{credits}}}
@@ -12,54 +19,96 @@
 ** COURSE OBJECTIVES
 - To understand different client and server end technologies
 - To develop web application using traditional technologies
-- To understand and develop web application using emerging web
-  application frameworks
+- To understand and develop web applications using emerging web
+  application frameworks.
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients, Servers and Communication – The Internet –
-Basic Internet protocols – World wide web – HTTP Request Message –
-HTTP Response Message – Web Clients – Web Servers – HTML5: Tables,
-Lists, Image, Redefined form elements, Semantic elements, Audio and
-video controls - CSS3: Inline, embedded and external style sheets,
-Rule cascading, Inheritance, Adding graphics to web pages,
-Transformations, Transitions and Animations.
-
-
-{{{unit}}}
-|UNIT II | CLIENT END TECHNOLOGIES | 9 |
-Client side programming language – Javascript: Variables, Data types,
-Statements, Operators, Objects, Arrays, Built-in objects and Event
-handling – DOM: Introduction, Document tree, Node object, Document,
-element and text nodes, Event handling, Event propagation.
+Web Essentials: Clients -- Servers -- Communication; 
+Basic internet protocols -- World wide web -– HTTP Request Message –-
+HTTP Response Message –- Web Clients –- Web Servers –- HTML5: Tables --
+Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and
+video controls -- CSS3: Inline -- embedded -- external style sheets --
+Rule cascading -- Inheritance -- Adding graphics to web pages --
+Transformations -- Transitions -- Animations.
 
 {{{unit}}}
-|UNIT III | SERVER END TECHNOLOGIES| 9 |
-Servlets: Architecture, Life Cycle, Parameter data, Sessions, Cookies
-and URL rewriting – AJAX: Ajax Client Server Architecture-XML Http
-Request Object-Call Back Methods
+|UNIT II | CLIENT SIDE PROGRAMMING | 9 |
+Client side programming language –- Javascript: Variables -- Data types --
+Statements -- Operators -- Objects -- Arrays -- Built-in objects -- Event
+handling –- DOM: Introduction -- Document tree -- Node object -- Document --
+element -- text nodes -- Event handling -- Event propagation.
+
+#+BEGIN_COMMENT
+Removal
+      Contents related to JSON in AU R-2017 has been removed
+Thought Process
+      Due to time constraint
+      JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.      
+       
+#+END_COMMENT
 
 {{{unit}}}
-|UNIT IV | CLIENT END FRAMEWORK | 9 |
-Introduction to AngularJS – Directives and Controllers, Data binding
-and Models, Form validation, Form controls – Services: Dependency
-injection, order of injection – Server communication using $http.
+|UNIT III | SERVER SIDE PROGRAMMING| 9 |
+Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions -- Cookies
+and URL rewriting -– AJAX: Ajax Client Server Architecture -- XML Http
+Request Object -- Call Back Methods.
+
+#+BEGIN_COMMENT
+Removal
+      Contents related to JSP in AU R-2017 have been removed      
+Thought Process
+      Both servlet and JSP are serverside scripting languages
+      Since Servlet itself is enough for the students to undertand the configuration of web applications, JSP has been removed
+       
+#+END_COMMENT
 
 {{{unit}}}
-|UNIT V | SERVER END FRAMEWORK | 9 |
-Introduction to NodeJS – Event Loop – Patterns – Core APIs:
-EventEmitter, Callback syntax, Streams - File system, Buffers –
-Process module - Data Access – NoSQL and Document stores: MongoDB.
+|UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
+Introduction to ReactJS –- Pure react: React elements -– ReactDOM –- Children -– Constructing elements with data -– React components; Props, state and compoenet tree –- React router: Incorporation –- Netsing -– Parameters; Communication of react with server.
+
+#+BEGIN_COMMENT
+Removal
+      PHP and XML in AU R-2017 have been removed
+Thought Process
+      PHP is yet another serverside scripting language
+      XML is a structure used for tranferring data in web applications. Since it will not be explicitly being utilized for trasnfer in the development of web applications 
+
+Inclusion
+      Concepts related to ReactJS have been included
+Thought process
+      It is a recently developed lightweight client side framework useful for quick development of web application
+#+END_COMMENT
+
+{{{unit}}}
+|UNIT V | SERVER SIDE FRAMEWORK | 9 |
+Introduction to NodeJS –- Event Loop -– Patterns -– Core APIs:
+EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers --
+Process module -- Data Access -– NoSQL and Document stores: MongoDB.
+
+#+BEGIN_COMMENT
+Removal
+      AJAX and Web services in AU R-2017 have been removed
+Thought Process
+      AJAX has been moved to Unit 3
+      Time constraint
+      Web services in a way is not much relevant with the development of web applications
+      Having understood the basics of web application development, one can futher explore how web services can be used in the development of web application in future relatively better
+Inclusion
+      Concepts related to NodeJS have been included
+Thought process
+      It is a recently developed lightweight sever side framework useful for quick development of web applications
+#+END_COMMENT
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design a modern website using HTML5 and CSS3  (K3)
+- Design modern websites using HTML5 and CSS3  (K3)
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
-- Develop web application using Servlet (K3)
-- Develop responsive web application using Servlets and AJAX (K3)
-- Develop web applications using AngularJS and NodeJS frameworks (K3)
+- Develop responsive web applications using Servlets and AJAX (K3)
+- Develop web applications using AngularJS framework (K3)
+- Develop web applications using NodeJS framework. (K3)
       
 ** TEXT BOOKS
 1. Jeffrey C and Jackson, ``Web Technologies A Computer Science
@@ -68,7 +117,7 @@ After the completion of this course, students will be able to:
    August 2011
 3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
    December 2012.
-4. Brad Green and Shyam Seshadri, ``AngularJS'', O'Reilly Media, Inc.,
-   First Edition, 2013.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st Edition,
+4. Alex Banks and Eve Porcello, ``Learning React: Functional web development with React and Redux'', O'Reilly Media Inc., May 2017.
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', First Edition,
    O'Reilly Media, 2012.
+6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.

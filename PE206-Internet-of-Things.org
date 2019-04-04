@@ -19,28 +19,35 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO IOT | 9 |
-Genesis -- Impact and Challenges of IoT -- IoT Network Architecture and Design:  Need for new architectures -- Basic IoT Architecture --
-oneM2M and IoT World Forum  Architectures -- Core IoT Functional Stack -- IoT Data Management and Compute Stack.
+Genesis -- Impact and Challenges of IoT -- IoT Network Architecture
+and Design: Need for new architectures -- Basic IoT Architecture --
+oneM2M and IoT World Forum Architectures -- Core IoT Functional Stack
+-- IoT Data Management and Compute Stack.
 
 {{{unit}}}
 | UNIT II | ENGINEERING IoT NETWORKS | 9 |
-Sensing Devices:  Sensors -- Actuators -- MEMS -- Smart Objects -- Sensor Networks -- Connecting Smart Objects; IoT Access
-Technologies:  IEEE 802.15.4 -- IEEE 802.15.4g and 802.15.4e -- IEEE 1901.2a -- IEEE 802.11ah -- LoRaWAN -- NB-IoT and other LTE
-Variations.
+Sensing Devices: Sensors -- Actuators -- MEMS -- Smart Objects --
+Sensor Networks -- Connecting Smart Objects; IoT Access Technologies:
+IEEE 802.15.4 -- IEEE 802.15.4g and 802.15.4e -- IEEE 1901.2a -- IEEE
+802.11ah -- LoRaWAN -- NB-IoT and other LTE Variations.
 
 {{{unit}}}
 | UNIT III | IoT NETWORK AND APPLICATION LAYER PROTOCOLS | 9 |
-IP as IoT network layer -- Adoption or adaption of IP -- Need for optimization -- Optimizing IP for IoT -- Profiles and Compliances;
-IoT Application Transport Methods: Non--Application Layer -- SCADA -- Web Based Protocols -- IoT Application layer protocols : CoAP and
-MQTT.
+IP as IoT network layer -- Adoption or adaption of IP -- Need for
+optimization -- Optimizing IP for IoT -- Profiles and Compliances; IoT
+Application Transport Methods: Non--Application Layer -- SCADA -- Web
+Based Protocols -- IoT Application layer protocols : CoAP and MQTT.
 
 {{{unit}}}
 | UNIT IV | DATA ANALYTICS FOR IoT | 9 |
-Introduction -- Machine Learning -- Big Data Analytics Tools and Technologies -- Edge Streaming Analytics -- Network Analytics
+Introduction -- Machine Learning -- Big Data Analytics Tools and
+Technologies -- Edge Streaming Analytics -- Network Analytics
 
 {{{unit}}}
 | UNIT V | CASE STUDEIES AND REAL WORLD APPLICATIONS | 9 |
-Cyber Security Vernacular -- Anatomy of IoT Cyber Attacks -- Physical and Hardware Security --  IoT Security and best practices -- IoT Applications: Smart and Connected Cities -- Public Safety
+Cyber Security Vernacular -- Anatomy of IoT Cyber Attacks -- Physical
+and Hardware Security -- IoT Security and best practices -- IoT
+Applications: Smart and Connected Cities -- Public Safety
 
 \hfill *Total Periods: 45*
 
@@ -58,9 +65,15 @@ After completion of this course, students should be able to:
 2. Perry Lea,  "Internet of Things for Architects",  Packt Publishing, O'Reilly,  January 2018.
 
 ** REFERENCES
-1. Arshdeep Bahga, Vijay Madisetti, "Internet of Things: A hands-on approach", Universities Press, 2015
-2. Dieter Uckelmann, Mark Harrison, Michahelles, Florian (Eds), "Architecting the Internet of Things", Springer, 2011.
-3. Honbo Zhou, "The Internet of Things in the Cloud: A Middleware Perspective", CRC Press, 2012.
-4. Jan Holler, Vlasios Tsiatsis , Catherine Mulligan, Stamatis , Karnouskos, Stefan Avesand, David Boyle, "From Machine-to-Machine to
-   the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
-5. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of Things -- Key applications and Protocols", Wiley, 2012
+1. Arshdeep Bahga, Vijay Madisetti, "Internet of Things: A hands-on
+   approach", Universities Press, 2015
+2. Dieter Uckelmann, Mark Harrison, Michahelles, Florian (Eds),
+   "Architecting the Internet of Things", Springer, 2011.
+3. Honbo Zhou, "The Internet of Things in the Cloud: A Middleware
+   Perspective", CRC Press, 2012.
+4. Jan Holler, Vlasios Tsiatsis , Catherine Mulligan, Stamatis ,
+   Karnouskos, Stefan Avesand, David Boyle, "From Machine-to-Machine
+   to the Internet of Things - Introduction to a New Age of
+   Intelligence", Elsevier, 2014.
+5. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of
+   Things -- Key applications and Protocols", Wiley, 2012

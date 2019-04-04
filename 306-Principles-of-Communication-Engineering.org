@@ -19,9 +19,9 @@
 
 {{{unit}}}
 | UNIT I | ANALOG MODULATION | 9 |
-Amplitude Modulation – AM, DSBSC, SSBSC, VSB – Spectrum, modulators
-and demodulators – Angle modulation – PM and FM – Spectrum, FM
-modulation –Direct and Indirect methods, FM Demodulation –Foster
+Amplitude Modulation -- AM, DSBSC, SSBSC, VSB -- Spectrum, modulators
+and demodulators -- Angle modulation --
+ PM and FM -- Spectrum, FM modulation –Direct and Indirect methods, FM Demodulation –Foster
 Seeley Discriminator, PLL as FM demodulator, Superheterodyne
 receivers.
 
@@ -53,10 +53,10 @@ Jamming margin – FHSS – Synchronization and tracking – Multiple Access
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply analog and digital communication techniques (K3).
-- Design analog and digital communication systems (K3).
-- Use pulse communication techniques-Application (K3).
-- Analyze Source and Error control coding (K3).
+- Apply analog and digital communication techniques (K3)
+- Design analog and digital communication systems (K3)
+- Use pulse communication techniques-Application (K3)
+- Analyze Source and Error control coding (K3)
 - Analyze the performance of spread spectrum systems (K3).
       
 ** TEXT BOOKS

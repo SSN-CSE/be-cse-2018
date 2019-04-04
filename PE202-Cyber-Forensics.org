@@ -9,6 +9,20 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+#+begin_comment
+Unit-1:   AU-Unit I included. 
+
+Unit-2:  AU-Unit I topics included
+         AU-Unit I data acquisition topics is elaborated 
+
+Unit-3: AU-Unit II topics included
+        AU-Unit III topics included
+
+Unit-4: AU-Unit III topics included 
+
+Unit-5:  New tools topics included
+         Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To learn computer forensics and understand incident response.
@@ -18,7 +32,7 @@
 - To be familiar with forensics tools.  
 
 
-{{{unit}}}
+{{{unit}}} 
 | UNIT I | 	INTRODUCTION TO COMPUTER FORENSICS | 9 |
 Understanding computer forensics; Introduction to the Incident
 Response Process; Preparing for Incident Response: Overview of
@@ -29,44 +43,45 @@ Response Team.
 
 {{{unit}}}
 |UNIT II | DATA ACQUISITION | 9 |
-After Detection of an Incident: Initial Response Phase
--- Incident Notification Procedure -- Recording after Initial Detection -- Incident Declaration -- Assembling
-the CSIRT -- Traditional Investigative Steps -- Conducting
-Interviews --Response Strategy; Data Acquisition:
-Storage Formats -- Determining the
-Best Acquisition Method -- Image Acquisitions
--- Acquisition Tools -- Validating Data Acquisitions -- RAID Data Acquisitions -- Remote Network Acquisition Tools.
+After Detection of an Incident: Initial respo in SNU syllabusnse phase
+-- Incident motification procedure -- Recording after initial
+detection -- Incident declaration -- Assembling the CSIRT --
+Traditional investigative steps -- Conducting interviews --Response
+strategy; Data Acquisition: Storage formats -- Determining the best
+acquisition method -- Image acquisitions -- Acquisition tools --
+Validating data acquisitions -- RAID data acquisitions -- Remote
+network acquisition tools.
 
 {{{unit}}}
 |UNIT III | ANALYSIS AND VALIDATION | 9 |
-Processing Crime and Incident Scenes: Identifying Digital Evidence --
-Private Sector IS -- Processing Law Enforcement CS -- Search -- Securing CS --
-Seizing -- Storing -- Digital Hash --
-Reviewing a Case; Working with Windows and DOS Systems: Examining NTFS
-Disks; Computer Forensics Analysis and Validation: Data to Collect and Analyze -- 
-Validating -– Data Hiding Techniques -– Remote Acquisition.
+Processing Crime and Incident Scenes: Identifying digital evidence --
+Private sector IS -- Processing law enforcement CS -- Search --
+Securing CS -- Seizing -- Storing -- Digital hash -- Reviewing a case;
+Working with Windows and DOS Systems: Examining NTFS disks; Computer
+Forensics Analysis and Validation: Data to collect and analyze --
+Validating -– Data hiding techniques -– Remote acquisition.
 
 {{{unit}}}
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
-Network Forensics: Developing Standard Procedures for Network
-Forensics -- Using Network Tools; E-mail Investigations: Understanding
-E-mail Servers -- Using Specialized E-mail Forensics Tools; Cell Phone
+Network Forensics: Developing standard procedures for network
+forensics -- Using network tools; E-mail Investigations: Understanding
+E-mail servers -- Using specialized E-mail forensics tools; Cell Phone
 and Mobile Device Forensics: Understanding mobile device forensics --
-Understanding acquisition procedures for Cell Phones and Mobile
-Devices.
+Understanding acquisition procedures for cell phones and mobile
+devices.
 
 # Mobile Network Forensic: Introduction -- Mobile Network Technology --
-# Investigations -- Collecting Evidence -- Where to seek Digital Data
+# Investigations -- Collecting Evidence -- Wher in SNU syllabuse to seek Digital Data
 # for further Investigations -- Interpretation of Digital Evidence on
 # Mobile Network.
 
 {{{unit}}}
 |UNIT V | COMPUTER FORENSIC TOOLS| 9 |
-The Investigator's Office and Laboratory: Understanding Forensics Lab
-Certification Requirements -- Determining the physical requirements
+The Investigator's Office and Laboratory: Understanding forensics lab
+certification requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
--- FTK -- Autopsy -- Sleuth kit Forensic Browser -- FIRE -- Found
-stone Forensic ToolKit -- WinHex -- Linux and other open source tools.
+-- FTK -- Autopsy -- Sleuth kit forensic browser -- FIRE -- Found
+stone forensic toolKit -- WinHex -- Linux and other open source tools.
 
 \hfill *Total Periods: 45*
 
@@ -76,22 +91,15 @@ After the completion of this course, students will be able to:
 - Apply data acquisition techniques (K3)
 - Analyze and validate forensics data (K3)
 - Understand network and mobile forensics (K2)
-- Use forensics tools (K3)
+- Use forensics tools (K3).
 
 ** TEXT BOOKS 
-1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
-   Forensics'', Second Edition, McGraw-Hill 2003.
-2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
-   Investigations'', Cengage Learning, India Edition, 2008.
+1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer Forensics'', Second Edition, McGraw-Hill 2003.
+2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and Investigations'', Cengage Learning, India Edition, 2008.
 
 ** REFERENCES 
-1. Dhillon G, ``Principles of Information Systems Security'', John
-   Wiley & Sons, 2007.
-2. Whitman ME, Mattord HJ, ``Principles of Information Security'',
-   Third Edition, Thompson Course Technology, 2009.
-3. John R.Vacca, ``Computer Forensics'', Cengage Learning, 2005.
-4. Marjie T.Britz, ``Computer Forensics and Cyber Crime: An
-   Introduction'', Third Edition, Prentice Hall, 2013.
-5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
-   Manual for Collecting, Examining, and Preserving Evidence of
-   Computer Crimes'', Auerbach Publications, 2007.
+1. Dhillon G, ``Principles of Information Systems Security'', John Wiley & Sons, 2007.
+2. Whitman M E, Mattord H J, ``Principles of Information Security'', Third Edition, Thompson Course Technology, 2009.
+3. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
+4. Marjie T Britz, ``Computer Forensics and Cyber Crime: An Introduction'', Third Edition, Prentice Hall, 2013.
+5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field Manual for Collecting, Examining, and Preserving Evidence of Computer Crimes'', Auerbach Publications, 2007.

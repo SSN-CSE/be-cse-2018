@@ -10,6 +10,13 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment
+
+Anna University Regulation 2017 has this course. The syllabus content
+across units were modified in Autonomous syllabus as adviced by the
+domain expert committee.
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To understand the basic concepts of Agile software process
 - To learn about agile requirement engineering
@@ -46,17 +53,17 @@ Model: A new maturity model.
 
 {{{unit}}}
 | UNIT IV | AGILE METHODS | 9 |
-Scrum: Method Overview -- Life cycle -- Work products -- Values --
-Roles and Practices -- Process mixtures -- Adoption strategies;
+Scrum: Method overview -- Life cycle -- Work products -- Values --
+Roles and practices -- Process mixtures -- Adoption strategies;
 Extreme Programming; Unified Process; EVO.
 
 {{{unit}}}
 | UNIT V | AGILE TESTING AND QUALITY ASSURANCE | 9 |
 Agile testing: Nine principles and six concrete practices for testing
-on agile teams; Agile Metrics: Feature Driven Development (FDD) --
-Financial and production metrics in FDD -- Agile approach to Quality
-Assurance -- Test Driven Development; SMM: A Process Improvement Framework for Agile Requirements
-Engineering Practices.
+on agile teams; Agile Metrics: Feature driven development (FDD) --
+Financial and production metrics in FDD -- Agile approach to quality
+assurance -- Test driven development; SMM: A process improvement
+framework for agile requirements engineering practices.
 
 \hfill *Total Periods: 45*
 
@@ -66,7 +73,7 @@ Upon the completion of the course the students should be able to:
 - Apply agile software process in requirement engineering (K3)
 - Understand agile methods for project planning and developement (K2)
 - Apply agile methods for software design (K3)
-- Apply agile based testing and quality assurance (K3)
+- Apply agile based testing and quality assurance (K3).
 
 ** TEXT BOOKS
 1. David J Anderson, Eli Schragenheim, ``Agile Management for

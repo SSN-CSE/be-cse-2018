@@ -21,12 +21,12 @@
 - To understand the phases in a software project
 - To understand fundamental concepts of requirements engineering and Analysis Modeling.
 - To understand the various software design methodologies
-- To learn various testing and maintenance measures.
+- To learn various testing techniques and maintenance measures.
 
 {{{unit}}}
 |UNIT I | SOFTWARE PROCESS MODELS | 9 |
 Introduction to Software Engineering; Principles and Practices; Software Process: Generic process model -- Perspective and Specialized
-Process Models; Introduction to Agility: Agile process.
+Process Models; Introduction to Agility: Agile process model.
 
 #+begin_comment
 1. Removed: Extreme programming, XP Process
@@ -36,7 +36,7 @@ Process Models; Introduction to Agility: Agile process.
 {{{unit}}}
 |UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
 Project Planning Process; Software Project Estimation: Decomposition Techniques -- Empirical Estimation Models -- The Make/Buy
-Decision -- Project Scheduling; Risk Management: Risk identification -- Risk Projection -- Risk Mitigation.
+Decision -- Project Scheduling; Risk Management: Risk Identification -- Risk Projection -- Risk Mitigation.
 
 #+begin_comment
 1. Removed: CASE TOOLS, RMMM Plan
@@ -45,8 +45,8 @@ Decision -- Project Scheduling; Risk Management: Risk identification -- Risk Pro
 
 {{{unit}}}
 |UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
-Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- requirements validation -- requirements
-management; Classical Analysis: Structured system analysis; Petri Nets.
+Software Requirements: Functional and Non-functional -- User Requirements -- System Requirements -- Software Requirements Document; Requirement Engineering Process: Feasibility Studies -- Requirements Elicitation and Analysis -- Requirements Validation -- Requirements
+Management; Classical Analysis: Structured System Analysis; Petri Nets.
 
 #+begin_comment
 1. Removed: Data dictionary
@@ -55,7 +55,7 @@ management; Classical Analysis: Structured system analysis; Petri Nets.
 
 {{{unit}}}
 |UNIT IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Design model -- Modeling Principles; Architectural Design: Architectural styles --Architectural mapping using data flow; User Interface Design: The golden rules -- Interface analysis -- Interface design; Component Level Design: Designing class based components -- Traditional components.
+Design Concepts: Design Process -- Design Concepts -- Design Model -- Modeling Principles; Architectural Design: Architectural Styles --Architectural Mapping using Dataflow; User Interface Design: The Golden rules -- Interface Analysis -- Interface Design; Component Level Design: Designing Class based Components -- Traditional Components.
 
 #+begin_comment
 1. Removed: Design Heuristic
@@ -64,7 +64,7 @@ Design Concepts: Design process -- Design concepts -- Design model -- Modeling P
 
 {{{unit}}}
 |UNIT V | TESTING AND MAINTENANCE | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing:  White Box Testing -- Basis path testing -- Control structure testing -- Black box testing -- Unit testing -- Integration testing -- Regression testing -- Validation testing -- System testing; Debugging; Software Implementation: Coding practices and principles; Maintenance: Types -- Reengineering -- Reverse Engineering -- Restructuring.
+Software Testing Fundamentals; Internal and External Views of Testing:  White Box Testing -- Basis Path Testing -- Control Structure Testing -- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types -- Reengineering -- Reverse Engineering -- Restructuring.
 
 #+begin_comment
 1. Removed: Refactoring, BPR model, Forward Engineering
@@ -84,7 +84,7 @@ After the completion of this course, students will be able to:
 
       
 ** TEXT BOOKS
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Seven Edition, 2010.
+1. Roger S Pressman, ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Seventh Edition, 2010.
 2. Ian Sommerville, ``Software Engineering'', Pearson Education Asia, Nineth Edition, 2011.
 
 ** REFERENCES

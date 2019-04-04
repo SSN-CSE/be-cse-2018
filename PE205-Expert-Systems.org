@@ -11,7 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment:
-We are not aware of any Expert Systems course in Anna University curriculum. This syllabus is completely independent of any Expert System course.
+
+We are not aware of any Expert Systems course in Anna University
+curriculum. This syllabus is completely independent of any Expert
+System course.
+
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -25,9 +29,9 @@ We are not aware of any Expert Systems course in Anna University curriculum. Thi
 |UNIT I|FOUNDATIONS|8|
 Introduction: Expert Systems & AI -- Examples -- Separating knowledge
 & inference -- A problem domain; Introduction to LISP: Fundamental
-Principles of LISP -- Overview of LISP Language; Introduction to PROLOG: Logic Programming --
-Programming in PROLOG -- Overview of PROLOG Language.
-
+Principles of LISP -- Overview of LISP Language; Introduction to
+PROLOG: Logic Programming -- Programming in PROLOG -- Overview of
+PROLOG Language.
 
 {{{unit}}}
 |UNIT II|LOGIC & REASONING |10|

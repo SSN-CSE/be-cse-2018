@@ -11,7 +11,10 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment
-Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
+
+Anna University Regulation 2017 has this course. The syllabus content
+across units were modified in Autonomous syllabus which was mentioned
+at the end of every unit.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -32,7 +35,9 @@ Development -- Design Challenges -- Inter Cloud Resource Management --
 Resource Provisioning and Platform Deployment.
 
 #+begin_comment
-Basic introduction about cloud computing is removed from Anna University syllabus, as this technology is been used by many people.
+
+Basic introduction about cloud computing is removed from Anna
+University syllabus, as this technology is been used by many people.
 #+end_comment
 
 {{{unit}}}
@@ -46,7 +51,9 @@ Types: Full Virtualization -- Para Virtualization -- Hardware
 Virtulization.
 
 #+begin_comment
-SOA, webservices and PUb/Sub systems are removed from AU syllabus as they are covered in Distributed Systems.
+
+SOA, webservices and PUb/Sub systems are removed from AU syllabus as
+they are covered in Distributed Systems.
 #+end_comment
 
 {{{unit}}}
@@ -60,7 +67,9 @@ Memory and I/O devices -- Virtual clusters and Resource Management --
 Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 
 #+begin_comment
-Virtualization technology is detailed in this unit. The topics of Unit - III as per AU syllabus is moved to Unit I in Autnomus syllabus.
+
+Virtualization technology is detailed in this unit. The topics of
+Unit - III as per AU syllabus is moved to Unit I in Autnomus syllabus.
 #+end_comment
 
 {{{unit}}}
@@ -70,7 +79,9 @@ Parallel Programming Framework: Hadoop Map Reduce -- Google App Engine
 Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
 
 #+begin_comment
-This unit covers programming models which is present as UNit - V in AU syllabus.
+
+This unit covers programming models which is present as UNit - V in AU
+syllabus.
 #+end_comment
 
 {{{unit}}}
@@ -82,7 +93,9 @@ Availability Management -- Access Control; Security-As-A-[Cloud]
 Service.
 
 #+begin_comment
-This unit covers Cloud Security issues which is present as Unit - IV in AU syllabus.
+
+This unit covers Cloud Security issues which is present as Unit - IV
+in AU syllabus.
 #+end_comment
 
 \hfill *Total Periods: 45*

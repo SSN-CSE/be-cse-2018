@@ -3,46 +3,45 @@
 :author: S. V. Jansi Rani, R. Priyadharsini
 :date: 28 March 2019
 
+#+startup: showall
 |L|T|P|C|
 |2|0|2|3|
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the protocol layering and physical level communication
 - To understand the various components required to build different networks
 - To learn the background of network simulation
 - To explore the various networking protocols
 - To familiarize with the basics of NS3 simulator and packet tracer.
 
-
 {{{unit}}}
-|UNIT I| Introduction to Computer Networks  |6|
-
-Introduction: Networks – Network Types – Protocol Layering – TCP/IP Protocol suite – OSI Model;  Network devices; Performance. 
-
-
-{{{unit}}}
-|UNIT II| Networking and Access Control |6|
-Addressing; Ethernet Networking; VLAN: Basics - Configuring VLAN; ACL; Firewall; Working of Packet Tracer.  
+|UNIT I| INTRODUCTION TO COMPUTER NETWORKS  |6|
+Introduction: Networks – Network Types – Protocol Layering – TCP/IP
+Protocol suite – OSI Model; Network devices; Performance.
 
 
 {{{unit}}}
-|UNIT III| Networking Protocols	|6|
-
-Network as a graph; Routing Protocols: RIP - OSPF; Autonomous System: EIGRP; TCP; UDP.
-
-
-{{{unit}}}
-|UNIT IV| Simulation Basics |6|
-Types of simulation; The need for communications network modeling and simulation; 
-Types of communications networks; modeling constructs; Performance targets for simulation purposes.
-
+|UNIT II| NETWORKING AND ACCESS CONTROL |6|
+Addressing; Ethernet Networking; VLAN: Basics - Configuring VLAN; ACL;
+Firewall; Working of Packet Tracer.
 
 
 {{{unit}}}
-|UNIT V| Network Simulator NS3 |6|
-Overview of Simulators; Introduction to NS3: Background of NS3 - Establishing a network in NS3; Study of performance of TCP protocol. 
+|UNIT III| NETWORKING PROTOCOLS	|6|
+Network as a graph; Routing Protocols: RIP - OSPF; Autonomous System:
+EIGRP; TCP; UDP.
+
+{{{unit}}}
+|UNIT IV| SIMULATION BASICS |6|
+Types of simulation; The need for communications network modeling and
+simulation; Types of communications networks; modeling constructs;
+Performance targets for simulation purposes.
+
+{{{unit}}}
+|UNIT V| NETWORK SIMULATOR NS3 |6|
+Overview of Simulators; Introduction to NS3: Background of NS3 -
+Establishing a network in NS3; Study of performance of TCP protocol.
  
-
 ** SUGGESTIVE EXPERIMENTS
  - Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. 
  - Capture ping and traceroute PDUs using a network protocol analyzer and examine.
@@ -53,13 +52,13 @@ Overview of Simulators; Introduction to NS3: Background of NS3 - Establishing a 
  - Performance Study of TCP in NS3
 
 
- *Theory Periods: 30*
+\hfill *Theory Periods: 30*
 
-*Practical Periods: 30*
+\hfill *Practical Periods: 30*
 
-*Total Periods: 60*
+\hfill *Total Periods: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 Upon Completion of the course, the students should be able to:
 - Understand the basic layers and its functions in computer networks (K2)
 - Analyze networking protocols (K3)
@@ -67,14 +66,19 @@ Upon Completion of the course, the students should be able to:
 - Understand the working of NS3 simulator and packet tracer (K2)
 - Design network topology in NS3 simulator and packet tracer (K4)
 
+** TEXT BOOKS
+1. Behrouz A. Forouzan, Data Communications and Networking, Fifth
+   Edition TMH, 2013.
+2. Larry L. Peterson, Bruce S. Davie, Computer Networks: A Systems
+   Approach, Fifth Edition, Morgan Kaufmann Publishers Inc., 2012.
 
-** Text Books
-1. Behrouz A. Forouzan, Data Communications and Networking, Fifth Edition TMH, 2013.
-2. Larry L. Peterson, Bruce S. Davie, Computer Networks: A Systems Approach, Fifth Edition, Morgan Kaufmann Publishers Inc., 2012.
-
-
-** Reference Books:
-1. William Stallings, Data and Computer Communications, Tenth Edition, Pearson Education, 2013.
-2. Nader F. Mir, Computer and Communication Networks, Second Edition, Prentice Hall, 2014.
-3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, Computer Networks: An Open Source Approach, McGraw Hill Publisher, 2011.
-4. James F. Kurose, Keith W. Ross, Computer Networking, A Top-Down Approach Featuring the Internet, Sixth Edition, Pearson Education, 2013.
+** REFERENCE BOOKS
+1. William Stallings, Data and Computer Communications, Tenth Edition,
+   Pearson Education, 2013.
+2. Nader F. Mir, Computer and Communication Networks, Second Edition,
+   Prentice Hall, 2014.
+3. Ying-Dar Lin, Ren-Hung Hwang and Fred Baker, Computer Networks: An
+   Open Source Approach, McGraw Hill Publisher, 2011.
+4. James F. Kurose, Keith W. Ross, Computer Networking, A Top-Down
+   Approach Featuring the Internet, Sixth Edition, Pearson
+   Education, 2013.

@@ -5,7 +5,7 @@
 
 #+begin_comment
 - 1. No equivalent course in AU 2017 Curriculum
-- 2. Framed the syllabus with a balance of theory concept and practical implementation
+- 2. Framed the syllabus with a balance of theoretical concepts and practical implementation
 - 3. Text book and syllabus are different from M.E syllabus
 - 4. Five Course outcomes specified and aligned with units
 - 5. Suggestive experiments are given
@@ -20,45 +20,56 @@
 ** COURSE OBJECTIVES
 - To understand the need and types of machine learning techniques for
   various problems
-- To study about the various supervised learning
+- To study the various supervised learning
   algorithms in machine learning
 - To choose appropriate machine learning algorithms to solve realistic
   problems.
 
 {{{unit}}}
 | UNIT I | MACHINE LEARNING LANDSCAPE | 5 |
-Machine learning and it's use -- Types of machine learning: Supervised/Unsupervised -- Batch and online -- Instance based and model based; Challenges of machine learning: Insufficient data -- Nonrepresentative data -- Poor quality data -- Irrelevant features -- Overfitting and underfitting; Testing and validating.
+Machine learning and it's use; Types of machine learning; Challenges
+of machine learning; Testing and validating.
 
 {{{unit}}}
 | UNIT II | DEVELOPING A MACHINE LEARNING APPLICATION| 6 |
-Working with real data -- Frame the problem -- Select performance measure -- Check assumptions -- Get the data -- Discover and visualize the data -- Data preparation -- Select and train model -- Fine tune model -- Launch the system.
+Working with real data -- Look at the big picture -- Get the data -- Discover and visualize
+the data -- Data preparation -- Select and train model.
 
 {{{unit}}}
 |UNIT III | CLASSIFICATION AND REGRESSION | 8 |
-Classification: Training a binary classifier -- Performance measures -- Multiclass classification; Regression: Linear regression -- Gradient descent; Support Vector Machines: Linear SVM classification -- Nonlinear SVM classification.
+Classification: Training a binary classifier -- Performance measures
+-- Multiclass classification; Regression: Linear regression --
+Gradient descent -- Logistic Regression; Support Vector Machines: Linear SVM classification
+-- Nonlinear SVM classification.
 
 {{{unit}}}
 |UNIT IV | TREE MODELS AND ENSEMBLE LEARNING | 6 |
-Decision Trees: Training and visualizing trees -- Making predictions -- Estimating class probabilities -- CART training algorithm -- Regularization of hyperparameters; Ensemble learning: Voting classifiers -- Bagging -- Random forests -- Boosting.
+Decision Trees: Training and visualizing trees -- Making predictions
+-- Estimating class probabilities -- CART training algorithm --
+Regularization of hyperparameters; Ensemble learning: Voting
+classifiers -- Bagging -- Random forests -- Boosting.
 
 {{{unit}}}
 |UNIT V | ARTIFICIAL NEURAL NETWORKS  | 5 |
-From Biological to Artificial Neurons: Biological neurons -- Logical computations with neurons -- Perceptron -- Multi-Layer Perceptron and backpropagation; Training a MLP network -- Fine tuning neural network hyperparameters; Introduction to Deep Learning.
+From Biological to Artificial Neurons: Biological neurons -- Logical
+computations with neurons -- Perceptron -- Multi-Layer Perceptron and
+backpropagation; Training a MLP network -- Fine tuning neural network
+hyperparameters; Introduction to Deep Learning.
 
-#Case study: E-mail spam detection --
-Document classification using clustering -- Handwritten character
-recognition.
+# Document classification using clustering -- Handwritten character recognition.
+
+# Case study: E-mail spam detection --
 # Sentiment analysis -- 
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
  - Data analysis
- - Develop a machine learning application using California housing prices dataset 
+ - Machine learning application for house price prediction 
  - Classification of Iris dataset using multiclass classification
  - Loan amount prediction using linear regression
  - E-mail spam detection using support vector machine
- - Diabetic decision making using decision tree
+ - Predicting Diabetes using decision tree
  - Handwritten character recognition using neural networks
 # - Classification of Iris dataset using Naive Bayes model
 # - Document grouping using K-means clustering
@@ -74,14 +85,15 @@ After the completion of this course, students will be able to:
 - Understand the various steps in developing a machine learning application (K2)
 - Apply various algorithms for classification and regression tasks (K3)
 - Apply tree and ensemble models for various problems (K3)
-#- Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
 - Apply the neural network algorithm for real world problems (K3).
+# - Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
       
 ** TEXT BOOKS
-1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and TensorFlow'', O'Reilly Media, 2017.
+1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and
+   TensorFlow'', O'Reilly Media, 2017.
 
 ** REFERENCES
-1. Stephen Marsland, ``Machine Learning â€“ An Algorithmic
+1. Stephen Marsland, ``Machine Learning -- An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2014.
 2. Jason Bell, ``Machine learning -- Hands on for Developers and

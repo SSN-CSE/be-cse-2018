@@ -5,7 +5,7 @@
 :end:
 
 #+begin_comment
-- 1. Almost the same as EC8093-  DIGITAL IMAGE PROCESSING in AU 2017
+- 1. Almost the same as EC8093  DIGITAL IMAGE PROCESSING in AU 2017
 - 2. Change in Unit V (see the comment below unit V)
 - 3. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
      split into Unit- II and III
@@ -98,11 +98,12 @@ After the completion of this course, students will be able to:
    Pearson, 2002.
    
 ** REFERENCES
-1. Kenneth R. Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
+1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
+2. Rafael C Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
    Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S. Sridhar, ``Digital Image Processing'', Second Edition, Oxford University, 2016
+3. S Sridhar, ``Digital Image Processing'', Second Edition, Oxford University, 2016
 4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
    York, 2002
-5. Milan Sonka et al, ``Image Processing, Analysis and Machine
-   Vision'', Brookes/Cole, Vikas Publishing House, 2nd edition, 1999
+5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,
+   Analysis and Machine Vision'', Brookes/Cole, Vikas Publishing
+   House, 2nd edition, 1999

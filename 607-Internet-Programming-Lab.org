@@ -22,7 +22,7 @@
 - Develop a web application using sessions and servlet. (Ex: Online Shopping application)
 - Develop a web application using servlet, cookies and MySQL. (Ex: Super Market Billing System)
 - Develop a Popup Menu Application using AJAX. 
-- Develop a web application using AngularJS and NodeJS. (Ex: Railway Reservation System)
+- Develop a web application using ReactJS and NodeJS. (Ex: Railway Reservation System)
 
 \hfill *Total Periods: 45*
 
@@ -44,4 +44,4 @@ Hardware:\\
 Software:\\
 1. Frontend - Netbeans/Eclipse with Java
 2. Database - MySQL 
-3. Web Server - WAMP Server
+3. Web Server - Tomcat Server

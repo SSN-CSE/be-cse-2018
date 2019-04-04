@@ -1,6 +1,6 @@
-* <<<PE103>>> SOFTWARE TESTING
+﻿<<<PE103>>> SOFTWARE TESTING
 :properties:
-:author:   Dr. K. Madheswari and Dr. A. Chamundeswari
+:author: Dr. K. Madheswari and Dr. A. Chamundeswari
 :end:
 
 #+startup: showall
@@ -9,72 +9,51 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** COURSE OBJECTIVES
-- To understand the importance of testing in project development
-- To understand  Software Quality Assessment standards
-- To analyze the product quality
-- To use various testing methods in projects
-- To apply automation tools for software testing in projects
+** Course Objectives
+- To be familiar with objectives, principles, process, and factors of software testing 
+- To learn the design of test cases using Black box approach and white box approaches
+- To understand and apply the levels of testing. 
+- To understand automation methods in software testing.
+- Test the product finally to check the product Quality.
 
 {{{unit}}}
-|UNIT I|INTRODUCTION|9| 
-Introduction to Software Quality -- Challenges – Objectives –- Quality
-Factors -– Components of SQA –- Contract Review –- Development and
-Quality Plans –- SQA Components in Project Life Cycle –- SQA Defect
-Removal Policies –- Reviews.
+|Unit I| TESTING FUNDAMENTALS |9| 
+Objectives and Principles -- Fundamental Test Process -- Test Levels -- Establishing a Testing Policy -- Structured Approach to Testing -- Test Factors -- Developing Risk Matrix -- Steps in Software Testing Process.
 
 {{{unit}}}
-|UNIT II |TESTING METHODOLOGIES|9| 
-Basics of Software Testing –- Test Generation from Requirements –-
-Finite State Models –- Combinatorial Designs -- Test Selection;
-Minimization and Prioritization for Regression Testing –- Test
-Adequacy; Assessment and Enhancement.
+|Unit II|  TEST CASE DESIGN STRATEGIES AND METHODS |9| 
+Introduction to Testing Design Strategies--Test Case Design Strategies-- Using the Black Box Approach to Test Case Design: Random Testing-- Equivalence Class Partitioning-- Boundary Value Analysis-- Cause-and-Effect Graphing--State Transition Testing-- Error Guessing; Using the White Box Approach to Test Design--Coverage and Control Flow Graphs- Covering Code Logic -- Paths-- Data Flow and White Box Test Design-- Loop Testing--Mutation Testing;
 
 {{{unit}}}
-|UNIT III|TEST STRATEGIES |9| 
-Testing Strategies –- White Box and Black Box Approach –- Integration
-Testing –- System and Acceptance Testing –- Performance Testing –-
-Regression Testing -- Internationalization Testing –- Ad-hoc Testing
-–- Website Testing –- Usability Testing –- Accessibility Testing.
+|Unit III|  LEVELS OF TESTING |9| 
+The Need for Levels of Testing-- Unit Test: Functions -- Procedures-- Classes-- and Methods as Units--Unit Test Planning-- Designing the Unit Tests -- The Test Harness- Running the Unit Tests and Recording Results; Integration tests: Designing Integration Tests –- Integration Test Planning; System Test: Functional Testing -- Performance Testing--Stress Testing-- Configuration Testing-- Security Testing-- Recovery Testing; Regression Testing- Acceptance Testing: Alpha, Beta and Acceptance Tests.                                                                        
 
 {{{unit}}}
-|UNIT IV| TEST AUTOMATION AND MANAGEMENT |9|
-Test plan –- Management –- Execution and Reporting –- Software Test
-Automation –- Automated Testing tools -- Hierarchical Models of
-Software Quality –- Configuration Management –- Documentation Control.
+|Unit IV| TEST AUTOMATION AND MANAGEMENT |9|
+Test plan –- Management –- Execution and Reporting –- Software Test Automation –- Automated Testing tools -- Hierarchical Models of Software Quality –- Configuration Management –- Documentation Control. 
 
 {{{unit}}}
-|UNIT V|SQA IN PROJECT MANAGEMENT |9|
-Project progress control –- costs –- quality management standards –-
-project process standards –- management and its role in SQA –- SQA
-unit.
+|Unit V|SOFTWARE QUALITY ASSURANCE |9|
+Introduction to Software Quality -- Challenges – Objectives –- Quality Factors -– Components of SQA –- Contract Review –- Development and Quality Plans –- SQA Components in Project Life Cycle –- SQA Defect Removal Policies –- Reviews--Project progress control –- costs –- quality management standards –- project process standards –- management and its role in SQA –- SQA unit.
 
-\hfill *Total Periods: 45*
+\hfill *Total: 45*
 
-** COURSE OUTCOMES
+** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand the importance of testing in project development (K2). 
-- Understand the Software Quality Assessment standards (K2).
-- Analyze the product Quality (K3).
-- Use various testing methods in projects(K3).
+- Have a high level understanding of software testing objectives, principles and practices (K2). 
+- Apply Black and whitebox approach to design test cases (K3).
+- Understand and apply levels of testing (K3).
 - Apply Automation tools for software testing in projects (K3).
+- Analyze the product Quality (K3).
 
+** Text Books
+1. Gopalaswamy Ramesh and Srinivasan Desikan,Software Testing: Principles and Practices, Pearson Education, New Delhi, 2006. (UNIT-I, IV)
+2. eLlene Burnstein, “ Practical Software Testing”, Springer International Edition, Chennai, 2003 (UNIT-II,III, IV)
 
-** TEXT BOOKS
-1. AdityaMathur, ``Foundations of Software Testing'', Pearson
-   Education, 2008
-2. Alan C Gillies, ``Software Quality Theory and Management'', Cengage
-   Learning, Second Edition, 2003.
-	
-** REFERENCES
-1. Daniel Galin, ``Software Quality Assurance -- From Theory to
-   Implementation'', Pearson Education, 2009.
-2. Robert Furtell, Donald Shafer, and Linda Shafer, ``Quality Software
-   Project Management'', Pearson Education Asia, 2002.
-3. Ron Patton, ``Software Testing'', Second Edition, Pearson
-   Education, 2007.
-4. SrinivasanDesikan, Gopalaswamy Ramesh, ``Software Testing --
-   Principles and Practices'', Pearson Education, 2006.
-5. Yogesh Singh, ``Software Testing'', Cambridge University
-   Press, 2012.
+** References
+1. Aditya Mathur, "Foundations of Software Testing", Pearson Education, 2008 
+2. Daniel Galin, "Software Quality Assurance – from Theory to Implementation", Pearson Education, 2009 (UNIT-V)
+3. Alan C Gillies, "Software Quality Theory and Management", Second Edition,Cengage Learning, 2003 
+4. Robert Furtell, Donald Shafer, and Linda Shafer, "Quality Software Project Management", Pearson Education Asia, 2002 
+5. Ron Patton, "Software Testing", Second Edition, Pearson Education, 2007
 

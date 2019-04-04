@@ -36,12 +36,13 @@
 |UNIT I | DATA SCIENCE AND PYTHON | 9 |
 Introduction: Computational tools -- Need for data science --
 Causality and experiments; Array computing in Python: Vectors --
-Arrays -- Advanced vectorization of functions -- Higher-dimensional arrays: Matrices and arrays; Dictionaries and strings.
+Arrays -- Advanced vectorization of functions -- Higher-dimensional
+arrays: Matrices and arrays; Dictionaries and strings.
 
 {{{unit}}}
 |UNIT II | PROBABILITY AND STATISTICS | 9 |
-Randomness; Empirical distributions; Testing
-hypothesis; Estimation; Why the mean matters; Prediction; Inference for regression.
+Randomness; Empirical distributions; Testing hypothesis; Estimation;
+Why the mean matters; Prediction; Inference for regression.
 
 {{{unit}}}
 |UNIT III | MACHINE LEARNING | 9 |
@@ -51,12 +52,16 @@ weak learning -- Stochastic Gradient Descent.
 
 {{{unit}}}
 |UNIT IV | DATA STREAMS AND CLUSTERING | 9 |
-Algorithms for Massive Data Problems: Frequency moments of data streams -- Matrix algorithms using sampling; Clustering: k-Means clustering -- Spectral clustering -- Community finding and
-graph partitioning.
+Algorithms for Massive Data Problems: Frequency moments of data
+streams -- Matrix algorithms using sampling; Clustering: k-Means
+clustering -- Spectral clustering -- Community finding and graph
+partitioning.
 
 {{{unit}}}
 |UNIT V | TOPIC MODELS AND GRAPHICAL MODELS | 9 |
-Topic Models -- Nonnegative matrix factorization -- Latent Dirichlet allocation -- Hidden Markov models -- Bayesian Belief Networks -- Markov Random Fields.
+Topic Models -- Nonnegative matrix factorization -- Latent Dirichlet
+allocation -- Hidden Markov models -- Bayesian Belief Networks --
+Markov Random Fields.
 
 \hfill *Total Periods: 45*
 
