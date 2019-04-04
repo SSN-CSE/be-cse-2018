@@ -20,24 +20,24 @@
 
 ** Course Objectives
 1. To understand and differentiate Unified Process from other approaches. 
-2. To design modelling based software using static UML diagrams.
-3. To familiarize with the UML dynamic and implementation diagrams.
-4. To improve software design with design patterns. 
-5. To test the software with its requirements specification
+2. To understand object-oriented software design using UML's static diagrams.
+3. To understand software modeling using the UML's dynamic diagrams.
+4. To learn improving software design with design patterns. 
+5. To learn testing the software with its requirements specification
 
 {{{unit}}}
 |UNIT I | DEVELOPMENT PROCESS & USE-CASE DIAGRAM (STATIC)  | 9 |
-Introduction to OOAD with OO Basics - Unified Process – UML diagrams –
-Use Case –Case study – the Next Gen POS system, Inception -Use case
-Modelling – Relating Use cases – include, extend and generalization –
+Introduction to OOAD with OO Basics - Unified Process – UML Diagrams –
+Use Case –Case Study – the Next Gen POS system, Inception -Use case
+Modelling – Relating Use cases – Include, Extend and Generalization –
 When to use Use-cases
 
 {{{unit}}}
 |UNIT II | UNIFIED PROCESS & CLASS DIAGRAM (STATIC)		| 9 |
-Class Diagram–– Elaboration – Domain Model – Finding conceptual
-classes and description classes – Associations – Attributes – Domain
-model refinement – Finding conceptual class Hierarchies – Aggregation
-and Composition - Relationship between sequence diagrams and use cases
+Class Diagram–– Elaboration – Domain Model – Finding Conceptual
+Classes and Description Classes – Associations – Attributes – Domain
+Model Refinement – Finding Conceptual Class Hierarchies – Aggregation
+and Composition - Relationship between Sequence Diagrams and Use Cases
 – When to use Class Diagrams
 
 {{{unit}}}
@@ -53,27 +53,27 @@ and Deployment diagrams
 
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
-Designing objects with responsibilities – Creator – Information expert
+Designing Objects with Responsibilities – Creator – Information Expert
 – Low Coupling – High Cohesion – Controller. Design Patterns –
-creational – factory method – structural – Bridge – Adapter –
-behavioural – Strategy – observer –Applying GoF design patterns –
-Mapping design to code
+Creational – Factory Method – Structural – Bridge – Adapter –
+Behavioural – Strategy – Observer –Applying GoF Design Patterns –
+Mapping Design to Code
 
 {{{unit}}}
 | UNIT V | TEST DRIVEN DEVELOPMENT AND REFACTORING | 9 |
 Object Oriented Methodologies – Software Quality Assurance – Impact of
-object orientation on Testing – Develop Test Cases and Test Plans
+Object Orientation on Testing – Develop Test Cases and Test Plans
 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-At the end of the course, the student should be able to:
+At the end of the course, the students will be able to:
 - Express software design with UML diagrams (K2)
 - Design and implement projects using OO concepts.(K4)
 - Identify and map basic software requirements in UML mapping.(K3)
-- Transform UML based software design into pattern based design framework using design patterns.(K4)
-- Understand the testing procedure for any software. (K3)
+- Transform UML based software design into pattern based design using design patterns.(K4)
+- Test any object-oriented software against its requirements. (K3)
 
   
 ** TEXT BOOKS
