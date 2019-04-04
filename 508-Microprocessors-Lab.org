@@ -3,6 +3,13 @@
 :author: Ms. S. Manisha and Mr. K. R. Sarath Chandran
 :end:
 
+#+begin_comment
+- 1. Almost the same as AU
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Suggestive List of Experiments given.
+#+end_comment
 #+startup: showall
 
 {{{credits}}}
@@ -11,9 +18,10 @@
 
 ** COURSE OBJECTIVES
 - To understand simple Assembly Language Programs concepts and features
-- To write Assembly Language Programming for 8086 and 8051
+- To write Assembly Language Programming for 8086  
 - To understand MASM programming
 - To design different I/O interfaces with Microprocessors
+- To write Assembly Language Programming for 8051
 
 ** SUGGESTIVE LIST OF EXPERIMENTS
 8086 Programs using kits 
@@ -47,7 +55,8 @@ After the completion of this course, students will be able to:
 - Write 8086 Assembly Language Programs using arithmetic, logical
   and string operations (K3)
 - Implement BIOS interrupt programming using MASM (K3)
-- Design different I/O interfaces with 8086 (K3)
+- Design different basic I/O interfaces with 8086 (K3)
+- Design different real-time interfaces with 8086 (K3)
 - Write 8051 Assembly Language Programs using arithmetic and
   logical operations (K3)
 
