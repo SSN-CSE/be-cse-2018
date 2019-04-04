@@ -25,8 +25,8 @@
 
 {{{unit}}}
 |UNIT I | SOFTWARE PROCESS MODELS | 9 |
-Introduction to Software Engineering; Principles and Practices; Software Process: Generic process model -- Perspective and Specialized
-Process Models; Introduction to Agility: Agile process model.
+Introduction to software engineering; Principles and practices; Software Process: Generic process model -- Perspective and specialized
+process models; Introduction to Agility: Agile process model.
 
 #+begin_comment
 1. Removed: Extreme programming, XP Process
@@ -35,8 +35,8 @@ Process Models; Introduction to Agility: Agile process model.
 
 {{{unit}}}
 |UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
-Project Planning Process; Software Project Estimation: Decomposition Techniques -- Empirical Estimation Models -- The Make/Buy
-Decision -- Project Scheduling; Risk Management: Risk Identification -- Risk Projection -- Risk Mitigation.
+Project planning process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy
+decision -- Project scheduling; Risk Management: Risk identification --  Risk projection -- Risk mitigation.
 
 #+begin_comment
 1. Removed: CASE TOOLS, RMMM Plan
@@ -45,8 +45,8 @@ Decision -- Project Scheduling; Risk Management: Risk Identification -- Risk Pro
 
 {{{unit}}}
 |UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION  | 9 |
-Software Requirements: Functional and Non-functional -- User Requirements -- System Requirements -- Software Requirements Document; Requirement Engineering Process: Feasibility Studies -- Requirements Elicitation and Analysis -- Requirements Validation -- Requirements
-Management; Classical Analysis: Structured System Analysis; Petri Nets.
+Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements
+Management; Classical Analysis: Structured system analysis; Petri Nets.
 
 #+begin_comment
 1. Removed: Data dictionary
@@ -55,7 +55,7 @@ Management; Classical Analysis: Structured System Analysis; Petri Nets.
 
 {{{unit}}}
 |UNIT IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Design Process -- Design Concepts -- Design Model -- Modeling Principles; Architectural Design: Architectural Styles --Architectural Mapping using Dataflow; User Interface Design: The Golden rules -- Interface Analysis -- Interface Design; Component Level Design: Designing Class based Components -- Traditional Components.
+Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles --Architectural Mapping using Dataflow; User Interface Design: The Golden rules -- Interface Analysis -- Interface Design; Component Level Design: Designing Class based Components -- Traditional Components.
 
 #+begin_comment
 1. Removed: Design Heuristic
