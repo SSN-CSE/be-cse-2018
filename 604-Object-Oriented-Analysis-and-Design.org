@@ -42,14 +42,14 @@ and Composition - Relationship between Sequence Diagrams and Use Cases
 
 {{{unit}}}
 |UNIT III | DYNAMIC & IMPLEMENTATION DIAGRAMS  | 9 |
-Dynamic Diagrams: UML interaction diagrams - System sequence diagram –
+Dynamic Diagrams: UML Interaction Diagrams - System Sequence Diagram –
 Collaboration diagram – When to use Communication Diagrams - State
-machine diagram and Modelling –When to use State Diagrams - Activity
-diagram – When to use activity diagrams
+Machine Diagram and Modelling –When to use State Diagrams - Activity
+Diagram – When to use Activity Diagrams
 
-Implementation Diagrams: UML package diagram - When to use package
-diagrams - Component and Deployment Diagrams – When to use Component
-and Deployment diagrams
+Implementation Diagrams: UML Package Diagram - When to use Package
+Diagrams - Component and Deployment Diagrams – When to use Component
+and Deployment Diagrams
 
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
@@ -68,7 +68,7 @@ Object Orientation on Testing – Develop Test Cases and Test Plans
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-At the end of the course, the students will be able to:
+Upon completion of this course, the students should be able to:
 - Express software design with UML diagrams (K2)
 - Design and implement projects using OO concepts.(K4)
 - Identify and map basic software requirements in UML mapping.(K3)
