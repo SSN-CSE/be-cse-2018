@@ -27,15 +27,15 @@
 - To understand machine learning problems
 - To study the various supervised, unsupervised and reinforcement
   learning algorithms in machine learning
-- To study the dimensionality reduction techniques to represent tha
+- To study the dimensionality reduction techniques to represent the
   data and their dependencies
 - To understand the need of optimisation techniques.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION  | 8 |
-Introduction: Machine Learning; Examples of Machine Learning
-Applications: Learning Associations -- Classification -- Regression --
-Unsupervised Learning -- Reinforcement Learning; Preliminaries: Weight
+Introduction: Machine learning; Examples of Machine Learning
+Applications: Learning associations -- Classification -- Regression --
+Unsupervised learning -- Reinforcement learning; Preliminaries: Weight
 space -- Curse of dimensionality -- Testing machine learning
 algorithms -- Turning data into probabilities -- Basic statistics --
 Bias-variance tradeoff.
