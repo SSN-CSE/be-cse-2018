@@ -31,7 +31,7 @@ Changing Permissions -- User Masks -- Changing Ownership and Groups.
 
 |Unit III|BASH BASICS|6|
 Bash Basics: What is a shell? -- History of UNIX Shells -- Interactive
-Shell Use -- Input & Output -- Background Jobs -- Special Characters
+Shell Usage -- Input & Output -- Background Jobs -- Special Characters
 and Quoting; Command-line Editing: Enabling Command-line Editing --
 The History List -- emacs Editing Mode -- emacs Editing Mode -- The fc
 Command -- Histroy Expansion -- readline; Customizing Your
@@ -83,7 +83,7 @@ After the completion of this course, students will be able to:
 2. Sumitabha Das, ``Unix: Concepts and Applications'', Tata McGraw
    Hill,2017.
 3. Stephen Kochan and Patrick Wood, ``Shell Programming in UNIX, Linux
-   and OSX'', Addison Wesly, 2016.
+   and OSX'', Addison Wesley, 2016.
 4. M G Venkateshmurthy, ``Introduction to Unix and Shell
    Programming'', 1st Edition, Pearson Education, 2005.
 5. Randal K Michael, ``Mastering Unix Shell Scripting'', 2nd Edition,
