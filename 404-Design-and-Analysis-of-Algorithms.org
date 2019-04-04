@@ -72,9 +72,9 @@ problems -- Traveling salesman problem -- Knapsack problem.
    technique
 10. Mini project
 
-\hfill *Practical Periods: 30*
+ *Practical Periods: 30*
 
-\hfill *Total Periods: 75*
+ *Total Periods: 75*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
