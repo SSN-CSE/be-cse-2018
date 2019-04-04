@@ -37,7 +37,7 @@ Resource Provisioning and Platform Deployment.
 #+begin_comment
 
 Basic introduction about cloud computing is removed from Anna
-University syllabus, as this technology is been used by many people.
+University syllabus, as this technology has been used by many people.
 #+end_comment
 
 {{{unit}}}
@@ -59,7 +59,7 @@ they are covered in Distributed Systems.
 {{{unit}}}
 |UNIT III|VIRTUALIZATION INFRASTRUCTURE|9| 
 Comprehensive Analysis -- Resource Pool -- Testing Environment --
-Virtual Workloads -- Provision Virtual Machines -- Desktop
+Virtual Workloads -- Provision of Virtual Machines -- Desktop
 Virtualization -- Network Virtualization -- Server and Machine
 Virtualization -- Storage Virtualization -- System-level of Operating
 Virtualization -- Application Virtualization-- Virtualization of CPU,
