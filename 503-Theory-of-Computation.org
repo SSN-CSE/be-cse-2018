@@ -54,8 +54,7 @@ After the completion of this course, students will be able to:
    Education, 3rd Edition, 2008.
 
 ** References
-1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, Pearson
-   Education, 2nd Edition,  2003.
+1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, 2nd Edition,  2003.
 2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
 3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science -Automata, Languages and Computation'',  Prentice
    Hall of India, 3rd Edition, 2004.
