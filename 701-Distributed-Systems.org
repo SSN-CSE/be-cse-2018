@@ -24,7 +24,7 @@ Anna University Regulation 2017 has this course. The topics of AU and Autonomous
 Introduction: Definition-Relation to computer system components -- Motivation -- Relation to parallel multiprocessor/multicomputer systems -- Message-passing systems versus shared memory systems -- Primitives for distributed communication -- Synchronous versus asynchronous executions -- Design issues and challenges; A model of distributed computations: A distributed program -- A model of distributed executions -- Models of communication networks -- Global state of a distributed system -- Cuts of a distributed computation -- Past and future cones of an event -- Models of process communications.
 
 #+begin_comment
-The topics of AU and Autonomous syllabi is one and the same. Logical Time is moved from UNit - I to Unit - II in Autonomous syllabus.
+The topics of AU and Autonomous syllabi are one and the same. Logical Time is moved from UNit - I to Unit - II in Autonomous syllabus.
 #+end_comment
 
 {{{unit}}}
@@ -52,11 +52,11 @@ The topics of AU and Autonomous syllabi is one and the same.
 #+end_comment
 
 {{{unit}}}
-|UNIT V|PEER TO PEER AND DISTRIBUTED SHARED MENORY|6|
+|UNIT V|PEER TO PEER AND DISTRIBUTED SHARED MEMORY|6|
 Peer-to-peer computing and overlay graphs: Introduction -- Data indexing and overlays -- Tapestry; Distributed shared memory: Abstraction and advantages -- Memory consistency models -- Lamport's Bakery Algorithm.
 
 #+begin_comment
-The topics of AU and Autonomous syllabi is one and the same.
+The topics of AU and Autonomous syllabi are one and the same.
 #+end_comment
 
 \hfill *Total: 45*
