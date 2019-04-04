@@ -4,6 +4,15 @@
 :date: 
 :end:
 
+#+begin_comment
+
+- 1. Almost the same as AU
+- 2. For changes, see the comments below the units, Unit IV and Unit V
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -43,16 +52,19 @@ Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
 improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
+#+BEGIN_COMMENT
+1. Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is moved here as Unit IV.
+#+END_COMMENT
 
 {{{unit}}}
 |UNIT V  | PARALLEL PROCESSORS | 9 |
 Parallel processing challenges; Flynn's classification: SISD -- MIMD
--- SIMD -- SPMD and vector architectures; Hardware multithreading;
+-- SIMD -- SPMD and Vector Architectures; Hardware multithreading;
 Multi-core processors and other shared memory multiprocessors;
-Introduction to graphics processing units.
+Introduction to Graphics Processing Units.
 #+BEGIN_COMMENT
-Clusters; Warehouse Scale Computers and other Message-Passing
-Multiprocessors.
+1. Unit IV of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is moved here as Unit V with the following observations:
+  + Removed: Clusters; Warehouse Scale Computers and other Message-Passing Multiprocessors.
 #+END_COMMENT
 
 \hfill *Total Periods: 45*
