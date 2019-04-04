@@ -10,14 +10,14 @@
 | 2 | 0 | 2 | 3 |
 
 ** Course Objectives
--	Learn to design static web pages using HTML5 and CSS3
--	Learn to develop client side scripts using JavaScript
--	Learn to write server side scripts using Node.js 
-- Learn to develop web application using ExpressJS.
+-To learn to design static web pages using HTML5 and CSS3
+-To learn to develop client side scripts using JavaScript
+-To learn to write server side scripts using Node.js 
+-To learn to develop web application using ExpressJS.
 
 
 {{{unit}}}
-|UNIT I | WEB PAGE DESIGNING USING HTML5 | 6 |
+|UNIT I | WEB PAGE DESIGN USING HTML5 | 6 |
 HTML Basics -- Document Structure -- Formatting Texts -- Lists and Backgrounds -- Hyperlinks and Anchors -- Navigation -- Layouts -- Tables -- Forms -- Sound and Videos.
 
 {{{unit}}}
@@ -40,10 +40,10 @@ Form Handling: Sending Client data to Server -- HTML forms -- Different approach
 
 ** SUGGESTIVE EXPERIMENTS
 - Design a Personal website using HTML5 elements. 
-- Design a web page using form controls and perform in-build validation (e.g. Login form, Registration form)
+- Design a web page using form controls and perform in-built validation (e.g. Login form, Registration form)
 - Use Embedded, Inline and External Style sheets for styling a web page
 - Use Selectors to format texts, margins, padding, borders, tables, forms for a web page
-- Develop Java script program using event handling mechanism (e.g. Calculator, Tic Tac Toe game)
+- Develop Java script programs using event handling mechanism (e.g. Calculator, Tic Tac Toe game)
 - Develop a web application for personal website using ExpressJS
 - Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
 
@@ -58,7 +58,7 @@ After the completion of this course, students will be able to:
 - Style the web pages using CSS3 (K3)
 - Develop client side scripts using JavaScript (K3)
 - Create server side scripts using Node.js (K3)
-- Develop web application using ExpressJS. (K3)
+- Develop web applications using ExpressJS. (K3)
       
 ** TEXT BOOKS
 1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft, O'Reilly, 2013. (Unit I)
