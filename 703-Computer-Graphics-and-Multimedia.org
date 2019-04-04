@@ -21,14 +21,14 @@
 |UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
 Introduction to computer graphics -- Applications; Overview of
 graphics systems: Video display devices -- Raster scan systems --
-Random scan systems; Output primitives: Points and lines --loading the
+Random scan systems; Output primitives: Points and lines -- loading the
 frame buffer -- Line drawing algorithms: DDA and Bresenham's line
 drawing algorithms -- Circle and ellipse generating algorithms -- Pixel
 addressing and object geometry.
 
 {{{unit}}}
 |UNIT II | TWO DIMENSIONAL GRAPHICS | 9 |
-Two dimensional geometric transformations: Basic Transformations --
+Two dimensional geometric transformations: Basic transformations --
 Matrix representations and homogeneous coordinates -- Composite
 transformations; Two dimensional viewing: Viewing pipeline -- viewing
 coordinate reference frame -- Window to viewport coordinate
@@ -39,11 +39,11 @@ and polygon clipping algorithms.
 |UNIT III | THREE DIMENSIONAL GRAPHICS | 10 |
 Three dimensional concepts; Three dimensional object representations:
 Polygon surfaces -- Polygon tables -- Plane equations -- Polygon
-meshes -- Curved Lines and surfaces -- Quadratic surfaces-- Blobby
+meshes -- Curved lines and surfaces -- Quadratic surfaces-- Blobby
 objects -- Spline representations -- Bezier curves and surfaces; Three
-dimensional geometric and modeling transformations: Translation --
-Rotation -- Scaling -- composite transformations; Three dimensional
-viewing: Viewing pipeline -- Viewing coordinates -- Projections --
+Dimensional Geometric and Modeling Transformations: Translation --
+Rotation -- Scaling -- Composite transformations; Three Dimensional
+Viewing: Viewing pipeline -- Viewing coordinates -- Projections --
 View volumes -- Clipping.
 
 {{{unit}}}
@@ -56,12 +56,12 @@ Keyframe systems -- Motion specifications.
 
 {{{unit}}}
 |UNIT V | MULTIMEDIA | 10 |
-Multimedia Systems Design:Multimedia Elements -- Multimedia
-applications --Multimedia Systems Architecture -- Defining objects for
+Multimedia Systems Design: Multimedia elements -- Multimedia
+applications -- Multimedia systems architecture -- Defining objects for
 multimedia systems -- Multimedia data interface standards; Compression
-and decompression; Data and file format standards; Hypermedia
-Messaging; Case Study - Blender Graphics: Fundamentals –- Drawing
-Basic Shapes -- Modelling –- Shading & Textures.
+and decompression; Data and File Format Standards; Hypermedia
+Messaging; Case Study -- Blender Graphics: Fundamentals -- Drawing
+Basic Shapes -- Modelling -- Shading & textures.
 
 \hfill *Total Periods: 45*
 
@@ -76,21 +76,21 @@ After the completion of this course, students will be able to:
  - Understand the working of different illumination and color models
    used to render an animation scene (K2)
  - Understand different types of multimedia file formats, compression
-   techniques and design basic 3D Scenes using Blender (K2)
+   techniques and design basic 3D Scenes using Blender (K2).
 
 ** TEXT BOOKS
-1. Donald Hearn and Pauline Baker M, ``Computer Graphics'', Prentice
+1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
    Hall, New Delhi, 2007. 
-2. Andleigh, P. K and Kiran Thakrar, ``Multimedia Systems and
+2. Andleigh P K, Kiran Thakrar, ``Multimedia Systems and
    Design'', PHI, 2003. 
 
 ** REFERENCES
-1. Foley, Vandam, Feiner and Hughes, ``Computer Graphics: Principles
+1. Foley, Vandam, Feiner, Hughes, ``Computer Graphics: Principles
    and Practice'', 2nd Edition, Pearson Education, 2003.
 2. Jeffrey McConnell, ``Computer Graphics: Theory into Practice'',
    Jones and Bartlett Publishers, 2006.
-3. Hill F S Jr., ``Computer Graphics'', Maxwell Macmillan, 1990.
+3. Hill F S Jr, ``Computer Graphics'', Maxwell Macmillan, 1990.
 4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R
-   Marschner, Erik Reinhard, KelvinSung, and AK Peters, ``Fundamentals
+   Marschner, Erik Reinhard, KelvinSung, AK Peters, ``Fundamentals
    of Computer Graphics'',CRC Press, 2010.
 5. https://www.blender.org/support/tutorials/
