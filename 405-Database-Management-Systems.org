@@ -40,7 +40,7 @@ No change. Part of first unit in AU-2017
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational Model: Concepts -- Constraints -- Update operations --
-Constraint voilations; Relational Algebra; Basic SQL: Data Definition
+Constraint violations; Relational Algebra; Basic SQL: Data Definition
 -- SQL constraints -- Basic retrieval queries -- Insert, delete and
 update commands -- Schema modification; More SQL: dealing NULL --
 Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS
@@ -78,12 +78,12 @@ update -- Multidatabase system recovery.
 
 {{{unit}}}
 |UNIT V | NOSQL DATABASES | 8 |
-Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based
-NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column --
+Introduction to NOSQL Systems -- The CAP Theorem -- Document-Based
+NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column-
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 #+begin_comment
-Added as new unit to meet recent trend and industry requirements.
+Added as new unit to meet recent trends and industry requirements.
 #+end_comment
 
 
@@ -95,8 +95,7 @@ After the completion of this course, students will be able to:
 - Understand the database concepts and apply ER models to any real
   world application (K3)
 - Apply data definition and complex SQL queries (K3)
-- Design databases using normalization and ER to Relational mapping
-  and write database program for a real-time application (K3)
+- Design databases systematically and develop database software for various real-time applications (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
 - Understand the concepts of NOSQL databases (K2).
