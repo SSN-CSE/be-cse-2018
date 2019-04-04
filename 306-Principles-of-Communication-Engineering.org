@@ -19,9 +19,9 @@
 
 {{{unit}}}
 | UNIT I | ANALOG MODULATION | 9 |
-Amplitude Modulation – AM, DSBSC, SSBSC, VSB – Spectrum, modulators
-and demodulators – Angle modulation – PM and FM – Spectrum, FM
-modulation –Direct and Indirect methods, FM Demodulation –Foster
+Amplitude Modulation -- AM, DSBSC, SSBSC, VSB -- Spectrum, modulators
+and demodulators -- Angle modulation --
+ PM and FM -- Spectrum, FM modulation –Direct and Indirect methods, FM Demodulation –Foster
 Seeley Discriminator, PLL as FM demodulator, Superheterodyne
 receivers.
 
