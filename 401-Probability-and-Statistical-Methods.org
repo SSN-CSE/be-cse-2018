@@ -17,7 +17,7 @@
   them
 - Perform hypothesis testing using normal, t-distribution and F-distribution
 - Evaluate the tests of significance in analysis of variance
-- Calculate the various statistical quality control measurements
+- Calculate the various statistical quality control measurements.
 
 {{{unit}}}
 | UNIT I | RANDOM VARIABLES | 12 |
