@@ -52,13 +52,13 @@ of error; Support Vector Machines.
 Probabilistic Learning: Gaussian mixture models -- Nearest neighbour
 methods; Learning with Trees: Constructing decision trees --
 Classification and Regression trees -- Classification example;
-Ensemble learning: Boosting -- Bagging -- Random forests.
+Ensemble Learning: Boosting -- Bagging -- Random forests.
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING, REINFORCEMENT LEARNING | 9 |
 Unsupervised: K-means algorithm -- Self-organising feature map;
 Reinforcement learning: State and action space -- Reward function --
-Discounting -- Action selection -- Policy -- Markov Decision Process
+Discounting -- Action selection -- Policy -- Markov decision process
 -- Values -- SARSA and Q-learning.
 
 {{{unit}}}
