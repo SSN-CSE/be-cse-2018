@@ -14,40 +14,40 @@
 ** COURSE OBJECTIVES
 - To understand the protocol layering and physical level communication
 - To understand the various components required to build different networks
-- To learn the functions of network layer and the various routing protocols.
+- To learn the functions of network layer and the various routing protocols
 - To familiarize the functions and protocols of the Transport layer
 - To understand various application layer protocols.
 
 {{{unit}}}
 |UNIT I |INTRODUCTION AND PHYSICAL LAYER|9| 	
-Introduction: Networks -- Network Types -- Protocol Layering -- TCP/IP
-Protocol suite -- OSI Model; Physical Layer: Performance --
-Transmission media -- Switching -- Circuit-switched Networks -- Packet
-Switching.
+Introduction: Networks -- Network types -- Protocol layering -- TCP/IP
+Protocol suite -- OSI model; Physical Layer: Performance --
+Transmission media -- Switching -- Circuit-switched networks -- Packet
+switching.
 
 {{{unit}}}
 |UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 9 |
-Introduction: Link-Layer Addressing -- DLC Services -- Data-Link Layer
-Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs:
-Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth
--- Connecting Devices.
+Introduction: Link-Layer addressing -- DLC services -- Data-Link layer
+Protocols -- HDLC -- PPP -- Media access control -- Wired LANs:
+Ethernet -- Wireless lANs -- Introduction -- IEEE 802.11 -- Bluetooth
+-- Connecting devices.
 
 {{{unit}}}
 |UNIT III | NETWORK LAYER | 9 |
-Network Layer Services -- Packet switching -- Performance -- IPV4
-Addresses -- Forwarding of IP Packets; Network Layer Protocols: IP --
-ICMP v4 -- Unicast Routing Algorithms -- Protocols -- Multicasting
-Basics -- IPV6 Addressing -- IPV6 Protocol.
+Network layer services -- Packet switching -- Performance -- IPV4
+Addresses -- Forwarding of IP packets; Network Layer Protocols: IP --
+ICMP v4 -- Unicast routing algorithms -- Protocols -- Multicasting
+basics -- IPV6 addressing -- IPV6 protocol.
 
 {{{unit}}}
 |UNIT IV | TRANSPORT LAYER | 9 |
-Introduction: Transport Layer Protocols -- Services -- Port Numbers --
-User Datagram Protocol -- Transmission Control Protocol -- SCTP.
+Introduction: Transport layer protocols -- Services -- Port numbers --
+User datagram protocol -- Transmission control protocol -- SCTP.
 
 {{{unit}}}
 |UNIT V | APPLICATION LAYER | 9 |
-Traditional Applications -Electronic Mail (SMTP, POP3, IMAP, MIME) –
-HTTP – File Transfer Protocol - Secure Shell (SSH) - DNS – SNMP.
+Traditional applications -- Electronic mail (SMTP, POP3, IMAP, MIME) --
+HTTP -- File transfer protocol -- Secure shell (SSH) -- DNS -- SNMP.
 
 \hfill *Total Periods: 45*
 
@@ -63,7 +63,7 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th Edition TMH, 2013.
 2. Larry L Peterson, Bruce S Davie, ``Computer Networks: A Systems Approach'', 5th Edition,
- Morgan Kaufmann Publishers Inc., 2012.
+ Morgan Kaufmann Publishers, 2012.
 
 ** REFERENCES
 
@@ -73,4 +73,4 @@ After the completion of this course, students will be able to:
  McGraw Hill Publisher, 2011.
 4. James F Kurose, Keith W Ross, ``Computer Networking, A Top-Down Approach Featuring the Internet'', 
  6th Edition, Pearson Education, 2013.
-5. Andrew S. Tanenbaum, David J Wetherall, ``Computer Networks'', 5th Edition, Pearson Education,2013.
+5. Andrew Tanenbaum, David J Wetherall, ``Computer Networks'', 5th Edition, Pearson Education, 2013.
