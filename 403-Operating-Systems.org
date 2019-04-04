@@ -13,10 +13,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the structure and functions of OS.
-- Learn about Processes, Threads and Scheduling algorithms. 
-- Understand the principles of concurrency and Deadlocks. 
-- Learn various memory management schemes. 
+- Understand the structure and functions of OS
+- Learn about Processes, Threads and Scheduling algorithms
+- Understand the principles of concurrency and Deadlocks
+- Learn various memory management schemes
 - Study I/O management and File systems.
 
 
@@ -26,23 +26,23 @@ Computer System Overview: Basic elements -- Instruction execution –
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
 Overview: Objectives and functions -- Evolution of operating
-system;Computer System Organization; Operating System Structure and
+system;Computer system organization; Operating system structure and
 Operations: System calls -- System programs -- OS generation and
 system boot.
 
 {{{unit}}}
 |UNIT II | PROCESS MANAGEMENT | 12 |
 Processes: Process concept -- Process scheduling -- Operations on
-processes -- Interprocess Communication; Threads: Overview --
-Multithreading Models -- Thread Issues; Process Synchronization -
-Critical Section Problem -- Mutex Locks -- Semophores -- Monitors; CPU
+processes -- Interprocess communication; Threads: Overview --
+Multithreading models -- Thread issues; Process synchronization --
+Critical section problem -- Mutex locks -- Semophores -- Monitors; CPU
 Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Montonic and EDF
 scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
 |UNIT III | MEMORY MANAGEMENT | 8 |
-Main Memory: Contiguous Memory Allocation -- Segmentation -- Paging --
+Main Memory: Contiguous memory allocation -- Segmentation -- Paging --
 32 and 64 bit architecture Examples; Virtual Memory: Demand paging --
 Page replacement algorithms -- Allocation -- Thrashing.
 
@@ -58,18 +58,18 @@ management -- I/O systems.
 |UNIT V | CASE STUDY | 7 |
 Linux Vs Windows: Design principles -- Process management --
 Scheduling -- Memory management -- File systems; Mobile OS: iOS and
-Android -- Introduction and Architecture.
+Android -- Introduction and architecture.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic services and functionalities of operating systems(K2)
+- Understand the basic services and functionalities of operating systems (K2)
 - Analyze various scheduling algorithms, and understand the different
-  deadlock, prevention and avoidance schemes(K4)
-- Understand the different memory management schemes(K2)
-- Understand the functionality of file systems(K2)
-- Compare and contrast Linux, Windows and mobile operating systems(K3)
+  deadlock, prevention and avoidance schemes (K4)
+- Understand the different memory management schemes (K2)
+- Understand the functionality of file systems (K2)
+- Compare and contrast Linux, Windows and mobile operating systems (K3).
 
 ** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, ``Operating
