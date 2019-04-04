@@ -12,10 +12,10 @@
 | 3 | 0 | 0 | 3 |
  
 ** COURSE OBJECTIVES
-- To understand the protocol layering and physical level communication.
-- To understand the various components required to build different networks.
+- To understand the protocol layering and physical level communication
+- To understand the various components required to build different networks
 - To learn the functions of network layer and the various routing protocols.
-- To familiarize the functions and protocols of the Transport layer.
+- To familiarize the functions and protocols of the Transport layer
 - To understand various application layer protocols.
 
 {{{unit}}}
