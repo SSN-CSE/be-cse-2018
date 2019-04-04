@@ -21,7 +21,7 @@
 Foundations: Why Unix -- Computer system -- The Unix environment --
 UNIX structure -- UNIX commands; Basic vi Editor: Editor concepts --
 The vi Editor -- Modes and commands; Local commands in vi; Range
-commands in vi -- Global commands in vi; Rearrange text in vi;
+commands in vi -- Global commands in vi; Rearrange text in vi.
 
 | Unit II | FILE SYSTEM | 5 |
 File Systems: Filenames -- File types -- Regular files -- Directories
@@ -73,9 +73,9 @@ After the completion of this course, students will be able to:
 
 ** TEXTBOOK
 1. Behrouz Forouzan, Richard Gilberg ``UNIX and Shell Programming:
-   A Textbook'', Thomson Learning, 2005 (Units I & II)
+   A Textbook'', Thomson Learning, 2005 (Units I & II).
 2. Cameron Newham, Bill Rosenblatt ``Learning the bash Shell'',
-   Third Edition, O'Reilly, 2005 (Units III, IV & V)
+   Third Edition, O'Reilly, 2005 (Units III, IV & V).
 
 ** REFERENCES
 1. Richard Blum, Christine Bresnahan, ``Linux Command Line and
