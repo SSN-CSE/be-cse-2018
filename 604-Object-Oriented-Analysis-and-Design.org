@@ -37,7 +37,7 @@ When to use Use-cases
 Class Diagram --  Elaboration --  Domain Model --  Finding Conceptual
 Classes and Description Classes -- Associations -- Attributes -- Domain
 Model Refinement -- Finding Conceptual Class Hierarchies --  Aggregation
-and Composition --  Relationship between Sequence Diagrams and Use Cases
+and Composition -- Relationship between Sequence Diagrams and Use Cases
 -- When to use Class Diagrams.
 
 {{{unit}}}
