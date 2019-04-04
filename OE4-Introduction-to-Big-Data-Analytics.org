@@ -13,7 +13,7 @@
 - To understand the distributed storage for big data
 - To learn distributed method for processing of big data
 - To understand how to represent unstructured data using NoSQL and processing
-- To learn how statistical methods used for analyzing big data
+- To learn how statistical methods are used for analyzing big data
 
 
 {{{unit}}}
@@ -68,7 +68,7 @@ Upon the completion of the course the students should be able to:
 - Solve applications using  statistical and data  analytic methods (K3)
 
 ** TEXT BOOKS
-1. Parag Kulkarni, Sarang Joshi, ``Big Data Anlytics'', PHI
+1. Parag Kulkarni, Sarang Joshi, ``Big Data Analytics'', PHI
    Learning, 2016.
 2. Anil Maheshwari, ``Big Data Essentials'', McGraw Hill, 2019
 
