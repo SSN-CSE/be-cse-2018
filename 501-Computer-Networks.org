@@ -53,11 +53,11 @@ HTTP -- File transfer protocol -- Secure shell (SSH) -- DNS -- SNMP.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the principles, design, terminology and concepts of the network models(K2)
-- Learn the protocols of data link layer and apply error control mechanisms(K3)
-- Understand the core functions of network layer protocols and apply them for data communication(K3)
-- Learn the purpose of Transport Layer Protocols such as UDP and TCP(K2)
-- Understand the Application Layer Protocols and their basic functionalities(K2).
+- Understand the principles, design, terminology and concepts of the network models (K2)
+- Learn the protocols of data link layer and apply error control mechanisms (K3)
+- Understand the core functions of network layer protocols and apply them for data communication (K3)
+- Learn the purpose of Transport Layer Protocols such as UDP and TCP (K2)
+- Understand the Application Layer Protocols and their basic functionalities (K2).
 
 
 ** TEXT BOOKS 
