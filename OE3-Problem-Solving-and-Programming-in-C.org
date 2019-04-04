@@ -28,7 +28,7 @@ parameters -- built-in functions -- -- recursion.
 
 {{{unit}}}
 | UNIT III | ARRAYS AND POINTERS | 6 |
-Arrays: declaration, initialization -- one dimensional arrays –
+Arrays: declaration, initialization -- one-dimensional arrays –
 multi-dimensional arrays; Pointers: pointer operators -- pointer
 operations -- array of pointers -- passing arrays to functions. 
 
