@@ -36,11 +36,7 @@ calling -- Handover --Security; General Packet Radio Service (GPRS); Universal M
 
 {{{unit}}}
 |UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
-iOS: iOs Architecture- iOS Simulator; Android: Platform Architecture-
-Developing Android Applications- Anatomy of Android Applications–
-Android SDK; Windows Phone: Platform Architecture - Silverlight
-Framework; Mobile Web: Being Mobile Friendly - WebKit - Web vs Native
-vs Hybrid - Mobile Web Application Frameworks.
+iOS: iOs Architecture Layers- iOS Simulator; Android: Platform architecture-- Developing android applications--Anatomy of android applications--Android SDK; Windows Phone: Platform architecture -- Silverlight framework; Mobile Web: Being mobile friendly -- WebKit -- Web vs Native vs Hybrid -- Mobile web application frameworks.
 
 \hfill *Total Periods: 45*
 
