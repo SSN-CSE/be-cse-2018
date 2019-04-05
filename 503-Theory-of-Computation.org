@@ -10,10 +10,8 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its
-  equivalent regular expressions.
-- To understand the language hierarchy and to design a context free
-  grammar for any given language.
+- To construct finite automata for any given pattern and find its equivalent regular expressions.
+- To understand the language hierarchy and to design a context free grammar for any given language.
 - To construct pushdown automata for any CFL.
 - To understand Turing machines and their capability.
 - To understand undecidable problems.
@@ -21,13 +19,9 @@
 
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Introduction-Basic Mathematical Notation and Techniques; Finite
-Automata (FA): Deterministic Finite Automata (DFA)– Non-deterministic
-Finite Automata(NFA) – Finite Automata with Epsilon Transitions -
-Equivalence of FA’s – Minimization of DFA; Regular Expressions and
-Languages: Regular Expressions - Finite Automata and Regular
-Expressions; Proving Languages Not to Be Regular - Closure and
-Decision Properties of Regular Languages.
+Introduction: Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic
+Finite Automata(NFA) -- Finite Automata with Epsilon Transitions -- Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
+Languages: Regular Expressions -- Finite Automata and Regular Expressions; Properties of Regular Languages: Proving Languages Not to Be Regular -- Closure and Decision Properties of Regular Languages.
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
