@@ -27,42 +27,42 @@
 
 {{{unit}}}
 |UNIT I | DEVELOPMENT PROCESS & USE-CASE DIAGRAM (STATIC)  | 9 |
-Introduction to OOAD with OO Basics -- Unified Process -- UML Diagrams --
-Use Case -- Case Study -- the Next Gen POS system, Inception -- Use case
-Modelling -- Relating Use cases -- Include, Extend and Generalization --
-When to use Use-cases
+Introduction to OOAD with OO Basics -- Unified process -- UML diagrams --
+Use case -- Case study -- The Next Gen POS system, Inception -- Use case
+modelling -- Relating use cases -- Include, extend and generalization --
+When to use use-cases
 
 {{{unit}}}
 |UNIT II | UNIFIED PROCESS & CLASS DIAGRAM (STATIC)		| 9 |
-Class Diagram --  Elaboration --  Domain Model --  Finding Conceptual
-Classes and Description Classes -- Associations -- Attributes -- Domain
-Model Refinement -- Finding Conceptual Class Hierarchies --  Aggregation
-and Composition -- Relationship between Sequence Diagrams and Use Cases
--- When to use Class Diagrams.
+Class diagram --  Elaboration --  Domain model --  Finding conceptual
+classes and description classes -- Associations -- Attributes -- Domain
+model refinement -- Finding conceptual class hierarchies --  Aggregation
+and composition -- Relationship between sequence diagrams and use cases
+-- When to use class diagrams.
 
 {{{unit}}}
 |UNIT III | DYNAMIC & IMPLEMENTATION DIAGRAMS  | 9 |
-Dynamic Diagrams: UML Interaction Diagrams -- System Sequence Diagram --
-Collaboration diagram -- When to use Communication Diagrams -- State
-Machine Diagram and Modelling -- When to use State Diagrams -- Activity
-Diagram -- When to use Activity Diagrams.
+Dynamic Diagrams: UML interaction diagrams -- System sequence diagram --
+Collaboration diagram -- When to use communication diagrams -- State
+machine diagram and modelling -- When to use state diagrams -- Activity
+diagram -- When to use activity diagrams.
 
-Implementation Diagrams: UML Package Diagram -- When to use Package
-Diagrams -- Component and Deployment Diagrams -- When to use Component
-and Deployment Diagrams.
+Implementation Diagrams: UML package diagram -- When to use package
+diagrams -- Component and deployment diagrams -- When to use component
+and deployment diagrams.
 
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
-Designing Objects with Responsibilities -- Creator -- Information Expert
--- Low Coupling -- High Cohesion -- Controller. Design Patterns --
-Creational -- Factory Method -- Structural -- Bridge -- Adapter --
-Behavioural -- Strategy -- Observer -- Applying GoF Design Patterns -- 
-Mapping Design to Code.
+Designing objects with responsibilities -- Creator -- Information expert
+-- Low coupling -- High cohesion -- Controller. design patterns --
+Creational -- Factory method -- Structural -- Bridge -- Adapter --
+Behavioural -- Strategy -- Observer -- Applying GoF design patterns -- 
+Mapping design to code.
 
 {{{unit}}}
 | UNIT V | TEST DRIVEN DEVELOPMENT AND REFACTORING | 9 |
-Object Oriented Methodologies -- Software Quality Assurance -- Impact of
-Object Orientation on Testing -- Develop Test Cases and Test Plans.
+Object oriented methodologies -- Software quality assurance -- Impact of
+object orientation on testing -- Develop test cases and test plans.
 
 
 \hfill *Total Periods: 45*
