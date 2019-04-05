@@ -11,24 +11,19 @@
 
 
 ** COURSE OBJECTIVES
-- Understand the basic concepts of mobile computing
-- Be familiar with the protocol stack
-- Be exposed to Ad-Hoc networks
-- Learn the basics of mobile telecommunication system
+- Understand the basic concepts of mobile computing.
+- Be familiar with the protocol stack.
+- Be exposed to Ad-Hoc networks.
+- Learn the basics of mobile telecommunication system.
 - Gain knowledge about different mobile platforms and application development environments.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Introduction to mobile computing -- MAC: Motivation for a specialized
-MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless
-LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
-
+Introduction to Mobile Computing; Media Access Control (MAC): Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA -- Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks -- IEEE 802.11 -- Bluetooth.
+ 
 {{{unit}}}
 |UNIT II | NETWORK LAYER | 9 |
-Mobile IP: Goals, assumptions and requirements - Entities and
-terminology - IP packet delivery - Agent discovery -Registration
--Tunneling and Encapsulation – Optimizations; AdHoc: Proactive
-protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
+Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP packet delivery -- Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; AdHoc: Proactive protocol-DSDV -- Reactive Routing Protocols – DSR, AODV.
 
 {{{unit}}}
 | UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
