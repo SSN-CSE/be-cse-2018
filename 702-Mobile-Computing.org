@@ -49,24 +49,15 @@ After the completion of this course, students will be able to:
 - Develop a mobile application (K3).
 
 ** TEXT BOOKS
-1. Jochen H Schller, ``Mobile Communications'', 2nd Edition,
-   Pearson Education, New Delhi, 2007. (Unit I -IV).
-2. Helal, Sumi, Raja Bose, Wendong Li, ``Mobile Platforms and
-   Development Environments.'' Synthesis Lectures on Mobile and
+1. Jochen H Schller, ``Mobile Communications'',  Pearson Education, New Delhi, 2nd Edition, 2007. (Unit I -IV).
+2. Helal, Sumi, Raja Bose, Wendong Li, ``Mobile Platforms and   Development Environments.'' Synthesis Lectures on Mobile and
    Pervasive Computing, 2012. (Unit V)
 
 ** REFERENCES
-1. Helal, Abdelsalam A, et al. ``Any Time, Anywhere Computing: Mobile
-   Computing Concepts and Technology''. Vol. 522. 1st Edition,
-   Springer Science & Business Media, 1999.
-2. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to
-   Wireless and Mobile systems'', 3rd Edition ,Thomson Asia Pvt
-   Ltd, 2005.
-3. Uwe Hansmann, Lothar Merk, Martin S Nicklons and Thomas Stober,
-   ``Principles of Mobile Computing'', Springer, 2003.
-4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and
-   Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
-5. C K Toh, ``AdHoc Mobile Wireless Networks'', 1st Edition, Pearson
-   Education, 2002.
+1. Helal, Abdelsalam A, et al. ``Any Time, Anywhere Computing: Mobile Computing Concepts and Technology''. Vol. 522. Springer Science & Business Media, 1st Edition, 1999.
+2. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to Wireless and Mobile systems'',Thomson Asia,  3rd Edition, 2005.
+3. Uwe Hansmann, Lothar Merk, Martin S Nicklons and Thomas Stober,  ``Principles of Mobile Computing'', Springer, 2003.
+4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and  Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
+5. C K Toh, ``AdHoc Mobile Wireless Networks'',  Pearson  Education, 1st Edition, 2002.
 
 
