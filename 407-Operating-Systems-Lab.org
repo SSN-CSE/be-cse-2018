@@ -18,6 +18,11 @@
 - To implement Page Replacement Algorithms
 - To implement File Organization and File Allocation Strategies
 
+#+begin_comment
+ Shell programming experiment removed.
+ Deadlock detection is removed as deadlock avoidance is already there under deadlock concept. 
+#+end_comment
+
 ** SUGGESTIVE EXPERIMENTS
 1. Basics of UNIX commands and study of system calls.
 2. Implement a few UNIX commands using system calls.
