@@ -59,6 +59,9 @@ Linux Vs Windows: Design principles -- Process management --
 Scheduling -- Memory management -- File systems; Mobile OS: iOS and
 Android -- Introduction and architecture.
 
+#+begin_comment
+ 2017 Syllabus had only Linux and mobile OS. Here, Unit V has a comparative study of Linux vs Windows.
+#+end_comment
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
