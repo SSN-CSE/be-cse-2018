@@ -10,10 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its equivalent regular expressions.
-- To understand the language hierarchy and to design a context free grammar for any given language.
-- To construct pushdown automata for any CFL.
-- To understand Turing machines and their capability.
+- To construct finite automata for any given pattern and find its equivalent regular expressions
+- To understand the language hierarchy and to design a context free grammar for any given language
+- To construct pushdown automata for any CFL
+- To understand Turing machines and their capability
 - To understand undecidable problems.
 
 
@@ -47,7 +47,7 @@ After the completion of this course, students will be able to:
 - Understand the need of formal languages, and grammars (K3)
 - Design pushdown automata for any CFL (K3)
 - Design Turing machines for any Languages (K3)
-- Explain the Decidability or Undecidability of various problems (K2)
+- Explain the Decidability or Undecidability of various problems (K2).
 
 ** Text Books 
 1. Hopcroft J E, Motwani R and Ullman J D, ``Introduction to Automata Theory, Languages and Computations'', Pearson
