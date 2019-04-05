@@ -1,6 +1,11 @@
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
+   1. One
+   2. Two
+   3. Three
+      - Three One
+      - Three Two
 :end:
 
 #+BEGIN_COMMENT
@@ -65,9 +70,10 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Introduction to ReactJS -- Pure React: React elements -- ReactDOM -- Children --
-Constructing elements with data -- React components; Props, state and compoenet tree -- 
-React router: Incorporation -- Netsing -- Parameters; Communication of react with server.
+Introduction to ReactJS –- Pure react: React elements -– ReactDOM –-
+Children -– Constructing elements with data -– React components;
+Props, state and compoenet tree –- React router: Incorporation –-
+Netsing -– Parameters; Communication of react with server.
 
 #+BEGIN_COMMENT
 Removal
@@ -84,9 +90,10 @@ Thought process
 
 {{{unit}}}
 |UNIT V | SERVER SIDE FRAMEWORK | 9 |
-Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs:
-EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers --
-Process module -- Data Access -- NoSQL and Document stores: MongoDB.
+Introduction to NodeJS –- Event Loop -– Patterns -– Core APIs:
+EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers
+-- Process module -- Data Access -– NoSQL and Document stores:
+MongoDB.
 
 #+BEGIN_COMMENT
 Removal
