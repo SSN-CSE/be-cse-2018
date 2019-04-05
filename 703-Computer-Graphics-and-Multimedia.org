@@ -17,6 +17,12 @@
 - To understand basic concepts of multimedia
 - To explore Blender graphics tool and design animations.
 
+#+begin_comment
+ UnitI I - Random and Raster scan systems are added.
+ Unit III - B SPlines removed
+ Unit V changed to accomodate Multimedia concepts.
+#+end_comment
+
 {{{unit}}}
 |UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
 Introduction to computer graphics -- Applications; Overview of
@@ -76,7 +82,11 @@ After the completion of this course, students will be able to:
  - Understand the working of different illumination and color models
    used to render an animation scene (K2)
  - Understand different types of multimedia file formats, compression
+<<<<<<< HEAD
    techniques and design basic 3D Scenes using Blender (K2).
+=======
+   techniques and design basic 3D Scenes using Blender. (K2)
+>>>>>>> e211fc53bddc085cf359fc0301ed3532c9eb0358
 
 ** TEXT BOOKS
 1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
