@@ -4,6 +4,14 @@
 :date:
 :end:
 
+#+begin_comment
+- 1. Contents are almost the same as AU. 5th unit of AU 2017 syllabus is moved as 3rd unit 
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
