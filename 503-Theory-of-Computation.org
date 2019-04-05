@@ -37,7 +37,7 @@ The Turing Machine -- Programming Techniques for Turing Machines -- Extensions t
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Undecidablity: Language that is not Recursively Enumerable(RE) -- Undecidable problem that is RE - Undecidable problems about turing machines -- Post's Correspondence Problem (PCP) - Other undecidable problems.
+Undecidablity: Language that is not Recursively Enumerable(RE) -- Undecidable problem that is RE -- Undecidable problems about turing machines -- Post's Correspondence Problem (PCP) -- Other undecidable problems.
 
 \hfill *Total Periods: 45*
 
