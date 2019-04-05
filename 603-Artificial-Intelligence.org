@@ -24,41 +24,40 @@ This course syllabus is substantially different from the current one in Anna Uni
 |UNIT I|FOUNDATIONS|8|
 Introduction: What is AI; Intelligent Agents: Agents and environments
 -- Good behavior -- The nature of environments -- Structure of agents;
-Philosophical Foundations: Weak AI -- Strong AI -- Ethics and Risks of
-Developing Artificial Intelligence; AI: The Present and Future: Agent
-Components -- Agent Architectures.
+Philosophical Foundations: Weak AI -- Strong AI -- Ethics and risks of
+developing AI; AI: The Present and Future: Agent components -- Agent architectures.
 
 {{{unit}}}
 |UNIT II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
-Solving Problems by Searching: problem solving agents -- example
-problems -- searching for solutions -- uninformed search strategies --
-Informed search strategies -- heuristic functions; Beyond Classical
-Search: Local search algorithms and optimization problems; Adversarial
-Search: Games -- Optimal decisions in games -- Alpha-Beta Pruning.
+Solving Problems by Searching: Problem solving agents -- Example
+problems -- Searching for solutions -- Uninformed search strategies --
+Informed search strategies -- Heuristic functions; Beyond classical
+search: Local search algorithms and optimization problems; Adversarial
+search: Games -- Optimal decisions in games -- Alpha-beta pruning.
 
 
 {{{unit}}}
 |UNIT III|KNOWLEDGE REPRESENTATION & REASONING|9|
-Logical Agents: Knowledge-Based Agents -- Propositional Logic --
-Propositional Theorem Proving; First order logic: Syntax and semantics
-for first order logic -- Using first order logic; Inference in First
-order logic: propositional versus first order logic -- Unification and
-Lifting -- Forward Chaining -- Backward Chaining -- Resolution.
+Logical Agents: Knowledge-based agents -- Propositional logic --
+Propositional theorem proving; First order logic: Syntax and semantics
+for first order logic -- Using first order logic; Inference in first
+order logic: Propositional versus first order logic -- Unification and
+lifting -- Forward chaining -- Backward chaining -- Resolution.
 
 {{{unit}}}
 |UNIT IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
-Quantifying Uncertainty: Acting Under Uncertainty -- Basic Probability
-Notation -- Inference Using Full Joint Distributions -- Bayes’ Rule &
-its use; Probabilistic Reasoning: The Semantics of Bayesian Networks
--- Exact Inference in Bayesian Networks -- Other Approaches to
-Uncertain Reasoning.
+Quantifying Uncertainty: Acting under uncertainty -- Basic probability
+notation -- Inference using full joint distributions -- Bayes’ rule &
+its use; Probabilistic Reasoning: The semantics of Bayesian networks
+-- Exact inference in Bayesian networks -- Other approaches to
+uncertain reasoning.
 
 {{{unit}}}
 |UNIT V|LEARNING AND ITS APPLICATIONS|9|
 Learning from Examples: Forms of learning -- Supervised learning --
 Learning decision trees; Reinforcement learning: Passive reinforcement
 learning -- Active reinforcement learning -- Applications of
-Reinforcement Learning.
+reinforcement learning.
 
 \hfill *Theory Periods: 45*
 
