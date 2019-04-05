@@ -18,8 +18,8 @@
 - To explore Blender graphics tool and design animations.
 
 #+begin_comment
- UnitI I - Random and Raster scan systems are added.
- Unit III - B SPlines removed
+ UnitI I - Random and Raster scan systems are added as introductory topics.
+ Unit III - B SPlines is removed as under spline representaions topic, Bezier curve is already given.
  Unit V changed to accomodate Multimedia concepts.
 #+end_comment
 
