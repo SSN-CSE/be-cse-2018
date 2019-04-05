@@ -31,6 +31,9 @@ Introduction to 8086 -- Microprocessor architecture -- Addressing
 modes -- Instruction set and assembler directives -- Assembly language
 programming -- Stacks -- Procedures -- Macros -- Interrupts and
 interrupt service routines -- Byte and String Manipulation.
+#+begin_comment
+Removed: Modular Programming, Linking and Relocation
+#+end_comment
 
 {{{unit}}} 
 |UNIT II | 8086 SYSTEM BUS STRUCTURE  | 9 |
