@@ -4,6 +4,13 @@
 :date: 
 :end:
 
+#+begin_comment
+- 1. Almost the same as AU ECE 2017 syllabus. 
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
 #+startup: showall
 
 {{{credits}}}
