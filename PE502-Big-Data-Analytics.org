@@ -90,7 +90,7 @@ After the completion of this course, students will be able to:
 - Analyze data by utilizing regression and classification algorithms (K4)
 - Perform analytics on data streams (K3)
 - Apply different mining algorithms and clustering techniques on big data (K3)
-- work with NoSQL databases and management (K2).
+- Work with NoSQL databases and management (K2).
 
       
 ** TEXT BOOKS
