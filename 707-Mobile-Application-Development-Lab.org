@@ -19,14 +19,14 @@
 2. Develop an application to simulate a keyboard.
 3. Create an application that uses graphical primitives.
 4. Develop an application that makes use of databases.
-5. Implement an application that uses Multi-threading
+5. Implement an application that uses Multi-threading.
 6. Develop a native application that uses GPS location information.
 7. Implement an application that writes data to the SD card.
 8. Implement an application that send a SMS and creates an alert upon receiving the SMS.
 9. Create an application that makes use of Menu.
 10. Develop an application to build an alarm clock.
 11. Implement a hybrid mobile application for displaying a website.
-12. Mini Project (Food delivery app, Attendance tracking app, Online ticket booking app  etc. )
+12. Mini Project (Food delivery app, Attendance tracking app, Online ticket booking app  etc.)
 
 \hfill *Total Periods: 45*
 
