@@ -11,7 +11,7 @@
 
 
 ** COURSE OBJECTIVES
-- Understand the basic concepts of mobile computing
+- Understand the basic concepts of mobile computing.
 - Be familiar with the protocol stack.
 - Be exposed to Ad-Hoc networks.
 - Learn the basics of mobile telecommunication system.
@@ -19,16 +19,11 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Introduction to mobile computing - MAC: Motivation for a specialized
-MAC- SDMA – FDMA – TDMA – CDMA – Comparison of S/T/F/CDMA; Wireless
-LAN: Infrastructure based and adhoc networks - IEEE 802.11 - Bluetooth
-
+Introduction to Mobile Computing; Media Access Control (MAC): Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA -- Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks -- IEEE 802.11 -- Bluetooth.
+ 
 {{{unit}}}
 |UNIT II | NETWORK LAYER | 9 |
-Mobile IP: Goals, assumptions and requirements - Entities and
-terminology - IP packet delivery - Agent discovery -Registration
--Tunneling and Encapsulation – Optimizations; AdHoc: Proactive
-protocol-DSDV, Reactive Routing Protocols – DSR, AODV.
+Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP packet delivery -- Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; AdHoc: Proactive protocol-DSDV -- Reactive Routing Protocols – DSR, AODV.
 
 {{{unit}}}
 | UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
@@ -56,31 +51,31 @@ vs Hybrid - Mobile Web Application Frameworks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify the functionalities of various MAC protocols.(K3)
-- Explain the functionalities of mobile network layer and routing in Ad hoc networks.(K3)
-- Analyze the transport and application layer protocols.(K3)
-- Explain the basics of mobile telecommunication system.(K2)
-- Develop a mobile application.(K3)
+- Identify the functionalities of various MAC protocols (K3)
+- Explain the functionalities of mobile network layer and routing in Ad hoc networks (K3)
+- Analyze the transport and application layer protocols (K3)
+- Explain the basics of mobile telecommunication system (K2)
+- Develop a mobile application (K3).
 
 ** TEXT BOOKS
-1. Jochen H. Schller, ``Mobile Communications'', Second Edition,
-   Pearson Education, New Delhi, 2007. (Unit I -IV)
-2. Helal, Sumi, Raja Bose, and Wendong Li. ``Mobile Platforms and
+1. Jochen H Schller, ``Mobile Communications'', 2nd Edition,
+   Pearson Education, New Delhi, 2007. (Unit I -IV).
+2. Helal, Sumi, Raja Bose, Wendong Li, ``Mobile Platforms and
    Development Environments.'' Synthesis Lectures on Mobile and
    Pervasive Computing, 2012. (Unit V)
 
 ** REFERENCES
-1. Helal, Abdelsalam A., et al. ``Any Time, Anywhere Computing: Mobile
-   Computing Concepts and Technology''. Vol. 522. First Edition,
+1. Helal, Abdelsalam A, et al. ``Any Time, Anywhere Computing: Mobile
+   Computing Concepts and Technology''. Vol. 522. 1st Edition,
    Springer Science & Business Media, 1999.
 2. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to
-   Wireless and Mobile systems'', Third Edition ,Thomson Asia Pvt
+   Wireless and Mobile systems'', 3rd Edition ,Thomson Asia Pvt
    Ltd, 2005.
-3. Uwe Hansmann, Lothar Merk, Martin S. Nicklons and Thomas Stober,
+3. Uwe Hansmann, Lothar Merk, Martin S Nicklons and Thomas Stober,
    ``Principles of Mobile Computing'', Springer, 2003.
-4. William.C.Y.Lee, ``Mobile Cellular Telecommunications--Analog and
-   Digital Systems'', Second Edition,Tata Mc Graw Hill Edition ,2006.
-5. C.K.Toh, ``AdHoc Mobile Wireless Networks'', First Edition, Pearson
+4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and
+   Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
+5. C K Toh, ``AdHoc Mobile Wireless Networks'', 1st Edition, Pearson
    Education, 2002.
 
 

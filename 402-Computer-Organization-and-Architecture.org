@@ -10,7 +10,7 @@
 - 2. For changes, see the comments below the units, Unit IV and Unit V
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 5. Not Applicable.
 #+end_comment
 
 #+startup: showall

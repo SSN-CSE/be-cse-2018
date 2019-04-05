@@ -40,7 +40,7 @@ grammars: Ambiguity -- Deterministic and recursive; Top down parsers:
 Recursive descent parser -- Predictive parser; Bottom up parsers: SLR
 Parser -- CLR Parser -- LALR Parser; Error handling and recovery in
 syntax analyzer; Syntax analyzer generator: Structure of yacc program
-– Creating yacc lexical analyzers with lex.
+-- Creating yacc lexical analyzers with lex.
 
 {{{unit}}}
 |UNIT III | INTERMEDIATE CODE GENERATION | 9 |
@@ -79,7 +79,7 @@ data flow algorithm
 6. Consider a simple program as an input and process this code to
    print the intermediate code after every phase. It is necessary to
    print the output of lexical, syntax, semantic, intermediate code
-   generation, code optimization and code generation phases
+   generation, code optimization and code generation phases.
 #+begin_comment
 Changes:Suggestive experiments are changed based on the units.
 #+end_comment
@@ -90,15 +90,15 @@ Changes:Suggestive experiments are changed based on the units.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design a lexical analyzer for a sample language (K3)
-- Apply different parsing algorithms to develop the parsers for the given grammar(K3)
-- Write syntax directed translation for programming language constructs(K3)
-- Understand and implement simple code generator(K3)
-- Understand and implement code optimization techniques(K3).
+- Apply different parsing algorithms to develop the parsers for the given grammar (K3)
+- Write syntax directed translation for programming language constructs (K3)
+- Understand and implement simple code generator (K3)
+- Understand and implement code optimization techniques (K3).
 
       
 ** TEXT BOOK
 1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman,
-   ``Compilers: Principles, Techniques and Tools'', Second Edition,
+   ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
    Pearson Education, 2009.
 
 ** REFERENCE BOOKS
@@ -111,6 +111,6 @@ After the completion of this course, students will be able to:
 3. Keith D Cooper, Linda Torczon, ``Engineering a Compiler'',
    Morgan Kaufmann Publishers Elsevier Science, 2004.
 4. Andrew W. Appel, ``Modern Compiler Implementation in C'', Cambridge
-   University Press, First edition, 2004.
+   University Press, 1st  edition, 2004.
 5. Watson, Des, ``A Practical Approach to Compiler Construction'',
-   First edition, Springer-Verlog, 2017.
+   1st edition, Springer-Verlog, 2017.
