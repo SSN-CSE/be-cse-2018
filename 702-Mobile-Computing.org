@@ -27,17 +27,12 @@ Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP
 
 {{{unit}}}
 | UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
-Traditional TCP – Classical TCP improvements; Wireless Application
-Protocol: WAP – Architecture – WDP – WTLS – WTP –WSP – WAE – WML -
-WTA.
+Mobile Transport Layer: Traditional TCP –- Classical TCP improvements; Wireless Application Protocol(WAP):  Architecture –- WDP -- WTLS -- WTP --WSP -- WAE -- WML --WTA.
 
 {{{unit}}}
 |UNIT IV | MOBILE TELECOMMUNICATION SYSTEM | 9 |
-Introduction - Global System for Mobile Communication (GSM): Mobile
-services -System architecture - Radio interface - Localization and
-calling - Handover –Security; General Packet Radio Service (GPRS);
-Universal Mobile Telecommunication System (UMTS): UMTS architecture -
-UTRAN - Core network – Handover.
+Introduction; Global System for Mobile Communication (GSM): Mobile services --System architecture -- Radio interface -- Localization and
+calling -- Handover --Security; General Packet Radio Service (GPRS); Universal Mobile Telecommunication System (UMTS): UMTS system architecture --UTRAN -- Core network -- Handover.
 
 {{{unit}}}
 |UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
