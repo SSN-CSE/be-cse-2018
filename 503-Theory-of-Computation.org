@@ -25,11 +25,11 @@ Languages: Regular expressions -- Finite automata and regular expressions; Prope
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
-Chomsky’s hierarchy of languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Eliminating useless symbols -- Computing the generating and reachable symbols -- eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) -- Greibach Normal Form (GNF).
+Chomsky’s Hierarchy of Languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Eliminating useless symbols -- Computing the generating and reachable symbols -- eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) -- Greibach Normal Form (GNF).
 
 {{{unit}}}
 |UNIT III | PUSHDOWN AUTOMATA | 9 |
-Pushdown Automaton (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic pushdown automata; Pumping Lemma for Context Free Languages.
+Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
