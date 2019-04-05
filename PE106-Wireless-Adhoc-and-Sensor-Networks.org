@@ -3,6 +3,14 @@
 :author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :end:
 
+#+begin_comment
+- 1. Same as AU 2017
+- 2. No change
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable (suggestive experiments)
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
