@@ -10,22 +10,18 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its equivalent regular expressions
-- To understand the language hierarchy and to design a context free grammar for any given language
-- To construct pushdown automata for any CFL
-- To understand Turing machines and their capability
+- To construct finite automata for any given pattern and find its equivalent regular expressions.
+- To understand the language hierarchy and to design a context free grammar for any given language.
+- To construct pushdown automata for any CFL.
+- To understand Turing machines and their capability.
 - To understand undecidable problems.
 
 
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Introduction: Basic Mathematical Notation and Techniques; Finite Automata (FA):
- Deterministic Finite Automata (DFA) -- Non-deterministic
-Finite Automata(NFA) -- Finite automata with epsilon transitions -- 
-Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
-Languages: Regular expressions -- Finite automata and regular expressions; 
-Properties of Regular Languages: Proving languages not to be regular -- 
-Closure and decision properties of regular languages.
+Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic
+Finite Automata(NFA) -- Finite automata with epsilon transitions -- Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
+Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure and decision properties of regular languages.
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
@@ -51,7 +47,7 @@ After the completion of this course, students will be able to:
 - Understand the need of formal languages, and grammars (K3)
 - Design pushdown automata for any CFL (K3)
 - Design Turing machines for any Languages (K3)
-- Explain the Decidability or Undecidability of various problems (K2).
+- Explain the Decidability or Undecidability of various problems (K2)
 
 ** Text Books 
 1. Hopcroft J E, Motwani R and Ullman J D, ``Introduction to Automata Theory, Languages and Computations'', Pearson
