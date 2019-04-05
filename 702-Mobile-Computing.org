@@ -11,10 +11,10 @@
 
 
 ** COURSE OBJECTIVES
-- Understand the basic concepts of mobile computing.
-- Be familiar with the protocol stack.
-- Be exposed to Ad-Hoc networks.
-- Learn the basics of mobile telecommunication system.
+- Understand the basic concepts of mobile computing
+- Be familiar with the protocol stack
+- Be exposed to Ad-Hoc networks
+- Learn the basics of mobile telecommunication system
 - Gain knowledge about different mobile platforms and application development environments.
 
 {{{unit}}}
@@ -23,7 +23,7 @@ Introduction to Mobile Computing; Media Access Control (MAC): Motivation for a s
  
 {{{unit}}}
 |UNIT II | NETWORK LAYER | 9 |
-Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP packet delivery -- Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; AdHoc: Proactive protocol-DSDV -- Reactive Routing Protocols – DSR, AODV.
+Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP packet delivery -- Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; AdHoc: Routing -- Proactive routing protocol-DSDV -- Reactive routing protocol – DSR, AODV.
 
 {{{unit}}}
 | UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
