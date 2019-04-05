@@ -57,6 +57,9 @@ Based Classification; Classification by Back Propagation; Support
 Vector Machines; Lazy Learners; Model Evaluation and Selection --
 Techniques to improve Classification Accuracy; Evaluation of
 Classification Methods; Datasets.
+#+begin_comment
+Removed: Clustering
+#+end_comment
 
 {{{unit}}}
 | UNIT V | CLUSTERING | 9 |
@@ -64,7 +67,9 @@ Introduction, Clustering, Cluster Analysis, Clustering Methods --
 K-means, Hierarchical clustering, Agglomerative clustering, Divisive
 clustering, Evaluating clusters; Case Studies using WEKA tools for
 classification -- Clustering and association.
-
+#+begin_comment
+Moved: Clustering from Unit - IV to V
+#+end_comment
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
