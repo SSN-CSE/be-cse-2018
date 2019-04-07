@@ -30,7 +30,7 @@
 Introduction to OOAD with OO Basics -- Unified process -- UML diagrams --
 Use case -- Case study -- The Next Gen POS system, Inception -- Use case
 modelling -- Relating use cases -- Include, extend and generalization --
-When to use use-cases
+When to use use-cases.
 
 {{{unit}}}
 |UNIT II | UNIFIED PROCESS & CLASS DIAGRAM (STATIC)		| 9 |
@@ -54,7 +54,7 @@ and deployment diagrams.
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
 Designing objects with responsibilities -- Creator -- Information expert
--- Low coupling -- High cohesion -- Controller. design patterns --
+-- Low coupling -- High cohesion -- Controller design patterns --
 Creational -- Factory method -- Structural -- Bridge -- Adapter --
 Behavioural -- Strategy -- Observer -- Applying GoF design patterns -- 
 Mapping design to code.
