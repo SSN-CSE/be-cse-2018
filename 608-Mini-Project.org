@@ -65,7 +65,7 @@ After the completion of this course, students will be able to:
 - Design and draw UML diagrams. (K3)
 - Map design to code and implement using UML diagrams. (K4)
 - Design and generate test cases. (K3)
-- Design UML diagrams by applying appropriate design patterns. (K3)
+- Design UML diagrams by applying appropriate design patterns (K3).
 
 ** Laboratory requirement for batch of 38 students 
 Hardware: \\
