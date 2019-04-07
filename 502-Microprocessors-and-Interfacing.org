@@ -9,7 +9,7 @@
 - 2. For changes, see the individual units.
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 5. Not Applicable.
 #+end_comment
 
 #+startup: showall
@@ -55,14 +55,14 @@ and Alarm Controller.
 {{{unit}}}
 |UNIT IV | THE 8051 MICROCONTROLLER | 9 |
 Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins
-Ports and Circuits -- Instruction set -- Addressing modes -- Assembly
+ports and circuits -- Instruction set -- Addressing modes -- Assembly
 language programming.
 
 {{{unit}}}
 |UNIT V | INTERFACING MICROCONTROLLER | 9 |
 Programming 8051 Timers -- Serial port programming -- Interrupts programming -- 
-LCD & Keyboard Interfacing -- ADC, DAC & Sensor interfacing -- External memory interface -- 
-Stepper motor and waveform generation -- Comparison of microprocessor, Microcontroller, 
+LCD & keyboard interfacing -- ADC, DAC & Sensor interfacing -- External memory interface -- 
+Stepper motor and waveform generation -- Comparison of microprocessor, microcontroller, 
 PIC and ARM processors.
 
 \hfill *Total Periods: 45*
