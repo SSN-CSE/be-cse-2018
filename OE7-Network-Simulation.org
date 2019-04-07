@@ -16,14 +16,14 @@
 
 {{{unit}}}
 |UNIT I| INTRODUCTION TO COMPUTER NETWORKS  |6|
-Introduction: Networks – Network Types – Protocol Layering – TCP/IP
+Introduction: Networks -- Network types – Protocol layering – TCP/IP
 Protocol suite – OSI Model; Network devices; Performance.
 
 
 {{{unit}}}
 |UNIT II| NETWORKING AND ACCESS CONTROL |6|
-Addressing; Ethernet Networking; VLAN: Basics - Configuring VLAN; ACL;
-Firewall; Working of Packet Tracer.
+Addressing; Ethernet networking; VLAN: Basics - Configuring VLAN; ACL;
+Firewall; Working of packet tracer.
 
 
 {{{unit}}}
@@ -34,12 +34,12 @@ EIGRP; TCP; UDP.
 {{{unit}}}
 |UNIT IV| SIMULATION BASICS |6|
 Types of simulation; The need for communications network modeling and
-simulation; Types of communications networks; modeling constructs;
+simulation; Types of communications networks; Modeling Constructs;
 Performance targets for simulation purposes.
 
 {{{unit}}}
 |UNIT V| NETWORK SIMULATOR NS3 |6|
-Overview of Simulators; Introduction to NS3: Background of NS3 -
+Overview of Simulators; Introduction to NS3: Background of NS3 --
 Establishing a network in NS3; Study of performance of TCP protocol.
  
 ** SUGGESTIVE EXPERIMENTS
