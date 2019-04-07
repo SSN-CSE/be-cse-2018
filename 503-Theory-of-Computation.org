@@ -19,25 +19,35 @@
 
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic
-Finite Automata(NFA) -- Finite automata with epsilon transitions -- Equivalence of FA’s -- Minimization of DFA; Regular Expressions and
-Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure and decision properties of regular languages.
+Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic Finite Automata (DFA) --
+ Non-deterministic Finite Automata(NFA) -- Finite automata with epsilon transitions -- Equivalence of FA’s 
+-- Minimization of DFA; Regular Expressions and Languages: Regular expressions -- 
+Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular
+ -- Closure and decision properties of regular languages.
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
-Chomsky’s Hierarchy of Languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Eliminating useless symbols -- Computing the generating and reachable symbols -- eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) -- Greibach Normal Form (GNF).
+Chomsky’s Hierarchy of Languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) --
+ Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars:
+ Eliminating useless symbols -- Computing the generating and reachable symbols -- 
+Eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) --
+ Greibach Normal Form (GNF).
 
 {{{unit}}}
 |UNIT III | PUSHDOWN AUTOMATA | 9 |
-Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
+Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- 
+Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
-The Turing Machine -- Programming Techniques for Turing Machines -- Extensions to the Basic Turing Machine -- Restricted Turing Machines.
+The Turing Machine -- Programming Techniques for Turing Machines -- 
+Extensions to the Basic Turing Machine -- Restricted Turing Machines.
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Undecidablity: Language that is not Recursively Enumerable(RE) -- Undecidable problem that is RE -- Undecidable problems about turing machines -- Post's Correspondence Problem (PCP) -- Other undecidable problems.
+Undecidablity: Language that is not Recursively Enumerable(RE) -- 
+Undecidable problem that is RE -- Undecidable problems about turing machines -- 
+Post's Correspondence Problem (PCP) -- Other undecidable problems.
 
 \hfill *Total Periods: 45*
 
