@@ -18,23 +18,31 @@
 
 {{{unit}}}
 |UNIT I | WEB PAGE DESIGN USING HTML5 | 6 |
-HTML Basics -- Document Structure -- Formatting Texts -- Lists and Backgrounds -- Hyperlinks and Anchors -- Navigation -- Layouts -- Tables -- Forms -- Sound and Videos.
+HTML basics -- Document structure -- Formatting texts -- Lists and backgrounds -- Hyperlinks and anchors --
+ Navigation -- Layouts -- Tables -- Forms -- Sound and videos.
 
 {{{unit}}}
 |UNIT II | STYLING WEBPAGE WITH CSS3 | 6 |
-HTML for CSS –- Creating Styles and Style Sheets –- Selectors –- Formatting Texts -– Margin, Padding and Borders –- Adding Graphics to web pages -– Navigation bars and links -- Formatting Tables and Forms.
+HTML for CSS -- Creating styles and style sheets -- Selectors –- Formatting texts -- 
+Margin, padding and borders -- Adding graphics to web pages -- Navigation bars and links -- 
+Formatting tables and forms.
 
 {{{unit}}}
 |UNIT III | CLIENT SIDE JAVA SCRIPT | 6 |
-Introduction to Java script:  JavaScript usage -- Role in Web page -- Role in Web Development; Script setup –- Data Types, Literals, Variables -– Dialog box –- Operators –- Conditionals & loops –- Functions –- Objects –- Core Objects -- Working with forms, images -- Handling Events.   
+Introduction to Java Script:  JavaScript usage -- Role in Web page -- Role in Web Development; 
+Script setup -- Data Types, literals, variables -- Dialog box -- Operators -- Conditionals & loops -- 
+Functions -- Objects -- Core Objects -- Working with forms, images -- Handling events.   
 
 {{{unit}}}
 |UNIT IV | SERVER SIDE JAVASCRIPT WITH NODE AND EXPRESS | 6 |
-Introduction to Express -- Introduction to Node -– Saving time with Express: Scaffolding ExpressJS -– Views and Layouts -– Static and Dynamic Content in Views; Request and Response Objects -– Templating with Handlebars. 
+Introduction to Express -- Introduction to Node -- Saving time with Express: 
+Scaffolding ExpressJS -- Views and layouts -- Static and dynamic content in views; 
+Request and response Objects -- Templating with handlebars. 
 
 {{{unit}}}
 |UNIT V | BUILDING WEB APPLICATION	 | 6 |
-Form Handling: Sending Client data to Server -- HTML forms -- Different approaches for form handling -- Form Handling with Express; Persistence -- Routing –- Handling Static Content –- Debugging.
+Form Handling: Sending client data to Server -- HTML forms -- Different approaches for form handling -- 
+Form handling with express; Persistence -- Routing -- Handling static content -- Debugging.
 
 \hfill *Theory Periods: 30*
 
@@ -58,18 +66,18 @@ After the completion of this course, students will be able to:
 - Style the web pages using CSS3 (K3)
 - Develop client side scripts using JavaScript (K3)
 - Create server side scripts using Node.js (K3)
-- Develop web applications using ExpressJS. (K3)
+- Develop web applications using ExpressJS (K3).
       
 ** TEXT BOOKS
 1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft, O'Reilly, 2013. (Unit I)
 2. David McFarland, ``CSS3: The Missing Manual'', 3rd Edition, , O'Reilly, December 2012. (Unit II)
-3. Ellie Quigley, ``JavaScript by example'', Second Edition, Prentice Hall, 2011. (Unit III)
+3. Ellie Quigley, ``JavaScript by example'', 2nd Edition, Prentice Hall, 2011. (Unit III)
 4. Ethan Brown, ``Development with Node and Express'', O’Reilly, 1st Edition, July 2014. (Unit IV, Unit V) 
 
 ** REFERENCE BOOKS
 1. Jennifer Niederst Robbins, ``Learning Web Design'', O'Reilly, 4th Edition, 2012.
-2. Robert. W. Sebesta, ``Programming the World Wide Web'', Fourth Edition, Pearson Education, 2007.
-3. Shelly Powers, ``Learning JavaScript'', O'Reilly, Second Edition, 2008.
+2. Robert W Sebesta, ``Programming the World Wide Web'', 4th Edition, Pearson Education, 2007.
+3. Shelly Powers, ``Learning JavaScript'', O'Reilly, 2nd Edition, 2008.
 4. Basaret Ali Syed, ``Beginning Node.js'', Apress, December 2014.
 5. Azat Mardan, ``Express.js Guide'', Lean Publishing, 2014.
 
