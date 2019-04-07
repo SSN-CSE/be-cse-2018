@@ -14,19 +14,17 @@
 - To comprehend the notion of linear and non linear data structures
 - To use a suitable data structure for the given problem and implement
   them in a high level programming language
-- To understand the concepts of sorting and searching techniques
+- To understand the concepts of sorting and searching techniques.
 
 {{{unit}}}
 |UNIT I | LIST | 6 |
 Abstract Data Types (ADT) -- List ADT -- Array implementation --
-Linked lists
-# -- Doubly-linked lists
- -- Applications of lists: Polynomial addition.
+Linked lists -- Applications of Lists: Polynomial addition.
 
 {{{unit}}}
 |UNIT II | STACK AND QUEUE | 6 |
 Stack ADT: Array implementation of stack -- Applications: Evaluating
-postfix expressions; Queue ADT: Array implementation of queues -
+postfix expressions; Queue ADT: Array implementation of queues --
 Applications of queues.
 
 {{{unit}}}
@@ -59,7 +57,7 @@ Linear search -- Binary search.
   traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
 - Implement insertion sort and merge sort
-- Implement linear search and binary search
+- Implement linear search and binary search.
 
 
 \hfill *Practical Periods: 30*
@@ -72,22 +70,22 @@ After the completion of this course, students will be able to:
 - Implement stack and queue and use them to solve problems (K3)
 - Implement trees  and use them to solve problems (K3)
 - Implement graphs and use them to solve problems (K3)
-- Implement various sorting and searching algorithms (K2)
+- Implement various sorting and searching algorithms (K2).
 
 ** TEXT BOOKS
-1. M. A. Weiss, ``Data Structures and Algorithm Analysis in C'',
-   Second Edition , Pearson Education, 2006
-2. Richard F. Gilberg, Behrouz A. Forouzan, ``Data Structures: A
-   Pseudocode Approach with C'', Second Edition, Cengage India, 2007.
+1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',
+   Second Edition , Pearson Education, 2006.
+2. Richard F Gilberg, Behrouz A Forouzan, ``Data Structures: A
+   Pseudocode Approach with C'', 2nd Edition, Cengage India, 2007.
 
 ** REFERENCES
-1. V. Aho, J. E. Hopcroft, and J. D. Ullman, ``Data Structures and
-   Algorithms'', Pearson Education, First Edition, 2003.
+1. V Aho, J E Hopcroft, and J D Ullman, ``Data Structures and
+   Algorithms'', Pearson Education, 1st Edition, 2003.
 2. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
-   of Data Structures in C'', Second Edition, University Press, 2008
-3. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
-   Oxford University Press. 2014
+   of Data Structures in C'', 2nd Edition, University Press, 2008
+3. S Sridhar, ``Design and Analysis of Algorithms'', 1st Edition,
+   Oxford University Press. 2014.
 4. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
-   Outlines Series), Mcgraw Hill Higher Ed., III Edition, 2010
+   Outlines Series), Mcgraw Hill Higher Ed,3rd Edition, 2010.
 # 2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
 #   Thomson India Edition, 2005.
