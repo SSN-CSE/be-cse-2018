@@ -12,38 +12,38 @@
 ** COURSE OBJECTIVES
 - To use basic programming concepts of C
 - To develop programs using loops, functions, arrays, pointers,
-  strings, structures and files
+  strings, structures and files.
 
 {{{unit}}}
 |UNIT I | BASICS  | 6 |
-Algorithm -- Structure of a C program -- Data types: built-in,
+Algorithm -- Structure of a C program -- Data Types: built-in,
 user-defined -- Variables and constants -- Input and output statements
 -- Operators, expressions, and assignment statements -- Control
 statements.
 
 {{{unit}}}
 |UNIT II | FUNCTIONS | 6 |
-Function prototype -- function definition and call -- passing
-parameters -- built-in functions -- -- recursion.
+Function prototype -- Function definition and call -- Passing
+parameters -- Built-in functions -- Recursion.
 
 {{{unit}}}
 | UNIT III | ARRAYS AND POINTERS | 6 |
-Arrays: declaration, initialization -- one-dimensional arrays –
-multi-dimensional arrays; Pointers: pointer operators -- pointer
-operations -- array of pointers -- passing arrays to functions. 
+Arrays: Declaration, initialization -- One-dimensional arrays --
+Multi-dimensional arrays; Pointers: Pointer operators -- Pointer
+operations -- Array of pointers -- Passing arrays to functions. 
 
 {{{unit}}}
 | UNIT IV | STRINGS, STRUCTURES AND UNIONS | 6 |
-Strings: constants and variables, reading and writing strings, string
+Strings: Constants and variables, reading and writing strings, string
 operations, string library; Command line arguments; Structures:
-structures and functions -- array of structures -- pointer to a
+Structures and functions -- Array of structures -- Pointer to a
 structure – unions; Dynamic memory allocation.
 
 {{{unit}}}
 | UNIT V | FILES | 6 |
-Files: opening and closing a data file -- creating a data file --
-processing a data file -- unformatted data files -- formatted input
-and output -- line input and output – file error handling.
+Files: opening and closing a data file -- Creating a data file --
+Processing a data file -- Unformatted data files -- Formatted input
+and output -- Line input and output -- File error handling.
 
 \hfill *Theory Periods: 30*
 
@@ -59,7 +59,7 @@ and output -- line input and output – file error handling.
  - Program to demonstrate simple structure manipulations
    (e.g. generating a transcript with CGPA and class obtained)
  - Programs to demonstrate file operations (e.g. count the number of
-   characters, words and lines in a file)
+   characters, words and lines in a file).
 
 \hfill *Practical Periods: 30*
 
