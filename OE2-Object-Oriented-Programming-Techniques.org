@@ -12,7 +12,7 @@
 ** COURSE OBJECTIVES
 - To learn the basics of Object Oriented Programming 
 - To learn the programming constructs of Java
-- To know the principles of inheritance and polymorphism 
+- To know the principles of inheritance and polymorphism. 
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
