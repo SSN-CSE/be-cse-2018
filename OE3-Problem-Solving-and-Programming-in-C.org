@@ -71,7 +71,7 @@ After the completion of this course, students will be able to:
 - Write functions in C (K2) 
 - Develop C programs using arrays and pointers (K3)
 - Write programs using strings and structures (K3) 
-- Do operations with files in C (K2)
+- Do operations with files in C (K2).
 
       
 ** TEXT BOOKS
@@ -87,7 +87,7 @@ After the completion of this course, students will be able to:
 2. Yashwant Kanetkar, ``Let Us C'', BPB Publications, 14th
    Edition, 2016.
 3. King, K. N., ``C Programming: A Modern Approach'', W. W. Norton &
-   Company, II Ed. 2008.
+   Company, 2nd Edition, 2008.
 4. Herbert Schildt, ``C The Complete Reference'', McGraw Hill
    Education, 4th Edition, 2017.
 5. Stephen G. Kochan, ``Programming in C'', 3rd edition, Pearson
