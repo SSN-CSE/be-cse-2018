@@ -16,35 +16,35 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Principles of OOP: Classes - Objects - Data hiding - Data
-encapsulation- Inheritance - Polymorphism; Definition of classes:
-objects - methods - Access specifiers – Static and final classes and
+Principles of OOP: Classes -- Objects -- Data hiding -- Data
+encapsulation -- Inheritance -- Polymorphism; Definition of classes:
+objects - methods -- Access specifiers -- Static and final classes and
 members; Object construction and destruction.
 
 {{{unit}}}
 | UNIT II | BASICS OF JAVA | 9 |
-Features of Java - Basics of Java programming: Data types -
-Variables - Operators - Control structures- Arrays - Strings
+Features of Java -- Basics of Java programming: Data types -
+Variables -- Operators -- Control structures -- Arrays -- Strings
 
 {{{unit}}}
 | UNIT III | CLASSES AND OBJECTS | 9 |
-Objects and classes in Java: Defining classes - Methods - Access
-specifiers – Static members; Constructors: Constructor overloading;
-Method overloading - Recursion - Passing and returning object from
-method - =finalize= method - Packages in Java.
+Objects and Classes in Java: Defining classes -- Methods -- Access
+specifiers -- Static members; Constructors: Constructor overloading;
+Method overloading -- Recursion -- Passing and returning object from
+method -- Packages in Java.
 
 {{{unit}}}
 |UNIT IV | INHERITANCE | 9 |
-Inheritance: Definition - Types of inheritance: Single - multilevel -
-multiple - hierarchical - hybrid; Subclass constructors – Interfaces
-in Java: Definition, Implementation - Extending interfaces - Examples
+Inheritance: Definition -- Types of inheritance: Single -- multilevel -
+multiple -- hierarchical -- hybrid; Subclass constructors -- Interfaces
+in Java: Definition, Implementation -- Extending interfaces -- Examples
 in Java.
 
 {{{unit}}}
 | UNIT V | POLYMORPHISM | 9 |
-Polymorphism: Method overloading and overriding - Dynamic method
+Polymorphism: Method overloading and overriding -- Dynamic method
 dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own
-exception; Definition and concepts: generic methods – generic types.
+exception; Definition and Concepts: Generic methods -- Generic types.
 
 \hfill *Theory Periods: 30*
 
@@ -55,7 +55,7 @@ exception; Definition and concepts: generic methods – generic types.
  - Program using Inheritance (Eg: Payroll application)
  - Prgram to implement Polymorphism (Eg. Area of different shapes)
  - Program to implement generic methods (Eg: Sorting)
- - Design a Java interface for ADTs. (Eg. Stack, Queue) 
+ - Design a Java interface for ADTs. (Eg. Stack, Queue).
 
 \hfill *Practical Periods: 30*
 
@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 - Develop programs using basic constructs of Java (K3)
 - Solve problems using classes and methods (K3) 
 - Develop programs using inheritance and interfaces (K3) 
-- Use the concept of polymorphism (K3) 
+- Use the concept of polymorphism (K3).
       
 ** TEXT BOOKS
 1. Herbert Schildt, ``Java: The Complete Reference'', 8th Edition,
@@ -76,10 +76,10 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Timothy Budd, ``Understanding Object-oriented Programming with
    Java'', Updated Edition, Pearson Education, 2000.
-2. C. Thomas Wu, ``An introduction to Object-oriented Programming with
+2. C Thomas Wu, ``An introduction to Object-oriented Programming with
    Java'', Fourth Edition, Tata McGraw-Hill Publishing company
    Ltd., 2006.
-3. Cay S. Horstmann, Gary cornell, ``Core Java Volume – I
+3. Cay S Horstmann, Gary cornell, ``Core Java Volume – I
    Fundamentals'' 9th Edition, Prentice Hall, 2013.
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
    Edition, Pearson, 2015.
