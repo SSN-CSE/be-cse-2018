@@ -70,7 +70,7 @@ hyperparameters; Introduction to Deep Learning.
  - Loan amount prediction using linear regression
  - E-mail spam detection using support vector machine
  - Predicting Diabetes using decision tree
- - Handwritten character recognition using neural networks
+ - Handwritten character recognition using neural networks.
 # - Classification of Iris dataset using Naive Bayes model
 # - Document grouping using K-means clustering
 # - Sentiment analysis / Handwritten character recognition using Ensemble techniques
