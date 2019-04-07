@@ -27,7 +27,7 @@
 |UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
 Introduction to computer graphics -- Applications; Overview of
 graphics systems: Video display devices -- Raster scan systems --
-Random scan systems; Output primitives: Points and lines -- loading the
+Random scan systems; Output primitives: Points and lines -- Loading the
 frame buffer -- Line drawing algorithms: DDA and Bresenham's line
 drawing algorithms -- Circle and ellipse generating algorithms -- Pixel
 addressing and object geometry.
@@ -38,7 +38,7 @@ Two dimensional geometric transformations: Basic transformations --
 Matrix representations and homogeneous coordinates -- Composite
 transformations; Two dimensional viewing: Viewing pipeline -- viewing
 coordinate reference frame -- Window to viewport coordinate
-transformation -- Clipping operations: point and text clipping -- Line
+transformation -- Clipping operations: Point and text clipping -- Line
 and polygon clipping algorithms.
 
 {{{unit}}}
