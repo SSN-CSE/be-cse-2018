@@ -26,7 +26,8 @@ Computer System Overview: Basic elements -- Instruction execution –
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
 Overview: Objectives and functions -- Evolution of operating
-system;Computer system organization; Operating system structure and Operations: System calls -- System programs -- OS generation and
+system;Computer system organization;
+ Operating System Structure and Operations: System calls -- System programs -- OS generation and
 system boot.
 
 {{{unit}}}
@@ -74,7 +75,7 @@ After the completion of this course, students will be able to:
 - Compare and contrast Linux, Windows and mobile operating systems (K3).
 
 ** TEXT BOOKS
-1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, ``Operating
+1. Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, "Operating
    System Concepts'', 9th Edition, John Wiley and Sons Inc., 2012.
 2. Neil Smyth, ``iPhone iOS 4 Development Essentials - Xcode'', 4th
    Edition, Payload media,2011.
