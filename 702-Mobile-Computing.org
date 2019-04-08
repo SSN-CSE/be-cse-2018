@@ -9,12 +9,6 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+begin_comment
-- 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017. Comments have been added along with the units
-- 2. The same course is not offered in P.G. Hence, there is no requirement for comparison of this syllabus with PG syllabus
-- 3. Five course outcomes are specified and are aligned with the units
-- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course available
-#+end_comment+
 
 ** COURSE OBJECTIVES
 - Understand the basic concepts of mobile computing
@@ -82,6 +76,14 @@ Removed
 {{{unit}}}
 |UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
 iOS: iOs Architecture Layers -- iOS Simulator; Android: Platform architecture -- Developing android applications -- Anatomy of android applications -- Android SDK; Windows Phone: Platform architecture -- Silverlight framework; Mobile Web: Being mobile friendly -- WebKit -- Web vs Native vs Hybrid -- Mobile web application frameworks.
+
+#+begin_comment
+
+To meet the industry needs, the whole unit has been re-framed
+	
+#+end_comment
+
+
 
 \hfill *Total Periods: 45*
 
