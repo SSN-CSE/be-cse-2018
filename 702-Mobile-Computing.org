@@ -9,6 +9,12 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment
+- 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017. Comments have been added along with the units
+- 2. The same course is not offered in P.G. Hence, there is no requirement for comparison of this syllabus with PG syllabus
+- 3. Five course outcomes are specified and are aligned with the units
+- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course available
+#+end_comment+
 
 ** COURSE OBJECTIVES
 - Understand the basic concepts of mobile computing
@@ -21,6 +27,18 @@
 |UNIT I | INTRODUCTION | 9 |
 Introduction to Mobile Computing; Media Access Control (MAC): Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA -- 
 Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks -- IEEE 802.11 -- Bluetooth.
+
+Introduction to Mobile Computing – Applications of Mobile Computing- Generations of Mobile Communication Technologies- Multiplexing – Spread spectrum -MAC Protocols – SDMA- TDMA- FDMA- CDMA.
+
+#+begin_comment
+Retain
+	MAC Protocols
+Inclusion
+	Wireless LAN - students should know there are two types of WLAN  
+Removal
+ Since multiplexing and spread spectrum have been already studied in Principles of Communication (Unit I and II) III semester in Autonomous Syllabus, it is removed
+ Applications of Mobile Computing, Generations of Mobile Communication covered in Introduction, it is not mentioned in the syllabus.
+#+end_comment
  
 {{{unit}}}
 |UNIT II | NETWORK LAYER | 9 |
@@ -68,5 +86,10 @@ After the completion of this course, students will be able to:
 3. Uwe Hansmann, Lothar Merk, Martin S Nicklons and Thomas Stober,  ``Principles of Mobile Computing'', Springer, 2003.
 4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and  Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
 5. C K Toh, ``AdHoc Mobile Wireless Networks'',  Pearson  Education, 1st Edition, 2002.
+
+#+begin_comment
+... your notes ..
+#+end_comment
+
 
 
