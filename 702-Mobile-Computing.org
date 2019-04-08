@@ -5,9 +5,20 @@
 
 #+startup: showall
 
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+
+#+begin_comment
+1. Fifth unit is new unit. All other units are already discussed in AU-2017.
+2. For changes, see the individual units.
+3. This subject is not offered under M.E syllabus.
+4. Five Course outcomes specified and aligned with units.
+5. Done.
+#+end_comment
+
 
 
 ** COURSE OBJECTIVES
@@ -107,9 +118,7 @@ After the completion of this course, students will be able to:
 4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and  Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
 5. C K Toh, ``AdHoc Mobile Wireless Networks'',  Pearson  Education, 1st Edition, 2002.
 
-#+begin_comment
-... your notes ..
-#+end_comment
+
 
 
 
