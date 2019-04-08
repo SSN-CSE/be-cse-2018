@@ -28,8 +28,6 @@
 Introduction to Mobile Computing; Media Access Control (MAC): Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA -- 
 Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc networks -- IEEE 802.11 -- Bluetooth.
 
-Introduction to Mobile Computing – Applications of Mobile Computing- Generations of Mobile Communication Technologies- Multiplexing – Spread spectrum -MAC Protocols – SDMA- TDMA- FDMA- CDMA.
-
 #+begin_comment
 Retain
 	MAC Protocols
@@ -43,27 +41,47 @@ Removal
 {{{unit}}}
 |UNIT II | NETWORK LAYER | 9 |
 Mobile IP: Goals, assumptions and requirements -- Entities and terminology -- IP packet delivery -- 
-Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; AdHoc: Routing -- 
-Proactive routing protocol-DSDV -- Reactive routing protocol -- DSR, AODV.
+Agent discovery -- Registration --Tunneling and encapsulation -- Optimizations; DHCP; AdHoc: Routing -- 
+Proactive routing protocol-DSDV -- Reactive routing protocol - DSR, AODV --  Hybrid routing –ZRP -- Multicast Routing- ODMRP; VANET.
+
+
+#+begin_comment
+In order to learn layer wise for better understanding, we have shifted Unit III and Unit IV of AU R-17 to Unit II and Unit III . Hence Unit II of AU-R-17 moved to Unit IV.
+
+Hence, the changes of Unit II is compared with Unit III of AU R-17.
+
+Retain
+	Mobile IP and Adhoc Routing
+Removal
+ 	Security is vast - if included it will be overdumped, so it is removed
+#+end_comment
+ 
 
 {{{unit}}}
 | UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
 Mobile Transport Layer: Traditional TCP -- Classical TCP improvements; Wireless Application Protocol(WAP): 
 Architecture -- WDP -- WTLS -- WTP --WSP -- WAE -- WML --WTA.
 
+
 {{{unit}}}
 |UNIT IV | MOBILE TELECOMMUNICATION SYSTEM | 9 |
-Introduction; Global System for Mobile Communication (GSM): Mobile services --
-System architecture -- Radio interface -- Localization and
-calling -- Handover -- Security; General Packet Radio Service (GPRS); 
-Universal Mobile Telecommunication System (UMTS): UMTS system architecture -- UTRAN -- Core network -- 
-Handover.
+Introduction; Global System for Mobile Communication (GSM): Mobile services -- System architecture -- Radio interface -- Protocols -- Localization and calling -- Handover -- Security; General Packet Radio Service (GPRS); Universal Mobile Telecommunication System (UMTS): UMTS system architecture -- UTRAN -- Core network -- Handover.
+
+#+begin_comment
+
+Retain
+	GSM, GPRS, UMTS
+ 	Frequency Allocation, Routing, Mobility Management in AU R-17 is covered in different topics name such as Radio Interface,     
+	Localization & Calling and Handover.
+Removed 
+	Security in UMTS is removed due to vastness of the portion.
+	
+#+end_comment
+
 
 {{{unit}}}
 |UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
-iOS: iOs Architecture Layers -- iOS Simulator; Android: Platform architecture -- Developing android applications -- Anatomy of android applications --
-Android SDK; Windows Phone: Platform architecture -- Silverlight framework; Mobile Web: Being mobile friendly -- WebKit -- Web vs Native vs Hybrid -- 
-Mobile web application frameworks.
+iOS: iOs Architecture Layers -- iOS Simulator; Android: Platform architecture -- Developing android applications -- Anatomy of android applications -- Android SDK; Windows Phone: Platform architecture -- Silverlight framework; Mobile Web: Being mobile friendly -- WebKit -- Web vs Native vs Hybrid -- Mobile web application frameworks.
 
 \hfill *Total Periods: 45*
 
