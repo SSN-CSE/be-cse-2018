@@ -16,6 +16,15 @@
 - To understand Turing machines and their capability
 - To understand undecidable problems.
 
+#+begin_comment
+1. Each unit is reframed according to the computational models. 
+2. For changes, see the individual units, some units were reordered
+3. This subject is partially offered under M.E syllabus as Mobile and Pervasive Computing (elective), but the syllabus is entirely different.
+4. Five Course outcomes specified and aligned with units.
+5. Done.
+#+end_comment
+
+
 
 {{{unit}}}
 |UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
@@ -24,6 +33,10 @@ Basic Mathematical Notation and Techniques; Finite Automata (FA): Deterministic 
 -- Minimization of DFA; Regular Expressions and Languages: Regular expressions -- 
 Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular
  -- Closure and decision properties of regular languages.
+ 
+ #+begin_comment
+AU R-17 Uint I and II are combined together  to a single unit. Unit I is grouped under Finite Automata.
+#+end_comment
 
 {{{unit}}}
 |UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
@@ -32,22 +45,31 @@ Chomsky’s Hierarchy of Languages; Context-Free Grammar and Languages: Context-
  Eliminating useless symbols -- Computing the generating and reachable symbols -- 
 Eliminating null productions -- Eliminating unit productions -- Chomsky Normal Form(CNF) --
  Greibach Normal Form (GNF).
+  #+begin_comment
+Few topics of AU R-17 Uint III and IV are combined together  and named as CFG and Languages.
+#+end_comment
+
 
 {{{unit}}}
 |UNIT III | PUSHDOWN AUTOMATA | 9 |
 Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- 
 Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
 
+#+begin_comment
+Few topics of AU R-17 Uint III is removed and reframed as second computational model (Pushdown Automata).
+#+end_comment
+
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
-The Turing Machine -- Programming Techniques for Turing Machines -- 
-Extensions to the Basic Turing Machine -- Restricted Turing Machines.
+The Turing Machine -- Programming Techniques for Turing Machines --  Extensions to the Basic Turing Machine -- Restricted Turing Machines.
+
+#+begin_comment
+Turing machine in AU R-17 is a part of Uint IV. Now it is reframed as a separate unit with new versions of TM.
+#+end_comment
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Undecidablity: Language that is not Recursively Enumerable(RE) -- 
-Undecidable problem that is RE -- Undecidable problems about turing machines -- 
-Post's Correspondence Problem (PCP) -- Other undecidable problems.
+Undecidablity: Language that is not Recursively Enumerable(RE) --  Undecidable problem that is RE -- Undecidable problems about turing machines -- Post's Correspondence Problem (PCP) -- Other undecidable problems.
 
 \hfill *Total Periods: 45*
 
