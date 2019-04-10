@@ -9,43 +9,6 @@
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
-** Course Objectives
--To learn to design static web pages using HTML5 and CSS3
--To learn to develop client side scripts using JavaScript
--To learn to write server side scripts using Node.js 
--To learn to develop web application using ExpressJS.
-
-
-{{{unit}}}
-|UNIT I | WEB PAGE DESIGN USING HTML5 | 6 |
-HTML basics -- Document structure -- Formatting texts -- Lists and backgrounds -- Hyperlinks and anchors --
- Navigation -- Layouts -- Tables -- Forms -- Sound and videos.
-
-{{{unit}}}
-|UNIT II | STYLING WEBPAGE WITH CSS3 | 6 |
-HTML for CSS -- Creating styles and style sheets -- Selectors –- Formatting texts -- 
-Margin, padding and borders -- Adding graphics to web pages -- Navigation bars and links -- 
-Formatting tables and forms.
-
-{{{unit}}}
-|UNIT III | CLIENT SIDE JAVA SCRIPT | 6 |
-Introduction to Java Script:  JavaScript usage -- Role in Web page -- Role in Web Development; 
-Script setup -- Data Types, literals, variables -- Dialog box -- Operators -- Conditionals & loops -- 
-Functions -- Objects -- Core Objects -- Working with forms, images -- Handling events.   
-
-{{{unit}}}
-|UNIT IV | SERVER SIDE JAVASCRIPT WITH NODE AND EXPRESS | 6 |
-Introduction to Express -- Introduction to Node -- Saving time with Express: 
-Scaffolding ExpressJS -- Views and layouts -- Static and dynamic content in views; 
-Request and response Objects -- Templating with handlebars. 
-
-{{{unit}}}
-|UNIT V | BUILDING WEB APPLICATION	 | 6 |
-Form Handling: Sending client data to Server -- HTML forms -- Different approaches for form handling -- 
-Form handling with express; Persistence -- Routing -- Handling static content -- Debugging.
-
-\hfill *Theory Periods: 30*
-
 ** SUGGESTIVE EXPERIMENTS
 - Design a Personal website using HTML5 elements. 
 - Design a web page using form controls and perform in-built validation (e.g. Login form, Registration form)

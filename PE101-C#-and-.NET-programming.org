@@ -25,7 +25,7 @@
 {{{unit}}}
 |UNIT I | C# LANGUAGE BASICS | 9 |
 Introduction to .Net Architecture; Core C#: Variables -- Data Types --
-Flow control-- Enumerations -- namespaces -- main method -- comments ;
+Flow control-- Enumerations -- Namespaces -- Main method -- Comments ;
 Objects and Types ; Inheritance; Generics; Arrays and Tuples;
 Operators and Casts; Examples in C#.
 
@@ -50,7 +50,8 @@ Data Adapter; Case study: Library management system.
 
 #+begin_comment
 Modified: Unit III, IV, V from AU syllabus are modified and some concepts are removed
-Added: Windows programming, WPF, and Data management as Unit III, ASP.Net web programming as Unit IV, Basics and WCF and WWF in Unit V
+Added: Windows programming, WPF, and Data management as Unit III, 
+ASP.Net web programming as Unit IV, Basics and WCF and WWF in Unit V
 #+end_comment
 
 {{{unit}}}
