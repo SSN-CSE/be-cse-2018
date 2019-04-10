@@ -33,19 +33,19 @@
 
 {{{unit}}}
 |UNIT I | Digital Image Fundamentals | 9 |
-Introduction to Digital Image Processing: Components - Image Sensing
-and Acquisition - Image Sampling and Quantization; Relationships
-between pixels - 2D mathematical preliminaries: Array vs matrix
-operations - Linear vs nonlinear operations - Arithmetic - Logical -
-Statistical - Spatial Operations.
+Introduction to Digital Image Processing: Components -- Image sensing
+and acquisition -- Image Sampling and Quantization; Relationships
+between pixels -- 2D mathematical preliminaries: Array vs matrix
+operations -- Linear vs nonlinear operations -- Arithmetic -- Logical --
+Statistical -- Spatial Operations.
 
 {{{unit}}}
 |UNIT II | Image Enhancement | 9 |
-Spatial Domain: Gray level transformations - Histogram processing;
+Spatial Domain: Gray level transformations -- Histogram processing;
 Basics of Spatial Filtering; Smoothing and Sharpening Spatial
 Filtering; Frequency Domain: Introduction to Fourier Transform;
 Smoothing and Sharpening frequency domain filters: Ideal -
-Butterworth - Gaussian filters; Homomorphic filtering.
+Butterworth -- Gaussian filters; Homomorphic filtering.
 
 {{{unit}}}
 |UNIT III | Image Restoration | 9 |
@@ -89,21 +89,21 @@ After the completion of this course, students will be able to:
 - Analyse the segmentation methods and apply in real time applications
   (K3)
 - Understand and analyse the feature extraction and object recognition
-  methods (K3)
+  methods (K3).
    
 ** TEXT BOOKS
-1. Rafael C. Gonzalez, Richard E. Woods, ``Digital Image Processing'',
+1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
    Pearson, 3rd Edition, 2010.
-2. Anil K. Jain, ``Fundamentals of Digital Image Processing'',
+2. Anil K Jain, ``Fundamentals of Digital Image Processing'',
    Pearson, 2002.
    
 ** REFERENCES
 1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C Gonzalez, Richard E. Woods, Steven Eddins, ``Digital
+2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital
    Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S Sridhar, ``Digital Image Processing'', Second Edition, Oxford University, 2016
-4. William K. Pratt, ``Digital Image Processing'', John Wiley, New
-   York, 2002
+3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford University, 2016.
+4. William K Pratt, ``Digital Image Processing'', John Wiley, New
+   York, 2002.
 5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,
    Analysis and Machine Vision'', Brookes/Cole, Vikas Publishing
-   House, 2nd edition, 1999
+   House, 2nd edition, 1999.
