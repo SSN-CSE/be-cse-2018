@@ -45,8 +45,8 @@ Moved: Generics to Unit I
 Core Windows Presentation Foundation (WPF): Geometry and
 transformations -- Brushes -- Controls -- Layouts -- Styles and
 Resources -- Triggers -- Templates; Core ADO .Net: Overview --
-Database Connections -- Commands -- Data Reader -- Dataset Class --
-Data Adapter; Case study: Library management system.
+Database connections -- Commands -- Data reader -- Dataset class --
+Data adapter; Case study: Library management system.
 
 #+begin_comment
 Modified: Unit III, IV, V from AU syllabus are modified and some concepts are removed
@@ -87,7 +87,7 @@ After the completion of this course, students will be able to:
 
 ** REFERENCES
 1. Ian Gariffiths, Mathew Adams, Jesse Liberty, ``Programming C#
-   4.0'', O'Reilly, Fourth Edition, 2010.
+   4.0'', O'Reilly, 4th Edition, 2010.
 2. Andrew Troelsen, ``Pro C# 5.0 and the .NET 4.5 Framework'', Apress
    publication, 2012.
 3. Andy Wigley, Daniel Moth, Peter Foot, ``Mobile Development
