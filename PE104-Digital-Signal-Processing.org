@@ -40,7 +40,7 @@ Design of analog IIR filter – Butterworth and Chebyshev IIR filters,
 Design of discrete time IIR filter from analog filter -- IIR filter
 design by Impulse Invariance technique (IIT) and Bilinear
 transformation technique (BLT), Structures of IIR filter -- Direct
-form - I, Direct form -- II, Cascade and Parallel form, Finite word
+form - I, Direct form - II, Cascade and Parallel form, Finite word
 length effects of IIR filter -- limit cycle oscillations, dead band,
 signal scaling.
 
@@ -76,7 +76,7 @@ After the completion of this course, students will be able to:
    Processing -- Principles, Algorithms and Applications'', 4th
    Edition, Pearson Education, Prentice Hall, 2007.
 2. Sanjit K. Mitra, ``Digital Signal Processing -- A Computer Based
-   Approach'', 3rf Edition, Tata McGraw Hill, 2007.
+   Approach'', 3rd Edition, Tata McGraw Hill, 2007.
 
 ** REFERENCES
 1. S. Salivahanan, ``Digital Signal Processing'', Third Edition, McGraw
