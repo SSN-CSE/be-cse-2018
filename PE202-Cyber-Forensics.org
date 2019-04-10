@@ -25,10 +25,10 @@ Unit-5:  New tools topics included
 #+end_comment
 
 ** COURSE OBJECTIVES
-- To learn computer forensics and understand incident response.
-- To know the methods to collect and store digital evidence.  
-- To understand the approaches to analyse and validate data.
-- To investigate network and mobile forensic data.
+- To learn computer forensics and understand incident response
+- To know the methods to collect and store digital evidence
+- To understand the approaches to analyse and validate data
+- To investigate network and mobile forensic data
 - To be familiar with forensics tools.  
 
 
@@ -94,12 +94,13 @@ After the completion of this course, students will be able to:
 - Use forensics tools (K3).
 
 ** TEXT BOOKS 
-1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer Forensics'', Second Edition, McGraw-Hill 2003.
+1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer Forensics'', 2nd Edition, McGraw-Hill 2003.
 2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and Investigations'', Cengage Learning, India Edition, 2008.
 
 ** REFERENCES 
 1. Dhillon G, ``Principles of Information Systems Security'', John Wiley & Sons, 2007.
-2. Whitman M E, Mattord H J, ``Principles of Information Security'', Third Edition, Thompson Course Technology, 2009.
+2. Whitman M E, Mattord H J, ``Principles of Information Security'', 3rd Edition, Thompson Course Technology, 2009.
 3. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
-4. Marjie T Britz, ``Computer Forensics and Cyber Crime: An Introduction'', Third Edition, Prentice Hall, 2013.
-5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field Manual for Collecting, Examining, and Preserving Evidence of Computer Crimes'', Auerbach Publications, 2007.
+4. Marjie T Britz, ``Computer Forensics and Cyber Crime: An Introduction'', 3rd Edition, Prentice Hall, 2013.
+5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field Manual for Collecting, Examining, 
+   and Preserving Evidence of Computer Crimes'', Auerbach Publications, 2007.
