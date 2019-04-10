@@ -24,7 +24,7 @@ Classification of DT signals, Concepts of frequency in Analog and
 Digital Signals, Need for sampling and sampling theorem, Discrete -- Time
 systems -- Types of DT system, Analysis of discrete time LTI systems,
 Linear convolution, Z transform and its applications for LTI system
-analysis
+analysis.
 
 {{{unit}}}
 | UNIT II | FREQUENCY ANALYSIS OF DISCRETE-TIME SIGNALS | 9 |
@@ -49,7 +49,7 @@ signal scaling.
 Linear phase FIR filter, FIR Filter design using Rectangular, Hamming
 and Hanning windowing techniques, Structures of FIR filter --
 Transversal, linear-phase and poly-phase structures, Finite word
-length effects of FIR filter
+length effects of FIR filter.
 
 {{{unit}}}
 |UNIT V|   APPLICATIONS OF DIGITAL SIGNAL PROCESSING| 9|
