@@ -25,7 +25,7 @@
 - To understand the working of Routing Protocols for ad hoc and sensor
   networks
 - To learn about the Transport Layer protocols and their QoS for ad
-  hoc and sensor networks.
+  hoc and sensor networks
 - To understand various security issues in ad hoc and sensor networks
   and the corresponding solutions.
 
@@ -36,14 +36,14 @@ Protocols for wireless ad hoc networks -- Contention-Based MAC
 protocols -- MAC Protocols using Directional Antennas --
 Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing
 in Adhoc Networks -- Design Issues -- Proactive, Reactive and Hybrid
-Routing Protocols
+Routing Protocols.
 
 {{{unit}}}
 |UNIT II | TRANSPORT AND QOS IN AD HOC NETWORKS | 9 |
 TCP's challenges and Design Issues in Ad Hoc Networks -- Transport
 protocols for ad hoc networks -- Issues and Challenges in providing
 QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS
-Model
+Model.
 
 {{{unit}}}
 |UNIT III | MAC AND ROUTING IN WIRELESS SENSOR NETWORKS | 9 |
@@ -51,14 +51,14 @@ Introduction -- Applications -- Challenges -- Sensor network
 architecture -- MAC Protocols for wireless sensor networks -- Low duty
 cycle protocols and wakeup concepts -- Contention Based protocols --
 Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control
--- Routing Protocols
+-- Routing Protocols.
 
 {{{unit}}}
 |UNIT IV | TRANSPORT AND QOS IN WIRELESS SENSOR NETWORKS | 9 |
 Data-Centric and Contention-Based Networking -- Transport Layer and
 QoS in Wireless Sensor Networks -- Congestion Control in network
 processing -- Operating systems for wireless sensor networks --
-Examples
+Examples.
 
 {{{unit}}}
 |UNIT V | SECURITY IN ADHOC AND SENSOR NETWORKS | 9 |
@@ -66,7 +66,7 @@ Security Attacks -- Key Distribution and Management -- Intrusion
 Detection -- Software based Anti-tamper techniques -- Water marking
 techniques -- Defense against routing attacks -- Secure Ad hoc routing
 protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
--- Sensor Network Security Protocols -- SPINS
+-- Sensor Network Security Protocols -- SPINS.
 
 
 \hfill *Total Periods: 45*
@@ -82,7 +82,7 @@ After the completion of this course, students will be able to:
 - Analyse Transport Layer protocols and their QoS and to apply them for
   ad hoc and sensor networks (K3)
 - Identify and understand security issues in ad hoc and sensor
-  networks (K2)
+  networks (K2).
 
 
 ** TEXT BOOKS 
@@ -99,7 +99,7 @@ After the completion of this course, students will be able to:
    Scientific Publishing, 2011.
 3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of
    Wireless Sensor Networks Theory and Practice'', John Wiley and
-   Sons, 2010
+   Sons, 2010.
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
    Applications'', Cambridge university Press, 2008.
 
