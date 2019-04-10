@@ -15,39 +15,39 @@
   analysis
 - To teach the design of IIR and FIR filters for filtering the
   undesired signals
-- To introduce the DSP for engineering applications
+- To introduce the DSP for engineering applications.
 
 {{{unit}}}
 |UNIT I|   REVIEW OF SIGNALS, SYSTEMS AND SIGNAL PROCESSING| 9|
-Basic elements of DSP system, Discrete-Time (DT) signals -
+Basic elements of DSP system, Discrete-Time (DT) signals --
 Classification of DT signals, Concepts of frequency in Analog and
-Digital Signals, Need for sampling and sampling theorem, Discrete–Time
-systems - Types of DT system, Analysis of discrete time LTI systems,
+Digital Signals, Need for sampling and sampling theorem, Discrete -- Time
+systems -- Types of DT system, Analysis of discrete time LTI systems,
 Linear convolution, Z transform and its applications for LTI system
 analysis
 
 {{{unit}}}
 | UNIT II | FREQUENCY ANALYSIS OF DISCRETE-TIME SIGNALS | 9 |
-Introduction to Discrete Fourier Transform (DFT) – Properties of DFT –
+Introduction to Discrete Fourier Transform (DFT) -- Properties of DFT --
 Circular convolution, Linear filtering based on DFT, Filtering of long
-data sequences using Overlap – save method and Overlap – add method,
-FFT Algorithms - Decimation – in – time (DIT) FFT Algorithm,
-Decimation – in – frequency (DIF) FFT Algorithm
+data sequences using Overlap -- save method and Overlap -- add method,
+FFT Algorithms -- Decimation-in-time (DIT) FFT Algorithm,
+Decimation-in-frequency (DIF) FFT Algorithm.
 
 {{{unit}}}
 | UNIT III | DESIGN OF IIR FILTER | 9 |
 Design of analog IIR filter – Butterworth and Chebyshev IIR filters,
-Design of discrete time IIR filter from analog filter – IIR filter
+Design of discrete time IIR filter from analog filter -- IIR filter
 design by Impulse Invariance technique (IIT) and Bilinear
-transformation technique (BLT), Structures of IIR filter – Direct
-form - I, Direct form – II, Cascade and Parallel form, Finite word
-length effects of IIR filter - limit cycle oscillations, dead band,
-signal scaling
+transformation technique (BLT), Structures of IIR filter -- Direct
+form - I, Direct form -- II, Cascade and Parallel form, Finite word
+length effects of IIR filter -- limit cycle oscillations, dead band,
+signal scaling.
 
 {{{unit}}}
 | UNIT IV | DESIGN OF FIR FILTER | 9 |
 Linear phase FIR filter, FIR Filter design using Rectangular, Hamming
-and Hanning windowing techniques, Structures of FIR filter –
+and Hanning windowing techniques, Structures of FIR filter --
 Transversal, linear-phase and poly-phase structures, Finite word
 length effects of FIR filter
 
@@ -69,23 +69,23 @@ After the completion of this course, students will be able to:
 - Design and realize IIR filters using impulse invariant and bilinear
   transformation techniques (K3)
 - Design and realize FIR filters using various window techniques (K3)
-- Understand the need of DSP for engineering applications (K2)
+- Understand the need of DSP for engineering applications (K2).
 
 ** TEXT BOOKS      
 1. John G. Proakis and Dimitris G Manolakis, ``Digital Signal
-   Processing -- Principles, Algorithms and Applications'', Fourth
-   Edition, Pearson Education, Prentice Hall, 2007
+   Processing -- Principles, Algorithms and Applications'', 4th
+   Edition, Pearson Education, Prentice Hall, 2007.
 2. Sanjit K. Mitra, ``Digital Signal Processing -- A Computer Based
-   Approach'', Third Edition, Tata McGraw Hill, 2007
+   Approach'', 3rf Edition, Tata McGraw Hill, 2007.
 
 ** REFERENCES
 1. S. Salivahanan, ``Digital Signal Processing'', Third Edition, McGraw
-   Hill Education (India) Private Limited, 2015
+   Hill Education (India) Private Limited, 2015.
 2. V. Oppenheim, R. W. Schafer and J. R. Buck, ``Discrete-Time Signal
-   Processing'', Eighth Indian Reprint, Pearson 2004
+   Processing'', 8th Indian Reprint, Pearson 2004.
 3. Emmanuel C. Ifeachor and Barrie W. Jervis, ``Digital Signal
-   Processing'', Second Edition, Pearson Education, Prentice Hall 2002
+   Processing'', 2nd Edition, Pearson Education, Prentice Hall 2002.
 4. Andreas Antoniou, ``Digital Signal Processing'', Tata McGraw Hill,
-   2006
-5. P. Ramesh Babu, ``Digital Signal Processing'', Fourth Edition,
-   Scitech Publications (India) Pvt Ltd, 2011
+   2006.
+5. P. Ramesh Babu, ``Digital Signal Processing'', 4th Edition,
+   Scitech Publications (India) Pvt Ltd, 2011.
