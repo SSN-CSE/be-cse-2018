@@ -14,7 +14,7 @@
 - To introduce various programming paradidgms
 - To understand programming paradigms such as imperative,
   object-oriented, logic, functional and concuuent with illustrative
-  examples
+  examples.
 
 {{{unit}}}
 |UNIT I | IMPERATIVE AND OBJECT ORIENTED PROGRAMMING  | 9 |
@@ -57,18 +57,18 @@ After the completion of this course, students will be able to:
 - Understand logic programming paradigm and explore some examples in
   Prolog (K3)
 - Understand concurrent programming paradigm and explore some examples
-  in Java / Ada (K3)
+  in Java / Ada (K3).
 
 ** TEXT BOOKS
-1. Ravi Sethi and Viswanatha, K.V., ``Programming Languages : Concepts
+1. Ravi Sethi and Viswanatha K V, ``Programming Languages : Concepts
    and constructs'', 2nd Edition, Pearson, 2011
-2. Allan B. Tucker and Robert E. Noonan, ``Programming Languages:
+2. Allan B Tucker and Robert E Noonan, ``Programming Languages:
    Principles and Paradigms'', 2nd Edition, McGraw Hill, 2007
 
 ** REFERENCES
 1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
    Morgan Kaufmann, 2015
-2. Robert W. Sebesta, ``Concepts of Programming Languages'', 11th
+2. Robert W Sebesta, ``Concepts of Programming Languages'', 11th
    Edition, Pearson, 2016
-3. Maurizio Gabbrielli and Simone Martini, ``Programming Languages:
+3. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
    Principles and Paradigms'', Springer, 2010
