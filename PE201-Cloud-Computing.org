@@ -30,7 +30,7 @@ at the end of every unit.
 Cloud Architecture: System Models for Distributed and Cloud Computing
 -- NIST Cloud Computing Reference Architecture -- Cloud deployment
 models -- Cloud service models; Cloud Infrastructure: Architectural
-Design of Compute and Storage Clouds -- Layered Cloud Architecture
+design of compute and storage clouds -- Layered cloud architecture
 Development -- Design Challenges -- Inter Cloud Resource Management --
 Resource Provisioning and Platform Deployment.
 
@@ -114,7 +114,7 @@ Upon the completion of the course the students should be able to:
 ** TEXT BOOKS
 1. Kai Hwang, Geoffery C Fox, Jack J Dongarra, ``Distributed and
    Cloud Computing: Clusters, Grids, Clouds and the Future of
-   Internet'', First Edition, Morgan Kaufman Publisher, an Imprint of
+   Internet'', 1st Edition, Morgan Kaufman Publisher, an Imprint of
    Elsevier, 2012. (Unit I, II, IV)
 2. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
    Learning and Implementation'', Pearson Education
