@@ -23,7 +23,7 @@ System course.
 - To learn inference in Production Systems
 - To learn inheritance in Frames
 - To learn the various techniques of handling uncertainty in Expert Systems
-- To learn the use of OPS5 and CENTAUR in building Expert Systems
+- To learn the use of OPS5 and CENTAUR in building Expert Systems.
 
 {{{unit}}}
 |UNIT I|FOUNDATIONS|8|
@@ -35,7 +35,7 @@ PROLOG Language.
 
 {{{unit}}}
 |UNIT II|LOGIC & REASONING |10|
-Logic and Resolution: Propositional Logic -- First Order Logic --
+Logic and Resolution: Propositional logic -- First Order Logic --
 Clausal Form of Logic -- Reasoning in Logic -- Resolution and
 Propositional Logic -- Resolution and First Order Logic -- Resolution
 Strategies -- Implementation of SLD Resolution -- Applying Logic for
@@ -72,14 +72,14 @@ After the completion of this course, students will be able to:
 - Explain and compare the different models of uncertainty (K3)
 - Use OSP5 interpreter (K2)
 - Build a knowledge base for a particular problem domain, using PROLOG
-  and/or LISP (K3)
+  and/or LISP (K3).
 
 
 ** TEXT BOOKS
-1. Peter J.F. Lucas & Linda C. van der Gaag, ``Principles of Expert
+1. Peter J F Lucas & Linda C van der Gaag, ``Principles of Expert
    Systems'', Addison-Wesley, 1991.
-2. Joseph C. Giarratano, ``Expert Systems: Principle & Programming'',
-   Cengage Learning - 4th Edn., 2007.
+2. Joseph C Giarratano, ``Expert Systems: Principle & Programming'',
+   Cengage Learning - 4th Edition, 2007.
 
 ** REFERENCES
 1. Donald Waterman, ``A Guide to Expert Systems'', Pearson
