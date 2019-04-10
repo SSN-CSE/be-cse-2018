@@ -33,25 +33,31 @@ The student should be able to:
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
-Database System Architectures: Centralized and client-server architectures -- Server system architectures -- Parallel systems --
-Distributed systems; Parallel Databases: I/O parallelism -- Inter and intra query parallelism -- Inter and intra operation parallelism --
-Design of parallel systems -- Distributed database concepts -- Distributed data storage -- Distributed transactions -- Commit protocols
+Database System Architectures: Centralized and client-server architectures -- 
+Server system architectures -- Parallel systems --
+Distributed systems; Parallel Databases: I/O parallelism -- Inter and intra query parallelism -- 
+Inter and intra operation parallelism -- Design of parallel systems -- 
+Distributed database concepts -- Distributed data storage -- Distributed transactions -- Commit protocols
 -- Concurrency control -- Distributed query processing -- Case studies.
 
 {{{unit}}}
 |UNIT II | OBJECT AND OBJECT RELATIONAL DATABASES | 9 |
-Concepts for Object Databases: Object identity -- Object structure -- Type constructors -- Encapsulation of operations -- Methods --
-Persistence -- Type and class hierarchies -- Inheritance -- Complex Objects -- Object database standards; Languages and Design: ODMG model
--- ODL -- OQL -- Object relational and extended; Relational Systems: Object relational features in SQL/Oracle -- Case studies.
+Concepts for Object Databases: Object identity -- Object structure -- Type constructors --
+Encapsulation of operations -- Methods -- Persistence -- Type and class hierarchies -- Inheritance -- 
+Complex Objects -- Object database standards; Languages and Design: ODMG model
+-- ODL -- OQL -- Object relational and extended; Relational Systems: 
+Object relational features in SQL/Oracle -- Case studies.
 
 {{{unit}}}
 |UNIT III | XML DATABASES | 9 |
-XML Databases: XML-related technologies -- XMLSchema -- XML Query Languages -- Storing XML in databases -- XML and SQL -- Native XML databases --
+XML Databases: XML-related technologies -- XMLSchema -- XML Query Languages -- 
+Storing XML in databases -- XML and SQL -- Native XML databases --
 Web databases.
 
 {{{unit}}}
 |UNIT IV | NOSQL DATABASE | 9 |
-Why NoSQL: Aggregate datamodels -- The CAP theorem -- Key-value databases -- Document databases -- Column-Family stores -- Graph
+Why NoSQL: Aggregate datamodels -- The CAP theorem -- 
+Key-value databases -- Document databases -- Column-Family stores -- Graph
 databases.
 
 #+begin_comment
@@ -63,8 +69,8 @@ Newly added to meet industry requirements
 
 {{{unit}}}
 |UNIT V | HBASE AND HIVE | 9 |
-Introduction to Hadoop and MapReduce; HBase Basic Features: CRUD operations -- Batch operations -- Row Locks; Advanced Features: Filters -
-counters -- Htablepool; HiveQL: Data definition -- Data manipulation -- Queries.
+Introduction to Hadoop and MapReduce; HBase Basic Features: CRUD operations -- Batch operations -- Row Locks;
+ Advanced Features: Filters -- Counters -- Htablepool; HiveQL: Data definition -- Data manipulation -- Queries.
 
 #+begin_comment
 
@@ -85,7 +91,8 @@ After the completion of this course, students will be able to:
 - Design an application using the concepts of HBase and HIVE (K3).
 
 ** TEXT BOOKS 
-1. Elmasri, Ramez, Shamkant Navathe. ``Fundamentals of database systems'', Addison-Wesley Publishing Company, 2011.(Unit I, II, III)
+1. Elmasri, Ramez, Shamkant Navathe. ``Fundamentals of database systems'', Addison-Wesley Publishing Company, 
+2011.(Unit I, II, III)
 2. Fowler, Martin, Pramod Sadalage. ``NoSQL Distilled'' Addison Wesely, 2013.(Unit IV)
 3. George, Lars. ``HBase: The Definitive Guide: Random Access to Your Planet-Size  Data'', O Reilly Media, Inc", 2011.(Unit V) 
 
@@ -94,9 +101,9 @@ After the completion of this course, students will be able to:
 1. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
    Media, Inc.", 2012.
 2. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database System Concepts'', 6th Edition, McGraw Hill, 2011.
-3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
-  Systems'', Morgan Kaufmann publishers, 2006 
-4. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive Guide to MongoDB: The NoSQL Database for Cloud and Desktop
-  Computing'', Apress, 2011.
+3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T Snodgrass, V S Subrahmanian, Roberto Zicari, 
+``Advanced Database   Systems'', Morgan Kaufmann publishers, 2006 
+4. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive Guide to MongoDB: The NoSQL Database 
+  for Cloud and Desktop Computing'', Apress, 2011.
 
 
