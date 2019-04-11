@@ -13,43 +13,36 @@
 - To be familiar with objectives, principles, process, and factors of software testing 
 - To learn the design of test cases using Black box approach and white box approaches
 - To understand and apply the levels of testing 
-- To understand automation methods in software testing.
+- To understand automation methods in software testing
 - Test the product finally to check the product Quality.
 
 {{{unit}}}
 |Unit I| TESTING FUNDAMENTALS |9| 
-Objectives and Principles -- Fundamental Test Process -- Test Levels -- 
-Establishing a Testing Policy -- Structured Approach to Testing -- 
-Test Factors -- Developing Risk Matrix -- Steps in Software Testing Process.
+Objectives and Principles: Fundamental test process -- Test levels -- Establishing a testing policy -- Structured approach to testing -- Test factors -- Developing risk matrix -- Steps in software testing process.
 
 {{{unit}}}
 |Unit II|  TEST CASE DESIGN STRATEGIES AND METHODS |9| 
-Introduction to Testing Design Strategies-- Test Case Design Strategies -- 
-Using the Black Box Approach to Test Case Design: Random Testing -- Equivalence Class Partitioning -- 
-Boundary Value Analysis -- Cause-and-Effect Graphing -- State Transition Testing -- Error Guessing; 
-Using the White Box Approach to Test Design -- Coverage and Control Flow Graphs -- Covering Code Logic -- 
-Paths -- Data Flow and White Box Test Design -- Loop Testing--Mutation Testing;
+Strategies and Methods for Test Case Design: Introduction to testing design strategies -- Test case design strategies -- 
+Using the black box approach to test case design -- Random testing -- Equivalence class partitioning -- 
+Boundary value analysis -- Cause-and-effect graphing -- State transition testing -- Error guessing; 
+Using the white box approach to test design -- Coverage and control flow graphs -- Covering code logic -- 
+Paths -- Data flow and white box test design -- Loop testing--Mutation testing;
 
 {{{unit}}}
 |Unit III|  LEVELS OF TESTING |9| 
-The Need for Levels of Testing -- Unit Test: Functions -- Procedures -- Classes -- and 
-Methods as Units -- Unit Test Planning -- Designing the Unit Tests -- The Test Harness --  
-Running the Unit Tests and Recording Results; Integration tests: Designing Integration Tests -- 
-Integration Test Planning; System Test: Functional Testing -- Performance Testing-- Stress Testing -- 
-Configuration Testing -- Security Testing -- Recovery Testing; Regression Testing -- 
-Acceptance Testing: Alpha, Beta and Acceptance Tests.                                                                        
+Levels of Testing: The Need for levels of testing -- Unit test functions, procedures, classes and 
+methods as units -- Unit test planning -- Designing the unit tests -- The test harness --  
+Running the unit tests and recording results -- Integration tests -- Designing integration tests -- 
+Integration test planning -- System test -- Functional testing -- Performance testing-- Stress testing -- 
+Configuration testing -- Security testing -- Recovery testing -- Regression testing -- Alpha, beta and acceptance tests.                                                                        
 
 {{{unit}}}
 |Unit IV| TEST AUTOMATION AND MANAGEMENT |9|
-Test plan -- Management -- Execution and Reporting -- Software Test Automation -- Automated Testing tools -- 
-Hierarchical Models of Software Quality -- Configuration Management -- Documentation Control. 
+Test Planning, Management, execution and Reporting : Test planning -- Management -- Process -- Reporting; Software Test Automation: Testing tools; Controlling and Monitoring the Testing Process: Measurements and milestones for controlling and monitoring -- Criteria for test completion -- Configuration management -- Controlling and monitoring. 
 
 {{{unit}}}
 |Unit V|SOFTWARE QUALITY ASSURANCE |9|
-Introduction to Software Quality -- Challenges -- Objectives -- Quality Factors -- Components of SQA -- 
-Contract Review -- Development and Quality Plans -- SQA Components in Project Life Cycle -- 
-SQA Defect Removal Policies -- Reviews -- Project progress control -- costs -- quality management standards
--- project process standards -- management and its role in SQA -- SQA unit.
+Software Quality; Quality Factors: Product operation, revision and transition; Components of SQA: System and architecture; Pre-Project Components; Contract Review; Development and Quality Plans; SQA Components in Project Life Cycle: SQA defect removal policies; Reviews; Project progress control; Costs; Quality Management Standards; Project Process Standards; Management and its Role in SQA; SQA Unit.
 
 \hfill *Total: 45*
 
