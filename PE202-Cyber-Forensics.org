@@ -58,7 +58,7 @@ Private sector IS -- Processing law enforcement CS -- Search --
 Securing CS -- Seizing -- Storing -- Digital hash -- Reviewing a case;
 Working with Windows and DOS Systems: Examining NTFS disks; Computer
 Forensics Analysis and Validation: Data to collect and analyze --
-Validating -– Data hiding techniques -– Remote acquisition.
+Validating -- Data hiding techniques -- Remote acquisition.
 
 {{{unit}}}
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
