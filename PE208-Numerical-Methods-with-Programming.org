@@ -21,7 +21,7 @@
 |UNIT I | APPROXIMATE NUMBERS | 9|
 Sources of Errors in Numerical Calculations -- Absolute and Relative
 Errors -- Representation of Numbers -- Significant Digits -- Errors of
-Elementary Operations; Basic Programming Techniques( C/C++)
+Elementary Operations; Basic Programming Techniques( C/C++).
 
 {{{unit}}}
 | UNIT II | INTERPOLATION | 9 |
