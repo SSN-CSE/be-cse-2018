@@ -17,45 +17,45 @@
 
 {{{unit}}}
 |UNIT I|INTRODUCTION TO LOGIC|9|
-Foundations of Propositional Logic: Syntax and Semantics -- Semantic
-Entailment; Normal Forms; Resolution in PL; Horn Logic; Foundations of
-First Order Logic: Syntax and Semantics; Normal Forms; Undecidability
+Foundations of Propositional Logic: Syntax and semantics -- Semantic
+entailment; Normal Forms; Resolution in PL; Horn Logic; Foundations of
+First Order Logic: Syntax and semantics; Normal Forms; Undecidability
 of Predicate Logic; Resolution in FOL: Unification; Refinements of
-Resolution: P-resolution -- N-resolution -- linear resolution -- unit
+resolution: P-resolution -- N-resolution -- Linear resolution -- Unit
 resolution -- SLD resolution – LUSH resolution.
 
 
 {{{unit}}}
 |UNIT II|INTRODUCTION TO LOGIC PROGRAMMING|9|
-Foundations: Answer Generation; Horn Clause Programs: Semantics of
-Logic Program -- Procedural Semantics -- Model-theoretic Semantics;
-Evaluation Strategies: Swapping Lemma -- PROLOG’s Evaluation Strategy --
+Foundations: Answer generation; Horn Clause Programs: Semantics of
+logic program -- Procedural semantics -- Model-theoretic semantics;
+Evaluation Strategies: Swapping lemma -- PROLOG’s evaluation strategy --
 DFS -- BFS.
 
 {{{unit}}}
 |UNIT III|PROGRAMMING IN PROLOG|9|
 Syntax & Semantics of PROLOG -- Programming with relations -- Facts --
-Questions -- Variables -- Conjunctions of goals -- backtracking --
+Questions -- Variables -- Conjunctions of goals -- Backtracking --
 Rules -- Structures -- Recursive programs -- Lists -- Controlling
-execution -- The cut -- Input Output -- Exception Handling.
+execution -- The cut -- Input output -- Exception handling.
 
 {{{unit}}}
 |UNIT IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
-Overview of PROLOG: Lists -- Operators -- Arithmetic -- Data Structures
+Overview of PROLOG: Lists -- Operators -- Arithmetic -- Data structures
 -- Eight Queens Problem; Operations on Data Structures: Representing and
-Sorting Lists -- Representing Sets by Binary Trees -- Insertion &
-Deletion in Binary Dictionary -- Displaying Trees -- Graphs; Advanced
+sorting lists -- Representing sets by binary trees -- Insertion &
+deletion in binary dictionary -- Displaying trees -- Graphs; Advanced
 Tree Representations; Problem Solving Strategies in AI: DFS -- BFS --
-Best-first Search -- A* Search; Problem Reduction & AND/OR Graph: Basic
+Best-first search -- A* Search; Problem Reduction & AND/OR Graph: Basic
 AND/OR search procedure -- Best-first AND/OR search; Game Playing: The
 minimax principle -- The alpha-beta algorithm -- Minimax-based
 programs.
 
 {{{unit}}}
 |UNIT V|PROLOG AND EXPERT SYSTEMS|9|
-Foundations: Introduction to Expert Systems -- Features of Expert
-Systems -- Functions of an Expert System -- Structure of an Expert
-System; If-then rules for representing knowledge; Developing a Simple
+Foundations: Introduction to expert systems -- Features of expert
+systems -- Functions of an expert system -- Structure of an expert
+system; If-then rules for representing knowledge; Developing a Simple
 Shell: Implementation -- Dealing with uncertainty;
 
 
