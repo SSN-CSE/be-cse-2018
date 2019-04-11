@@ -1,6 +1,6 @@
 * <<<PE203>>> SOFTWARE PROJECT MANAGEMENT
 :properties:
-:author: Dr. K. Vallidevi and Dr. A. Chamundeshwari
+:author: Dr. K. Vallidevi and Dr. A. Chamundeswari
 :date: 
 :end:
 
@@ -23,39 +23,44 @@
 
 {{{unit}}}
 |UNIT I | PROJECT PLANNING| 9 |
-Project management life cycle -- project evaluation and programme
-management -- project planning; Project models: waterfall -- spiral
--- prototyping -- incremental delivery -- DSDM -- agile -- scrum --
-XP; lean software development -- process model selection.
+
+Project Management: Project management life cycle -- project evaluation and programme management -- project planning; 
+Process Models: Waterfall -- Spiral-- Prototyping -- Incremental delivery -- DSDM -- Agile -- Scrum --XP; 
+Software Development: Lean software development -- process model selection.
+
 #+begin_comment
 ...Included project model in Unit I instead of having it in AU-Unit II...
 #+end_comment
 
 {{{unit}}}
 |UNIT II | ESTIMATION AND SCHEDULING | 9 |
-Effort estimation techniques: Expert judgement -- FPA -- FP mark II --
-COSMIC -- COCOMO II -- Cost estimation; Project schedules -- network
-model -- identifying critical activities.
+
+Effort Estimation Techniques: Expert judgement -- FPA -- FP mark II -- COSMIC -- COCOMO II -- Cost estimation; Scheduling: Project schedules -- Network model -- Identifying critical activities.
+
 #+ begin _comment
 ...Included scheduling in Unit II instead of having it in AU-Unit III...
 #+end_comment
 
 {{{unit}}}
 |UNIT III | AGILE AND DEVOPS | 9 |
-SCRUM: organization -- estimation -- planning -- changes in scrum --
-risk in scrum -- product backlog -- sprint backlog -- release --
-Identifying Stories and Preparing to Build; DevOps: Motivation --
-Cloud as a platform -- Operations -- Deployment Pipeline.
+
+Scrum: Organization -- Estimation -- Planning -- Changes in scrum -- Risk in scrum -- Product backlog -- Sprint backlog -- Release -- Identifying stories and preparing to build; 
+
+DevOps: Motivation -- Cloud as a platform -- Operations -- Deployment pipeline.
+
 #+ begin _comment
 ...New process model is added in syllabus which is not provided in AU...
 #+end_comment
 
 {{{unit}}}
 |UNIT IV | SECURITY AND RISK MANAGEMENT | 9 |
-Cloud Information Security Objectives -- Cloud Security Services --
-Secure Development Practices -- Risk culture -- risk management
-process -- risk attributes -- risk identification -- types of risk
-analysis -- responding to risk -- risk tracking -- risk models.
+
+C
+loud Security: Cloud information security objectives -- Cloud security services -- Secure development practices; 
+
+Risk Management: Risk culture -- Risk managementprocess -- Risk attributes -- Risk identification -- Types of risk
+analysis -- Responding to risk -- Risk tracking -- Risk models.
+
 #+ begin _comment
 ...Added security topic in syllabus, which is not provided in AU...
 ...Added risk in Unit IV instead of AU-Unit III...
@@ -63,10 +68,8 @@ analysis -- responding to risk -- risk tracking -- risk models.
 
 {{{unit}}}
 |UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
-Visualizing Progress: Relationship between people and effort -- Task
-Set & Network -- Earned Value Analysis -- SCM -- Managing Contracts -–
-Working in teams -- Developing metrics on a software development
-program -- Evaluating performance.
+Visualizing Progress: Relationship between people and effort -- Task set and network -- Earned value analysis -- SCM -- Managing contracts -– Working in teams -- Developing metrics on a software development program -- Evaluating performance.
+
 #+ begin _comment
 ...Included monitoring topics in Unit V instead of AU-Unit IV...
 #+end_comment
