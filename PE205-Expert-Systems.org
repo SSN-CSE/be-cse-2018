@@ -46,7 +46,7 @@ building expert systems.
 Production Rules and Inference: Knowledge representation in a
 production system -- Inference in a production system -- Production
 rules as a representation formalism; Frames and Inheritance: Semantic
-Nets -- Frames and single inheritance -- Frames and multiple
+nets -- Frames and single inheritance -- Frames and multiple
 inheritance -- Frames as a representation formalism.
 
 {{{unit}}}
