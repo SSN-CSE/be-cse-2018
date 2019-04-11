@@ -11,11 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand basic programming constructs.
-- To know about Interpolation methods.
-- To learn about Numerical Integration.
+- To understand basic programming constructs
+- To know about Interpolation methods
+- To learn about Numerical Integration
 - To learn about Numerical solutions of equations
-- To study Numerical solutions for differential equations
+- To study Numerical solutions for differential equations.
 
 {{{unit}}}
 |UNIT I | APPROXIMATE NUMBERS | 9|
@@ -57,29 +57,22 @@ Adam-Bashforth and Adam-Moulton formulas.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop simple applications in C using basic constructs (K3).
-- Understanding the Numerical interpolation and integration (K2).
-- Provide numerical solutions for differential equations (K3).
-- Apply Numerical methods to solve problems drawn from industry and Engineering (K3).
+- Develop simple applications in C using basic constructs (K3)
+- Understanding the Numerical interpolation and integration (K2)
+- Provide numerical solutions for differential equations (K3)
+- Apply Numerical methods to solve problems drawn from industry and Engineering (K3)
 - Assess the reliabilty of Numerical results (K3).
       
 ** TEXT BOOKS
-1. Titus Adrien Beu, ``Introduction to Numerical Programming a
-   Practical Guide for Scientists and Engineers Using Python and
+1. Titus Adrien Beu, ``Introduction to Numerical Programming a Practical Guide for Scientists and Engineers Using Python and
    C/C++'', CRC Press, 2019.
-2. Steven C Chapra, Raymond P Canale, ``Numerical Methods for
-   Engineering'', Sixth Edition, McGraw-Hill Publications, 2010.
+2. Steven C Chapra, Raymond P Canale, ``Numerical Methods for Engineering'', Sixth Edition, McGraw-Hill Publications, 2010.
 
 ** REFERENCES
-1. Jaan Kiusalaas, "Numerical Methods in Engineering with Python 3",
-   Cambridge University Press, 2013.
-2. Veerarjan, T and Ramachandran, T. "Numerical methods with
-   programming in ‘C’", Second Editiion, Tata McGraw-Hill
+1. Jaan Kiusalaas, ``Numerical Methods in Engineering with Python 3'', Cambridge University Press, 2013.
+2. T Veerarjan, T Ramachandran, ``Numerical methods with programming in ‘C’'', Second Editiion, Tata McGraw-Hill
    Publishing.Co.Ltd, 2007.
-3. R. W. Hamming, "Numerical Methods for Scientists and Engineerings",
-   Second Edition, Dover Publications Inc, New York, 1973.
-4. Gerald, C. F. and Wheatley, P.O., "Applied Numerical Analysis",
-   Sixth Edition, Pearson Education Asia, New Delhi, 2006.
-5. Brian, ``A friendly introduction to Numerical analysis'', Pearson
-   Education, Asia, New Delhi, 2007.
+3. R W Hamming,  ``Numerical Methods for Scientists and Engineerings'', Second Edition, Dover Publications Inc, New York, 1973.
+4. C F Gerald, P O Wheatley, ``Applied Numerical Analysis'', Sixth Edition, Pearson Education Asia, New Delhi, 2006.
+5. Brian, ``A friendly introduction to Numerical analysis'', Pearson Education, Asia, New Delhi, 2007.
 
