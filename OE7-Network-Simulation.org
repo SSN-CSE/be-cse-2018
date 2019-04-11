@@ -32,13 +32,13 @@ Network as a graph; Routing Protocols: RIP - OSPF; Autonomous System:
 EIGRP; TCP; UDP.
 
 {{{unit}}}
-|UNIT IV| SIMULATION BASICS |6|
+|UNIT IV| NETWORK SIMULATION |6|
 Types of simulation; The need for communications network modeling and
 simulation; Types of communications networks; Modeling Constructs;
 Performance targets for simulation purposes.
 
 {{{unit}}}
-|UNIT V| NETWORK SIMULATOR NS3 |6|
+|UNIT V| NETWORK SIMULATOR |6|
 Overview of Simulators; Introduction to NS3: Background of NS3 --
 Establishing a network in NS3; Study of performance of TCP protocol.
  
@@ -62,9 +62,9 @@ Establishing a network in NS3; Study of performance of TCP protocol.
 Upon Completion of the course, the students should be able to:
 - Understand the basic layers and its functions in computer networks (K2)
 - Analyze networking protocols (K3)
-- Understand the importance of simulation (K2)
+- Understand the importance of network simulation (K2)
 - Understand the working of NS3 simulator and packet tracer (K2)
-- Design network topology in NS3 simulator and packet tracer (K4)
+- Design network topology using NS3 (K4)
 
 ** TEXT BOOKS
 1. Behrouz A. Forouzan, Data Communications and Networking, Fifth
