@@ -1,6 +1,6 @@
 * <<<PE503>>> AGILE METHODOLOGIES
 :properties:
-:author: Dr. S. Saraswathi and Ms. K. Madheswari
+:author: Dr. S. Saraswathi and Dr. K. Madheswari
 :date: 
 :end:
 
@@ -26,21 +26,21 @@ domain expert committee.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Iterative and evolutionary development; Introduction to Agile: Agile
+Iterative and Evolutionary Development; Introduction to Agile: Agile
 development -- Classification of methods -- Agile manifesto and
 principles -- Communication and feedback -- Specific agile methods --
-Agile modelling; Theories for agile management; Management accounting
-for systems; Agile Project Management: Traditional versus RAD model
+Agile modelling; Theories for Agile Management; Management Accounting
+for Systems; Agile Project Management: Traditional versus RAD model
 for project management -- Task planning and effort tracking -- The
 project manager's new work.
 
 {{{unit}}}
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
-Traditional and agile requirement engineering; Methods and Tools for
+Traditional and Agile Requirement Engineering; Methods and Tools for
 Agile Practitioners: Requirements elicitation -- Requirements
-representation and documentation -- Requirements analysis,
+representation and documentation -- Requirements analysis--
 Requirements management; Agile Approaches to Requirements Engineering:
-The customer -- Requirements evolution -- Non-Functional requirements;
+The customer -- Requirements evolution -- Non-functional requirements;
 Tools for Requirements Management in AMs.
 
 {{{unit}}}
