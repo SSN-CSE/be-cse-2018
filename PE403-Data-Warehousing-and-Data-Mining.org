@@ -19,11 +19,11 @@
 
 ** COURSE OBJECTIVES
 - To understand data warehouse concepts, architecture, business
-  analysis and tools,
-- To understand data pre-processing and data visualization techniques,
+  analysis and tools
+- To understand data pre-processing and data visualization techniques
 - To study algorithms for finding hidden and interesting patterns in
-  data,
-- To understand and apply various classification techniques,
+  data
+- To understand and apply various classification techniques
 - To understand clustering techniques.
 
 {{{unit}}}
@@ -80,18 +80,18 @@ Upon the completion of the course the students should be able to:
 - Apply frequent pattern and association rule mining techniques for
   data analysis (K3)
 - Apply appropriate classification techniques for data analysis (K3)
-- Apply clustering techniques using appropriate tools (K3)
+- Apply clustering techniques using appropriate tools (K3).
 
 ** TEXT BOOKS
-1. Jiawei Han and Micheline Kamber, ``Data Mining Concepts and
-   Techniques'', Third Edition, Elsevier, 2012.
-2. Alex Berson and Stephen J. Smith, ``Data Warehousing, Data Mining &
+1. Jiawei Han, Micheline Kamber, ``Data Mining Concepts and
+   Techniques'', 3rd Edition, Elsevier, 2012.
+2. Alex Berson, Stephen J. Smith, ``Data Warehousing, Data Mining &
    OLAP'', Tata McGraw-Hill Edition, 35th Reprint 2016.
 
 ** REFERENCES
-1. Pang-Ning Tan, Michael Steinbach and Vipin Kumar, ``Introduction To
+1. Pang-Ning Tan, Michael Steinbach, Vipin Kumar, ``Introduction To
    Data Mining'', Person Education, 2007.
-2. K P Soman, Shyam Diwakar and V Ajay, ``Insight into Data mining
+2. K P Soman, Shyam Diwakar, V Ajay, ``Insight into Data mining
    Theory and Practice'', Easter Economy Edition, Prentice Hall of
    India, 2006.
 3. G K Gupta, ``Introduction to Data Mining with Case Studies'',
@@ -99,5 +99,5 @@ Upon the completion of the course the students should be able to:
 4. Daniel T Larose, ``Data Mining Methods and Models'',
    Wile-Interscience, 2006.
 5. Ian H Witten and Eibe Frank, ``Data Mining: Practical Machine
-   Learning Tools and Techniques'', Elsevier, Second Edition, 2016.
+   Learning Tools and Techniques'', Elsevier,2nd Edition, 2016.
 
