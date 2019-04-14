@@ -7,10 +7,10 @@
 #+startup: showall
 
 #+begin_comment
-- 1. First three unit contents are changed.
-- 2. For changes, see the indidual units.
-- 3. Two text books and five reference books are included.
-- 4. Five Course outcomes specified and aligned with units.
+- 1. First three unit contents are changed
+- 2. For changes, see the indidual units
+- 3. Two text books and five reference books are included
+- 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable.
 #+end_comment
 
