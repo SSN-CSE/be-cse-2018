@@ -31,42 +31,42 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the need for multi-core processors, and their architecture. 
-- To understand the challenges in parallel and multi-threaded programming. 
-- To learn about the various parallel programming paradigms, 
-- To develop OpenMP programs and design parallel solutions. 
-- To develop an application using MPI programming 
+- To understand the need for multi-core processors, and their architecture
+- To understand the challenges in parallel and multi-threaded programming 
+- To learn about the various parallel programming paradigms
+- To develop OpenMP programs and design parallel solutions 
+- To develop an application using MPI programming.
 
 {{{unit}}}
 |UNIT I | MULTI-CORE PROCESSORS | 9 |
-Single core to Multi-core architectures; SIMD and MIMD systems;
-Interconnection networks; Symmetric and Distributed Shared Memory
-Architectures -- Cache coherence -- Performance Issues – Parallel
-program design.
+Single core to Multi-Core Architectures; SIMD and MIMD Systems;
+Interconnection Networks; Symmetric and Distributed Shared Memory
+Architectures -- Cache Coherence -- Performance Issues – Parallel
+Program Design.
 
 {{{unit}}}
 |UNIT II | PARALLEL PROGRAMMING | 9 |
-Performance -- Scalability; Synchronization and data sharing -- Data
-races -- Synchronization primitives (mutexes, locks, semaphores,
-barriers); deadlocks and livelocks; communication between threads
+Performance -- Scalability; Synchronization and Data Sharing -- Data
+Races -- Synchronization Primitives (mutexes, locks, semaphores,
+barriers); Deadlocks and Livelocks; Communication Between Threads
 (condition variables, signals, message queues and pipes).
 
 {{{unit}}}
 |UNIT III | SHARED MEMORY PROGRAMMING WITH OPENMP | 9 |
-OpenMP Execution Model: Memory Model -- OpenMP Directives --
-Work-sharing Constructs -- Library functions -- Handling Data and
+OpenMP Execution Model: Memory model -- OpenMP Directives --
+Work-Sharing Constructs -- Library Functions -- Handling Data and
 Functional Parallelism -- Handling Loops -- Performance
 Considerations.
 
 {{{unit}}}
 |UNIT IV | DISTRIBUTED MEMORY PROGRAMMING WITH MPI | 9 |
-MPI program execution: MPI constructs -- libraries; MPI send and
-receive -- Point-to-point and Collective communication; MPI derived
+MPI program execution: MPI constructs -- Libraries; MPI Send and
+Receive -- Point-to-point and collective communication; MPI derived
 datatypes -- Performance evaluation.
 
 {{{unit}}}
 |UNIT V | PARALLEL PROGRAM DEVELOPMENT | 9 |
-Case studies: n-Body solvers; Tree Search –- OpenMP and MPI
+Case studies: n-Body solvers; Tree Search -- OpenMP and MPI
 implementations and comparison.
 
 \hfill *Total Periods: 45*
@@ -79,13 +79,13 @@ After the completion of this course, students will be able to:
 - Develop the programs using OpenMP (K3) 
 - Develop the program using  MPI (K3)
 - Compare and contrast programming for serial processors and
-  programming for parallel processors (K3)
+  programming for parallel processors (K3).
   
 ** TEXT BOOKS
-1.  Peter S. Pacheco, ``An Introduction to Parallel Programming'',
+1.  Peter S Pacheco, ``An Introduction to Parallel Programming'',
    Morgan Kaufmann/Elsevier, 2011.
 2.  Darryl Gove, ``Multicore Application Programming for Windows,
-   Linux, and Oracle Solaris'', Pearson, 2011
+   Linux, and Oracle Solaris'', Pearson, 2011.
 
 ** REFERENCES
 1. Michael J Quinn, ``Parallel programming in C with MPI and OpenMP'',
