@@ -43,7 +43,7 @@ Rule -- Simpson’s Rule.
 Direct methods -- Gauss and Gauss–Jordan methods; Iterative methods --
 Gauss-Jacobi and Gausss-Seidel methods -- Relaxation method --
 Newton’s method for nonlinear simultaneous equations -- Power method
-for determination eigen values -- convergence of Power method.
+for determination eigen values -- Convergence of Power method.
 
 {{{unit}}}
 |UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
