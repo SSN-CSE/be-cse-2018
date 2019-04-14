@@ -13,28 +13,28 @@
 ** COURSE OBJECTIVES
 - To understand the design of parallel algorithms
 - To select suitable procedures for parallel algorithms
-- To understand different parallel architectures and models of computation.
-- To introduce the various classes of parallel algorithms.
+- To understand different parallel architectures and models of computation
+- To introduce the various classes of parallel algorithms
 - To study parallel algorithms for basic problems. 
 
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
 Need for Parallel Processing -- Data and Temporal Parallelism -- Models of Computation -
-RAM and PRAM Model –- Shared Memory and Message Passing Models -- Processor
+RAM and PRAM Model -- Shared Memory and Message Passing Models -- Processor
 Organisations -- PRAM Algorithm –- Analysis of PRAM Algorithms -- Parallel Programming
 Languages.
 
 {{{unit}}}
 | UNIT II | PRAM Algorithms | 9 |
-Parallel Algorithms for Reduction: Prefix Sum -- List Ranking -- Preorder Tree Traversal –-
-Searching -- Sorting -- Merging Two Sorted Lists -- Matrix Multiplication -- Graph Coloring --
-Graph Searching.
+Parallel Algorithms for Reduction: Prefix sum -- List ranking -- Preorder tree traversal –-
+Searching -- Sorting -- Merging two sorted lists -- Matrix multiplication -- Graph coloring --
+Graph searching.
 
 {{{unit}}}
 |UNIT III | SIMD Algorithms-I | 9 |
-Parallel Algorithms for Reduction: 2D Mesh SIMD Model -- Prefix Computation -- Selection --
-Odd-Even Merge Sorting -- Matrix Multiplication 
+Parallel Algorithms for Reduction: 2D Mesh SIMD Model -- Prefix computation -- Selection --
+Odd-Even merge sorting -- Matrix multiplication 
 
 {{{unit}}}
 | UNIT IV | SIMD Algorithms-II | 9 |
@@ -55,18 +55,21 @@ After the completion of this course, students will be able to:
 - Understand the parallelism inherent in a simple sequential algorithm (K2)  
 - Apply suitable procedures for parallel algorithms (K3)
 - Develop parallel algorithms for standard problems and applications(K5)
-- Analyse efficiency of different parallel algorithms(K4)
+- Analyse efficiency of different parallel algorithms (K4).
 
 
 ** TEXT BOOK
 
-1. Michael J. Quinn, "Parallel Computing : Theory & Practice", Second edition, Tata McGraw Hill, 2017.
+1. Michael J Quinn, "Parallel Computing : Theory & Practice", Second edition, Tata McGraw Hill, 2017.
 2. V Rajaraman, C Siva Ram Murthy, " Parallel computers- Architecture and Programming ", PHI learning, 2016.
 
 ** REFERENCES
-1. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, ``Introduction to Parallel Computing'', 2nd Edition, Pearson, 2003.
+1. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, ``Introduction to Parallel Computing'', 
+   2nd Edition, Pearson, 2003.
 2. Salem G Akl, ``The Design and Analysis of Parallel Algorithms'', Prentice Hall, 1989.
-3. Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran, "Fundamentals of Computer Algorithms", University press, Second edition , 2011 
-4. M Sasikumar, Dinesh Shikhare and P Ravi Prakash , " Introduction to Parallel Processing", PHI learning , 2013.
+3. Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran, "Fundamentals of Computer Algorithms", 
+   University press, 2nd edition , 2011 
+4. M Sasikumar, Dinesh Shikhare and P Ravi Prakash , " Introduction to Parallel Processing", PHI learning , 
+   2013.
 5. Joseph JaJa, “Introduction to Parallel Algorithms”, Addison-Wesley, 1992.
  
