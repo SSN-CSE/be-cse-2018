@@ -28,7 +28,7 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION AND MODELING | 9 |
-Basic Concepts: Retrieval process -- Architecture – Boolean retrieval;
+Basic Concepts: Retrieval process -- Architecture -- Boolean retrieval;
 IR Models: Taxonomy and characterization of IR models -- Classical IR
 models -- Alternative algebraic models -- Models for Browsing -- Retrieval
 Evaluation: Performance evaluation.
@@ -44,7 +44,7 @@ Evaluation: Performance evaluation.
 {{{unit}}}
 | UNIT II | INDEXING AND QUERYING | 9 |
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
-Compression; Querying: Query languages -- Query operations: Relevance
+Compression; Querying: Query languages -- Query Operations: Relevance
 feedback and query expansion -- Automatic local and global analysis.
 
 #+begin_comment
@@ -64,8 +64,8 @@ Searching using hyperlinks.
 | UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
 Text Classification: Naive Bayes; Vector Space Classification: Rocchio
 -- k-Nearest Neighbour -- Flat Clustering: K-Means -- Model-based
-clustering -- Hierarchical Clustering -- Matrix Decompositions and Latent
-Semantic Indexing.
+clustering -- Hierarchical clustering -- Matrix decompositions and latent
+semantic indexing.
 
 #+begin_comment
 - 1. Removed Decision tree, SVM and dimensionality reduction from AU.
@@ -91,7 +91,7 @@ After the completion of this course, students will be able to:
   Retrieval system (K3)
 - Apply machine learning techniques to text classification and
   clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2)
+- Describe various IR applications (K2).
 - Apply IR evaluation metrics to measure the performance of IR
   systems (K3).
 
