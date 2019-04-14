@@ -30,7 +30,7 @@ Newton's Backward interpolation formula -- Central Difference
 interpolation formula -- Lagrange’s formula -- Newton’s divided
 difference interpolation formula -- Inverse Lagrange’s interpolation
 formula -- Interpolating with a cubic spline -- Curve Fitting: Method
-of Least Squares -- Linear and polynomial regression.
+of least squares -- Linear and polynomial regression.
 
 {{{unit}}}
 | UNIT III | NUMERICAL INTEGRATION | 9 |
