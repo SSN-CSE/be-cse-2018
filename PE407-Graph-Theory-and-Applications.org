@@ -10,11 +10,11 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+start_comment:
+#+BEGIN_comment:
 This course is based on a different text book therefore, the syllabus
 is entirely different. In particular, this course does not have any
 portions from Combinatorics as the one in Anna University curriculum.
-#+end_comment
+#+End_comment
 
 ** Course Objectives
 - Be familiar with fundamental Graph Theory topics and results.
