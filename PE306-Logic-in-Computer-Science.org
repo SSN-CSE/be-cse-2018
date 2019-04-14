@@ -16,31 +16,31 @@ We are not aware of any Logic in Computer Science course in Anna University curr
 
 ** COURSE OBJECTIVES
 - To understand the role of logic in modeling and reasoning about
-  systems.
-- To learn the syntax and semantics of various logics.
-- To write formal specifications in various logics.
-- To learn resolution for propositional and predicate logic.
+  systems
+- To learn the syntax and semantics of various logics
+- To write formal specifications in various logics
+- To learn resolution for propositional and predicate logic
 - To learn natural deduction for modal logic.
 - To program in PROLOG.
 
 {{{unit}}}
 |UNIT I|PROPOSITIONAL LOGIC|9|
-Foundations: Syntax and Semantics -- Mathematical Induction -- Soundness
-and Completeness; Semantic Entailment: Natural Deduction; Normal
+Foundations: Syntax and semantics -- Mathematical induction -- Soundness
+and completeness; Semantic Entailment: Natural Deduction; Normal
 Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers.
 
 {{{unit}}}
 |UNIT II|PREDICATE LOGIC|9|
-Foundations: Syntax and Semantics; Semantic Entailment: Natural
-Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
-Theory; Resolution: Ground Resolution -- Unification; Refinements of
-Resolution: P-resolution -- N-resolution -- linear resolution -- unit
+Foundations: Syntax and semantics; Semantic Entailment: Natural
+deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
+Theory; Resolution: Ground resolution -- Unification; Refinements of
+Resolution: P-resolution -- N-resolution -- Linear resolution -- unit
 resolution -- SLD resolution -- LUSH resolution;
 
 {{{unit}}}
 |UNIT III|MODAL LOGIC|9|
-Modes of truth; Basic modal logic: Syntax -- Semantics; Logic
-engineering: The stock of valid formulas -- Important properties of
+Modes of truth; Basic Modal Logic: Syntax -- Semantics; Logic
+Engineering: The stock of valid formulas -- Important properties of
 the accessibility relation -- Correspondence theory -- Some Modal
 Logics; Natural deduction; Reasoning about knowledge in a multi-agent
 system: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
@@ -48,18 +48,18 @@ Formalising the examples.
 
 {{{unit}}}
 | UNIT IV | LOGIC PROGRAMMING | 9 |
-Foundations: Answer Generation; Horn Clause Programs: Semantics of
-Logic Program -- Procedural Semantics -- Model-theoretic Semantics;
-Evaluation Strategies: Swapping Lemma -- PROLOG's Evaluation Strategy --
+Foundations: Answer generation; Horn Clause Programs: Semantics of
+logic program -- Procedural semantics -- Model-theoretic semantics;
+Evaluation Strategies: Swapping lemma -- PROLOG's evaluation strategy --
 DFS -- BFS; Programming in PROLOG;
 
 {{{unit}}}
 | UNIT V | MODEL CHECKING | 9 |
-Motivation for verification; Linear-time temporal logic: Syntax --
-Semantics -- Practical patterns of specifications; Model checking: The
-NuSMV model checker -- Case studies; Branching-time logic: Syntax --
+Motivation for verification; Linear-time Temporal Logic: Syntax --
+Semantics -- Practical patterns of specifications; Model Checking: The
+NuSMV model checker -- Case studies; Branching-time Logic: Syntax --
 Semantics -- Practical patterns of specifications; Model-checking
-algorithms: The CTL model-checking algorithm -- The LTL model-checking
+Algorithms: The CTL model-checking algorithm -- The LTL model-checking
 algorithm; CTL* and the expressive powers of LTL and CTL;
 
 
@@ -67,24 +67,24 @@ algorithm; CTL* and the expressive powers of LTL and CTL;
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Write specifications in predicate logic and temporal logics. (K3)
-- Apply resolution to solve semantic entailment. (K3)
-- Write logic programs in PROLOG. (K3)
-- Specify and Verify simple systems using NuSMV(K3).
+- Write specifications in predicate logic and temporal logics (K3)
+- Apply resolution to solve semantic entailment (K3)
+- Write logic programs in PROLOG (K3)
+- Specify and Verify simple systems using NuSMV(K3)
 - Use Natural Deduction for modal logic theories(K3).
 
 ** REFERENCES:
-1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
-   Reasoning about systems'', Second Edition, Cambridge University
+1. M. Huth, M Ryan, ``Logic in Computer Science--Modeling and
+   Reasoning about systems'', 2nd Edition, Cambridge University
    Press, 2004. (Units I,II,III and V)
 2. Uwe Schoning ``Logic for Computer Scientists'', Birkhauser , 1989
    (Units I,II,IV)
-3. M. Ben-Ari, ``Mathematical logic for computer science'', Second
+3. M. Ben-Ari, ``Mathematical logic for computer science'', 2nd
    Edition, Springer, 2003.
-4. Arindama Singh, ``Logics for Computer Science'', Second edition,
-   PHI, 2018
+4. Arindama Singh, ``Logics for Computer Science'', 2nd edition,
+   PHI, 2018.
 5. Stanley N Burris, ``Logic for Mathematics & Computer Science'',
-   Prentice Hall 1998
-6. Herbert Enderton, ``A Mathematical Introduction to Logic'', Second
-   edition, Harcourt Academic Press, 2001
+   Prentice Hall 1998.
+6. Herbert Enderton, ``A Mathematical Introduction to Logic'', 2nd
+   edition, Harcourt Academic Press, 2001.
 
