@@ -11,39 +11,39 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the basics of GPU architectures.
-- To write programs for massively parallel processors.
-- To understand the issues in mapping algorithms for GPUs.
-- To introduce different GPU programming models. 
+- To understand the basics of GPU architectures
+- To write programs for massively parallel processors
+- To understand the issues in mapping algorithms for GPUs
+- To introduce different GPU programming models
 - To understand the concepts of OpenCL.
 
 {{{unit}}}
 |UNIT I | GPU ARCHITECTURE | 12 |
-Evolution of GPU architectures - Understanding Parallelism with GPU --
-Typical GPU Architecture - CUDA Hardware Overview - Threads, Blocks,
-Grids, Warps, Scheduling - Memory Handling with CUDA: Shared Memory,
-Global Memory, Constant Memory and Texture Memory.
+Evolution of GPU architectures -- Understanding Parallelism with GPU --
+Typical GPU Architecture -- CUDA Hardware Overview -- Threads, Blocks,
+Grids, Warps, Scheduling -- Memory Handling with CUDA: Shared memory,
+Global memory, Constant memory and Texture memory.
 
 {{{unit}}}
 |UNIT II | CUDA  PROGRAMMING | 8 |
-Using CUDA - Multi GPU - Multi GPU Solutions - Optimizing CUDA
-Applications: Problem Decomposition, Memory Considerations, Transfers,
-Thread Usage, Resource Contentions.
+Using CUDA -- Multi GPU -- Multi GPU Solutions -- Optimizing CUDA
+Applications: Problem decomposition, Memory considerations, Transfers,
+Thread usage, Resource contentions.
 
 {{{unit}}}
 |UNIT III | PROGRAMMING ISSUES  | 8 |
-Common Problems: CUDA Error Handling, Parallel Programming Issues,
-Synchronization, Algorithmic Issues, Finding and Avoiding Errors.
+Common Problems: CUDA error handling, Parallel programming issues,
+Synchronization, Algorithmic issues, Finding and avoiding errors.
 
 {{{unit}}}
 |UNIT IV | OPENCL BASICS | 8 |
-OpenCL Standard – Kernels – Host Device Interaction – Execution
-Environment – Memory Model – Basic OpenCL Examples.
+OpenCL Standard -- Kernels -- Host Device Interaction -- Execution
+Environment -- Memory Model -- Basic OpenCL Examples.
 
 {{{unit}}}
 |UNIT V | ALGORITHMS ON GPU | 9 |
-Parallel Patterns: Convolution, Prefix Sum, Sparse Matrix - Matrix
-Multiplication - Programming Heterogeneous Cluster.
+Parallel Patterns: Convolution, Prefix Sum, Sparse Matrix -- Matrix
+Multiplication -- Programming Heterogeneous Cluster.
 
 
 \hfill *Total Periods: 45*
@@ -55,18 +55,18 @@ After the completion of this course, students will be able to:
 - Implement efficient algorithms in GPUs for common application
   kernels such as matrix multiplication (K3)
 - Write simple programs using OpenCL (K3)
-- Write an efficient parallel program for a given problem(K3)
+- Write an efficient parallel program for a given problem(K3).
       
 ** TEXT BOOKS
 1. Shane Cook, ``CUDA Programming: A Developer's Guide to Parallel
-   Computing with GPUs (Applications of GPU Computing)'', First
+   Computing with GPUs (Applications of GPU Computing)'', 1st
    Edition, Morgan Kaufmann, 2012.
-2. David R. Kaeli, Perhaad Mistry, Dana Schaa, Dong Ping Zhang,
+2. David R Kaeli, Perhaad Mistry, Dana Schaa, Dong Ping Zhang,
    ``Heterogeneous Computing with OpenCL'', 3rd Edition, Morgan
    Kauffman, 2015.
 
 ** REFERENCES
-1. David B. Kirk, Wen-mei W. Hwu, ``Programming Massively Parallel
+1. David B Kirk, Wen-mei W Hwu, ``Programming Massively Parallel
    Processors -- A Hands-on Approach'', 3rd Edition, Morgan
    Kaufmann, 2016.
 2. Nicholas Wilt, ``CUDA Handbook: A Comprehensive Guide to GPU
