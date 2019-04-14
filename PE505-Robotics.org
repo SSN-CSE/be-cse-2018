@@ -28,31 +28,31 @@
 - To learn about various motion planning techniques and the associated
   control architecture
 - To understand the implications of AI and other trending concepts of
-  robotics
+  robotics.
 
 {{{unit}}}
 | UNIT I | FOUNDATION | 9 |
-Introduction -- brief history -- definition -- anatomy -- types --
-classification -- specification and need based applications -- Role and
+Introduction -- Brief history -- Definition -- Anatomy -- Types --
+Classification -- Specification and need based applications -- Role and
 need of robots for the immediate problems of the society -- Future of
 mankind and automation-ethical issues -- Industrial scenario local and
-global -- case studies on mobile robot research platform and industrial
+global -- Case studies on mobile robot research platform and industrial
 serial arm manipulator.
 
 {{{unit}}}
 | UNIT II | BUILDING BLOCKS OF A ROBOT | 9 |
-Types of electric motors : DC -- Servo -- Stepper; Specification -- drives
-for motors -- speed & direction control and circuitry -- Selection
+Types of electric motors : DC -- Servo -- Stepper; Specification -- Drives
+for motors -- Speed & direction control and circuitry -- Selection
 criterion for actuators -- Direct drives -- Non-traditional actuators -
 Sensors for localization -- Navigation -- Obstacle avoidance and path
-planning in known and unknown environments -– Optical -- Inertial --
+planning in known and unknown environments -- Optical -- Inertial --
 Thermal -- Chemical -- Biosensor -- Other common sensors -- Case study on
 choice of sensors and actuators for maze solving robot and self
 driving cars.
 
 {{{unit}}}
 | UNIT III | KINEMATICS, DYNAMICS AND DESIGN OF ROBOTS & END-EFFECTORS | 9 |
-Robot kinematics - Geometric approach for 2R, 3R manipulators - 
+Robot kinematics -- Geometric approach for 2R, 3R manipulators -- 
 homogenous transformation using D-H representation -- Kinematics of WMR --
 Lagrangian formulation for 2R robot dynamics -- Mechanical design
 aspects of a 2R manipulator, WMR -- End-effector : Common types and
@@ -60,7 +60,7 @@ design case study.
 
 {{{unit}}}
 | UNIT IV | NAVIGATION, PATH PLANNING AND CONTROL ARCHITECTURE | 9 |
-Mapping & Navigation -– SLAM, Path planning for serial manipulators --
+Mapping & Navigation -- SLAM, Path planning for serial manipulators --
 Types of control architectures -- Cartesian control -- Force control and
 hybrid position/force control -- Behaviour based control -- Application of
 Neural network, fuzzy logic, optimization algorithms for navigation
@@ -70,7 +70,7 @@ problems -- Programming methodologies of a robot.
 |UNIT V | AI AND OTHER RESEARCH TRENDS IN ROBOTICS | 9 |
 Application of Machine learning -- AI -- Expert systems -- Tele-robotics
 and Virtual reality -- Micro & Nanorobots -- Unmanned vehicles -- Cognitive
-robotics -- Evolutionary robotics -- Humanoids
+robotics -- Evolutionary robotics -- Humanoids.
 
 
 \hfill *Total Periods: 45*
@@ -78,24 +78,24 @@ robotics -- Evolutionary robotics -- Humanoids
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the concepts of industrial robots(K2)
-- Examine different sensors and actuators for applications like maze solving and self driving cars(K2).
-- Design a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots(K3).
-- Understand the navigation and path planning techniques for robot motion planning(K2)
-- Undertstand the impact and progress of AI in the field of robotics(K2).
+- Examine different sensors and actuators for applications like maze solving and self driving cars (K2)
+- Design a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots (K3)
+- Understand the navigation and path planning techniques for robot motion planning (K2)
+- Undertstand the impact and progress of AI in the field of robotics (K2).
 
 ** TEXT BOOKS
-1. Saeed. B. Niku, ``Introduction to Robotics, Analysis, System,
+1. Saeed B Niku, ``Introduction to Robotics, Analysis, System,
    Applications'', Pearson educations, 2002.
 2. Roland Siegwart, Illah Reza Nourbakhsh, ``Introduction to
    Autonomous Mobile Robots'', MIT Press, 2011.
 
 ** REFERENCES
-1. Richard David Klafter, Thomas A. Chmielewski, Michael Negin,
+1. Richard David Klafter, Thomas A Chmielewski, Michael Negin,
    ``Robotic engineering: An Integrated Approach'', Prentice
    Hall, 1989.
-2. Craig, J. J., ``Introduction to Robotics: Mechanics and Control'',
+2. Craig, J J, ``Introduction to Robotics: Mechanics and Control'',
    2nd Edition, Addison-Wesley, 1989.
-3. K.S. Fu, R.C. Gonzalez and C.S.G. Lee, ``Robotics: Control,
+3. K S Fu, R C Gonzalez and C S G Lee, ``Robotics: Control,
    Sensing, Vision and Intelligence'', McGraw-Hill, 1987.
 4. Wesley E Snyder R, ``Industrial Robots, Computer Interfacing and
    Control'', Prentice Hall International Edition, 1988.
