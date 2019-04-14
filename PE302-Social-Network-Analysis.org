@@ -19,35 +19,35 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Social Network analysis: Development of Social Network Analysis -- Key
-concepts and measures in network analysis -- Electronic sources for
-network analysis: Electronic discussion networks -- Blogs and online
+Social Network analysis: Development of social network analysis -- Key
+concepts and measures in network analysis -- Electronic Sources for
+Network Analysis: Electronic discussion networks -- Blogs and online
 communities -- Web-based networks -- Social Network Data: Introduction --
 Boundary specification and sampling -- Types of networks -- Network data --
-Measurement and Collection.
+Measurement and collection.
 
 {{{unit}}}
 |UNIT II | MATHEMATICAL REPRESENTATION OF SOCIAL NETWORKS | 9 |
-Notations for Social Networks: Graph Theoretic Notations -- Sociometric
-Notations -- Algebraic Notations -- Two Sets of Actors -- Graph and
-Matrices.
+Notations for Social Networks: Graph theoretic notations -- Sociometric
+notations -- Algebraic notations -- Two sets of actors -- Graph and
+matrices.
 
 {{{unit}}}
 |UNIT III | COMMUNITY DETECTION METHODOLOGIES, APPLICATIONS | 9 |
-Introduction - Definition of Communities -- Evaluating Communities --
+Introduction -- Definition of communities -- Evaluating communities --
 Methodologies of Network Community Mining: Optimization based
 algorithms -- Heuristic methods -- Other methods -- Applications of
-Community Mining Algorithms -- Multi-Relational characterization of
+community mining algorithms -- Multi-Relational characterization of
 dynamic social network communities.
 
 {{{unit}}}
 |UNIT IV | PRIVACY IN ONLINE SOCIAL NETWORKS | 9 |
-Managing Trust in Online Social Networks: Trust in Online Environment --
-Trust Models Based on Subjective Logic -- Trust Network Analysis -- Trust
-Transitivity Analysis -- The Dirichlet Reputation System -- Combining
-Trust and Reputation - Security and privacy in online social networks:
-Security Objectives: Privacy -- Integrity -- Availability -- Attack
-Spectrum and Countermeasures.
+Managing Trust in Online Social Networks: Trust in online environment --
+Trust models based on subjective logic -- Trust network analysis -- Trust
+transitivity analysis -- The Dirichlet reputation system -- Combining
+Trust and Reputation -- Security and Privacy in Online Social Networks:
+Security objectives -- Privacy -- Integrity -- Availability -- Attack
+spectrum and countermeasures.
 
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
@@ -70,7 +70,7 @@ After the completion of this course, students will be able to:
 - Apply visualization to social networks (K3).
 
 ** TEXTBOOKS
-1. Peter Mika, ``Social Networks and the Semantic Web'', First Edition,
+1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
    Springer, 2007. 
 2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis
    Methods and Applications'', 1st Edition, Cambridge University
@@ -91,6 +91,6 @@ After the completion of this course, students will be able to:
    Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
    University Press, 2012.
 5. Guandong Xu ,Yanchun Zhang, Lin Li, ``Web Mining and Social
-   Networking – Techniques and applications'', First Edition
+   Networking – Techniques and applications'', 1st Edition
    Springer, 2011.
 
