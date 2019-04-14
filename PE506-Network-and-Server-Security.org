@@ -11,18 +11,18 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To study about the essentials of computer security,
+- To study about the essentials of computer security
 - To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual
-  Private Networks, and intrusion detection systems,
+  Private Networks, and intrusion detection systems
 - To understand how various security mechanisms work, and correlate
-  these security mechanisms with security principles,
-- To learn the security aspects of data center,
+  these security mechanisms with security principles
+- To learn the security aspects of data center
 - To learn the security protocols and technologies with respect to
   infrastructure.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Computer Security Concepts - Security Attacks - Security Services -
+Computer Security Concepts -- Security Attacks -- Security Services -
 Security Mechanisms - A Model for Network Security- Standards. Attack
 on Public Key Cryptography – Public Key Certificates: X.509
 Authentication services – Attacks on PKI – Types of Digital
