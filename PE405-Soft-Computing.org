@@ -24,7 +24,7 @@
 - To learn the basic concepts of Soft Computing 
 - To study various Artificial Neural network architectures
 - To learn fuzzy sets, fuzzy logic and fuzzy inference system
-- To understand genetic algorithm for global optimization.
+- To understand genetic algorithm for global optimization
 - To learn hybrids of neuro, fuzzy and genetic algorithm, and their
   applications.
 
@@ -77,7 +77,8 @@ Computing: A fusion approach of multispectral images with SAR --
 Optimization of Traveling Salesman Problem using genetic algorithm --
 Soft computing based hybrid fuzzy controllers.
 #+start_comment
-Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:  A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
+Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:
+ A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
 Added Applications of Soft Computing, Optimization of Traveling Salesman Problem using genetic algorithm, Soft computing based hybrid fuzzy controllers.
 #+end_comment
 
