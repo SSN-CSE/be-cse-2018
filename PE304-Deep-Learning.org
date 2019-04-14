@@ -14,7 +14,7 @@
 - To understand the basics of deep neural networks
 - To understand CNN and RNN architectures of deep neural networks
 - To comprehend advanced deep learning models
-- To learn the evaluation metrics for deep learning models
+- To learn the evaluation metrics for deep learning models.
 
 {{{unit}}}
 |UNIT I|DEEP NETWORKS BASICS|9| 
@@ -66,7 +66,7 @@ After the completion of this course, students will be able to:
 - Apply Recurrent Neural Network and its variants for text analysis
   (K3)
 - Apply model evaluation for various applications (K3)
-- Understand the concepts in autoencoders and generative models (K2)
+- Understand the concepts in autoencoders and generative models (K2).
 
 ** TEXT BOOKS
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, ``Deep Learning'',
