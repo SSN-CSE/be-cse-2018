@@ -91,7 +91,7 @@ After the completion of this course, students will be able to:
   Retrieval system (K3)
 - Apply machine learning techniques to text classification and
   clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2).
+- Describe various IR applications (K2)
 - Apply IR evaluation metrics to measure the performance of IR
   systems (K3).
 
