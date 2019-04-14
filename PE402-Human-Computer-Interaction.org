@@ -10,10 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the goals and principles of interface design.
-- Study life cycle models and identify the requirements for interface design.
-- Learn effective prototypes for construction of user interface design.
-- Know about user testing.
+- Understand the goals and principles of interface design
+- Study life cycle models and identify the requirements for interface design
+- Learn effective prototypes for construction of user interface design
+- Know about user testing
 - Use tools to develop UI design for mobile app.
 
 {{{unit}}}
@@ -28,15 +28,15 @@ to physical design.
 Activities of interaction design -- Key characteristics of interaction
 design process -- Lifecycle models; Establish requirements --
 Different kinds of requirements -- Data gathering; Data interpretation
-and analysis -- Task description-- Task analysis.
+and analysis -- Task description -- Task analysis.
 
 {{{unit}}}
 | UNIT III | DESIGN AND CONSTRUCTION | 9 |
 Prototyping and construction -- Low-fidelity prototyping --
 High-fidelity prototyping -- Compromises in prototyping --
-Construction: from design to implementation; Conceptual design: moving
+Construction: from design to implementation; Conceptual Design: Moving
 from requirements to first design -- Perspectives for developing a
-conceptual model -- Expanding the conceptual model-- Scenarios and
+conceptual model -- Expanding the conceptual model -- Scenarios and
 prototypes in conceptual design; User-centered approach -- Ethnography
 in design.
 
@@ -62,23 +62,23 @@ Upon the completion of the course the students should be able to:
   design (K3)
 - Construct user interface design using prototypes (K3)
 - Perform user testing on user interface design (K3)
-- Apply tools to develop UI design for mobile app (K3)
+- Apply tools to develop UI design for mobile app (K3).
 
 ** TEXT BOOKS
 1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond
-   Human-Computer Interaction'', 4th ed. John Wiley & Sons Ltd, 2015
-2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', First
+   Human-Computer Interaction'', 4th ed. John Wiley & Sons Ltd, 2015.
+2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', 1st
    Edition, O'Reilly, 2009.
 
 ** REFERENCES
 1. Preece J, Rogers Y, Sharp H, Baniyon D, Holland S and Carey T,
    ``Human Computer Interaction'', Addison-Wesley, 1994.
 2. B. Shneiderman, ``Designing the User Interface'', Addison Wesley
-   2000 (Indian Reprint)
+   2000 (Indian Reprint).
 3. Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, ``Human
-   Computer Interaction'', 3rd Edition, Pearson Education, 2004
-4. Brian Fling, ``Mobile Design and Development'', First Edition ,
-   O'Reilly Media Inc, 2009
+   Computer Interaction'', 3rd Edition, Pearson Education, 2004.
+4. Brian Fling, ``Mobile Design and Development'', 1st Edition ,
+   O'Reilly Media Inc, 2009.
 
 # 3. Yvonne Rogers, Helen Sharp, Jenny Preece, ``Interaction Design:
 #   Beyond Human Computer Interaction'', 3rd Edition, Wiley, 2011
