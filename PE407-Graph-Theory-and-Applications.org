@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+BEGIN_comment:
+#+begin_comment:
 This course is based on a different text book therefore, the syllabus
 is entirely different. In particular, this course does not have any
 portions from Combinatorics as the one in Anna University curriculum.
