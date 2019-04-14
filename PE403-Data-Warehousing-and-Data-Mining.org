@@ -28,7 +28,7 @@
 
 {{{unit}}}
 | UNIT I | DATA WAREHOUSING AND BUSINESS ANALYSIS | 9 |
-Basic Concepts: Data Warehousing Components -- Building a Data
+Basic Concepts: Data warehousing components -- Building a data
 Warehouse -- Database Architectures for Parallel Processing --
 Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse
 Schema for Decision Support; Concept Hierarchies; Characteristics of

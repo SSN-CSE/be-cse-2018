@@ -13,7 +13,7 @@
      Unit - V respectively.
      The topic object recognition is added in Unit - V
 - 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 5. Not Applicable.
 #+end_comment
 
 #+startup: showall
@@ -23,54 +23,54 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To be familiar with digital image fundamentals. 
+- To be familiar with digital image fundamentals
 - To understand the basics of simple image enhancement techniques in
-  Spatial and Frequency domain.
+  Spatial and Frequency domain
 - To learn the concepts of degradation function and restoration
-  techniques.
-- To study image segmentation and representation techniques.
+  techniques
+- To study image segmentation and representation techniques
 - To be familiar with object recognition methods.
 
 {{{unit}}}
 |UNIT I | Digital Image Fundamentals | 9 |
 Introduction to Digital Image Processing: Components -- Image sensing
 and acquisition -- Image sampling and quantization; Relationships
-between pixels; 2D mathematical preliminaries: Array vs matrix
+between pixels; 2D Mathematical Preliminaries: Array vs matrix
 operations -- Linear vs nonlinear operations -- Arithmetic -- Logical --
-Statistical -- Spatial Operations.
+Statistical -- Spatial operations.
 
 {{{unit}}}
 |UNIT II | Image Enhancement | 9 |
 Spatial domain: Gray level transformations -- Histogram processing;
-Basics of spatial filtering: Smoothing and sharpening spatial
-filtering; Frequency domain: Introduction to Fourier transform --
-Smoothing and sharpening frequency domain filters: Ideal --
-Butterworth -- Gaussian filters; Homomorphic filtering.
+Basics of Spatial Filtering: Smoothing and sharpening spatial
+filtering; Frequency Domain: Introduction to fourier transform --
+Smoothing and Sharpening Frequency Domain Filters: Ideal --
+Butterworth -- Gaussian filters; Homomorphic Filtering.
 
 {{{unit}}}
 |UNIT III | Image Restoration | 9 |
 Image Restoration: Degradation model; Noise models; Restoration in the
-presence of noise using spatial filtering: Mean filters -- Order
-statistics -- Adaptive filters; Periodic noise reduction by frequency
-domain filtering: Band reject filters -- Band pass filters -- Notch
-filters -- Optimum Notch filtering; Inverse filtering; Wiener
+Presence of Noise using Spatial Filtering: Mean filters -- Order
+statistics -- Adaptive filters; Periodic Noise Reduction by Frequency
+Domain Filtering: Band reject filters -- Band pass filters -- Notch
+filters -- Optimum notch filtering; Inverse filtering; Wiener
 filtering.
 
 {{{unit}}}
 |UNIT IV | Image Segmentation | 9 |
-Edge detection: Edge linking via Hough transform; Thresholding:
-Intensity thresholding -- Otsu's thresholding; Region based
-segmentation: Region growing -- Region splitting and merging;
-Morphological processing: erosion and dilation; Segmentation by
-morphological watersheds: Basic concepts -- Dam construction --
+Edge Detection: Edge linking via Hough transform; Thresholding:
+Intensity thresholding -- Otsu's thresholding; Region Based
+Segmentation: Region growing -- Region splitting and merging;
+Morphological Processing: Erosion and dilation; Segmentation by
+Morphological Watersheds: Basic concepts -- Dam construction --
 Watershed segmentation algorithm.
 
 {{{unit}}}
 |UNIT V | Feature Analysis and Object Recognition | 9 |
-Boundary representation; Boundary descriptors: Fourier descriptor;
+Boundary representation; Boundary Descriptors: Fourier descriptor;
 Regional descriptors -- Texture; Relational descriptors; Object
-recognition: Patterns and pattern classes; Recognition based on
-decision theoretic methods; Case Study for image recognition: Face
+Recognition: Patterns and pattern classes; Recognition based on
+decision theoretic methods; Case Study for Image Recognition: Face
 recognition.
 
 #+begin_comment
