@@ -4,7 +4,7 @@
 :date: 5 January 2019
 
 #+begin_comment
-- 1. Almost the same as AU
+- 1. Almost the same as R2017 - changes done in Unit 4 and 5, so that course can be handled effectively within 45 hours.
 - 2. For changes, see the individual units.
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
@@ -28,45 +28,30 @@
 
 {{{unit}}}
 | UNIT I | DATA WAREHOUSING AND BUSINESS ANALYSIS | 9 |
-Basic Concepts: Data warehousing components -- Building a data
-Warehouse -- Database Architectures for Parallel Processing --
-Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse
-Schema for Decision Support; Concept Hierarchies; Characteristics of
-OLAP Systems -- Typical OLAP Operations, OLAP and OLTP.
+Basic Concepts: Data warehousing components -- Building a data Warehouse -- Database Architectures for Parallel Processing --
+Parallel DBMS Vendors; Multidimensional Data Model; Data Warehouse Schema for Decision Support; Concept Hierarchies; Characteristics of
+OLAP Systems -- Typical OLAP Operations, OLAP and OLTP. 
 
 {{{unit}}}
 | UNIT II | INTRODUCTION TO DATA MINING | 9 |
-Introduction to Data Mining Systems -- Knowledge Discovery Process --
-Data Mining Techniques -- Issues -- applications; Data Objects and
-attribute types -- Statistical description of data; Data
-Preprocessing: Cleaning -- Integration -- Reduction -- Transformation
--- discretization; Data Visualization; Data similarity and
-dissimilarity measures.
+Introduction to Data Mining Systems -- Knowledge Discovery Process -- Data Mining Techniques -- Issues -- applications; Data Objects and
+attribute types -- Statistical description of data; Data Preprocessing: Cleaning -- Integration -- Reduction -- Transformation
+-- discretization; Data Visualization; Data similarity and dissimilarity measures.
 
 {{{unit}}}
 | UNIT III | FREQUENT PATTERN ANALYSIS | 9 |
-Mining Frequent Patterns -- Associations and Correlations -- Mining
-Methods -- Pattern Evaluation Method; Pattern Mining in Multilevel --
-Multi Dimensional Space -- Constraint Based Frequent Pattern Mining;
-Classification using Frequent Patterns.
+Mining Frequent Patterns -- Associations and Correlations -- Mining Methods -- Pattern Evaluation Method; Pattern Mining in Multilevel -- Multi Dimensional Space -- Constraint Based Frequent Pattern Mining; Classification using Frequent Patterns.
 
 {{{unit}}}
 | UNIT IV | CLASSIFICATION | 9 |
-Introduction -- Decision Tree Induction; Bayesian Classification; Rule
-Based Classification; Classification by Back Propagation; Support
-Vector Machines; Lazy Learners; Model Evaluation and Selection --
-Techniques to improve Classification Accuracy; Evaluation of
-Classification Methods; Datasets.
+Introduction -- Decision Tree Induction; Bayesian Classification; Support Vector Machines; Lazy Learners; Model Evaluation and Selection -- Techniques to improve Classification Accuracy; Evaluation of Classification Methods; Datasets.
 #+begin_comment
-Removed: Clustering
+Removed: Clustering is made as separate unit and reduced the content so that particular topics in classification can be teached indepth 
 #+end_comment
 
 {{{unit}}}
 | UNIT V | CLUSTERING | 9 |
-Introduction, Clustering, Cluster Analysis, Clustering Methods --
-K-means, Hierarchical clustering, Agglomerative clustering, Divisive
-clustering, Evaluating clusters; Case Studies using WEKA tools for
-classification -- Clustering and association.
+Introduction, Clustering, Cluster Analysis, Clustering Methods -- K-means, Hierarchical clustering, Agglomerative clustering,  Evaluating clusters; Case Studies using WEKA tools for classification -- Clustering and association.
 #+begin_comment
 Moved: Clustering from Unit - IV to V
 #+end_comment
@@ -74,30 +59,21 @@ Moved: Clustering from Unit - IV to V
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Design a Data warehouse system and perform business analysis with
-  OLAP tools (K3)
+- Design a Data warehouse system and perform business analysis with OLAP tools (K3)
 - Apply suitable pre-processing techniques (K3)
-- Apply frequent pattern and association rule mining techniques for
-  data analysis (K3)
+- Apply frequent pattern and association rule mining techniques for data analysis (K3)
 - Apply appropriate classification techniques for data analysis (K3)
 - Apply clustering techniques using appropriate tools (K3).
 
 ** TEXT BOOKS
-1. Jiawei Han, Micheline Kamber, ``Data Mining Concepts and
-   Techniques'', 3rd Edition, Elsevier, 2012.
-2. Alex Berson, Stephen J. Smith, ``Data Warehousing, Data Mining &
-   OLAP'', Tata McGraw-Hill Edition, 35th Reprint 2016.
+1. Jiawei Han, Micheline Kamber, ``Data Mining Concepts and Techniques'', 3rd Edition, Elsevier, 2012.
+2. Alex Berson, Stephen J. Smith, ``Data Warehousing, Data Mining & OLAP'', Tata McGraw-Hill Edition, 35th Reprint 2016.
 
 ** REFERENCES
-1. Pang-Ning Tan, Michael Steinbach, Vipin Kumar, ``Introduction To
-   Data Mining'', Person Education, 2007.
-2. K P Soman, Shyam Diwakar, V Ajay, ``Insight into Data mining
-   Theory and Practice'', Easter Economy Edition, Prentice Hall of
+1. Pang-Ning Tan, Michael Steinbach, Vipin Kumar, ``Introduction To Data Mining'', Person Education, 2007.
+2. K P Soman, Shyam Diwakar, V Ajay, ``Insight into Data mining Theory and Practice'', Easter Economy Edition, Prentice Hall of
    India, 2006.
-3. G K Gupta, ``Introduction to Data Mining with Case Studies'',
-   Easter Economy Edition, Prentice Hall of India, 2006.
-4. Daniel T Larose, ``Data Mining Methods and Models'',
-   Wile-Interscience, 2006.
-5. Ian H Witten and Eibe Frank, ``Data Mining: Practical Machine
-   Learning Tools and Techniques'', Elsevier,2nd Edition, 2016.
+3. G K Gupta, ``Introduction to Data Mining with Case Studies'', Easter Economy Edition, Prentice Hall of India, 2006.
+4. Daniel T Larose, ``Data Mining Methods and Models'', Wiley-Interscience, 2006.
+5. Ian H Witten and Eibe Frank, ``Data Mining: Practical Machine Learning Tools and Techniques'', Elsevier,2nd Edition, 2016.
 
