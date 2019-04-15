@@ -7,7 +7,7 @@
 
 #+begin_comment
 - 1. One professional elective is offered by the same name in AU 2017
-- 2. Refered other university syllabus.
+- 2. Referred other university syllabus.
 - 3. Offered only in AU BE 2017 curriculum
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
@@ -90,7 +90,7 @@ Upon completion of this course, the students should be able to:
 - Understand various soft computing techniques (K2)
 - Design and develop different neural network algorithms (K3)
 - Analyse and apply fuzzy logic and fuzzy inference system (K3)
-- Solve problems using  Genetic Algorithm (K3)
+- Solve problems using  Genetic Algorithms (K3)
 - Apply various soft computing techniques for complex problems (K3).
 
 ** TEXT BOOKS
