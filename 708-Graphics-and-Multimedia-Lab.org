@@ -4,6 +4,14 @@
 :date: 13-11-18
 :end:
 
+#+begin_comment
+1. 3D Animation experiment included
+2. 3D animation included to align with theory - Blender (Unit V)
+3. Not Applicable
+4. Five course outcomes clearly defined and aligned with experiments
+5. Lab requiremnts clearly outlined.
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -18,9 +26,6 @@
 - Explore image manipulation and enhancement techniques
 - Create 3D animation using any tool
 
-#+begin_comment
- 3D animation experiment added.
-#+end_comment
 
 ** SUGGESTIVE EXPERIMENTS
 1. Study of Basic output primitives in OpenGL
