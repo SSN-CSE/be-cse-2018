@@ -1,6 +1,6 @@
 * <<<409>>> INTERPERSONAL SKILLS
 :properties:
-:author: A Sophia
+:author: Dr S Thiru, Department of English
 :date: 
 :end:
 
@@ -10,32 +10,86 @@
 | L | T | P | C |
 | 0 | 0 | 2 | 1 |
 
-** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+** COURSE OBJECTIVES
+- Tp equip students with the adequate speaking and listening skills in
+  English required for academic and general purposes.
+- To impart speaking skills in English needed for both general and
+  classroom conversation. This will include speaking for social needs
+  (interaction with people in society for various purposes) as well as
+  academic purposes (peer interaction, interaction with the teacher
+  and the students in the class, facing interviews, interaction with
+  teachers outside the class and others)
+- To provide exposure to listening skills both general and academic. This
+  will include listening in social situations and also in classroom
+  contexts such as lectures, seminars and presentations,
+- To focus on making academic presentations and also answering questions
+  in a job interview with confidence.
 
 {{{unit}}}
-|UNIT I | <Title> | <Periods> |
-
-
-{{{unit}}}
-|UNIT II | <Title> | <Periods> |
-
-{{{unit}}}
-|UNIT III | <Title> | <Periods> |
-
-{{{unit}}}
-|UNIT IV | <Title> | <Periods> |
+| UNIT I | LISTENING FOR TAKING NOTES  AND DEVELOPING IDEAS | 6 |
+Importance of listening and speaking skills for academic as well as
+general purposes – giving and asking personal information – expressing
+one’s strengths and weaknesses - ask for clarifications during a
+lecture - listening to a lecture and taking notes - listening to
+process descriptions and representing the same in appropriate flow
+charts - Expand and express a complete idea avoiding fragmented
+utterances.
 
 {{{unit}}}
-|UNIT V | <Title> | <Periods> |
+| UNIT II | PRONUNCIATION IN CONTEXT | 6 |
+Conversation starters (small talk) - pronunciation of individual
+sounds (vowels, consonants and diphthongs)-syllable stress -
+intonation patterns - chunking for clarity - compare and contrast
+information using relevant linking words - converse on everyday topics
+with reasonable accuracy - making presentations using PowerPoint
+slides.
 
+{{{unit}}}
+| UNIT III | FLUENCY IN CONTEXT | 6 |
+Fluency enhancement- avoidance of factors affecting fluency-practice
+in informal talks ( greeting people - responding to greetings -
+describing places, objects, moods, health and symptoms – inviting
+people - expressing acceptance – rejection - other every day
+functions)
 
-\hfill *Total: <Total Periods>*
+{{{unit}}}
+| UNIT IV | ACTIVE LISTENING IN SPECIFIC SITUATIONS | 6 |
+What is active listening? - Giving verbal and non-verbal feedback -
+participation in group discussion – Listening to Ted talks/ talks by
+celebrities for the purposes of understanding, summarizing,
+appreciation, critical evaluation etc – Practice in Role Plays
 
-** Course Outcomes
+{{{unit}}}
+| UNIT V | Formal and informal talk | 6 |
+Vocabulary and tone in formal and informal situations- giving
+directions - giving instructions in academic and business contexts –
+advanced strategies for presentations and interactive communication –
+Facing job interviews ( FAQs and Mock Interview)
+
+\hfill *Total Periods: 30*
+
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic concepts of machine learning (K2).
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic Perspective'', Second Edition, Chapman and Hall/CRC Machine Learning and Pattern Recognition Series, 2014.
+- Listen and respond appropriately
+- Participate in group discussions
+- Make effective presentations
+- Participate confidently and appropriately in conversations both formal and informal,
+- Face campus interviews adequately
+  
+** TEXT BOOKS    
+1. Brooks, Margret. Skills for Success. Listening and Speaking. Level
+   4 Oxford University Press, Oxford: 2011.
+2. Richards, C. Jack. & David Bholke. Speak Now Level 3. Oxford
+   University Press, Oxford: 2010
+
+** REFERENCES
+1. Bhatnagar, Nitin and Mamta Bhatnagar. Communicative English for
+   Engineers and Professionals. Pearson: New Delhi, 2010.
+2. Hughes, Glyn and Josephine Moate. Practical English
+   Classroom. Oxford University Press: Oxford, 2014.
+3. Vargo, Mari. Speak Now Level 4. Oxford University Press:
+   Oxford, 2013.
+4. Richards C. Jack. Person to Person (Starter). Oxford University
+   Press: Oxford, 2006.
+5. Ladousse, Gillian Porter. Role Play. Oxford University Press:
+   Oxford, 2014
