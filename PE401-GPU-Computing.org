@@ -6,6 +6,14 @@
 
 #+startup: showall
 
+#+begin_comment
+- 1. Almost the same as AU - title changed
+- 2. Not Applicable
+- 3. Five Course outcomes specified and aligned with units
+- 4. Not Applicable
+#+end_comment
+
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
