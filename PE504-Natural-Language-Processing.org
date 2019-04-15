@@ -4,6 +4,14 @@
 :date: 
 :end:
 
+#+begin_comment
+- 1. Combined Unit 2 and 3 of AU into Unit 2, Unit 4 and 5 of AU into Unit 3 to give emphasis on NLP applications
+- 2. For changes, see the indidual units
+- 3. The unit headings are similar to M.E syllabus with addition and deletion of topics except Unit 4. Unit 4 and 5 are focussing on NLP applications. Removed NLP using Python
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -23,6 +31,14 @@ Grammar-based language models -- Lexical functional grammar --
 Government and binding; Statistical Language Model: N-gram model --
 Smoothing techniques.
 
+#+begin_comment
+
+- 1. In AU syllabus few topics of word level analysis are is covered in this unit. We have moved those topics to Unit 2. 
+- 2. Smoothing techniques are part of statistical language models are given in Unit 2. We have included in Unit 1. 
+- 3. Removed spelling error detection and correction techniques.
+- 4. Unit 1 is same as Unit 1 of M.E syllabus
+#+end_comment
+
 {{{unit}}}
 | UNIT II | WORD LEVEL AND SYNTACTIC ANALYSIS | 9 |
 Word Level Analysis: Regular expressions -- Survey of morphology --
@@ -31,6 +47,13 @@ Part-of-Speech Tagging: HMM POS tagging; Syntactic Analysis:
 Constituency -- Context-free grammar -- Dependency Grammar; Parsing:
 Top-down -- Bottom-up -- Ambiguity -- Early algorithm -- CYK --
 Probabilistic CFG -- Probabilistic CYK parsing; Tree banks.
+
+#+begin_comment
+
+- 1. As Unit 2 and 3 of AU are combined to Unit 2, the topics namely Transducers, Maximum Entropy models, Probabilistic Lexicalized CFGs, Feature structures and Unification of feature structures are removed.
+- 2. Unit 2 is same as Unit 2 of M.E syllabus
+#+end_comment
+
 
 {{{unit}}}
 | UNIT III | SEMANTIC ANALYSIS AND DISCOURSE PROCESSING | 10 |
@@ -42,12 +65,24 @@ methods -- Distributional methods; Discourse Processing: Reference
 resolution -- Anaphora resolution algorithms -- Co-reference
 resolution.
 
+#+begin_comment
+
+- 1. As Unit 4 and part of Unit 5 of AU are combined to Unit 3, the topics namely First-Order Logic and Description Logics are removed.
+- 2. Unit 3 is same as Unit 3 of M.E syllabus
+#+end_comment
+
 {{{unit}}}
 | UNIT IV | MACHINE TRANSLATION, IR AND IE | 9 |
 Machine Translation(MT): Problems in machine translation -- Classical
 MT -- Statistical MT; Information Retrieval: The vector space model --
 Term weighting -- Evaluation of IR; Information Extraction: Named
 entity recognition -- Relation detection and classification.
+
+#+begin_comment
+
+- 1. AU does not focus on NLP applications. NLP applications namely MT, IR and IE are included in this unit.
+- 2. Removed Unit 4 of M.E syllabus and included applications in Unit 4 and 5 in detail.
+#+end_comment
 
 {{{unit}}}
 | UNIT V | QUESTION ANSWERING AND SUMMARIZATION | 9 |
@@ -56,14 +91,20 @@ Factoid Question Answering: Question Processing -- Passage Retrieval
 Content selection -- Information ordering -- Sentence realization --
 Multi-Document Summarization -- Summarization Evaluation.
 
+#+begin_comment
+
+- 1. AU focuses on lexical resources but not on applications. NLP applications namely QA and Summarization are included in this unit. Lexical resources are removed which will be indirectly covered through NLP applications.
+- 2. Additionally included the applications namely QA and Summarization when compared with M.E syllabus.
+#+end_comment
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Describe the language models (K2)
-- Explain levels of knowledge in language processing (K2)
+- Describe the language models (K3)
+- Explain levels of knowledge in language processing (K3)
 - Apply computational methods in semantic and discourse processing (K3)
-- Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K3)
+- Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K2)
 - Apply evaluation metrics for different NLP applications (K3).
 
 ** TEXT BOOKS
