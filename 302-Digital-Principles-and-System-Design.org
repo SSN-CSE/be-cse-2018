@@ -5,6 +5,12 @@
 :end:
 
 #+startup: showall
+#+begin_comment
+- 1. Same as R2017 AU
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
