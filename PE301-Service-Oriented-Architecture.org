@@ -6,8 +6,12 @@
 
 
 #+begin_comment
-...Unit 4: Have included the topic "XML Web services for .Net" which is availale in the second text book of the syllabus
-Unit 5: Replaced the old content from the second text book they are more relevant to the subject...
+
+... Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.
+Unit 4: Have included the topic "XML Web services for .Net" which is availale in the second text book of the syllabus
+Unit 5: Replaced the old content from the second text book they are more relevant to the subject
+
+Second Text book of Anna University Syllabus is altered, which is authored by, Sahankar Kambhampaly...
 #+end_comment
 
 #+startup: showall
