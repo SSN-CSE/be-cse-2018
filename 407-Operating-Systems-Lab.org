@@ -4,6 +4,15 @@
 :date: 13-11-2018
 :end:
 
+#+begin_comment
+ 1. 2 Experiments removed
+ 2. Shell programming experiment removed.
+ Deadlock detection is removed as deadlock avoidance is already there under deadlock concept. 
+ 3. Not Applicable
+ 4. Five course outcomes clearly defined and aligned with the experiments
+ 5. Lab requirements clearly outlined.
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -17,11 +26,6 @@
 - To implement Deadlock Avoidance and Deadlock Detection algorithms
 - To implement Page Replacement Algorithms
 - To implement File Organization and File Allocation Strategies
-
-#+begin_comment
- Shell programming experiment removed.
- Deadlock detection is removed as deadlock avoidance is already there under deadlock concept. 
-#+end_comment
 
 ** SUGGESTIVE EXPERIMENTS
 1. Basics of UNIX commands and study of system calls.
