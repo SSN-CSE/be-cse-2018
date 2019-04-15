@@ -5,6 +5,14 @@
 :end:
 
 #+startup: showall
+#+begin_comment
+1. This syllabus was not offered under AU-2017 Regulations for UG.
+2. Introduces the Deep learning theory to undergraduate students which is recent trend and has its application in different areas.
+3. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. For changes, see the individual units.
+4. Five Course outcomes specified and aligned with units.
+5. No lab.
+#+end_comment
+
 
 {{{credits}}}
 |L|T|P|C|
@@ -26,6 +34,11 @@ Hyperparameters and validation sets -- Estimators -- Bias and variance
 Deep Networks: Deep feedforward networks; Regularization --
 Optimization.
 
+#+begin_comment
+Same as Unit-I in PG syllabus.
+#+end_comment
+
+
 {{{unit}}}
 |UNIT II|CONVOLUTIONAL NEURAL NETWORKS|9| 
 Convolution Operation -- Sparse Interactions -- Parameter Sharing --
@@ -33,6 +46,10 @@ Equivariance -- Pooling -- Convolution Variants: Strided -- Tiled --
 Transposed and dilated convolutions; CNN Learning: Nonlinearity
 Functions -- Loss Functions -- Regularization -- Optimizers --
 Gradient Computation.
+
+#+begin_comment
+Same as Unit-II in PG syllabus except the different CNN architectures.
+#+end_comment
 
 {{{unit}}}
 |UNIT III|RECURRENT NEURAL NETWORKS|10| 
@@ -43,11 +60,20 @@ Recurrent Networks -- Recursive Neural Networks -- Long Term
 Dependencies; Leaky Units: Skip connections and dropouts; Gated
 Architecture: LSTM.
 
+#+begin_comment
+Same as Unit-III in PG syllabus. Gated RNN is ignored.
+#+end_comment
+
+
 {{{unit}}}
 |UNIT IV|MODEL EVALUATION|8| 
 Performance metrics -- Baseline Models -- Hyperparameters: Manual
 Hyperparameter -- Automatic Hyperparameter -- Grid search -- Random
 search -- Debugging strategies.
+
+#+begin_comment
+Model evaluation included for beginners in Deep learning. Not in PG syllabus.
+#+end_comment
 
 {{{unit}}}
 |UNIT V|AUTOENCODERS AND GENERATIVE MODELS|9| 
@@ -55,6 +81,10 @@ Autoencoders: Undercomplete autoencoders -- Regularized autoencoders
 -- Stochastic encoders and decoders -- Learning with autoencoders;
 Deep Generative Models: Variational autoencoders -- Generative
 adversial networks.
+
+#+begin_comment
+Same as in Unit-IV in PG syllabus except the Representation learning.
+#+end_comment
 
 
 \hfill *Total Periods: 45*
