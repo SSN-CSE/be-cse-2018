@@ -4,6 +4,14 @@
 :date: 13-11-2018
 :end:
 
+#+begin_comment
+ 1. Unit V - Windows case study included
+ 2. Windows was added as a comparative study with Linux
+ 3. Not Applicable
+ 4. Five Course outcomes specified and aligned with units
+ 5. For lab, suggestive experiments are clearly defined.
+#+end_comment
+
 #+startup: showall
 #+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
 #+macro: credits #+attr_latex: :center nil
@@ -60,9 +68,7 @@ Linux Vs Windows: Design principles -- Process management --
 Scheduling -- Memory management -- File systems; Mobile OS: iOS and
 Android -- Introduction and architecture.
 
-#+begin_comment
- 2017 Syllabus had only Linux and mobile OS. Here, Unit V has a comparative study of Linux vs Windows.
-#+end_comment
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
