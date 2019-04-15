@@ -4,6 +4,16 @@
 :date: 13-11-18
 :end:
 
+#+begin_comment
+- 1. Unit V changed to include MUltimedia concepts.
+- 2.  Unit I - Random and Raster scan systems are added as introductory topics.
+      Unit III - B SPlines is removed as under spline representaions topic, Bezier curve is already given.
+      Unit V changed to accomodate Multimedia concepts.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. For Lab, suggestive experiments are clearly defined.
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -17,11 +27,6 @@
 - To understand basic concepts of multimedia
 - To explore Blender graphics tool and design animations.
 
-#+begin_comment
- UnitI I - Random and Raster scan systems are added as introductory topics.
- Unit III - B SPlines is removed as under spline representaions topic, Bezier curve is already given.
- Unit V changed to accomodate Multimedia concepts.
-#+end_comment
 
 {{{unit}}}
 |UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
