@@ -6,6 +6,14 @@
 
 #+startup: showall
 
+#+begin_comment
+- 1. Almost the same as AU 
+- 2. Not Applicable
+- 3. Five Course outcomes specified and aligned with units
+- 4. Not Applicable
+#+end_comment
+
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -54,7 +62,7 @@ After the completion of this course, students will be able to:
 - Understand why communication and coordination are critical to ensure correctness(K2)
 - Understand the parallelism inherent in a simple sequential algorithm (K2)  
 - Apply suitable procedures for parallel algorithms (K3)
-- Develop parallel algorithms for standard problems and applications(K5)
+- Apply parallel algorithms for standard problems and applications(K3)
 - Analyse efficiency of different parallel algorithms (K4).
 
 
