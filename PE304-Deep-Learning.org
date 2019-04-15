@@ -10,7 +10,7 @@
 |L|T|P|C|
 |3|0|0|3|
 
-** COURSE OBJECTIVES.
+** COURSE OBJECTIVES
 - To understand the basics of deep neural networks
 - To understand CNN and RNN architectures of deep neural networks
 - To comprehend advanced deep learning models
