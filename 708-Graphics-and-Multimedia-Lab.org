@@ -54,11 +54,11 @@ After the completion of this course, students will be able to:
 - Illustrate basic, composite transformations and clipping on 2
   dimensional objects (K2)
 - Apply transformations and projections on 3 dimensional objects and
-  construct any scene with features including lighting, textures,
-  shadows, changing camera angles (K6)
-- Illustrate basic operations on images, create GIF animated images
-  and 2D animation sequence (K6)
-- Create simple 3D animation (K6)
+  develop any scene with features including lighting, textures,
+  shadows, changing camera angles (K3)
+- Apply basic operations on images, create GIF animated images
+  and 2D animation sequence (K3)
+- Develop a simple 3D animation (K3)
 
 ** Laboratory requirement for batch of 38 students
 Hardware:\\
