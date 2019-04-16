@@ -51,7 +51,7 @@ Linear search -- Binary search.
   addition
 - Array implementation of stack ADT
 - Evaluate postfix expressions using Stack ADT
-- Produce its pre-order, in-order, and post-order traversals of binary
+- Produce the pre-order, in-order, and post-order traversals of binary
   trees.
 - Represent graph using adjacency matrix and perform depth first
   traversal on the graph
