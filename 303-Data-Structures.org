@@ -18,6 +18,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+
 ** COURSE OBJECTIVES
 - To understand the concepts of ADT
 - To comprehend the notion of linear and non linear data structures
