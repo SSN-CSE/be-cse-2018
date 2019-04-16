@@ -40,7 +40,7 @@ Smoothing techniques.
 #+end_comment
 
 {{{unit}}}
-| UNIT II | WORD LEVEL AND SYNTACTIC ANALYSIS | 9 |
+| UNIT II | WORD LEVEL AND SYNTACTIC ANALYSIS | 10 |
 Word Level Analysis: Regular expressions -- Survey of morphology --
 Word and sentence tokenization -- Stemmer -- Word classes --
 Part-of-Speech Tagging: HMM POS tagging; Syntactic Analysis:
@@ -56,45 +56,35 @@ Probabilistic CFG -- Probabilistic CYK parsing; Tree banks.
 
 
 {{{unit}}}
-| UNIT III | SEMANTIC ANALYSIS AND DISCOURSE PROCESSING | 10 |
-The representation of Meaning: Meaning representation -- Computational
-desiderata for representation; Lexical Semantics: word senses --
-relations -- WordNet; Word Sense Disambiguation: Dictionary-based --
-Supervised -- Minimally-supervised -- Word Similarity: thesaurus
-methods -- Distributional methods; Discourse Processing: Reference
-resolution -- Anaphora resolution algorithms -- Co-reference
-resolution.
+| UNIT III | SEMANTIC ANALYSIS | 9 |
+The representation of Meaning: Meaning representation -- Computational desiderata for representation; Lexical Semantics: word senses -- relations -- WordNet -- thematic roles -- selectional restrictions; Word Sense Disambiguation: Dictionary-based -- Supervised -- Minimally-supervised -- Unsupervised; Word Similarity: thesaurus methods -- Distributional methods.
 
 #+begin_comment
 
-- 1. As Unit 4 and part of Unit 5 of AU are combined to Unit 3, the topics namely First-Order Logic and Description Logics are removed.
-- 2. Unit 3 is same as Unit 3 of M.E syllabus
+- 1. The topics namely First-Order Logic and Description Logics are removed. Unsupervised WSD is added
+- 2. Discourse processing is moved to Unit 4 when compared with Unit 3 of M.E syllabus
 #+end_comment
 
 {{{unit}}}
-| UNIT IV | MACHINE TRANSLATION, IR AND IE | 9 |
-Machine Translation(MT): Problems in machine translation -- Classical
-MT -- Statistical MT; Information Retrieval: The vector space model --
-Term weighting -- Evaluation of IR; Information Extraction: Named
-entity recognition -- Relation detection and classification.
+| UNIT IV | DISCOURSE PROCESSING, IR AND IE | 9 |
+Discourse Processing: Reference resolution -- Anaphora resolution algorithms -- Co-reference resolution;  Information Retrieval: The vector space model -- Term weighting -- Evaluation of IR; Information Extraction: Named entity recognition -- Relation detection and classification.
 
 #+begin_comment
 
-- 1. AU does not focus on NLP applications. NLP applications namely MT, IR and IE are included in this unit.
+- 1. AU does not focus on NLP applications. NLP applications namely IR and IE are included in this unit. Discourse processing of Unit 5 of AU syllabus is included here.
 - 2. Removed Unit 4 of M.E syllabus and included applications in Unit 4 and 5 in detail.
 #+end_comment
 
 {{{unit}}}
-| UNIT V | QUESTION ANSWERING AND SUMMARIZATION | 9 |
-Factoid Question Answering: Question Processing -- Passage Retrieval
--- Answer Processing -- Evaluation of Factoid Answers; Summarization:
-Content selection -- Information ordering -- Sentence realization --
-Multi-Document Summarization -- Summarization Evaluation.
+| UNIT V | MACHINE TRANSLATION AND QUESTION ANSWERING  | 9 |
+Machine Translation(MT): Problems in machine translation -- Classical
+MT -- Statistical MT; Factoid Question Answering: Question Processing -- Passage Retrieval
+-- Answer Processing -- Evaluation of Factoid Answers.
 
 #+begin_comment
 
-- 1. AU focuses on lexical resources but not on applications. NLP applications namely QA and Summarization are included in this unit. Lexical resources are removed which will be indirectly covered through NLP applications.
-- 2. Additionally included the applications namely QA and Summarization when compared with M.E syllabus.
+- 1. AU focuses on lexical resources but not on applications. NLP applications namely MT and QA  are included in this unit. Lexical resources are removed which will be indirectly covered through NLP applications.
+- 2. Additionally included the application namely QA when compared with M.E syllabus.
 #+end_comment
 
 \hfill *Total Periods: 45*
