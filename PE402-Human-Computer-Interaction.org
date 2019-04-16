@@ -1,4 +1,4 @@
-﻿* <<<PE402>>> HUMAN COMPUTER INTERACTIONn
+﻿* <<<PE402>>> HUMAN COMPUTER INTERACTION
 :properties:
 :author: Dr. A. Chamundeswari and Dr. K. Madheswari 
 :end:
@@ -66,7 +66,7 @@ Upon the completion of the course the students should be able to:
 
 ** TEXT BOOKS
 1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond
-   Human-Computer Interaction'', 4th ed. John Wiley & Sons Ltd, 2015.
+   Human-Computer Interaction'', 4th edition John Wiley & Sons Ltd, 2015.
 2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', 1st
    Edition, O'Reilly, 2009.
 
