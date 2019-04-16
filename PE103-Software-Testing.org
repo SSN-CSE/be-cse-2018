@@ -8,6 +8,14 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+#+begin_comment
+
+1.Anna University Regulation 2017 has this course. 
+2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) have been newly introduced.
+3.Not Applicable
+4. Five Course outcomes specified and aligned with units
+5.Not Applicable
+#+end_comment
 
 ** Course Objectives
 - To be familiar with objectives, principles, process, and factors of software testing 
