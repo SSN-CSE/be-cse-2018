@@ -45,4 +45,4 @@ After the completion of this course, students will be able to:
 Hardware:\\
     1. Standalone Systems - 25 Nos
 Software:\\
-    1. C++ Compiler
+    1. Java
