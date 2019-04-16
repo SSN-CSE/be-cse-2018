@@ -6,16 +6,26 @@
 
 #+startup: showall
 
+#+begin_comment
+1. This syllabus was not offered under AU-2017 Regulations for UG.
+2. Introduces the Deep learning theory to undergraduate students which is recent trend and 
+   has its application in different areas.
+3. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. 
+   For changes, see the individual units.
+4. Five Course outcomes specified and aligned with units.
+5. No lab.
+#+end_comment
+#+begin_comment
+- 1. Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. No Lab
+#+end_comment
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
-
-#+begin_comment
-
-Anna University Regulation 2017 has this course. The syllabus content
-across units were modified in Autonomous syllabus which was mentioned
-at the end of every unit.
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand the concepts of virtualization and virtual machines
