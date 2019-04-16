@@ -39,6 +39,10 @@ Unsupervised learning -- Reinforcement learning; Preliminaries: Weight
 space -- Curse of dimensionality -- Testing machine learning
 algorithms -- Turning data into probabilities -- Basic statistics --
 Bias-variance tradeoff.
+#+BEGIN_COMMENT
+- In AU syllabus Learning problem and decision tree are discussed
+- Here Introduction, types and basic statistics are discussed
+#+END_COMMENT
 
 {{{unit}}}
 |UNIT II | SUPERVISED LEARNING  | 11 |
@@ -46,6 +50,10 @@ Neural Networks and Linear Discriminants: Brain and the neuron --
 Neural networks -- Perceptron -- Linear separability -- Linear
 regression; Multi-layer Perceptron: Going forward -- Back-propagation
 of error; Support Vector Machines.
+#+BEGIN_COMMENT
+- removed genetic algorithms 
+- Added Linear regression and SVM 
+#+END_COMMENT
 
 {{{unit}}}
 | UNIT III | PROBABILISTIC LEARNING, LEARNING WITH  TREES | 9 |
@@ -53,6 +61,10 @@ Probabilistic Learning: Gaussian mixture models -- Nearest neighbour
 methods; Learning with Trees: Constructing decision trees --
 Classification and Regression trees -- Classification example;
 Ensemble Learning: Boosting -- Bagging -- Random forests.
+#+BEGIN_COMMENT
+- Added decision trees and ensemble methods
+- Removed advanced Bayesian learning
+#+END_COMMENT
 
 {{{unit}}}
 |UNIT IV | UNSUPERVISED LEARNING, REINFORCEMENT LEARNING | 9 |
@@ -60,6 +72,10 @@ Unsupervised: K-means algorithm -- Self-organising feature map;
 Reinforcement learning: State and action space -- Reward function --
 Discounting -- Action selection -- Policy -- Markov decision process
 -- Values -- SARSA and Q-learning.
+#+BEGIN_COMMENT
+- added unsupervised learning and reinforcement learning
+- Moved K-NN to unit III
+#+END_COMMENT
 
 {{{unit}}}
 |UNIT V | DIMENSIONALITY REDUCTION, OPTIMISATION TECHNIQUES| 8 |
@@ -68,6 +84,11 @@ Principal Component Analysis; Optimisation and Search: Least-squares
 optimisation -- Conjugate gradients -- Search approaches --
 Exploitation and exploration.
 
+#+BEGIN_COMMENT
+- Moved reinforcement learning to unit IV
+- Removed rule based learning
+- Added Dimensionality reduction techniques
+#+END_COMMENT
 
 \hfill *Total Periods: 45*
 
