@@ -49,7 +49,7 @@ SSLAttacks fixed in v3 – Exportability-Encoding -  SET.
 
 {{{unit}}}
 | UNIT IV | DATA CENTER SECURITY OVERVIEW | 9 |
-DATA center security overview: Need for a secure data center –
+Data center security overview: Need for a secure data center –
 Vulnerabilities and common attacks; Network Security Infrastructure;
 Security Fundamentals; Data center security frameworks: Security
 policies – Security lifecycle; Secure Management Framework.
