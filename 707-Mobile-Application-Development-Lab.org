@@ -36,7 +36,7 @@ After the completion of this course, students will be able to:
 - Develop mobile applications using Graphical primitives, Databases, Multithreading and GPS(K3)
 - Develop mobile applications using  SD Card, SMS and Notification(K3)
 - Develop hybrid mobile applications(K3)
-- Develop a mobile app(K3).
+- Develop a mobile app based on user requirements(K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
