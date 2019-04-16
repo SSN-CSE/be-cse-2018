@@ -86,7 +86,7 @@ Retrieval -- Online Public Access Catalogs (OPACs).
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques (K2)
+- Describe various IR modeling techniques (K3)
 - Identify and design the various components of an Information
   Retrieval system (K3)
 - Apply machine learning techniques to text classification and
