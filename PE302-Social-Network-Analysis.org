@@ -19,7 +19,7 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Social Network analysis: Development of social network analysis -- Key
+Social Network Analysis: Development of social network analysis -- Key
 concepts and measures in network analysis -- Electronic Sources for
 Network Analysis: Electronic discussion networks -- Blogs and online
 communities -- Web-based networks -- Social Network Data: Introduction --
