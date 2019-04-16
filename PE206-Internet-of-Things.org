@@ -26,7 +26,7 @@
 
 
 {{{unit}}}
-| UNIT I | INTRODUCTION TO IOT | 9 |
+| UNIT I | INTRODUCTION TO IoT | 9 |
 Genesis -- Impact and Challenges of IoT -- IoT Network Architecture
 and Design: Need for new architectures -- Basic IoT Architecture --
 foneM2M and IoT world forum architectures -- Core IoT functional stack
