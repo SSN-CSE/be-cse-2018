@@ -94,7 +94,7 @@ After the completion of this course, students will be able to:
   given grammar (K3)
 - Write syntax directed translation for programming language
   constructs (K3)
-- Understand and implement simple code generator (K3)
+- Understand and implement a simple code generator (K3)
 - Understand and implement code optimization techniques (K3).
 
 ** TEXT BOOK
