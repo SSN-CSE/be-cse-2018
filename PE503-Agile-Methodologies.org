@@ -13,7 +13,8 @@
 #+begin_comment
 
 1.Anna University Regulation 2017 has this course. 
-2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.
+2.The syllabus content across units were modified in Autonomous syllabus as adviced by the 
+  domain expert committee.
 3.Not Applicable
 4. Five Course outcomes specified and aligned with units
 5.Not Applicable
@@ -40,7 +41,7 @@ project manager's new work.
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
 Traditional and Agile Requirement Engineering; Methods and Tools for
 Agile Practitioners: Requirements elicitation -- Requirements
-representation and documentation -- Requirements analysis--
+representation and documentation -- Requirements analysis --
 Requirements management; Agile Approaches to Requirements Engineering:
 The customer -- Requirements evolution -- Non-functional requirements;
 Tools for Requirements Management in AMs.
