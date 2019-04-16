@@ -115,18 +115,13 @@ After the completion of this course, students will be able to:
 - Design modern websites using HTML5 and CSS3  (K3)
 - Design and implement dynamic web pages with JavaScript and DOM (K3)
 - Develop responsive web applications using Servlets and AJAX (K3)
-- Develop web applications using AngularJS framework (K3)
+- Develop web applications using ReactJS framework (K3)
 - Develop web applications using NodeJS framework (K3).
       
 ** TEXT BOOKS
-1. Jeffrey C, Jackson, ``Web Technologies A Computer Science
-   Perspective'', Pearson Education, 2011.
-2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,
-   August 2011
-3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
-   December 2012.
-4. Alex Banks, Eve Porcello, ``Learning React: Functional Web
-   Development with React and Redux'', O'Reilly Media Inc., May 2017.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st
-   Edition, O'Reilly Media, 2012.
+1. Jeffrey C, Jackson, ``Web Technologies A Computer Science    Perspective'', Pearson Education, 2011.
+2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,    August 2011
+3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,    December 2012.
+4. Alex Banks, Eve Porcello, ``Learning React: Functional Web    Development with React and Redux'', O'Reilly Media Inc., May 2017.
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st    Edition, O'Reilly Media, 2012.
 6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.
