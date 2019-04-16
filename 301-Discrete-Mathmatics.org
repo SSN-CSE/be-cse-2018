@@ -53,17 +53,17 @@ Eulerian and Hamilton graphs.
 {{{unit}}}
 |UNIT IV | ALGEBRAIC STRUCTURES | 13 |
 Algebraic systems - Semi groups and monoids - Groups - Subgroups
-Homomorphisms - Normal subgroup and coset - Lagrange’s theorem -
+Homomorphisms - Normal subgroup and coset - Lagrange's theorem -
 Definitions and examples of Rings and Fields.
 
 {{{unit}}}
 |UNIT V | LATTICES AND BOOLEAN ALGEBRA | 13 |
 Partial ordering - Posets - Lattices as Posets - Properties of
 lattices - Lattices as algebraic systems - Sub lattices - Direct
-product and Homomorphism - Distributive and Modular lattices - Boolean
-algebra - Stone’s representation Theorem.
+product and Homomorphism; Boolean algebra - Stone's representation
+Theorem.
 #+begin_comment
-Added: Distributive and Modular lattices, Stone’s representation Theorem. 
+Added: Stone's representation Theorem. 
 #+end_comment
 
 \hfill *Total Periods: 60*
