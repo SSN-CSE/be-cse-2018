@@ -71,7 +71,7 @@ Upon the completion of the course the students should be able to:
 
 ** REFERENCES
 1. Pang-Ning Tan, Michael Steinbach, Vipin Kumar, ``Introduction To Data Mining'', Person Education, 2007.
-2. K P Soman, Shyam Diwakar, V Ajay, ``Insight into Data mining Theory and Practice'', Easter Economy Edition, Prentice Hall of
+2. K P Soman, Shyam Diwakar, V Ajay, ``Insight into Data mining Theory and Practice'', Eastern Economy Edition, Prentice Hall of
    India, 2006.
 3. G K Gupta, ``Introduction to Data Mining with Case Studies'', Easter Economy Edition, Prentice Hall of India, 2006.
 4. Daniel T Larose, ``Data Mining Methods and Models'', Wiley-Interscience, 2006.
