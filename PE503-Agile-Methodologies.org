@@ -15,7 +15,8 @@
 1.Anna University Regulation 2017 has this course. 
 2.The syllabus content across units were modified in Autonomous syllabus as adviced by the 
   domain expert committee.
-3.Not Applicable
+    
+ 3.Not Applicable
 4. Five Course outcomes specified and aligned with units
 5.Not Applicable
 #+end_comment
@@ -36,15 +37,21 @@ Agile modelling; Theories for Agile Management; Management Accounting
 for Systems; Agile Project Management: Traditional versus RAD model
 for project management -- Task planning and effort tracking -- The
 project manager's new work.
+#+begin_comment
+The topics Iterative and Evolutionary Development is added to differentiate agile from other methodologies.
+#+end_comment
 
 {{{unit}}}
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
 Traditional and Agile Requirement Engineering; Methods and Tools for
-Agile Practitioners: Requirements elicitation -- Requirements
+Agile Practitioners: Requirements eanna ulicitation -- Requirements
 representation and documentation -- Requirements analysis --
 Requirements management; Agile Approaches to Requirements Engineering:
 The customer -- Requirements evolution -- Non-functional requirements;
 Tools for Requirements Management in AMs.
+#+begin_comment
+Focuses on agile requirement engineering whereas anna university syllabus on unit II is about agile process that not in flow 
+#+end_comment
 
 {{{unit}}}
 | UNIT III | AGILE PROJECT PLANNING AND DEVELOPMENT MANAGEMENT | 9 |
@@ -53,12 +60,18 @@ collection of inventory -- Critical path -- Parallel path -- Critical
 chain -- Project tracking metrics; Agile Development Management:
 Identifying and monitoring the flow -- Bottleneck; Agile Maturity
 Model: A new maturity model.
+#+begin_comment
+This unit in on agile project planning and developement  whereas anna university syllabus discuss on knowledge management
+#+end_comment
 
 {{{unit}}}
 | UNIT IV | AGILE METHODS | 9 |
 Scrum: Method overview -- Life cycle -- Work products -- Values --
 Roles and practices -- Process mixtures -- Adoption strategies;
 Extreme Programming; Unified Process; EVO.
+#+begin_comment
+Agile Methods are discussed whereas anna university syllabus discuss on Requirement Engineering that is not in flow
+#+end_comment
 
 {{{unit}}}
 | UNIT V | AGILE TESTING AND QUALITY ASSURANCE | 9 |
@@ -67,6 +80,10 @@ on agile teams; Agile Metrics: Feature driven development (FDD) --
 Financial and production metrics in FDD -- Agile approach to quality
 assurance -- Test driven development; SMM: A process improvement
 framework for agile requirements engineering practices.
+#+begin_comment
+Testing is added in addition to quality in anna university syllabus
+  
+#+end_comment
 
 \hfill *Total Periods: 45*
 
