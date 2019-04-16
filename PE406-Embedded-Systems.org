@@ -88,5 +88,4 @@ After the completion of this course, students will be able to:
 3. Raj Kamal, ``Embedded Systems-Architecture, Programming and
    Design'', 3rd edition, TMH, 2015.
 4. Lyla, ``Embedded Systems'', Pearson, 2013.
-5. David E Simon, ``An Embedded Software Primer'', Pearson
-   Education,2000.
+5. J. M. Hughes, ``Arduino: A Technical Reference'', O'Reilly Media, 2016
