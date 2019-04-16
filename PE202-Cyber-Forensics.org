@@ -10,18 +10,25 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 #+begin_comment
-Unit-1:   AU-Unit I included. 
+- 1. Almost the same as AU
+- 2. The changes are listed below.
+         Unit-1:   AU-Unit I included. 
 
-Unit-2:  AU-Unit I topics included
+         Unit-2:  AU-Unit I topics included
          AU-Unit I data acquisition topics is elaborated 
 
-Unit-3: AU-Unit II topics included
-        AU-Unit III topics included
+         Unit-3: AU-Unit II topics included
+         AU-Unit III topics included
 
-Unit-4: AU-Unit III topics included 
+         Unit-4: AU-Unit III topics included 
 
-Unit-5:  New tools topics included
+         Unit-5:  New tools topics included
          Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
+
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -34,7 +41,7 @@ Unit-5:  New tools topics included
 
 {{{unit}}} 
 | UNIT I | 	INTRODUCTION TO COMPUTER FORENSICS | 9 |
-Understanding computer forensics; Introduction to the Incident
+Understanding Computer Forensics; Introduction to the Incident
 Response Process; Preparing for Incident Response: Overview of
 pre-incident preparation -- Identifying risk -- Preparing individual
 hosts -- Preparing a network -- Establishing appropriate policies and
@@ -45,8 +52,8 @@ response team.
 |UNIT II | DATA ACQUISITION | 9 |
 After Detection of an Incident: Initial response phase
 -- Incident notification procedure -- Recording the details -- Incident declaration -- Assembling the CSIRT --
-Traditional investigative steps -- Conducting interviews --Response
-strategy; Data Acquisition: Storage formats -- Best
+Traditional investigative steps -- Conducting interviews -- Response strategy; 
+Data Acquisition: Storage formats -- Best
 acquisition method -- Image acquisitions -- Acquisition tools --
 Validating data acquisitions -- RAID data acquisitions -- Remote
 network acquisition tools.
@@ -94,7 +101,8 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS 
 1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer Forensics'', 2nd Edition, McGraw-Hill 2003.
-2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and Investigations'', Cengage Learning, India Edition, 2008.
+2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and Investigations'', 
+   Cengage Learning, India Edition, 2008.
 
 ** REFERENCES 
 1. Dhillon G, ``Principles of Information Systems Security'', John Wiley & Sons, 2007.

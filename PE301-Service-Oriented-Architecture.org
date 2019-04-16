@@ -5,6 +5,7 @@
 :end:
 
 #+begin_comment
+<<<<<<< HEAD
 Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.  Unit 4:
 Have included the topic "XML Web services for .Net" which is availale
 in the second text book of the syllabus Unit 5: Replaced the old
@@ -13,6 +14,14 @@ subject
 
 Second Text book of Anna University Syllabus is altered, which is
 authored by, Sahankar Kambhampaly...
+=======
+
+... Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.
+Unit 4: Have included the topic "XML Web services for .Net" which is availale in the second
+  text book of the syllabus
+Unit 5: Replaced the old content from the second text book they are more relevant to the subject
+Second Text book of Anna University Syllabus is altered, which is authored by, Sahankar Kambhampaly...
+>>>>>>> 5d5289161a836ba341d59f8131b5db5fb2fb5cf2
 #+end_comment
 
 #+startup: showall
@@ -32,6 +41,7 @@ authored by, Sahankar Kambhampaly...
 
 {{{unit}}}
 |UNIT I|XML TECHNOLOGIES |9| 
+<<<<<<< HEAD
 XML Document Structure: Well-formed and valid documents -- DTD -- XML
 schema; Parsing XML using DOM -- SAX; XPath -- XML transformation and
 XSLT -- Xquery.
@@ -60,6 +70,32 @@ Service oriented enterprise applications -- Service oriented analysis
 and design: Need for models -- Principles of service design -- Design
 of activity services -- Design of data services -- Design of client
 services -- Design of business process services.
+=======
+XML Document Structure: Well-formed and valid documents -- DTD -- XML schema;
+ Parsing XML using DOM -- SAX; XPath -- XML transformation and XSLT -- Xquery.
+
+{{{unit}}}
+| UNIT II | SERVICE ORIENTED ARCHITECTURE  BASICS |9|
+Characteristics of SOA -- Benefits of SOA -- Comparing SOA with client server and distributed architectures
+ -- Principles of service orientation -- Service layers.
+
+{{{unit}}}
+| UNIT III | WEB SERVICES AND STANDARDS |8|
+Web Services Platform -- Service descriptions -- WSDL -- Messaging with SOAP --
+ Service discovery -- UDDI -- Service level interaction patterns -- Orchestration and choreography.
+
+{{{unit}}}
+| UNIT IV | WEB SERVICES EXTENSIONS |8|
+WS-Addressing -- WS-Reliable messaging -- WS-Policy -- WS-Coordination -- WS-Transactions --
+ WS-Security -- Examples -- XML web services for .Net.
+
+
+{{{unit}}}
+|UNIT V|SERVICE ORIENTED ANALYSIS AND DESIGN |11|
+Service oriented enterprise applications -- Service Oriented Analysis and Design: Need for models -- 
+Principles of service design -- Design of activity services -- Design of data services -- 
+Design of client services -- Design of business process services.
+>>>>>>> 5d5289161a836ba341d59f8131b5db5fb2fb5cf2
 
 \hfill *Total Periods: 45*
 
@@ -75,8 +111,13 @@ Upon the completion of the course the students should be able to:
 ** TEXT BOOKS
 1. Thomas Erl, ``Service Oriented Architecture: Concepts, Technology,
    and Design'', Pearson Education, 2005.
+<<<<<<< HEAD
 2. Sahankar Kambhampaly, ``Service-Oriented Architecture for
    Enterprise Applications'', Wiley India Pvt Ltd, 2008
+=======
+2. Sahankar Kambhampaly, ``Service-Oriented Architecture for Enterprise Applications'', 
+   Wiley India Pvt.Ltd, 2008
+>>>>>>> 5d5289161a836ba341d59f8131b5db5fb2fb5cf2
 	
 ** REFERENCES
 1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew,

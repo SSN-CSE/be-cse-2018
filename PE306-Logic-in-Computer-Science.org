@@ -11,7 +11,8 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment:
-We are not aware of any Logic in Computer Science course in Anna University curriculum. This syllabus is completely independent of any Logic in Computer Science course.
+We are not aware of any Logic in Computer Science course in Anna University curriculum. 
+This syllabus is completely independent of any Logic in Computer Science course.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -34,7 +35,7 @@ Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers.
 Foundations: Syntax and semantics; Semantic Entailment: Natural
 deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
 Theory; Resolution: Ground resolution -- Unification; Refinements of
-Resolution: P-resolution -- N-resolution -- Linear resolution -- unit
+Resolution: P-resolution -- N-resolution -- Linear resolution -- Unit
 resolution -- SLD resolution -- LUSH resolution.
 
 {{{unit}}}
@@ -42,8 +43,8 @@ resolution -- SLD resolution -- LUSH resolution.
 Modes of truth; Basic Modal Logic: Syntax -- Semantics; Logic
 Engineering: The stock of valid formulas -- Important properties of
 the accessibility relation -- Correspondence theory -- Some Modal
-Logics; Natural deduction; Reasoning about knowledge in a multi-agent
-system: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
+Logics; Natural deduction; Reasoning about Knowledge in a Multi-agent
+System: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
 Formalising the examples.
 
 {{{unit}}}

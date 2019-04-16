@@ -7,8 +7,10 @@
 #+startup: showall
 #+begin_comment
 1. This syllabus was not offered under AU-2017 Regulations for UG.
-2. Introduces the Deep learning theory to undergraduate students which is recent trend and has its application in different areas.
-3. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. For changes, see the individual units.
+2. Introduces the Deep learning theory to undergraduate students which is recent trend and 
+   has its application in different areas.
+3. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. 
+   For changes, see the individual units.
 4. Five Course outcomes specified and aligned with units.
 5. No lab.
 #+end_comment

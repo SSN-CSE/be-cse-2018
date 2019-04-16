@@ -10,11 +10,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the goals and principles of interface design
-- Study life cycle models and identify the requirements for interface design
-- Learn effective prototypes for construction of user interface design
-- Know about user testing
-- Use tools to develop UI design for mobile app.
+- To understand the goals and principles of interface design
+- To study life cycle models and identify the requirements for interface design
+- To learn effective prototypes for construction of user interface design
+- To know about user testing
+- To use tools to develop UI design for mobile app.
 
 {{{unit}}}
 | UNIT I | FOUNDATIONS OF INTERACTION DESIGN | 9 |

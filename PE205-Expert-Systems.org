@@ -59,8 +59,8 @@ The Dempster-Shafer theory.
 {{{unit}}}
 |UNIT V|EXPERT SYSTEM LANGUAGES |7|
 OPS5, LOOPS and CENTAUR: OPS5 -- Knowledge representation in OPS5 --
-The OPS5 interpreter -- The rete algorithm -- Building expert systems
-using OPS5; CENTAUR: Prototypes -– Facts -- Reasoning in CENTAUR.
+The OPS5 interpreter -- The Rete algorithm -- Building expert systems
+using OPS5; CENTAUR: Prototypes -- Facts -- Reasoning in CENTAUR.
 
 
 \hfill *Total Periods: 45*
