@@ -64,15 +64,18 @@ After the completion of this course, students will be able to:
 - Assess the reliabilty of Numerical results (K3).
       
 ** TEXT BOOKS
-1. Titus Adrien Beu, ``Introduction to Numerical Programming a Practical Guide for Scientists and Engineers Using Python and
-   C/C++'', CRC Press, 2019.
-2. Steven C Chapra, Raymond P Canale, ``Numerical Methods for Engineering'', 6th Edition, McGraw-Hill Publications, 2010.
+1. Titus Adrien Beu, ``Introduction to Numerical Programming a Practical Guide for Scientists and Engineers
+    Using Python and C/C++'', CRC Press, 2019.
+2. Steven C Chapra, Raymond P Canale, ``Numerical Methods for Engineering'', 6th Edition, 
+   McGraw-Hill Publications, 2010.
 
 ** REFERENCES
 1. Jaan Kiusalaas, ``Numerical Methods in Engineering with Python 3'', Cambridge University Press, 2013.
 2. T Veerarjan, T Ramachandran, ``Numerical methods with programming in ‘C’'', 2nd Editiion, Tata McGraw-Hill
    Publishing.Co.Ltd, 2007.
-3. R W Hamming,  ``Numerical Methods for Scientists and Engineerings'', 2nd Edition, Dover Publications Inc, New York, 1973.
-4. C F Gerald, P O Wheatley, ``Applied Numerical Analysis'', 6th Edition, Pearson Education Asia, New Delhi, 2006.
+3. R W Hamming,  ``Numerical Methods for Scientists and Engineerings'', 2nd Edition, 
+   Dover Publications Inc, New York, 1973.
+4. C F Gerald, P O Wheatley, ``Applied Numerical Analysis'', 6th Edition, 
+   Pearson Education Asia, New Delhi, 2006.
 5. Brian, ``A friendly introduction to Numerical analysis'', Pearson Education, Asia, New Delhi, 2007.
 
