@@ -42,7 +42,7 @@ Importance: Introduction about the discrete time signals is needed to study the 
 {{{unit}}}
 |UNIT II | SPEECH SIGNAL ANALYSIS IN TIME DOMAIN| 9 |
 Time-dependent processing of speech -- Methods for extracting the
-parameters: Energy -- Average Magnitude -- Zero-crossing rate; Silence
+Parameters: Energy -- Average magnitude -- Zero-crossing rate; Silence
 discrimation using ZCR and energy -- Short-time autocorreleation
 function -- Pitch period estimation using autocorrelation function.
 #+begin_comment
