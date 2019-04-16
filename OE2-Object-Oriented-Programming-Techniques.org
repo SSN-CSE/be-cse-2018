@@ -2,6 +2,14 @@
 :properties:
 :author: B. Bharathi
 :end:
+#+begin_comment
+- 1. Most of the topics are same as AU syllabus. First unit of the OOP in AU syllabus is divided in to three units.Mulitithreading and event handling topics are removed
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Suggestive experiments are given
+#+end_comment
+
 
 #+startup: showall
 
@@ -20,11 +28,18 @@ Principles of OOP: Classes -- Objects -- Data hiding -- Data
 encapsulation -- Inheritance -- Polymorphism; Definition of classes:
 objects - methods -- Access specifiers -- Static and final classes and
 members; Object construction and destruction.
+#+begin_comment
+All the topics are given in first unit of AU syllabus
+#+end_comment
+
 
 {{{unit}}}
 | UNIT II | BASICS OF JAVA | 9 |
 Features of Java -- Basics of Java programming: Data types - Variables
 -- Operators -- Control structures -- Arrays -- Strings.
+#+begin_comment
+All the topics are given in first unit of AU syllabus, removed Javadoc comments
+#+end_comment
 
 {{{unit}}}
 | UNIT III | CLASSES AND OBJECTS | 9 |
@@ -33,6 +48,10 @@ specifiers -- Static members; Constructors: Constructor overloading;
 Method overloading -- Recursion -- Passing and returning object from
 method -- Packages in Java.
 
+#+begin_comment
+All the topics are given in first unit of AU syllabus
+#+end_comment
+
 {{{unit}}}
 |UNIT IV | INHERITANCE | 9 |
 Inheritance: Definition -- Types of inheritance: Single --
@@ -40,12 +59,20 @@ multilevel - multiple -- hierarchical -- hybrid; Subclass constructors
 -- Interfaces in Java: Definition, Implementation -- Extending
 interfaces -- Examples in Java.
 
+#+begin_comment
+All the topics are given in second unit of AU syllabus
+Inner classes are removed
+#+end_comment
+
 {{{unit}}}
 | UNIT V | POLYMORPHISM | 9 |
 Polymorphism: Method overloading and overriding -- Dynamic method
 dispatch; Exceptions: Hierarchy, Built-in exceptions, Creating own
 exception; Definition and Concepts: Generic methods -- Generic types.
-
+#+begin_comment
+All the topics are given in thrid and fourth unit of AU syllabus
+I/O streams,Multithreading topics are removed
+#+end_comment
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
