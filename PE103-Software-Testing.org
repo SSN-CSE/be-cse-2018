@@ -31,7 +31,8 @@ Establishing a testing policy -- Structured approach to testing --
 Test factors -- Developing risk matrix -- Steps in software testing
 process.
 #+begin_comment
-
+Introduction to testing, testing levels, appoaches, test factors, and steps for software testing is included.
+Removed the topics related with defects from anna university syllabus.
 #+end_comment
 {{{unit}}}
 |UNIT II|  TEST CASE DESIGN STRATEGIES AND METHODS |9| 
@@ -58,7 +59,6 @@ Configuration testing -- Security testing -- Recovery testing --
 Regression testing -- Alpha, beta and acceptance tests.
 #+begin_comment
 removed Testing the documentation –Website testing.
-
 #+end_comment
 {{{unit}}}
 |UNIT IV| TEST AUTOMATION AND MANAGEMENT |9|
