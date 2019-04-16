@@ -66,7 +66,7 @@ Security Against Chosen-Ciphertext Attacks;Digital Signatures Schemes:
 An Overview -- Definitions -- RSA Signatures -- The Hash-and-Sign
 Paradigm -- Lamport's One-Time Signature Scheme -- Signatures from
 Collision -- Resistant Hashing -- The Digital Signature Standard --
-Certificates and Public-Key Infrastructures.
+Certificates and Public-Key Infrastructures; Authentication Protocol: SSL and TLS.
 
 \hfill *Total Periods: 45*
 
