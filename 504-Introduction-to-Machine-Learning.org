@@ -41,7 +41,7 @@ algorithms -- Turning data into probabilities -- Basic statistics --
 Bias-variance tradeoff.
 #+BEGIN_COMMENT
 - In AU syllabus Learning problem and decision tree are discussed
-- Here Introduction, types and basic statistics are discussed
+- Here Introduction, types and basic statistics are discussed, decision trees discussed in Unit 3
 #+END_COMMENT
 
 {{{unit}}}
