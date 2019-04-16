@@ -35,13 +35,13 @@
 |UNIT I | Digital Image Fundamentals | 9 |
 Introduction to Digital Image Processing: Components -- Image sensing
 and acquisition -- Image sampling and quantization; Relationships
-between pixels; 2D Mathematical Preliminaries: Array vs matrix
+between Pixels; 2D Mathematical Preliminaries: Array vs matrix
 operations -- Linear vs nonlinear operations -- Arithmetic -- Logical --
 Statistical -- Spatial operations.
 
 {{{unit}}}
 |UNIT II | Image Enhancement | 9 |
-Spatial domain: Gray level transformations -- Histogram processing;
+Spatial Domain: Gray level transformations -- Histogram processing;
 Basics of Spatial Filtering: Smoothing and sharpening spatial
 filtering; Frequency Domain: Introduction to fourier transform --
 Smoothing and Sharpening Frequency Domain Filters: Ideal --
