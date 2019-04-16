@@ -51,7 +51,7 @@ interested domain based on the approval from the concerned faculty.
    satisfy the SRS.
 8. Test the developed software system. Identify the areas in which
    refinement is needed.
-9. Refine the design of the modules and implement the same.
+9. Refine the design of the modules using appropriate design patterns and implement the same.
 10. Test the software again after refinement to check, whether it
     satisfies the SRS, and carry over the refinement if needed.
 
