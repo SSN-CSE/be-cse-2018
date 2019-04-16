@@ -50,12 +50,12 @@ problems and Turan’s theorem.
 
 {{{unit}}}
 |UNIT IV | PLANARITY, EDGES AND CYCLES | 8|
-Embeddings and Euler's Formula: Drawings in the Plane -- Dual graphs --
-Euler's Formula; Characterization of Planar Graphs: Kuratawoski’s
+Embeddings and Euler's Formula: Drawings in the plane -- Dual graphs --
+Euler's formula; Characterization of Planar Graphs: Kuratawoski’s
 theorem -- Convex embeddings -- Planarity testing; Line Graphs and Edge
-Colorings: Edge coloring -- Characterization of Line graphs;
+Colorings: Edge coloring -- Characterization of line graphs;
 Hamiltonian Cycles: Necessary and sufficient conditions -- Cycles in
-Digraphs; Planarity, Coloring & Cycles: Tate’s theorem -- Grinberg’s
+digraphs; Planarity, Coloring & Cycles: Tate’s theorem -- Grinberg’s
 theorem.
 
 {{{unit}}}
@@ -73,10 +73,10 @@ expanders.
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Write precise mathematical definitions of objects in graph theory (K2)
-- Read and analyse proofs on Trees and Bipartite Graph matching (K4)
-- Read and analyse proofs on Graph Coloring and Connectivity (K4)
-- Read and analyse proofs on Graph Planarity (K4)
-- Read and analyse proofs on Matroids, Ramsey Theory, Graph Eigenvalues (K4).
+- Read and analyse proofs on Trees and Bipartite Graph matching (K3)
+- Read and analyse proofs on Graph Coloring and Connectivity (K3)
+- Read and analyse proofs on Graph Planarity (K3)
+- Read and analyse proofs on Matroids, Ramsey Theory, Graph Eigenvalues (K3).
 
 ** References
 1. Douglous West, ``Introduction to Graph Theory'', Pearson Education,
