@@ -28,9 +28,9 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Need for Parallel Processing -- Data and Temporal Parallelism -- Models of Computation -
+Need for Parallel Processing -- Data and Temporal Parallelism -- Models of Computation --
 RAM and PRAM Model -- Shared Memory and Message Passing Models -- Processor
-Organisations -- PRAM Algorithm –- Analysis of PRAM Algorithms -- Parallel Programming
+Organisations -- PRAM Algorithm -- Analysis of PRAM Algorithms -- Parallel Programming
 Languages.
 
 {{{unit}}}
@@ -68,7 +68,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOK
 
-1. Michael J Quinn, "Parallel Computing : Theory & Practice", Second edition, Tata McGraw Hill, 2017.
+1. Michael J Quinn, "Parallel Computing : Theory & Practice", 2nd edition, Tata McGraw Hill, 2017.
 2. V Rajaraman, C Siva Ram Murthy, " Parallel computers- Architecture and Programming ", PHI learning, 2016.
 
 ** REFERENCES
