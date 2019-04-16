@@ -10,11 +10,11 @@
 | 2 | 0 | 2 | 3 |
 
 #+begin_comment
-1. Fifth unit is reframed according to industry needs. All other units are already discussed in AU-2017.
-2. For changes, see the individual units, some units were reordered
-3. This subject is partially offered under M.E syllabus as Mobile and Pervasive Computing (elective), but the syllabus is entirely different.
-4. Five Course outcomes specified and aligned with units.
-5. Done.
+1. In AU-R2017, it is given under the name Internet Programming, we have changed both client and server side with single technology for ease
+2. For changes, see the individual units
+3. This subject is offered under B.E syllabus as Internet Programming (core), it additionally includes Java server technology and different Javascript client framework 
+4. Five Course outcomes have been specified and it was aligned with the units.
+5. Suggestive experiments are given.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -29,6 +29,13 @@ Introduction: HTML Basics -- Document Structure -- Formatting
 Texts -- Lists and Backgrounds -- Hyperlinks and Anchors; Page Layout
 and Navigation: Layouts -- Tables -- Forms -- Sound and Videos.
 
+#+BEGIN_COMMENT
+
+Removal
+       Web essentials and CSS3 was removed - Web basics are overviewed in Unit IV, CSS3 is given as seperate unit for ease
+     
+#+END_COMMENT
+
 {{{unit}}}
 | UNIT II | STYLING WEBPAGE WITH CSS3 | 6 |
 CSS Basics: HTML for CSS -- Creating Styles and Style Sheets --
@@ -36,13 +43,34 @@ Selectors; Applied CSS: Formatting Texts -- Margin, Padding and
 Borders -- Adding Graphics to web pages -- Navigation bars and links
 -- Formatting Tables and Forms.
 
+#+BEGIN_COMMENT
+
+Retain 
+      Core concepts are retained 
+
+Removal
+       Advanced concepts such as transformation, transitions, animations are removed
+     
+#+END_COMMENT
+
+
+
 {{{unit}}}
 | UNIT III | CLIENT SIDE JAVA SCRIPT | 6 |
 Introduction to Java script: JavaScript usage -- Role in Web page --
 Role in Web Development; Script setup; The building Blocks: Data
 Types, Literals, Variables; Dialog box; Operators; Conditionals &
-loops; Functions; Objects; Core Objects; Working with forms; working
-with images; Handling Events.
+loops; Functions; Objects; Core Objects; working with images; Handling Events.
+
+#+BEGIN_COMMENT
+
+Retain 
+      Core concepts are retained 
+
+Removal
+       Javascript DOM, Regular Expression JSON were removed - advanced concepts
+    
+#+END_COMMENT
 
 {{{unit}}}
 | UNIT IV | SERVER SIDE JAVASCRIPT WITH NODE AND EXPRESS | 6 |
@@ -51,11 +79,23 @@ Express: Scaffolding --views and layouts -- Static files and views --
 Dynamic content in views; Request and Response Objects; Templating
 with Handlebars.
 
+#+BEGIN_COMMENT
+
+Important  -  This unit is new and it is not in AU-R2017 - Reason:  For ease,  to learn single language for client and server, instead of differebt Java based server technology as in AU-R2017, server and client end using same technology i.e. Javascript framework for both is added.
+
+#+END_COMMENT
+
 {{{unit}}}
 | UNIT V |BUILDING WEB APPLICATIONS | 6 |
 Form Handling: Sending Client data to Server -- HTML forms --
 Different approaches for form handling -- Form Handling with Express;
 Persistence; Routing; Static Content; Debugging.
+
+#+BEGIN_COMMENT
+
+Important  -  This unit is new and it is not in AU-R2017 - Reason:  same as given in previous unit (Unit IV)
+
+#+END_COMMENT
 
 ** SUGGESTIVE EXPERIMENTS
 - Design a Personal website using HTML5 elements. 
