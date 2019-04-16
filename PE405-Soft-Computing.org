@@ -10,7 +10,7 @@
 - 2. Referred other university syllabus.
 - 3. Offered only in AU BE 2017 curriculum
 - 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 5. Not Applicable.
 #+end_comment
 
 
@@ -40,9 +40,9 @@ Almost same, but removed Hebbian  and  Delta-Perceptron Network-Adaline Network-
 
 {{{unit}}}
 | UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
-Supervised Learning Network: Perceptron Networks -- Adaptive linear
+Supervised Learning Network: Perceptron networks -- Adaptive linear
 neuron -- Multiple adaptive linear neurons -- Back propagation
-networks -- Radial Bias Function network; Associative Memory Networks:
+networks -- Radial bias function network; Associative Memory Networks:
 Autoassociative memory network -- Bidirectional associative memory --
 Hopfield networks; Unspervised Learning Networks: Hamming network --
 Kohonen neural network -- Learning vector quantization -- Adaptive
