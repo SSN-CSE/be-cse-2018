@@ -7,6 +7,14 @@
 |L|T|P|C|
 |2|0|2|3|
 
+#+begin_comment
+- 1. New Open Elective paper
+- 2. New syllabus
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Applicable (suggestive experiments given)
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To understand the protocol layering and physical level communication
 - To understand the various components required to build different networks
