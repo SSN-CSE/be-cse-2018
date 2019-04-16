@@ -5,7 +5,7 @@
 
 #+begin_comment
 - 1. No equivalent subject in AU 2017
-- 2. Refered other university syllabus.
+- 2. Referred other university syllabus.
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
