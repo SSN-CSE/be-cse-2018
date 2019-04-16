@@ -30,7 +30,9 @@ Objectives and Principles: Fundamental test process -- Test levels --
 Establishing a testing policy -- Structured approach to testing --
 Test factors -- Developing risk matrix -- Steps in software testing
 process.
+#+begin_comment
 
+#+end_comment
 {{{unit}}}
 |UNIT II|  TEST CASE DESIGN STRATEGIES AND METHODS |9| 
 Strategies and Methods for Test Case Design: Introduction to testing
@@ -41,7 +43,9 @@ graphing -- State transition testing -- Error guessing; Using the
 white box approach to test design -- Coverage and control flow graphs
 -- Covering code logic -- Paths -- Data flow and white box test design
 -- Loop testing--Mutation testing;
-
+#+begin_comment
+Reordered the content according to black box and white box test case design methods.
+#+end_comment
 {{{unit}}}
 |UNIT III|  LEVELS OF TESTING |9| 
 Levels of Testing: The Need for levels of testing -- Unit test
@@ -52,7 +56,10 @@ integration tests -- Integration test planning -- System test --
 Functional testing -- Performance testing-- Stress testing --
 Configuration testing -- Security testing -- Recovery testing --
 Regression testing -- Alpha, beta and acceptance tests.
+#+begin_comment
+removed Testing the documentation –Website testing.
 
+#+end_comment
 {{{unit}}}
 |UNIT IV| TEST AUTOMATION AND MANAGEMENT |9|
 Test Planning, Management, execution and Reporting : Test planning --
@@ -60,7 +67,9 @@ Management -- Process -- Reporting; Software Test Automation: Testing
 tools; Controlling and Monitoring the Testing Process: Measurements
 and milestones for controlling and monitoring -- Criteria for test
 completion -- Configuration management -- Controlling and monitoring.
-
+#+begin_comment
+-Test automation and Mangement is combined as Unit-IV, Whereas test management and automation are given in Unit IV and Unit V in anna university syllabus
+#+end_comment
 {{{unit}}}
 |UNIT V|SOFTWARE QUALITY ASSURANCE |9|
 Software Quality; Quality Factors: Product operation, revision and
@@ -70,7 +79,9 @@ Components in Project Life Cycle: SQA defect removal policies;
 Reviews; Project progress control; Costs; Quality Management
 Standards; Project Process Standards; Management and its Role in SQA;
 SQA Unit.
-
+#+begin_comment
+-Newly added Unit
+#+end_comment
 \hfill *Total: 45*
 
 ** COURSE OUTCOMES
