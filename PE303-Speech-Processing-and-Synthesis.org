@@ -36,6 +36,7 @@ of speech production -- Digital models for speech signals.
 Added: Introduction: Discrete-time signals and systems -- Transform
 representation of signals and systems -- Fundamentals of digital
 filters -- Sampling.
+Deleted :All the topics in the first unit is removed
 Importance: Introduction about the discrete time signals is needed to study the speech signal processing.
 #+end_comment
 
@@ -47,6 +48,7 @@ discrimation using ZCR and energy -- Short-time autocorreleation
 function -- Pitch period estimation using autocorrelation function.
 #+begin_comment
 Added: The full unit
+Deleted: Except HMM, all the remaining topics are removed
 Importance: Need to know the feature extraction in time domain
 #+end_comment
 
@@ -60,6 +62,7 @@ Autocorrelation method -- Covariance method; Solution of LPC equations
 Pitch detection.
 #+begin_comment
 Added: The full unit
+Deleted: All the topics are removed 
 Importance: Need to know the feature extraction in frequency domain
 #+end_comment
 
@@ -73,6 +76,7 @@ recognition system.
 Added: Preprocessing -- Parametric representation -- Speech
 segmentation -- Dynamic time warping -- Vector quantization -- Developing an isolated digit
 recognition system.
+Removed: discriminative training - speech recognition by humans
 Importance: Steps for developing a speech recognition system are necessary
 #+end_comment
 
@@ -85,7 +89,8 @@ system.
 #+begin_comment
 Added: Prosodic modification of speech --
 Source filter models for prosody modification
-Importance: Role of prosody in speech synthesis
+Changes: Speech synthesis is given as speech identification in AU2017 syllabus
+Importance: Role of prosody in speech synthesis. 
 #+end_comment
 
 \hfill *Total Periods: 45*
