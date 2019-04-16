@@ -10,9 +10,11 @@
 | 3 | 0 | 2 | 4 |
 
 #+begin_comment
-This course syllabus is substantially different from the current one
-in Anna University curriculum as we have followed a different text
-book. In particular, we do not have a unit on Expert Systems.
+- 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
+- 2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Lab Exercises are given for each unit.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -56,11 +58,10 @@ its use; Probabilistic Reasoning: The semantics of Bayesian networks
 uncertain reasoning.
 
 {{{unit}}}
-| UNIT V | LEARNING AND ITS APPLICATIONS | 9 |
+| UNIT V | LEARNING | 9 |
 Learning from Examples: Forms of learning -- Supervised learning --
 Learning decision trees; Reinforcement learning: Passive reinforcement
-learning -- Active reinforcement learning -- Applications of
-reinforcement learning.
+learning -- Active reinforcement learning -- Applications to robot control.
 
 \hfill *Theory Periods: 45*
 
