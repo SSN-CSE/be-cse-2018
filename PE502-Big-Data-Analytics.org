@@ -54,7 +54,11 @@ Moved: Clustering to Unit - IV
 
 {{{unit}}}
 |UNIT III | DATA STREAM ANALYSIS | 9 |
-Introduction to streams concepts: Stream data model and architecture -- Stream computing, Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- Estimating moments -- Counting oneness in a window -- Decaying window; Real Time Analytics Platform(RTAP) applications -- Case studies: Real time sentiment analysis, Stock market predictions.
+Introduction to streams concepts: Stream data model and architecture -- Stream computing,
+ Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- 
+Estimating moments -- Counting oneness in a window -- Decaying window; 
+Real Time Analytics Platform(RTAP) applications -- 
+Case studies: Real time sentiment analysis, Stock market predictions.
 #+begin_comment
 Moved:  Unit - IV in AU 2017 syllabus to Unit - III
 Removed: Using Graph Analytics for Big Data: Graph Analytics
