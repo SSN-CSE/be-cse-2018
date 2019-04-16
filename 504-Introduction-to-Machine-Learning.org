@@ -41,7 +41,7 @@ algorithms -- Turning data into probabilities -- Basic statistics --
 Bias-variance tradeoff.
 #+BEGIN_COMMENT
 - In AU syllabus Learning problem and decision tree are discussed
-- Here Introduction, types and basic statistics are discussed, decision trees discussed in Unit 3
+- Here Introduction, types and basic statistics are discussed, decision trees moved to Unit 3
 #+END_COMMENT
 
 {{{unit}}}
@@ -95,14 +95,12 @@ Exploitation and exploration.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2)
-- Apply supervised and unsupervised learning algorithms for different
-  tasks (K3)
-- Understand the use of reinforcement learning techniques to various
-  problems (K2)
+- Apply supervised algorithms for different classification problems (K3)
+- Understand the need of ensemble methods (K2) 
+- Apply unsupervised and reinforcement learning techniques to various
+  problems (K3)
 - Understand the requirement of dimensionality reduction and
   optimisation techniques (K2)
-- Apply and analyze the various machine learning algorithms for real
-  world problems (K4).
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
