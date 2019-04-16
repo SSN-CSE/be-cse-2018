@@ -38,7 +38,7 @@ identically distributed random variables).
 | UNIT III | TESTS OF SIGNIFICANCE | 12 |
 Sampling distributions -- Small and large sample test -- Test based on
 Normal and t distribution (Single and difference of mean and
-proportion)-- \chi^2 -- Test forgoodness of fit, Independence of
+proportion)-- \chi^2 -- Test for goodness of fit, Independence of
 attributes- F test for variance.
 
 {{{unit}}}
