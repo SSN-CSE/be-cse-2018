@@ -9,6 +9,13 @@
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
+#+begin_comment
+1. Fifth unit is reframed according to industry needs. All other units are already discussed in AU-2017.
+2. For changes, see the individual units, some units were reordered
+3. This subject is partially offered under M.E syllabus as Mobile and Pervasive Computing (elective), but the syllabus is entirely different.
+4. Five Course outcomes specified and aligned with units.
+5. Done.
+#+end_comment
 
 ** COURSE OBJECTIVES
 - Learn to design static web pages using HTML5 anrnd CSS3
