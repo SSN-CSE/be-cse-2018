@@ -5,6 +5,9 @@
 
 
 #+startup: showall
+#+begin_comment
+- 1. Experiments related to JSP, PHP, XML and web services were removed when compared to AU-R2017 as they were removed in the theory 
+#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
