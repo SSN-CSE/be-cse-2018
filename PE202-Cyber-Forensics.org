@@ -10,18 +10,25 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 #+begin_comment
-Unit-1:   AU-Unit I included. 
+- 1. Almost the same as AU
+- 2. The changes are listed below.
+         Unit-1:   AU-Unit I included. 
 
-Unit-2:  AU-Unit I topics included
+         Unit-2:  AU-Unit I topics included
          AU-Unit I data acquisition topics is elaborated 
 
-Unit-3: AU-Unit II topics included
-        AU-Unit III topics included
+         Unit-3: AU-Unit II topics included
+         AU-Unit III topics included
 
-Unit-4: AU-Unit III topics included 
+         Unit-4: AU-Unit III topics included 
 
-Unit-5:  New tools topics included
+         Unit-5:  New tools topics included
          Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
+
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+
 #+end_comment
 
 ** COURSE OBJECTIVES
