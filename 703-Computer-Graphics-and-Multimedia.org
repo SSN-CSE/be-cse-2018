@@ -5,10 +5,11 @@
 :end:
 
 #+begin_comment
-- 1. Unit V changed to include MUltimedia concepts.
-- 2.  Unit I - Random and Raster scan systems are added as introductory topics.
-      Unit III - B SPlines is removed as under spline representaions topic, Bezier curve is already given.
-      Unit V changed to accomodate Multimedia concepts.
+- 1. Unit IV & V differs from AU2017. 
+- 2.  Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
+      Unit III - B SPlines is removed as under spline representaions topic, Bezier curve is already given. Visible surface detection methods removed.
+      Unit IV - Instead of Multimedia introduction, changed to Illumination models and added Animation. 
+      Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. For Lab, suggestive experiments are clearly defined.
