@@ -5,7 +5,12 @@
 :end:
 
 #+startup: showall
-
+#+begin_comment
+Topic:
+1. Introduction to web security alone is discussed in unit 3.
+2. Due to limited hours,  indepth topics on Web security cannot be included.
+3. OWASP deals with web application security.
+#+end_comment
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
