@@ -4,6 +4,15 @@
 :date: 
 :end:
 
+#+begin_comment
+Included project model in Unit I instead of having it in AU R2017 -Unit II
+Included scheduling in Unit II instead of having it in AU R2017-Unit III
+Added security topic in syllabus, which is not provided in AU R2017
+Added risk in Unit IV instead of AU R2017-Unit III
+New process model is added in syllabus which is not provided in AU R2017
+Included monitoring topics in Unit V instead of AU-Unit IV
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -30,8 +39,7 @@ DSDM -- Agile -- Scrum --XP; Software Development: Lean software
 development -- Process model selection.
 
 #+begin_comment
-...Included project model in Unit I instead of having it in AU-Unit
-II...
+...Included project model in Unit I instead of having it in AU-Unit II...
 #+end_comment
 
 {{{unit}}}
