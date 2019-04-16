@@ -9,7 +9,7 @@
 - 2. For changes, see the individual units.
 - 3. BE and ME syllabi are different.
 - 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 5. Not Applicable.
 #+end_comment
 
 #+startup: showall
@@ -29,15 +29,15 @@
 | UNIT I | INTRODUCTION TO IOT | 9 |
 Genesis -- Impact and Challenges of IoT -- IoT Network Architecture
 and Design: Need for new architectures -- Basic IoT Architecture --
-oneM2M and IoT World Forum Architectures -- Core IoT Functional Stack
--- IoT Data Management and Compute Stack.
+foneM2M and IoT world forum architectures -- Core IoT functional stack
+-- IoT data management and compute stack.
 
 {{{unit}}}
 | UNIT II | ENGINEERING IoT NETWORKS | 9 |
 Sensing Devices: Sensors -- Actuators -- MEMS -- Smart objects --
 Sensor networks -- Connecting smart objects; IoT Access Technologies:
 IEEE 802.15.4 -- IEEE 802.15.4g and 802.15.4e -- IEEE 1901.2a -- IEEE
-802.11ah -- LoRaWAN -- NB-IoT and other LTE Variations.
+802.11ah -- LoRaWAN -- NB-IoT and other LTE variations.
 
 {{{unit}}}
 | UNIT III | IoT NETWORK AND APPLICATION LAYER PROTOCOLS | 9 |
