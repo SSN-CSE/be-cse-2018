@@ -18,7 +18,7 @@
 
 {{{unit}}}
 | UNIT I | WEB PAGE DESIGNING USING HTML | 6 |
-HTML Basics; Document Structure; Formatting Texts; Lists and Backgrounds; Hyperlinks and Anchors; Navigation; Layouts; Tables; Forms; Sound and Videos.
+Introduction: HTML Basics -- Document Structure -- Formatting Texts -- Lists and Backgrounds -- Hyperlinks and Anchors; Page Layout and Navigation: Layouts -- Tables -- Forms -- Sound and Videos.
 
 {{{unit}}}
 | UNIT II | STYLING WEBPAGE WITH CSS3 | 6 |
@@ -37,18 +37,13 @@ Introduction to Express; Getting started with Node; Saving time with Express: Sc
 Form Handling: Sending Client data to Server -- HTML forms -- Different approaches for form handling -- Form Handling with Express; Persistence; Routing; Static Content; Debugging.
 
 ** SUGGESTIVE EXPERIMENTS
-- Design a Personal website using HTML5 elements.
-- Design a web page using form controls and perform in-built
-  validation (e.g. Login form, Registration form)
-- Use Embedded, Inline and External Style sheets for styling a web
-  page
-- Use Selectors to format texts, margins, padding, borders, tables,
-  forms for a web page
-- Develop Java script programs using event handling mechanism
-  (e.g. Calculator, Tic Tac Toe game)
+- Design a Personal website using HTML5 elements. 
+- Design a web page using form controls and perform in-built validation (e.g. Login form, Registration form)
+- Use Embedded, Inline and External Style sheets for styling a web page
+- Use Selectors to format texts, margins, padding, borders, tables, forms for a web page
+- Develop Java script programs using event handling mechanism (e.g. Calculator, Tic Tac Toe game)
 - Develop a web application for personal website using ExpressJS
-- Develop a web application for student information system that allows
-  to perform CRUD operations using ExpressJS and MySQL
+- Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
 
 
 \hfill *Practical Periods: 30*
@@ -64,22 +59,15 @@ After the completion of this course, students will be able to:
 - Develop web applications using ExpressJS (K3).
       
 ** TEXT BOOKS
-1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft,
-   O'Reilly, 2013 (Unit I).
-2. David McFarland, ``CSS3: The Missing Manual'', 3rd Edition, ,
-   O'Reilly, December 2012 (Unit II).
-3. Ellie Quigley, ``JavaScript by example'', 2nd Edition, Prentice
-   Hall, 2011 (Unit III).
-4. Ethan Brown, ``Development with Node and Express'', O’Reilly, 1st
-   Edition, July 2014 (Units IV, V).
+1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft, O'Reilly, 2013. (Unit I)
+2. David McFarland, ``CSS3: The Missing Manual'', 3rd Edition, , O'Reilly, December 2012. (Unit II)
+3. Ellie Quigley, ``JavaScript by example'', 2nd Edition, Prentice Hall, 2011. (Unit III)
+4. Ethan Brown, ``Development with Node and Express'', O’Reilly, 1st Edition, July 2014. (Unit IV, Unit V) 
 
 ** REFERENCE BOOKS
-1. Jennifer Niederst Robbins, ``Learning Web Design'', O'Reilly, 4th
-   Edition, 2012.
-2. Robert W Sebesta, ``Programming the World Wide Web'', 4th Edition,
-   Pearson Education, 2007.
-3. Shelly Powers, ``Learning JavaScript'', O'Reilly, 2nd
-   Edition, 2008.
+1. Jennifer Niederst Robbins, ``Learning Web Design'', O'Reilly, 4th Edition, 2012.
+2. Robert W Sebesta, ``Programming the World Wide Web'', 4th Edition, Pearson Education, 2007.
+3. Shelly Powers, ``Learning JavaScript'', O'Reilly, 2nd Edition, 2008.
 4. Basaret Ali Syed, ``Beginning Node.js'', Apress, December 2014.
 5. Azat Mardan, ``Express.js Guide'', Lean Publishing, 2014.
 
