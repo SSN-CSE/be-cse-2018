@@ -31,19 +31,20 @@ Machine learning and it's use; Types of machine learning; Challenges
 of machine learning; Testing and validating.
 
 {{{unit}}}
-| UNIT II | DEVELOPING A MACHINE LEARNING APPLICATION| 6 |
-Working with real data -- Look at the big picture -- Get the data -- Discover and visualize
-the data -- Data preparation -- Select and train model.
+| UNIT II | DEVELOPING A MACHINE LEARNING APPLICATION | 6 |
+Working with real data -- Look at the big picture -- Get the data --
+Discover and visualize the data -- Data preparation -- Select and
+train model.
 
 {{{unit}}}
-|UNIT III | CLASSIFICATION AND REGRESSION | 8 |
+| UNIT III | CLASSIFICATION AND REGRESSION | 8 |
 Classification: Training a binary classifier -- Performance measures
 -- Multiclass classification; Regression: Linear regression --
-Gradient descent -- Logistic Regression; Support Vector Machines: Linear SVM classification
--- Nonlinear SVM classification.
+Gradient descent -- Logistic Regression; Support Vector Machines:
+Linear SVM classification -- Nonlinear SVM classification.
 
 {{{unit}}}
-|UNIT IV | TREE MODELS AND ENSEMBLE LEARNING | 6 |
+| UNIT IV | TREE MODELS AND ENSEMBLE LEARNING | 6 |
 Decision Trees: Training and visualizing trees -- Making predictions
 -- Estimating class probabilities -- CART training algorithm --
 Regularization of hyperparameters; Ensemble learning: Voting
@@ -104,6 +105,3 @@ After the completion of this course, students will be able to:
    (India) Private Limited, 2013.
 5. Andreas C. Muller, Sarah Guido, ``Introduction to Machine
    Learning with Python'', O'Reilly Media, 2016.
-
-
-

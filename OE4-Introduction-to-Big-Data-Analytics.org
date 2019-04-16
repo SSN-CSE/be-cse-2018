@@ -4,6 +4,8 @@
 :date: 27 March 2019
 :end:
 
+#+startup: showall
+
 {{{credits}}}
 |L|T|P|C|
 |2|0|2|3|
@@ -17,26 +19,26 @@
 
 
 {{{unit}}}
-|Unit I|Introduction to Big Data|7| 
+| UNIT I | INTRODUCTION TO BIG DATA | 7 |
 Introduction -- Understanding Big Data -- Big Data: Benifitting --
 Managing -- Organizing and Analyzing Big Data: Learning and Analytics;
 Technology Challenges for Big Data.
 
 {{{unit}}}
-|Unit II| HDFS |9| 
+| UNIT II | HDFS | 9 |
 Introduction -- Distributed File System -- Google File System -- HDFS
 Design Goals -- Using HDFS.
 
 {{{unit}}}
-|Unit III|Data Processing using MapReduce |10| 
+|UNIT III|DATA PROCESSING USING MAPREDUCE |10| 
 Introduction -- MapReduce Overview -- Working of MapReduce --
-Programming -- Writing and Testing MapReduce Programs
+Programming -- Writing and Testing MapReduce Programs.
 
 {{{unit}}}
-|Unit IV|NoSQL|9|
+| UNIT IV | NoSQL | 9 |
 Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage
 Types -- Advantages and Drawbacks - NoSQL Database Framework: Hive and
-HBase
+HBase.
 
 {{{unit}}}
 |Unit V|Data Analysis |10|
@@ -49,23 +51,28 @@ Classification: SVM – Decision Trees; Linear Classifiers
      frequency programs / matrix multiplication)
 
 - R
-  1. Linear and logistic Regression (Loan prediction using Credit approval dataset, Sales prediction using  Bigmart  dataset)
-  2. SVM / Decision tree classification techniques (Flower type classification based  on available attributes using  Iris dataset, Passengers survival classification using  titanic dataset)
+  1. Linear and logistic Regression (Loan prediction using Credit
+     approval dataset, Sales prediction using Bigmart dataset)
+  2. SVM / Decision tree classification techniques (Flower type
+     classification based on available attributes using Iris dataset,
+     Passengers survival classification using titanic dataset)
   3. Clustering (Document categorization by multiclass techniques)
   4. Visualize  data  using  any plotting framework
 
 - Database
-  1. Application that stores data  in Hbase (Sentiment analysis using  twitter dataset)
+  1. Application that stores data in Hbase (Sentiment analysis using
+     twitter dataset)
 
 \hfill *Total: 60*
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Understand how to leverage the insights from big data analytics (K2)
-- Understand and apply distributed computing for better storage of data (K3)
+- Understand and apply distributed computing for better storage of
+  data (K3)
 - Develop applications using Hadoop related tools(K4)
-- Use database frameworks like Hive  and  Hbase for data  analysis(K3)
-- Solve applications using  statistical and data  analytic methods (K3)
+- Use database frameworks like Hive and Hbase for data analysis(K3)
+- Solve applications using  statistical and data  analytic methods (K3).
 
 ** TEXT BOOKS
 1. Parag Kulkarni, Sarang Joshi, ``Big Data Analytics'', PHI
@@ -80,7 +87,7 @@ Upon the completion of the course the students should be able to:
    Wiley & sons, 2012. 
 3. Gaurav Vaish, ``Getting Started with NoSQL'', Packt Publishing
    Ltd, 2013.
-4. E. Capriolo, D. Wampler, and J. Rutherglen, ``Programming Hive'',
+4. E Capriolo, D Wampler, J Rutherglen, ``Programming Hive'',
    O'Reilly, 2012.
 5. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
 
