@@ -42,7 +42,7 @@ After the completion of this course, students will be able to:
 - Apply appropriate features of oop programming paradigm to design mini project(K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
-*** Hardware
+Hardware:\\
     1. Standalone Systems - 25 Nos
-*** Software
+Software:\\
     1. C++ Compiler

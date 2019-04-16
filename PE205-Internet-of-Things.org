@@ -1,4 +1,4 @@
-* <<<PE206>>> INTERNET OF THINGS
+* <<<PE205>>> INTERNET OF THINGS
 :properties:
 :author: Dr. V. S. Felix Inigo and Mr. K. R. Sarath Chandran
 :date: 
@@ -69,21 +69,23 @@ After completion of this course, students should be able to:
 
 
 ** TEXT BOOKS
-1. David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton, Jerome Henry, 
-   “IoT  Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things”, 
-   Cisco Press, Pearson, 2019.
-2. Perry Lea,  "Internet of Things for Architects",  Packt Publishing, O'Reilly,  January 2018.
+1. David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton,
+   Jerome Henry, ``IoT Fundamentals: Networking Technologies,
+   Protocols, and Use Cases for the Internet of Things'', Cisco Press,
+   Pearson, 2019.
+2. Perry Lea, ``Internet of Things for Architects'', Packt Publishing,
+   O'Reilly, January 2018.
 
 ** REFERENCES
-1. Arshdeep Bahga, Vijay Madisetti, "Internet of Things: A hands-on
-   approach", Universities Press, 2015.
+1. Arshdeep Bahga, Vijay Madisetti, ``Internet of Things: A hands-on
+   Approach'', Universities Press, 2015.
 2. Dieter Uckelmann, Mark Harrison, Michahelles, Florian (Eds),
-   "Architecting the Internet of Things", Springer, 2011.
-3. Honbo Zhou, "The Internet of Things in the Cloud: A Middleware
-   Perspective", CRC Press, 2012.
+   ``Architecting the Internet of Things'', Springer, 2011.
+3. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
+   Perspective'', CRC Press, 2012.
 4. Jan Holler, Vlasios Tsiatsis , Catherine Mulligan, Stamatis ,
-   Karnouskos, Stefan Avesand, David Boyle, "From Machine-to-Machine
-   to the Internet of Things - Introduction to a New Age of
-   Intelligence", Elsevier, 2014.
-5. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of
-   Things -- Key applications and Protocols", Wiley, 2012.
+   Karnouskos, Stefan Avesand, David Boyle, ``From Machine-to-Machine
+   to the Internet of Things -- Introduction to a New Age of
+   Intelligence'', Elsevier, 2014.
+5. Olivier Hersent, David Boswarthick, Omar Elloumi, ``The Internet of
+   Things -- Key applications and Protocols'', Wiley, 2012.

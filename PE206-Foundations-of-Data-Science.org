@@ -1,4 +1,4 @@
-* <<<PE207>>> FOUNDATIONS OF DATA SCIENCE
+* <<<PE206>>> FOUNDATIONS OF DATA SCIENCE
 :properties:
 :author: Ms. S. Rajalakshmi  and Dr. J. Bhuvana
 :date: 

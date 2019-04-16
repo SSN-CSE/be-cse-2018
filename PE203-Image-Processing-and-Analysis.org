@@ -1,4 +1,4 @@
-* <<<PE204>>> IMAGE PROCESSING AND ANALYSIS
+* <<<PE203>>> IMAGE PROCESSING AND ANALYSIS
 :properties:
 :author: Ms. R. Priyadharsini and Ms. K. Lekshmi
 :date:  
@@ -36,8 +36,8 @@
 Introduction to Digital Image Processing: Components -- Image sensing
 and acquisition -- Image sampling and quantization; Relationships
 between Pixels; 2D Mathematical Preliminaries: Array vs matrix
-operations -- Linear vs nonlinear operations -- Arithmetic -- Logical --
-Statistical -- Spatial operations.
+operations -- Linear vs nonlinear operations -- Arithmetic -- Logical
+-- Statistical -- Spatial operations.
 
 {{{unit}}}
 |UNIT II | Image Enhancement | 9 |

@@ -1,4 +1,4 @@
-* <<<PE205>>> EXPERT SYSTEMS
+* <<<PE204>>> EXPERT SYSTEMS
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. S. Kavitha
 :date: 13 November 2018
@@ -10,12 +10,10 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+begin_comment:
-
+#+begin_comment
 We are not aware of any Expert Systems course in Anna University
 curriculum. This syllabus is completely independent of any Expert
 System course.
-
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -76,10 +74,10 @@ After the completion of this course, students will be able to:
 
 
 ** TEXT BOOKS
-1. Peter J F Lucas & Linda C van der Gaag, ``Principles of Expert
+1. Peter J F Lucas, Linda C van der Gaag, ``Principles of Expert
    Systems'', Addison-Wesley, 1991.
 2. Joseph C Giarratano, ``Expert Systems: Principle & Programming'',
-   Cengage Learning - 4th Edition, 2007.
+   4th Edition, Cengage Learning, 2007.
 
 ** REFERENCES
 1. Donald Waterman, ``A Guide to Expert Systems'', Pearson
