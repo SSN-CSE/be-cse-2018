@@ -1,5 +1,5 @@
 * <<<OE1>>> FUNDAMENTALS OF DATA STRUCTURES
-:properties: Dr J Bhuvana
+:properties: Ms M Saritha
 :author: 
 :end:
 
