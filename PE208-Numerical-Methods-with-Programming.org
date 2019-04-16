@@ -9,6 +9,13 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+#+begin_comment
+- 1. New Subject
+- 2. Not Applicable
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand basic programming constructs
