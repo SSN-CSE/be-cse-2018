@@ -44,7 +44,7 @@ Evaluation: Performance evaluation.
 {{{unit}}}
 | UNIT II | INDEXING AND QUERYING | 9 |
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
-Compression; Querying: Query languages -- Query Operations: Relevance
+Compression; Querying: Query languages; Query Operations: Relevance
 feedback and query expansion -- Automatic local and global analysis.
 
 #+begin_comment
@@ -63,7 +63,7 @@ Searching using hyperlinks.
 {{{unit}}}
 | UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
 Text Classification: Naive Bayes; Vector Space Classification: Rocchio
--- k-Nearest Neighbour -- Flat Clustering: K-Means -- Model-based
+-- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
 clustering -- Hierarchical clustering -- Matrix decompositions and latent
 semantic indexing.
 
@@ -98,10 +98,10 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
    Retrieval: The Concepts and Technology behind Search'', ACM Press
-   Books, Second Edition, 2011.
+   Books, 2nd Edition, 2011.
 2. Christopher D Manning, Prabhakar Raghavan, Hinrich Schutze,
    ``Introduction to Information Retrieval'', Cambridge University
-   Press, First South Asian Edition, 2008.
+   Press, 1st South Asian Edition, 2008.
 
 ** REFERENCES
 1. Stefan Buttcher, Charles L A Clarke, Gordon V Cormack,``Information

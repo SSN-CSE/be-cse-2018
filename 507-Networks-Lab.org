@@ -9,6 +9,11 @@
 - 3. Not Applicable
 - 4. Five Course outcomes specified 
 - 5. Suggestive experiments given
+
+Justifications for comments given by Mr. R.Pradeep - 
+   1. All the topics available in the IIT Kharagpur are included in the Syllabus
+   2. Apart from the topics in IIT Karagpur, we have included Routing algorithms as well.
+   
 #+end_comment
 
 {{{credits}}}
@@ -23,9 +28,7 @@
 - To use simulation tools to analyze the performance of various network protocols.
 
 ** SUGGESTIVE LAB EXERCISES
-1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and
-   traceroute. Capture ping and traceroute PDUs using a network
-   protocol analyzer and examine.
+1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture ping and traceroute PDUs using a network protocol analyzer and examine.
 2. Write a HTTP web client program to download a web page using TCP
    sockets.
 3. Write applications using TCP sockets like:

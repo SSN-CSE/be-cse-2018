@@ -47,7 +47,7 @@ and optimization of program size -- Program validation and testing.
 {{{unit}}}
 | UNIT III | SENSOR INTERFACING WITH ARDUINO | 9 |
 Basics of hardware design and functions of basic passive components --
-Sensors and actuators -- Arduino code -- Library file for sensor
+Sensors and Actuators -- Arduino code -- Library file for sensor
 interfacing -- Construction of basic applications.
 
 {{{unit}}}
@@ -76,7 +76,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Marilyn Wolf, ``Computers as Components -- Principles of Embedded
-   Computing System Design'', 3RD Edition, Morgan Kaufmann Publisher
+   Computing System Design'', 3rd Edition, Morgan Kaufmann Publisher
    (An imprint from Elsevier), 2012.
 2. Michael J Pont, ``Embedded C'' , 2nd Edition, Pearson
    Education, 2008.

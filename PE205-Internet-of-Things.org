@@ -26,7 +26,7 @@
 
 
 {{{unit}}}
-| UNIT I | INTRODUCTION TO IOT | 9 |
+| UNIT I | INTRODUCTION TO IoT | 9 |
 Genesis -- Impact and Challenges of IoT -- IoT Network Architecture
 and Design: Need for new architectures -- Basic IoT Architecture --
 foneM2M and IoT world forum architectures -- Core IoT functional stack
@@ -52,10 +52,10 @@ Introduction -- Machine Learning -- Big Data Analytics Tools and
 Technologies -- Edge Streaming Analytics -- Network Analytics.
 
 {{{unit}}}
-| UNIT V | SECURITY AND REAL WORLD APPLICATIONS | 9 |
+| UNIT V | IoT SECURITY AND CASE STUDY | 9 |
 Cyber Security Vernacular -- Anatomy of IoT Cyber Attacks -- Physical
-and Hardware Security -- IoT Security and Best Practices -- IoT
-Applications: Smart and connected cities.
+and Hardware Security -- IoT Security and Best Practices;
+Case Study: Smart and connected cities.
 
 \hfill *Total Periods: 45*
 
