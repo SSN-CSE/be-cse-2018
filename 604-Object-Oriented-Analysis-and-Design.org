@@ -5,11 +5,9 @@
 :end:
 
 #+begin_comment
-- 1. Almost the same as AU
-- 2. No changes from AU 2017.
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+- 1. No changes from AU 2017.
+- 2. Five Course outcomes specified and aligned with units
+
 #+end_comment
 
 #+startup: showall
