@@ -3,6 +3,14 @@
 :author: J. Bhuvana
 :end:
 
+#+begin_comment
+- 1. Almost the same as AU
+- 2. For changes, see the individual units.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
 #+startup: showall
 
 {{{credits}}}
@@ -20,17 +28,27 @@ Algorithm -- Structure of a C program -- Data Types: built-in,
 user-defined -- Variables and constants -- Input and output statements
 -- Operators, expressions, and assignment statements -- Control
 statements.
+#+begin_comment
+Almost same as that of R2017 syllabus, removed compilation process
+#+end_comment
+
 
 {{{unit}}}
 | UNIT II | FUNCTIONS | 6 |
 Function prototype -- Function definition and call -- Passing
 parameters -- Built-in functions -- Recursion.
+#+begin_comment
+Units reordered, learning functions
+#+end_comment
 
 {{{unit}}}
 | UNIT III | ARRAYS AND POINTERS | 6 |
 Arrays: Declaration, initialization -- One-dimensional arrays --
 Multi-dimensional arrays; Pointers: Pointer operators -- Pointer
 operations -- Array of pointers -- Passing arrays to functions.
+#+begin_comment
+Strings moved to next unit
+#+end_comment
 
 {{{unit}}}
 | UNIT IV | STRINGS, STRUCTURES AND UNIONS | 6 |
@@ -38,13 +56,17 @@ Strings: Constants and variables, reading and writing strings, string
 operations, string library; Command line arguments; Structures:
 Structures and functions -- Array of structures -- Pointer to a
 structure – unions; Dynamic memory allocation.
-
+#+begin_comment
+Unions added
+#+end_comment
 {{{unit}}}
 | UNIT V | FILES | 6 |
 Files: opening and closing a data file -- Creating a data file --
 Processing a data file -- Unformatted data files -- Formatted input
 and output -- Line input and output -- File error handling.
-
+#+begin_comment
+Same as that of R2017 fifth unit
+#+end_comment
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
