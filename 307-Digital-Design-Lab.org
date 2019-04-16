@@ -46,18 +46,16 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand basic gates and universal gates to design a digital circuit (K3).
-- Design and Implement various combinational circuits using logic gates (K3).
-- Design and Implement various combinational circuits using MSI devices (K3).
-- Design and Implement various sequential circuits (K3).
+- Understand basic gates and universal gates to design a digital circuit (K3)
+- Design and Implement various combinational circuits using logic gates (K3)
+- Design and Implement various combinational circuits using MSI devices (K3)
+- Design and Implement various sequential circuits (K3)
 - Simulate various combinational and sequential circuits using HDL (K3).
       
-** Laboratory requirement for batch of 25 students
-
-Hardware:\\
-1. Digital trainer kits  - 25
-2. Digital ICs required for the experiments in sufficient numbers
-
-Software:\\
-1. HDL simulator.
+** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
+*** Hardware
+    1. Digital trainer kits  - 25
+    2. Digital ICs required for the experiments in sufficient numbers
+*** Software
+    1. HDL simulator.
 

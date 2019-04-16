@@ -1,4 +1,3 @@
-
 * <<<301>>> DISCRETE MATHMATICS
 :properties:
 :author: Dr. R. Sundareswaran and Dr. N. Padmapriya
@@ -29,38 +28,38 @@
 
 {{{unit}}}
 |UNIT I | LOGIC AND PROOFS  | 13 |
-Propositional Logic - Propositional equivalences - Predicates and
-quantifiers - Nested quantifiers - Rules of inference - Introduction
-to proofs - Proof methods and strategy - Normal forms - Applications
+Propositional Logic -- Propositional equivalences -- Predicates and
+quantifiers -- Nested quantifiers -- Rules of inference -- Introduction
+to proofs -- Proof methods and strategy -- Normal forms -- Applications
 to switching circuits.
 #+begin_comment
-Added: Normal forms - Applications to switching circuits.
+Added: Normal forms -- Applications to switching circuits.
 #+end_comment
 
 {{{unit}}}
 |UNIT II | COMBINATORICS | 11 |
-Mathematical induction - Strong induction - The pigeonhole principle -
-Recurrence relations - Solving linear recurrence relations using
-generating functions - Inclusion and Exclusion Principle and its
+Mathematical induction -- Strong induction -- The pigeonhole principle --
+Recurrence relations -- Solving linear recurrence relations using
+generating functions -- Inclusion and Exclusion Principle and its
 applications.
 
 {{{unit}}}
 |UNIT III | GRAPHS | 10 |
-Graphs - Graph terminology and special types of graphs - Subgraphs -
-Matrix representation of graphs and graph isomorphism - Connectivity -
+Graphs -- Graph terminology and special types of graphs -- Subgraphs --
+Matrix representation of graphs and graph isomorphism -- Connectivity --
 Eulerian and Hamilton graphs.
 
 {{{unit}}}
 |UNIT IV | ALGEBRAIC STRUCTURES | 13 |
-Algebraic systems - Semi groups and monoids - Groups - Subgroups
-Homomorphisms - Normal subgroup and coset - Lagrange's theorem -
+Algebraic systems -- Semi groups and monoids -- Groups -- Subgroups
+Homomorphisms -- Normal subgroup and coset -- Lagrange's theorem --
 Definitions and examples of Rings and Fields.
 
 {{{unit}}}
 |UNIT V | LATTICES AND BOOLEAN ALGEBRA | 13 |
-Partial ordering - Posets - Lattices as Posets - Properties of
-lattices - Lattices as algebraic systems - Sub lattices - Direct
-product and Homomorphism; Boolean algebra - Stone's representation
+Partial ordering -- Posets -- Lattices as Posets -- Properties of
+lattices -- Lattices as algebraic systems -- Sub lattices -- Direct
+product and Homomorphism; Boolean algebra -- Stone's representation
 Theorem.
 #+begin_comment
 Added: Stone's representation Theorem. 

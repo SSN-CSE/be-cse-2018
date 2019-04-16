@@ -21,30 +21,30 @@
 
 {{{unit}}}
 | UNIT I | RANDOM VARIABLES | 12 |
-Probability -- Axioms of probability--- Conditional probability -- Baye’s
-theorem -- Discrete and continuous random variables -- Moments -- Moment
-generating functions -- Binomial, Poisson, Geometric, Uniform,
-Exponential, Gamma, Normal distributions -- Functions of a random
-variable.
+Probability -- Axioms of probability--- Conditional probability --
+Baye’s theorem -- Discrete and continuous random variables -- Moments
+-- Moment generating functions -- Binomial, Poisson, Geometric,
+Uniform, Exponential, Gamma, Normal distributions -- Functions of a
+random variable.
 
 {{{unit}}}
 | UNIT II | TWO-DIMENSIONAL RANDOM VARIABLES | 12 |
 Joint distributions -- Marginal and conditional distributions --
 Covariance -- Correlation and linear regression -- Transformation of
-random variables -- Central limit theorem (for independent
-and identically distributed random variables).
+random variables -- Central limit theorem (for independent and
+identically distributed random variables).
 
 {{{unit}}}
 | UNIT III | TESTS OF SIGNIFICANCE | 12 |
 Sampling distributions -- Small and large sample test -- Test based on
 Normal and t distribution (Single and difference of mean and
-proportion)-- \chi^2 -- Test forgoodness of fit, Independence of attributes-
-F test for variance.
+proportion)-- \chi^2 -- Test forgoodness of fit, Independence of
+attributes- F test for variance.
 
 {{{unit}}}
 | UNIT IV | DESIGN OF EXPERIMENTS | 12 |
-Completely randomized design -- Randomized block design -- Latin square
-design -- Factorial design.
+Completely randomized design -- Randomized block design -- Latin
+square design -- Factorial design.
 
 {{{unit}}}
 | UNIT V | 	STATISTICAL QUALITY CONTROL | 12 |
@@ -73,13 +73,13 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Devore J L, ``Probability and Statistics for Engineering and the
    Sciences'', 7th Edition, ThomsonBrooks/Cole, International Student Edition, 2008.
-2. Walpole R E, Myers R H, Myers S L and Ye K, ``Probability
+2. Walpole R E, Myers R H, Myers S L, Ye K, ``Probability
    and Statistics for Engineers and Scientists'', 8th Edition, Pearson Education,
    Asia, 2007.
 3. Ross S M, ``Introduction to Probability and Statistics for
    Engineers and Scientists'', 3rd Edition,  Elsevier, 2004.
-4. Spiegel M R, Schiller J and Srinivasan R A, ``Schaum’s
+4. Spiegel M R, Schiller J, Srinivasan R A, ``Schaum’s
    Outline of Theory and Problems of Probability and Statistics'',
    Tata McGraw Hill, 2004.
-5. Gupta S C and Kapoor V K, ``Fundamentals of Mathematical
+5. Gupta S C, Kapoor V K, ``Fundamentals of Mathematical
    Statistics'', Sultan and Chand Company, 2009.

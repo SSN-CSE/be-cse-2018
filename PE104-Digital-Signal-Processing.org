@@ -9,7 +9,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To review discrete-time signals and systems
 - To introduce DFT and its properties for discrete-time signal
   analysis
@@ -21,17 +21,17 @@
 |UNIT I|   REVIEW OF SIGNALS, SYSTEMS AND SIGNAL PROCESSING| 9|
 Basic elements of DSP system, Discrete-Time (DT) signals --
 Classification of DT signals, Concepts of frequency in Analog and
-Digital Signals, Need for sampling and sampling theorem, Discrete -- Time
-systems -- Types of DT system, Analysis of discrete time LTI systems,
-Linear convolution, Z transform and its applications for LTI system
-analysis.
+Digital Signals, Need for sampling and sampling theorem, Discrete --
+Time systems -- Types of DT system, Analysis of discrete time LTI
+systems, Linear convolution, Z transform and its applications for LTI
+system analysis.
 
 {{{unit}}}
 | UNIT II | FREQUENCY ANALYSIS OF DISCRETE-TIME SIGNALS | 9 |
-Introduction to Discrete Fourier Transform (DFT) -- Properties of DFT --
-Circular convolution, Linear filtering based on DFT, Filtering of long
-data sequences using Overlap -- save method and Overlap -- add method,
-FFT Algorithms -- Decimation-in-time (DIT) FFT Algorithm,
+Introduction to Discrete Fourier Transform (DFT) -- Properties of DFT
+-- Circular convolution, Linear filtering based on DFT, Filtering of
+long data sequences using Overlap -- save method and Overlap -- add
+method, FFT Algorithms -- Decimation-in-time (DIT) FFT Algorithm,
 Decimation-in-frequency (DIF) FFT Algorithm.
 
 {{{unit}}}
@@ -40,9 +40,9 @@ Design of analog IIR filter – Butterworth and Chebyshev IIR filters,
 Design of discrete time IIR filter from analog filter -- IIR filter
 design by Impulse Invariance technique (IIT) and Bilinear
 transformation technique (BLT), Structures of IIR filter -- Direct
-form - I, Direct form - II, Cascade and Parallel form, Finite word
-length effects of IIR filter -- limit cycle oscillations, dead band,
-signal scaling.
+form-I, Direct form-II, Cascade and Parallel form, Finite word length
+effects of IIR filter -- limit cycle oscillations, dead band, signal
+scaling.
 
 {{{unit}}}
 | UNIT IV | DESIGN OF FIR FILTER | 9 |
@@ -72,20 +72,20 @@ After the completion of this course, students will be able to:
 - Understand the need of DSP for engineering applications (K2).
 
 ** TEXT BOOKS      
-1. John G. Proakis and Dimitris G Manolakis, ``Digital Signal
-   Processing -- Principles, Algorithms and Applications'', 4th
-   Edition, Pearson Education, Prentice Hall, 2007.
-2. Sanjit K. Mitra, ``Digital Signal Processing -- A Computer Based
+1. John G Proakis, Dimitris G Manolakis, ``Digital Signal Processing
+   -- Principles, Algorithms and Applications'', 4th Edition, Pearson
+   Education, Prentice Hall, 2007.
+2. Sanjit K Mitra, ``Digital Signal Processing -- A Computer Based
    Approach'', 3rd Edition, Tata McGraw Hill, 2007.
 
 ** REFERENCES
-1. S. Salivahanan, ``Digital Signal Processing'', Third Edition, McGraw
+1. S Salivahanan, ``Digital Signal Processing'', Third Edition, McGraw
    Hill Education (India) Private Limited, 2015.
-2. V. Oppenheim, R. W. Schafer and J. R. Buck, ``Discrete-Time Signal
+2. V Oppenheim, R W Schafer, J R Buck, ``Discrete-Time Signal
    Processing'', 8th Indian Reprint, Pearson 2004.
-3. Emmanuel C. Ifeachor and Barrie W. Jervis, ``Digital Signal
+3. Emmanuel C Ifeachor, Barrie W Jervis, ``Digital Signal
    Processing'', 2nd Edition, Pearson Education, Prentice Hall 2002.
 4. Andreas Antoniou, ``Digital Signal Processing'', Tata McGraw Hill,
    2006.
-5. P. Ramesh Babu, ``Digital Signal Processing'', 4th Edition,
-   Scitech Publications (India) Pvt Ltd, 2011.
+5. P Ramesh Babu, ``Digital Signal Processing'', 4th Edition, Scitech
+   Publications (India) Pvt Ltd, 2011.

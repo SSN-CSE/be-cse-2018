@@ -24,14 +24,14 @@
 - Apply 2D, 3D transformations and clipping on objects
 - Learn to draw 3D objects and apply projection techniques
 - Explore image manipulation and enhancement techniques
-- Create 3D animation using any tool
+- Create 3D animation using any tool.
 
 
 ** SUGGESTIVE EXPERIMENTS
 1. Study of Basic output primitives in OpenGL
 2. Implementation of Algorithms for drawing 2D Primitives –
-   1. Line (DDA, Bresenham) - all slopes   
-   2. Circle (Midpoint)
+   - Line (DDA, Bresenham) - all slopes   
+   - Circle (Midpoint)
 3. 2D Geometric transformations – Translation, Rotation, Scaling,
    Reflection and Shear
 4. 2D Composite Transformations and Window to viewport mapping
@@ -39,9 +39,9 @@
 6. 3D Geometric Transformations - Translation, Rotation and Scaling
 7. 3D Projections - Parallel and Perspective projection
 8. Image Editing and Manipulation -
-   1. Basic Operations on image like applying masks, filters,
-      adding/removing noise
-   2. Creating gif animated images
+   - Basic Operations on image like applying masks, filters,
+     adding/removing noise
+   - Creating gif animated images
 9. Creation of a simple 2D animation
 10. Creation of a simple 3D animation
 
@@ -60,11 +60,11 @@ After the completion of this course, students will be able to:
   and 2D animation sequence (K3)
 - Develop a simple 3D animation (K3)
 
-** Laboratory requirement for batch of 38 students
+** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
 1. Standalone Desktop Machines - 38 Nos
 
 Software:\\
-1. C / C++ / Java 
-2. OpenGL / GIMP 
-3. Blender / Maya
+1. C/C++/Java 
+2. OpenGL/GIMP 
+3. Blender/Maya

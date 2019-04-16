@@ -17,7 +17,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn about the issues and challenges in the design of wireless
   ad hoc networks.
 - To understand the working of MAC Protocols for ad hoc and sensor
@@ -68,7 +68,6 @@ techniques -- Defense against routing attacks -- Secure Ad hoc routing
 protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
 -- Sensor Network Security Protocols -- SPINS.
 
-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -83,7 +82,6 @@ After the completion of this course, students will be able to:
   ad hoc and sensor networks (K3)
 - Identify and understand security issues in ad hoc and sensor
   networks (K2).
-
 
 ** TEXT BOOKS 
 1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks –
@@ -102,4 +100,3 @@ After the completion of this course, students will be able to:
    Sons, 2010.
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
    Applications'', Cambridge university Press, 2008.
-

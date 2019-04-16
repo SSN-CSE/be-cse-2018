@@ -38,7 +38,7 @@ After the completion of this course, students will be able to:
 - Develop hybrid mobile applications(K3)
 - Develop a mobile app(K3).
 
-** Laboratory requirement for batch of 38 students
+** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
 1. Standalone Desktops preferably Intel i5 Machines - 38 Nos
 

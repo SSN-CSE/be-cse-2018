@@ -26,7 +26,7 @@
 - To design a microcontroller based system.
 
 {{{unit}}}
-|UNIT I | THE 8086 MICROPROCESSOR | 9 |
+| UNIT I | THE 8086 MICROPROCESSOR | 9 |
 Introduction to 8086 -- Microprocessor architecture -- Addressing
 modes -- Instruction set and assembler directives -- Assembly language
 programming -- Stacks -- Procedures -- Macros -- Interrupts and
@@ -44,7 +44,7 @@ configurations -- Coprocessor, Closely coupled and loosely Coupled
 configurations -- Introduction to advanced processors.
 
 {{{unit}}}
-|UNIT III | I/O INTERFACING | 9 |
+| UNIT III | I/O INTERFACING | 9 |
 Memory interfacing and I/O interfacing -- Parallel communication
 interface -- Serial communication interface -- D/A and A/D Interface
 -- Timer -- Keyboard /display controller -- Interrupt controller --
@@ -53,17 +53,18 @@ Light control, LED display, LCD display, Keyboard display interface
 and Alarm Controller.
 
 {{{unit}}}
-|UNIT IV | THE 8051 MICROCONTROLLER | 9 |
+| UNIT IV | THE 8051 MICROCONTROLLER | 9 |
 Architecture of 8051 -- Special Function Registers(SFRs) -- I/O Pins
 ports and circuits -- Instruction set -- Addressing modes -- Assembly
 language programming.
 
 {{{unit}}}
-|UNIT V | INTERFACING MICROCONTROLLER | 9 |
-Programming 8051 Timers -- Serial port programming -- Interrupts programming -- 
-LCD & keyboard interfacing -- ADC, DAC & Sensor interfacing -- External memory interface -- 
-Stepper motor and waveform generation -- Comparison of microprocessor, microcontroller, 
-PIC and ARM processors.
+| UNIT V | INTERFACING MICROCONTROLLER | 9 |
+Programming 8051 Timers -- Serial port programming -- Interrupts
+programming -- LCD & keyboard interfacing -- ADC, DAC & Sensor
+interfacing -- External memory interface -- Stepper motor and waveform
+generation -- Comparison of microprocessor, microcontroller, PIC and
+ARM processors.
 
 \hfill *Total Periods: 45*
 
@@ -97,7 +98,7 @@ After the completion of this course, students will be able to:
    8086/8088,80186,80286,80386 and 80486 - Arcitecture, Programming
    and Interfacing'', 8th Edition, PHI, 2011.
 4. Mohamed Rafiquazzaman, ``Microprocessor and Microcomputer based
-   System Design'', 2nd Edition, Universal Book stall, 1995.
+   System Design'', 2nd Edition, Universal Book Stall, 1995.
 5. Kenneth J Ayala, ``The 8051 Microcontroller Architecture,
    Programming and Applications'', 2nd edition, Penram
-   international, 1996.
+   International, 1996.

@@ -10,8 +10,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its equivalent regular expressions
-- To understand the language hierarchy and to design a context free grammar for any given language
+- To construct finite automata for any given pattern and find its
+  equivalent regular expressions
+- To understand the language hierarchy and to design a context free
+  grammar for any given language
 - To construct pushdown automata for any CFL
 - To understand Turing machines and their capability
 - To understand undecidable problems.
@@ -33,7 +35,7 @@ Languages: Regular expressions -- Finite automata and regular
 expressions; Properties of Regular Languages: Proving languages not to
 be regular -- Closure and decision properties of regular languages.
  
- #+begin_comment
+#+begin_comment
 AU R-17 Uint I and II are combined together to a single unit. Unit I
 is grouped under Finite Automata.
 #+end_comment
@@ -91,15 +93,15 @@ After the completion of this course, students will be able to:
 - Explain the Decidability or Undecidability of various problems (K2).
 
 ** Text Books 
-1. Hopcroft J E, Motwani R and Ullman J D, ``Introduction to Automata
+1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata
    Theory, Languages and Computations'', Pearson Education, 3rd
    Edition, 2008.
 
 ** References
-1. Harry R Lewis and Christos H Papadimitriou, ``Elements of the
+1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the
    Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
 2. Peter Linz, ``An Introduction to Formal Language and Automata'',
    Narosa Publishers, 3rd Edition, 2002.
-3. Mishra K L P and Chandrasekaran N, ``Theory of Computer Science --
+3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science --
    Automata, Languages and Computation'', Prentice Hall of India, 3rd
    Edition, 2004.

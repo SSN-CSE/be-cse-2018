@@ -23,8 +23,8 @@ members; Object construction and destruction.
 
 {{{unit}}}
 | UNIT II | BASICS OF JAVA | 9 |
-Features of Java -- Basics of Java programming: Data types -
-Variables -- Operators -- Control structures -- Arrays -- Strings
+Features of Java -- Basics of Java programming: Data types - Variables
+-- Operators -- Control structures -- Arrays -- Strings.
 
 {{{unit}}}
 | UNIT III | CLASSES AND OBJECTS | 9 |
@@ -35,10 +35,10 @@ method -- Packages in Java.
 
 {{{unit}}}
 |UNIT IV | INHERITANCE | 9 |
-Inheritance: Definition -- Types of inheritance: Single -- multilevel -
-multiple -- hierarchical -- hybrid; Subclass constructors -- Interfaces
-in Java: Definition, Implementation -- Extending interfaces -- Examples
-in Java.
+Inheritance: Definition -- Types of inheritance: Single --
+multilevel - multiple -- hierarchical -- hybrid; Subclass constructors
+-- Interfaces in Java: Definition, Implementation -- Extending
+interfaces -- Examples in Java.
 
 {{{unit}}}
 | UNIT V | POLYMORPHISM | 9 |
@@ -55,7 +55,7 @@ exception; Definition and Concepts: Generic methods -- Generic types.
  - Program using Inheritance (Eg: Payroll application)
  - Prgram to implement Polymorphism (Eg. Area of different shapes)
  - Program to implement generic methods (Eg: Sorting)
- - Design a Java interface for ADTs. (Eg. Stack, Queue).
+ - Design a Java interface for ADTs (Eg. Stack, Queue).
 
 \hfill *Practical Periods: 30*
 
@@ -81,6 +81,6 @@ After the completion of this course, students will be able to:
    Ltd., 2006.
 3. Cay S Horstmann, Gary cornell, ``Core Java Volume – I
    Fundamentals'' 9th Edition, Prentice Hall, 2013.
-4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
+4. Paul Deitel, Harvey Deitel, ``Java SE 8 for Programmers'', 3rd
    Edition, Pearson, 2015.
-5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
+5. Steven Holzner, ``Java 2 Black Book'', Dreamtech Press, 2011.

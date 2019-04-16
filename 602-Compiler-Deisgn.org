@@ -25,10 +25,10 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO COMPILERS | 9 |
-Language processors -- Phases of compiler -- Role of lexical analyzer --
-Input buffering -- Specification of tokens -- Recognition of tokens;
-Lexical analyzer generator: Structure of lex program -- Lookahead
-operator and conflict resolution.
+Language processors -- Phases of compiler -- Role of lexical analyzer
+-- Input buffering -- Specification of tokens -- Recognition of
+tokens; Lexical analyzer generator: Structure of lex program --
+Lookahead operator and conflict resolution.
 #+begin_comment
 Added:Lookahead operator and conflict resolution. 
 #+end_comment
@@ -40,26 +40,26 @@ grammars: Ambiguity -- Deterministic and recursive; Top down parsers:
 Recursive descent parser -- Predictive parser; Bottom up parsers: SLR
 Parser -- CLR Parser -- LALR Parser; Error handling and recovery in
 syntax analyzer; Syntax analyzer generator: Structure of yacc program
--- Creating yacc lexical analyzers with lex.
+-- Creating =yacc= lexical analyzers with =lex=.
 
 {{{unit}}}
 |UNIT III | INTERMEDIATE CODE GENERATION | 9 |
 Syntax directed definitions: Synthesized attribute -- Inherited
 attribute -- Dependency graph -- Evaluation order of syntax directed
-definitions; Intermediate languages: Syntax tree -- Three address code;
-SDD for type checking -- declarations -- evaluation of expressions and
-flow of control statements -- Bottom-up evaluation of S-attribute
-definitions.
+definitions; Intermediate languages: Syntax tree -- Three address
+code; SDD for type checking -- Declarations -- Evaluation of
+expressions and flow of control statements -- Bottom-up evaluation of
+S-attribute definitions.
 #+begin_comment
-Added:evaluation of expressions and flow of control statements -- Bottom-up evaluation of S-attribute
-definitions.
+Added:evaluation of expressions and flow of control statements --
+Bottom-up evaluation of S-attribute definitions.
 #+end_comment
 
 {{{unit}}}
 |UNIT IV | RUNTIME ENVIRONMENTS AND CODE GENERATION | 9 |
 Source language issues -- Storage organization -- Storage allocation
-strategies: Static, Stack and Heap -- Implementation of symbol table --
-Issues in code generation -- Design of a simple code generator.
+strategies: Static, Stack and Heap -- Implementation of symbol table
+-- Issues in code generation -- Design of a simple code generator.
 
 {{{unit}}}
 |UNIT V | CODE OPTIMIZATION | 9 |
@@ -90,14 +90,15 @@ Changes:Suggestive experiments are changed based on the units.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Design a lexical analyzer for a sample language (K3)
-- Apply different parsing algorithms to develop the parsers for the given grammar (K3)
-- Write syntax directed translation for programming language constructs (K3)
+- Apply different parsing algorithms to develop the parsers for the
+  given grammar (K3)
+- Write syntax directed translation for programming language
+  constructs (K3)
 - Understand and implement simple code generator (K3)
 - Understand and implement code optimization techniques (K3).
 
-      
 ** TEXT BOOK
-1. Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman,
+1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
    Pearson Education, 2009.
 

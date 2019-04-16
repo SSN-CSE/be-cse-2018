@@ -11,10 +11,12 @@
 | 0 | 0 | 4 | 2 |
 
 ** COURSE OBJECTIVES
-- Understand and apply suitable data structure – linear and non linear
-- Design the data structure for the given problem and implement them in a high level programming language
-- Understand the concepts and differences in searching and sorting techniques
-- Learn the introductory concepts of hashing techniques
+- Understand and apply suitable data structures, linear and non linear
+- Design the data structure for the given problem and implement them
+  in a high level programming language
+- Understand the concepts and differences in searching and sorting
+  techniques
+- Learn the introductory concepts of hashing techniques.
 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -36,16 +38,14 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear and non-linear data structures to solve a given problem (K3).
+- Implement linear and non-linear data structures to solve a given problem (K3)
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure
-  for solving it (K4).
+  for solving it (K4)
 - Implement sorting, seraching and hashing algorithms (K2).
 
-** Laboratory requirement for batch of 25 students
-
-Hardware:\\
-1. Standalone Systems - 25 Nos 
-
-Software:\\
-1. C / C++ Compiler 
+** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
+*** Hardware
+    1. Standalone Systems - 25 Nos 
+*** Software
+    1. C / C++ Compiler 
       

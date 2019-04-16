@@ -22,31 +22,35 @@
 - To learn the concepts of generic methods and  generic collections.
 
 {{{unit}}}
-|UNIT I |INTRODUCTION | 10 |
+| UNIT I | INTRODUCTION | 10 |
 Principles of OOP: Classes -- Objects -- Data hiding -- Data
 encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
-Objects -- Methods -- Access specifiers -- Static and final classes and
-members; Object Construction and Destruction -- Fundamental programming
-structures in Java; Streams: Input-Output -- Examples in Java.
+Objects -- Methods -- Access specifiers -- Static and final classes
+and members; Object Construction and Destruction -- Fundamental
+programming structures in Java; Streams: Input-Output -- Examples in
+Java.
+
 #+begin_comment
 Retain 
       Introduction to the OO concepts and fundamental programming structures in Java 
 Inclusion
       I/O streams
 #+end_comment
-{{{unit}}}
-|UNIT II | INHERITANCE 	 | 10 |
-Inheritance: Definition -- Types of inheritance: Single -- Multilevel --
-Multiple -- Hierarchical -- Hybrid; Subclass constructors -- Interfaces
-in Java: Definition -- Implementation -- Extending interfaces --
-Inheritance versus delegation -- Inheritance rules -- Inner classes --
-Examples in Java.
 
 {{{unit}}}
-|UNIT III |POLYMORPHISM AND EXCEPTION HANDLING	  | 7 |
+| UNIT II | INHERITANCE 	 | 10 |
+Inheritance: Definition -- Types of inheritance: Single -- Multilevel
+-- Multiple -- Hierarchical -- Hybrid; Subclass constructors --
+Interfaces in Java: Definition -- Implementation -- Extending
+interfaces -- Inheritance versus delegation -- Inheritance rules --
+Inner classes -- Examples in Java.
+
+{{{unit}}}
+| UNIT III | POLYMORPHISM AND EXCEPTION HANDLING	 | 7 |
 Polymorphism: Method overloading and overriding -- Dynamic method
 dispatch; Exceptions: Hierarchy -- Built-in exceptions -- Creating own
 exception; Packages in Java -- Examples in Java.
+
 #+begin_comment
 Retain
 	Exception handling
@@ -57,10 +61,10 @@ Removal
 #+end_comment
 
 {{{unit}}}
-|UNIT IV |GENERIC TYPES AND METHODS	 | 9 |
-Definition and concepts: Generic classes and generic methods -- Generic
-types -- Restrictions and limitations -- Inheritance rules for generic
-types -- Reflections -- Examples in Java.
+| UNIT IV | GENERIC TYPES AND METHODS	 | 9 |
+Definition and concepts: Generic classes and generic methods --
+Generic types -- Restrictions and limitations -- Inheritance rules for
+generic types -- Reflections -- Examples in Java.
 
 #+begin_comment
 Retain
@@ -70,11 +74,12 @@ Removal
 #+end_comment
 
 {{{unit}}}
-|UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
-Introduction to collections -- Collection Classes and Interfaces: Array
-list -- Linked list -- Queue -- Set -- Trees; Iterators for collections --
-Map class -- Algorithms: Sorting -- Searching -- User-defined algorithms
--- Examples in Java.
+| UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
+Introduction to collections -- Collection Classes and Interfaces:
+Array list -- Linked list -- Queue -- Set -- Trees; Iterators for
+collections -- Map class -- Algorithms: Sorting -- Searching --
+User-defined algorithms -- Examples in Java.
+
 #+begin_comment
 Removal
 	Since event-driven programming (AU R-2017) is specific to programming language, it is removed 
@@ -110,6 +115,3 @@ After the completion of this course, students will be able to:
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
    Edition, Pearson, 2015.
 5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
-
-
-

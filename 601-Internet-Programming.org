@@ -29,43 +29,42 @@
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients -- Servers -- Communication; 
-Basic internet protocols -- World wide web -- HTTP Request Message --
-HTTP Response Message -- Web Clients -- Web Servers -- HTML5: Tables --
-Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and
+Web Essentials: Clients -- Servers -- Communication; Basic internet
+protocols -- World wide web -- HTTP Request Message -- HTTP Response
+Message -- Web Clients -- Web Servers -- HTML5: Tables -- Lists --
+Image -- Redefined form elements -- Semantic elements -- Audio and
 video controls -- CSS3: Inline -- Embedded -- External style sheets --
 Rule cascading -- Inheritance -- Adding graphics to web pages --
 Transformations -- Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-Client side programming language -- Javascript: Variables -- Data types --
-Statements -- Operators -- Objects -- Arrays -- Built-in objects -- Event
-handling -- DOM: Introduction -- Document tree -- Node object -- Document --
-Element -- Text nodes -- Event handling -- Event propagation.
+Client side programming language -- Javascript: Variables -- Data
+types -- Statements -- Operators -- Objects -- Arrays -- Built-in
+objects -- Event handling -- DOM: Introduction -- Document tree --
+Node object -- Document -- Element -- Text nodes -- Event handling --
+Event propagation.
 
 #+BEGIN_COMMENT
 Removal
-      Contents related to JSON in AU R-2017 has been removed
+   Contents related to JSON in AU R-2017 has been removed
 Thought Process
-      Due to time constraint
-      JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.      
-       
+   Due to time constraint
+   JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.      
 #+END_COMMENT
 
 {{{unit}}}
 |UNIT III | SERVER SIDE PROGRAMMING| 9 |
-Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions -- Cookies
-and URL rewriting -- AJAX: Ajax Client Server Architecture -- XML Http
-Request Object -- Call Back Methods.
+Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions --
+Cookies and URL rewriting -- AJAX: Ajax Client Server Architecture --
+XML Http Request Object -- Call Back Methods.
 
 #+BEGIN_COMMENT
 Removal
-      Contents related to JSP in AU R-2017 have been removed      
+    Contents related to JSP in AU R-2017 have been removed      
 Thought Process
-      Both servlet and JSP are serverside scripting languages
-      Since Servlet itself is enough for the students to undertand the configuration of web applications, JSP has been removed
-       
+    Both servlet and JSP are serverside scripting languages
+    Since Servlet itself is enough for the students to undertand the configuration of web applications, JSP has been removed
 #+END_COMMENT
 
 {{{unit}}}
@@ -126,7 +125,8 @@ After the completion of this course, students will be able to:
    August 2011
 3. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
    December 2012.
-4. Alex Banks, Eve Porcello, ``Learning React: Functional web development with React and Redux'', O'Reilly Media Inc., May 2017.
-5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st Edition,
-   O'Reilly Media, 2012.
+4. Alex Banks, Eve Porcello, ``Learning React: Functional Web
+   Development with React and Redux'', O'Reilly Media Inc., May 2017.
+5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st
+   Edition, O'Reilly Media, 2012.
 6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.

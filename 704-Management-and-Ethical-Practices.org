@@ -67,16 +67,16 @@ After the completion of this course, students will be able to:
 - Understand and practice Engineering Ethics and Human Values (K3).
       
 ** REFERENCES
-1. Hellriegel, Slocum & Jackson, ``Management -A Competency Based
+1. Hellriegel, Slocum, Jackson, ``Management -A Competency Based
    Approach'', Thomson South Western, 10th edition, 2007.
-2. Harold Koontz, Heinz Weihrich and Mark V Cannice, ``Management-A
+2. Harold Koontz, Heinz Weihrich, Mark V Cannice, ``Management-A
    global & Entrepreneurial Perspective'', Tata Mcgraw Hill, 12th
    edition, 2007.
-3. Stephen P. Robbins and Mary Coulter, ``Management'', Prentice Hall
-   of India,8th edition.
-4. Charles W L Hill,Steven L McShane, ``Principles of Management'',
+3. Stephen P Robbins, Mary Coulter, ``Management'', Prentice Hall of
+   India,8th edition.
+4. Charles W L Hill, Steven L McShane, ``Principles of Management'',
    Mcgraw Hill Education, Special Indian Edition, 2007.
-5. Mike W. Martin and Roland Schinzinger, ``Ethics in Engineering'',
-   Tata McGraw Hill, New Delhi, 2003.
-6. Govindarajan M, Natarajan S, Senthil Kumar V. S, ``Engineering
+5. Mike W Martin, Roland Schinzinger, ``Ethics in Engineering'', Tata
+   McGraw Hill, New Delhi, 2003.
+6. Govindarajan M, Natarajan S, Senthil Kumar V S, ``Engineering
    Ethics'', Prentice Hall of India, New Delhi, 2004.

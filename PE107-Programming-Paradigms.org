@@ -17,32 +17,32 @@
   examples.
 
 {{{unit}}}
-|UNIT I | IMPERATIVE AND OBJECT ORIENTED PROGRAMMING  | 9 |
-Role of programming languages, programming paradigms, Structured
-programming - Data representation, procedure activations, Examples in
-C
+| UNIT I | IMPERATIVE PROGRAMMING | 9 |
+Role of programming languages; Programming paradigms; Structured
+programming: Data representation -- Procedure activations -- Examples
+in C.
 
 {{{unit}}}
 |UNIT II | OBJECT ORIENTED PROGRAMMING | 9 |
-Abstract data types, object model, object-oriented thinking, Examples
-in Java/Python/C++
+Abstract data types -- object model -- object-oriented thinking --
+Examples in Java/Python/C++.
 
 {{{unit}}}
 |UNIT III | FUNCTIONAL PROGRAMMING  | 9 |
-Elements of functional programming: values and operations,approaches
-to expression evaluation, lexical scope, type checking - Haskell:
-Expressions, lists, types and values, control flow, functions, tuples,
-problem solving
+Elements of functional programming: Values and operations --
+Approaches to expression evaluation -- Lexical scope -- Type checking;
+Haskell: Expressions -- Lists -- Types and values -- Control flow --
+Functions -- Tuples -- Examples.
 
 {{{unit}}}
 |UNIT IV | LOGIC PROGRAMMING | 9 |
-Logic and Horn clauses, Prolog: data structures, programming
-techniques, control, cuts, examples
+Logic and Horn clauses, Prolog: Data structures -- Programming
+techniques -- Control -- Cuts -- Examples.
 
 {{{unit}}}
 |UNIT V | CONCURRENT PROGRAMMING       | 9 |
- Concurrency concepts – synchronization strategies – interleaving,
- liveness, safe access to shared data, examples in Ada / Java
+Concurrency concepts -- Synchronization strategies -- Interleaving --
+Liveness -- Safe access to shared data -- Examples in Ada/Java.
  
 \hfill *Total Periods: 45*
 
@@ -57,18 +57,18 @@ After the completion of this course, students will be able to:
 - Understand logic programming paradigm and explore some examples in
   Prolog (K3)
 - Understand concurrent programming paradigm and explore some examples
-  in Java / Ada (K3).
+  in Java/Ada (K3).
 
 ** TEXT BOOKS
-1. Ravi Sethi and Viswanatha K V, ``Programming Languages : Concepts
-   and constructs'', 2nd Edition, Pearson, 2011
-2. Allan B Tucker and Robert E Noonan, ``Programming Languages:
+1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and
+   constructs'', 2nd Edition, Pearson, 2011
+2. Allan B Tucker, Robert E Noonan, ``Programming Languages:
    Principles and Paradigms'', 2nd Edition, McGraw Hill, 2007
 
 ** REFERENCES
 1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
    Morgan Kaufmann, 2015
-2. Robert W Sebesta, ``Concepts of Programming Languages'', 11th
+2. Robert W Sebesta,``Concepts of Programming Languages'', 11th
    Edition, Pearson, 2016
 3. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
    Principles and Paradigms'', Springer, 2010

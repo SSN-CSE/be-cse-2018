@@ -27,25 +27,25 @@
 
 {{{unit}}}
 |UNIT I | DEVELOPMENT PROCESS & USE-CASE DIAGRAM (STATIC)  | 9 |
-Introduction to OOAD with OO Basics -- Unified process -- UML diagrams --
-Use case -- Case study -- The Next Gen POS system, Inception -- Use case
-modelling -- Relating use cases -- Include, extend and generalization --
-When to use use-cases.
+Introduction to OOAD with OO Basics -- Unified process -- UML diagrams
+-- Use case -- Case study -- The Next Gen POS system, Inception -- Use
+case modelling -- Relating use cases -- Include, extend and
+generalization -- When to use use-cases.
 
 {{{unit}}}
 |UNIT II | UNIFIED PROCESS & CLASS DIAGRAM (STATIC)		| 9 |
-Class diagram --  Elaboration --  Domain model --  Finding conceptual
-classes and description classes -- Associations -- Attributes -- Domain
-model refinement -- Finding conceptual class hierarchies --  Aggregation
-and composition -- Relationship between sequence diagrams and use cases
--- When to use class diagrams.
+Class diagram -- Elaboration -- Domain model -- Finding conceptual
+classes and description classes -- Associations -- Attributes --
+Domain model refinement -- Finding conceptual class hierarchies --
+Aggregation and composition -- Relationship between sequence diagrams
+and use cases -- When to use class diagrams.
 
 {{{unit}}}
 |UNIT III | DYNAMIC & IMPLEMENTATION DIAGRAMS  | 9 |
-Dynamic Diagrams: UML interaction diagrams -- System sequence diagram --
-Collaboration diagram -- When to use communication diagrams -- State
-machine diagram and modelling -- When to use state diagrams -- Activity
-diagram -- When to use activity diagrams.
+Dynamic Diagrams: UML interaction diagrams -- System sequence diagram
+-- Collaboration diagram -- When to use communication diagrams --
+State machine diagram and modelling -- When to use state diagrams --
+Activity diagram -- When to use activity diagrams.
 
 Implementation Diagrams: UML package diagram -- When to use package
 diagrams -- Component and deployment diagrams -- When to use component
@@ -53,16 +53,16 @@ and deployment diagrams.
 
 {{{unit}}}
 |UNIT IV | DESIGN PATTERNS | 9 |
-Designing objects with responsibilities -- Creator -- Information expert
--- Low coupling -- High cohesion -- Controller design patterns --
-Creational -- Factory method -- Structural -- Bridge -- Adapter --
-Behavioural -- Strategy -- Observer -- Applying GoF design patterns -- 
+Designing objects with responsibilities -- Creator -- Information
+expert -- Low coupling -- High cohesion -- Controller design patterns
+-- Creational -- Factory method -- Structural -- Bridge -- Adapter --
+Behavioural -- Strategy -- Observer -- Applying GoF design patterns --
 Mapping design to code.
 
 {{{unit}}}
 | UNIT V | TEST DRIVEN DEVELOPMENT AND REFACTORING | 9 |
-Object oriented methodologies -- Software quality assurance -- Impact of
-object orientation on testing -- Develop test cases and test plans.
+Object oriented methodologies -- Software quality assurance -- Impact
+of object orientation on testing -- Develop test cases and test plans.
 
 
 \hfill *Total Periods: 45*
@@ -75,7 +75,6 @@ Upon completion of this course, the students should be able to:
 - Transform UML based software design into pattern based design using design patterns (K4)
 - Test any object-oriented software against its requirements (K3).
 
-  
 ** TEXT BOOKS
 1. Larman, Craig, ``Applying UML and Patterns'', Pearson Education
    Asia, 2008.
@@ -83,15 +82,15 @@ Upon completion of this course, the students should be able to:
    International Edition, 1999.
 
 ** REFERENCES
-1. Erich Gamma, and Richard Helm, Ralph Johnson, John Vlissides,
-   ``Design patterns: Elements of Reusable Object Oriented Software'',
-   Addison Wesley, 1995.
+1. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, ``Design
+   patterns: Elements of Reusable Object Oriented Software'', Addison
+   Wesley, 1995.
 2. Martin Fowler, ``UML Distilled: A Brief Guide to the Standard
    Object Modeling Language'', 3rd edition, Addison Wesley, 2003.
-3. Booch, G., Jacobson, I., Rumbaugh, J., ``The Unified Modeling
-   Language User Guide'', Addison Wesley, 2008.
+3. Booch, G, Jacobson I, Rumbaugh J, ``The Unified Modeling Language
+   User Guide'', Addison Wesley, 2008.
 4. Roger S Pressman, ``Software Engineering -- A Practitioner's
    Approach'', 7th  edition, 2010.
-5. Aditya P. Mathur, ``Foundations of Software Testing -- Fundamental
+5. Aditya P Mathur, ``Foundations of Software Testing -- Fundamental
    Algorithms and Techniques'', Dorling Kindersley (India) Pvt. Ltd.,
    Pearson Education, 2008.

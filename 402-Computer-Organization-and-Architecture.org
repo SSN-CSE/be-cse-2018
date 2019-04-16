@@ -5,7 +5,6 @@
 :end:
 
 #+begin_comment
-
 - 1. Almost the same as AU
 - 2. For changes, see the comments below the units, Unit IV and Unit V
 - 3. Not Applicable
@@ -29,25 +28,25 @@
 - To understand parallelism and multi-core processors. 
 
 {{{unit}}}
-|UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM | 9 |
+| UNIT I | BASIC STRUCTURE OF A COMPUTER SYSTEM | 9 |
 Functional Units -- Basic Operational Concepts -- Performance;
 Instructions: Language of the computer -- Operations, Operands --
 Instruction representation; Logical operations -- Decision making;
 MIPS addressing.
 
 {{{unit}}}
-|UNIT II | ARITHMETIC FOR COMPUTERS | 9 |
+| UNIT II | ARITHMETIC FOR COMPUTERS | 9 |
 Addition and subtraction; Multiplication; Division; Floating Point
 Representation: Floating point operations; Subword parallelism.
 
 {{{unit}}}
-|UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
+| UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
 A Basic MIPS implementation: Building a datapath -- Control
 implementation scheme; Pipelining: Pipelined datapath and control --
 Handling data hazards & Control hazards -- Exceptions.
 
 {{{unit}}}
-|UNIT IV | MEMORY & I/O SYSTEMS | 9 |
+| UNIT IV | MEMORY & I/O SYSTEMS | 9 |
 Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
 improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
@@ -57,7 +56,7 @@ operation -- Arbitration; Interface circuits; USB.
 #+END_COMMENT
 
 {{{unit}}}
-|UNIT V  | PARALLEL PROCESSORS | 9 |
+| UNIT V | PARALLEL PROCESSORS | 9 |
 Parallel processing challenges; Flynn's classification: SISD -- MIMD
 -- SIMD -- SPMD and Vector Architectures; Hardware multithreading;
 Multi-core processors and other shared memory multiprocessors;
@@ -71,19 +70,21 @@ Introduction to Graphics Processing Units.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics structure of computers, operations and instructions (K2)
+- Understand the basics structure of computers, operations and
+  instructions (K2)
 - Design arithmetic and logic unit (K3)
 - Understand pipelined execution and design control unit (K3)
-- Design of various memory systems and understand I/O communication (K3)
+- Design of various memory systems and understand I/O communication
+  (K3)
 - Understand parallel processing architectures (K2).
 
 ** TEXT BOOKS
-1. David A Patterson and John L Hennessy, ``Computer Organization
+1. David A Patterson, John L Hennessy, ``Computer Organization
    and Design: The Hardware/Software Interface'', 5th Edition,
-   Morgan Kaufmann / Elsevier, 2014. (units I, III, IV, V)
-2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky and Naraig Manjikian,
+   Morgan Kaufmann / Elsevier, 2014 (Units I, III, IV, V).
+2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian,
    ``Computer Organization and Embedded Systems'', 6th Edition, Tata
-   McGraw Hill, 2012. (unit II)
+   McGraw Hill, 2012 (Unit II).
 
 ** REFERENCES
 1. William Stallings, ``Computer Organization and Architecture –
@@ -91,9 +92,10 @@ After the completion of this course, students will be able to:
    Education, 2010.
 3. John P Hayes, ``Computer Architecture and Organization'', 3rd
    Edition, Tata McGraw Hill, 2012.
-4. John L Hennessey and David A Patterson, ``Architecture – A
+4. John L Hennessey, David A Patterson, ``Architecture – A
    Quantitative Approach'', 5th edition, Morgan Kaufmann /
-   Elsevier, 2012. (Units I, III).
-6. Morris Mano M, ``Computer System Architecture'', Revised 3rd   Edition, Pearson Publication, 2017.
+   Elsevier, 2012 (Units I, III).
+6. Morris Mano M, ``Computer System Architecture'', Revised 3rd
+   Edition, Pearson Publication, 2017.
 7. Chakraborty P, ``Computer Architecture and Organization'', JAICO
    Publishing House, 2010.

@@ -22,35 +22,39 @@ We believe it is an entirely new course in our curriculum.
 - To learn File handling in UNIX
 - To learn Shell Programming.
 
-
-| Unit I | FOUNDATIONS | 5 |
+{{{unit}}}
+| UNIT I | FOUNDATIONS | 5 |
 Foundations: Why Unix -- Computer system -- The Unix environment --
 UNIX structure -- UNIX commands; Basic vi Editor: Editor concepts --
 The vi Editor -- Modes and commands; Local commands in vi; Range
 commands in vi -- Global commands in vi; Rearrange text in vi.
 
-| Unit II | FILE SYSTEM | 5 |
+{{{unit}}}
+| UNIT II | FILE SYSTEM | 5 |
 File Systems: Filenames -- File types -- Regular files -- Directories
 -- File system implementation -- Operations on files and directories;
 Security and File Permissions: Users and groups -- Security levels --
 Changing permissions -- User masks -- Changing ownership and groups.
 
-|Unit III|BASH BASICS|6|
+{{{unit}}}
+| UNIT III | BASH BASICS | 6 |
 Bash Basics: What is a shell? -- History of UNIX shells -- Interactive
 shell usage -- Input & output -- Background jobs -- Special characters
 and quoting; Command-Line Editing: Enabling command-line editing --
 The history list -- emacs editing mode -- emacs editing mode -- The fc
-command -- Histroy expansion -- Readline; Customizing your
+command -- Histroy expansion -- readline; Customizing your
 environment; .bash_profile, .bash_logout, .bashrc Files -- Aliases --
 Options -- Shell variables -- Customization and subprocesses.
 
-| Unit IV | SHELL PROGRAMMING | 6 |
+{{{unit}}}
+| UNIT IV | SHELL PROGRAMMING | 6 |
 Basic Shell Programming: Shell scripts and functions -- Shell
 variables -- String operators -- Command substitution; Flow control;
 Command-line options and Typed Variables: Command-line options --
 Typed variables -- Integer variables and arithmetic -- Arrays.
 
-| Unit V | INPUT/OUTPUT, PROCESS HANDLING AND DEBUGGING | 8 |
+{{{unit}}}
+| UNIT V | INPUT/OUTPUT, PROCESS HANDLING AND DEBUGGING | 8 |
 Input/Output and Command-Line Processing: I/O redirectors -- String
 I/O -- Command-line processing; Process Handling: Process IDs & job
 numbers -- Job control -- Signals -- Trap -- Coroutines -- Subshells
@@ -80,7 +84,7 @@ After the completion of this course, students will be able to:
 ** TEXTBOOK
 1. Behrouz Forouzan, Richard Gilberg ``UNIX and Shell Programming:
    A Textbook'', Thomson Learning, 2005 (Units I & II).
-2. Cameron Newham, Bill Rosenblatt ``Learning the bash Shell'',
+2. Cameron Newham, Bill Rosenblatt ``Learning the Bash Shell'',
    Third Edition, O'Reilly, 2005 (Units III, IV & V).
 
 ** REFERENCES

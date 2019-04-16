@@ -1,4 +1,4 @@
- <<<507>>> NETWORKS LAB
+* <<<507>>> NETWORKS LAB
 :properties:
 :author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
 :end:
@@ -11,13 +11,9 @@
 - 5. Suggestive experiments given
 #+end_comment
 
-#+startup: showall
-#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
-#+macro: credits #+attr_latex: :center nil
-
 {{{credits}}}
-|L|T|P|C|
-|0|0|4|2|
+| L | T | P |   C |
+| 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
 - To learn and use network commands.
@@ -33,9 +29,9 @@
 2. Write a HTTP web client program to download a web page using TCP
    sockets.
 3. Write applications using TCP sockets like:
-    1. Echo client and echo server
-    2. Chat
-    3. File Transfer
+   - Echo client and echo server
+   - Chat
+   - File Transfer
 4. Simulate of DNS using UDP sockets.
 5. Write programs simulating ARP /RARP protocols.
 6. Study of Network simulator (NS) and Simulation of Congestion
@@ -56,10 +52,11 @@ After the completion of this course, students will be able to:
 - Analyze various routing algorithms (K3)
 - Implement error correction codes (K2)
 
-** Laboratory requirement for batch of 38 students
+** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
 1. Standalone Desktops - 38 Nos
 
 Software:\\
 1. C / C++ / Java / Python / Equivalent Compiler 
-2. Network simulator like NS2 / NS3 / Glomosim / OPNET/ Packet Tracer / Equivalent
+2. Network simulator like NS2 / NS3 / Glomosim / OPNET/ Packet Tracer
+   / Equivalent

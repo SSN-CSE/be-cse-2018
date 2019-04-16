@@ -37,6 +37,7 @@ using ER model -- Enhanced-ER model.
 #+begin_comment
 No change. Part of first unit in AU-2017
 #+end_comment
+
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational Model: Concepts -- Constraints -- Update operations --
@@ -48,12 +49,12 @@ function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate
 functions -- Grouping.
 
 #+begin_comment
-Part of first unit in AU-2017. Extended with more titles to provide better
- understanding towards relational model. 
+Part of first unit in AU-2017. Extended with more titles to provide
+ better understanding towards relational model.
 #+end_comment
 
 {{{unit}}}
-|UNIT III | DATABASE PROGRAMMING AND DESIGN| 10 |
+| UNIT III | DATABASE PROGRAMMING AND DESIGN | 10 |
 Triggers -- Views; Database Programming Techniques: Overview and
 Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and
 SQL/PSM ; Design guidelines -- Functional dependencies -- First,
@@ -61,11 +62,9 @@ second and third Normal Forms -- Boyce-Codd Normal Forms; FD:
 Inference rules -- Minimal cover; ER-to-relational mapping.
 
 #+begin_comment
-Second unit in AU-2017. Added database triggers,views to provide better
- knowledge towards database programming. 
+Second unit in AU-2017. Added database triggers,views to provide
+ better knowledge towards database programming.
 #+end_comment
-
-
 
 {{{unit}}}
 | UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
@@ -74,10 +73,8 @@ serializability; Concurrency control: Two-phase locking technique --
 Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate
 update -- Multidatabase system recovery.
 
-
-
 {{{unit}}}
-|UNIT V | NOSQL DATABASES | 8 |
+| UNIT V | NOSQL DATABASES | 8 |
 Introduction to NOSQL Systems -- The CAP Theorem -- Document-Based
 NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column-
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
@@ -86,8 +83,6 @@ Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 Added as new unit to meet recent trends and industry requirements.
 #+end_comment
 
-
-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -95,15 +90,16 @@ After the completion of this course, students will be able to:
 - Understand the database concepts and apply ER models to any real
   world application (K3)
 - Apply data definition and complex SQL queries (K3)
-- Design databases systematically and develop database software for various real-time applications (K3)
+- Design databases systematically and develop database software for
+  various real-time applications (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
 - Understand the concepts of NOSQL databases (K2).
 
 ** TEXT BOOKS 
-1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
+1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
    Systems'', 7th Edition, Pearson, 2016.
-2. Abraham Silberschatz, Henry F Korth and S Sudharshan, ``Database
+2. Abraham Silberschatz, Henry F Korth, S Sudharshan, ``Database
    System Concepts'', 6th Edition, Tata Mc Graw Hill, 2011.
 
 ** REFERENCES

@@ -33,11 +33,10 @@ After the completion of this course, students will be able to:
 - Develop interactive web applications using AJAX (K3)
 - Develop web applications using AngularJS and NodeJS frameworks (K3)
 
-      
 ** REFERENCES
 w3schools.org
 
-** Laboratory requirement for batch of 38 students
+** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
 1. Standalone Desktops - 38 Nos
 

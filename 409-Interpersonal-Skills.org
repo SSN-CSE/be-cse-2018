@@ -11,7 +11,7 @@
 | 0 | 0 | 2 | 1 |
 
 ** COURSE OBJECTIVES
-- Tp equip students with the adequate speaking and listening skills in
+- To equip students with the adequate speaking and listening skills in
   English required for academic and general purposes.
 - To impart speaking skills in English needed for both general and
   classroom conversation. This will include speaking for social needs
@@ -73,8 +73,9 @@ After the completion of this course, students will be able to:
 - Listen and respond appropriately
 - Participate in group discussions
 - Make effective presentations
-- Participate confidently and appropriately in conversations both formal and informal,
-- Face campus interviews adequately
+- Participate confidently and appropriately in conversations both
+  formal and informal,
+- Face campus interviews adequately.
   
 ** TEXT BOOKS    
 1. Brooks, Margret. Skills for Success. Listening and Speaking. Level
@@ -83,13 +84,13 @@ After the completion of this course, students will be able to:
    University Press, Oxford: 2010
 
 ** REFERENCES
-1. Bhatnagar, Nitin and Mamta Bhatnagar. Communicative English for
-   Engineers and Professionals. Pearson: New Delhi, 2010.
-2. Hughes, Glyn and Josephine Moate. Practical English
-   Classroom. Oxford University Press: Oxford, 2014.
-3. Vargo, Mari. Speak Now Level 4. Oxford University Press:
+1. Bhatnagar, Nitin, Mamta Bhatnagar, ``Communicative English for
+   Engineers and Professionals'', Pearson: New Delhi, 2010.
+2. Hughes, Glyn, Josephine Moate, ``Practical English Classroom'',
+   Oxford University Press: Oxford, 2014.
+3. Vargo, Mari, ``Speak Now Level 4'', Oxford University Press:
    Oxford, 2013.
-4. Richards C. Jack. Person to Person (Starter). Oxford University
+4. Richards C Jack, ``Person to Person (Starter)'', Oxford University
    Press: Oxford, 2006.
-5. Ladousse, Gillian Porter. Role Play. Oxford University Press:
+5. Ladousse, Gillian Porter, ``Role Play'', Oxford University Press:
    Oxford, 2014

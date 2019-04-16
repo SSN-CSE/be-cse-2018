@@ -4,11 +4,11 @@
 :end:
 
 #+begin_comment
-- 1. Almost the same as AU
-- 2. For changes, see the individual experiments.
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Suggestive List of Experiments given.
+1. Almost the same as AU
+2. For changes, see the individual experiments.
+3. Not Applicable
+4. Five Course outcomes specified and aligned with units
+5. Suggestive List of Experiments given.
 #+end_comment
 #+startup: showall
 
@@ -60,8 +60,7 @@ After the completion of this course, students will be able to:
 - Write 8051 Assembly Language Programs using arithmetic and
   logical operations (K3)
 
-** Laboratory requirement for batch of 38 students
-
+** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
 1. Standalone Desktops - 30 Nos
 2. 8086 development kits - 30 Nos

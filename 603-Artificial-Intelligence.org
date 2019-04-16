@@ -9,8 +9,10 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-#+begin_comment:
-This course syllabus is substantially different from the current one in Anna University curriculum as we have followed a different text book. In particular, we do not have a unit on Expert Systems.
+#+begin_comment
+This course syllabus is substantially different from the current one
+in Anna University curriculum as we have followed a different text
+book. In particular, we do not have a unit on Expert Systems.
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -21,14 +23,15 @@ This course syllabus is substantially different from the current one in Anna Uni
 - To Learn the introductory concepts of machine learning in AI.
 
 {{{unit}}}
-|UNIT I|FOUNDATIONS|8|
+| UNIT I | FOUNDATIONS | 8 |
 Introduction: What is AI; Intelligent Agents: Agents and environments
 -- Good behavior -- The nature of environments -- Structure of agents;
 Philosophical Foundations: Weak AI -- Strong AI -- Ethics and risks of
-developing AI; AI: The Present and Future: Agent components -- Agent architectures.
+developing AI; AI: The Present and Future: Agent components -- Agent
+architectures.
 
 {{{unit}}}
-|UNIT II|PROBLEM SOLVING & SEARCH TECHNIQUES|10|
+| UNIT II | PROBLEM SOLVING & SEARCH TECHNIQUES | 10 |
 Solving Problems by Searching: Problem solving agents -- Example
 problems -- Searching for solutions -- Uninformed search strategies --
 Informed search strategies -- Heuristic functions; Beyond classical
@@ -37,7 +40,7 @@ search: Games -- Optimal decisions in games -- Alpha-beta pruning.
 
 
 {{{unit}}}
-|UNIT III|KNOWLEDGE REPRESENTATION & REASONING|9|
+| UNIT III | KNOWLEDGE REPRESENTATION & REASONING | 9 |
 Logical Agents: Knowledge-based agents -- Propositional logic --
 Propositional theorem proving; First order logic: Syntax and semantics
 for first order logic -- Using first order logic; Inference in first
@@ -45,7 +48,7 @@ order logic: Propositional versus first order logic -- Unification and
 lifting -- Forward chaining -- Backward chaining -- Resolution.
 
 {{{unit}}}
-|UNIT IV|UNCERTAIN KNOWLEDGE AND REASONING|9|
+| UNIT IV | UNCERTAIN KNOWLEDGE AND REASONING | 9 |
 Quantifying Uncertainty: Acting under uncertainty -- Basic probability
 notation -- Inference using full joint distributions -- Bayes’ rule &
 its use; Probabilistic Reasoning: The semantics of Bayesian networks
@@ -53,7 +56,7 @@ its use; Probabilistic Reasoning: The semantics of Bayesian networks
 uncertain reasoning.
 
 {{{unit}}}
-|UNIT V|LEARNING AND ITS APPLICATIONS|9|
+| UNIT V | LEARNING AND ITS APPLICATIONS | 9 |
 Learning from Examples: Forms of learning -- Supervised learning --
 Learning decision trees; Reinforcement learning: Passive reinforcement
 learning -- Active reinforcement learning -- Applications of
@@ -78,12 +81,16 @@ reinforcement learning.
 \hfill *Total Periods: 75*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Identify, formulate, understand and solve AI problems using search techniques (K3)
-- Elucidate the concept of Knowledge Representation and inference using logics (K2)
-- Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
+After the completion of this course, students will be able to:
+- Identify, formulate, understand and solve AI problems using search
+  techniques (K3)
+- Elucidate the concept of Knowledge Representation and inference
+  using logics (K2)
+- Elucidate the concept of Knowledge Representation and inference
+  under uncertainty (K2)
 - Elucidate the concept of learning in AI applications (K3)
-- Implement various search, inference and learning algorithms in AI (K4).
+- Implement various search, inference and learning algorithms in AI
+  (K4).
 
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern
@@ -94,15 +101,15 @@ After the completion of this course, students will be able to:
       
 ** REFERENCES
 1. Dawn W Patterson, ``Introduction to Artificial Intelligence and
-   Expert Systems'', Pearson Education India; 1st edition, 2015.
-2. Elaine Rich and Kevin Knight, ``Artificial Intelligence'', 2nd
+   Expert Systems'', 1st Edition, Pearson Education India, 2015.
+2. Elaine Rich, Kevin Knight, ``Artificial Intelligence'', 2nd
    Edition, Tata McGraw-Hill, 2003.
-3. Andreas Muller and Sarah Guido, ``Introduction to Machine Learning
-   with Python: A Guide for Data Scientists'', Shroff/O'Reilly; 1st
+3. Andreas Muller, Sarah Guido, ``Introduction to Machine Learning
+   with Python: A Guide for Data Scientists'', Shroff/O'Reilly, 1st
    edition, 2016.
-4. David Poole and Alan Mackworth, ``Artificial Intelligence :
-   Foundation of Computational Agents'', Cambridge University Press;
-   2nd Edition, 2017.
-5. Prateek Joshi, ``Artificial Intelligence with Python'', Packt
-   Publishing Limited; 1st edition, 2017.
+4. David Poole, Alan Mackworth, ``Artificial Intelligence : Foundation
+   of Computational Agents'', 2nd Edition, Cambridge University
+   Press, 2017.
+5. Prateek Joshi, ``Artificial Intelligence with Python'', 1st
+   edition, Packt Publishing Limited, 2017.
 

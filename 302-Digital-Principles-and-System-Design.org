@@ -25,10 +25,10 @@
 
 {{{unit}}}
 |UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
-Number Systems -- Arithmetic Operations -- Binary Codes-- Boolean Algebra
-and Logic Gates -- Theorems and Properties of Boolean Algebra -- Boolean
-Functions -- Canonical and Standard Forms -- Simplification of Boolean
-Functions using Karnaugh Map -- Logic Gates – NAND and NOR
+Number Systems -- Arithmetic Operations -- Binary Codes-- Boolean
+Algebra and Logic Gates -- Theorems and Properties of Boolean Algebra
+-- Boolean Functions -- Canonical and Standard Forms -- Simplification
+of Boolean Functions using Karnaugh Map -- Logic Gates – NAND and NOR
 Implementations.
 
 {{{unit}}}
@@ -46,10 +46,10 @@ Programmable Devices.
 
 {{{unit}}}
 |UNIT IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
-Sequential Circuits -- Storage Elements: Latches , Flip--Flops; Analysis
-of Clocked Sequential Circuits -- State Reduction and Assignment --
-Design Procedure -- Registers and Counters -- HDL Models of Sequential
-Circuits.
+Sequential Circuits -- Storage Elements: Latches , Flip--Flops;
+Analysis of Clocked Sequential Circuits -- State Reduction and
+Assignment -- Design Procedure -- Registers and Counters -- HDL Models
+of Sequential Circuits.
 
 {{{unit}}}
 |UNIT V | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |

@@ -17,7 +17,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the classical and symmetric cryptographic techniques
 - To study about message authentication and hash functions
 - To learn number theory fundamentals needed by cryptographic
@@ -41,7 +41,7 @@ Functions -- NMAC and HMAC -- Constructing CCA-Secure Encryption
 Schemes -- Obtaining Privacy and Message Authentication.
 
 {{{unit}}}
-|UNIT III| BLOCK CIPHERS |9| 
+| UNIT III | BLOCK CIPHERS | 9 |
 Substitution-Permutation Networks -- Feistel Networks -- DES --
 Increasing the Key Length of a Block Cipher -- AES -- Differential and
 Linear Cryptanalysis; One-Way Functions -- From One-Way Functions to
@@ -59,7 +59,7 @@ and the Public-Key Revolution: Limitations of Private-Key Cryptography
 Diffie-Hellman Key Exchange.
 
 {{{unit}}}
-|UNIT V| PUBLIC-KEY ENCRYPTION & DIGITAL SIGNATURE |9|
+| UNIT V | PUBLIC-KEY ENCRYPTION & DIGITAL SIGNATURE | 9 |
 Public-Key Encryption – An Overview -- Definitions -- Hybrid
 encryption -- RSA encryption – The El Gamal Encryption Scheme --
 Security Against Chosen-Ciphertext Attacks;Digital Signatures Schemes:

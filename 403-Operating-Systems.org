@@ -1,6 +1,6 @@
 * <<<403>>> OPERATING SYSTEMS
 :properties:
-:author: Mr. H. Haul Ha-mead and Ms. S. Lakshmi Priya
+:author: Mr. H. Shaul Hamead and Ms. S. Lakshmi Priya
 :date: 13-11-2018
 :end:
 
@@ -11,10 +11,6 @@
  4. Five Course outcomes specified and aligned with units
  5. For lab, suggestive experiments are clearly defined.
 #+end_comment
-
-#+startup: showall
-#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
-#+macro: credits #+attr_latex: :center nil
 
 {{{credits}}}
 | L | T | P | C |
@@ -34,8 +30,8 @@ Computer System Overview: Basic elements -- Instruction execution –
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
 Overview: Objectives and functions -- Evolution of operating
-system;Computer system organization;
- Operating System Structure and Operations: System calls -- System programs -- OS generation and
+system;Computer system organization; Operating System Structure and
+Operations: System calls -- System programs -- OS generation and
 system boot.
 
 {{{unit}}}
@@ -82,7 +78,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, "Operating
-   System Concepts'', 9th Edition, John Wiley and Sons Inc., 2012.
+   System Concepts'', 9th Edition, John Wiley and Sons Inc, 2012.
 2. Neil Smyth, ``iPhone iOS 4 Development Essentials - Xcode'', 4th
    Edition, Payload media,2011.
 
@@ -93,7 +89,7 @@ After the completion of this course, students will be able to:
    Education, 2016.
 3. Andrew S Tanenbaum, ``Modern Operating Systems'', 2nd Edition,
    Pearson Education, 2004.
-4. Harvey M  Deitel, ``Operating Systems'', 3rd Edition, Pearson
+4. Harvey M Deitel, ``Operating Systems'', 3rd Edition, Pearson
    Education, 2004.
-5. Daniel P Bovet and Marco Cesati, ``Understanding the Linux
-   Kernel'', 3rd edition, O‘Reilly,2005.
+5. Daniel P Bovet, Marco Cesati, ``Understanding the Linux Kernel'',
+   3rd edition, O‘Reilly,2005.
