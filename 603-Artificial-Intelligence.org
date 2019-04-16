@@ -61,7 +61,7 @@ uncertain reasoning.
 | UNIT V | LEARNING | 9 |
 Learning from Examples: Forms of learning -- Supervised learning --
 Learning decision trees; Reinforcement learning: Passive reinforcement
-learning -- Active reinforcement learning -- Applications to robot control.
+learning -- Active reinforcement learning -- Application to robot control.
 
 \hfill *Theory Periods: 45*
 
