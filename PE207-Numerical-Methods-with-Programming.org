@@ -25,7 +25,7 @@
 - To study Numerical solutions for differential equations.
 
 {{{unit}}}
-|UNIT I | APPROXIMATE NUMBERS | 9|
+| UNIT I | APPROXIMATE NUMBERS | 9 |
 Sources of Errors in Numerical Calculations -- Absolute and Relative
 Errors -- Representation of Numbers -- Significant Digits -- Errors of
 Elementary Operations; Basic Programming Techniques( C/C++).
@@ -53,10 +53,10 @@ Newton’s method for nonlinear simultaneous equations -- Power method
 for determination eigen values -- Convergence of Power method.
 
 {{{unit}}}
-|UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
+| UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
 Numerical solution of ordinary differential equations; Single step
 methods -- Taylor series method -- Picard’s Method -- Euler and
-Modified Euler methods -- Runge–Kutta methods of 2nd and 4th order;
+Modified Euler methods -- Runge-Kutta methods of 2nd and 4th order;
 Multi-step methods -- Miline’s PredictorCorrector formulas --
 Adam-Bashforth and Adam-Moulton formulas.
 
@@ -65,10 +65,11 @@ Adam-Bashforth and Adam-Moulton formulas.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop simple applications in C using basic constructs (K3)
-- Understanding the Numerical interpolation and integration (K2)
+- Understanding the numerical interpolation and integration (K2)
 - Provide numerical solutions for differential equations (K3)
-- Apply Numerical methods to solve problems drawn from industry and Engineering (K3)
-- Assess the reliabilty of Numerical results (K3).
+- Apply numerical methods to solve problems drawn from industry and
+  Engineering (K3)
+- Assess the reliabilty of numerical results (K3).
       
 ** TEXT BOOKS
 1. Titus Adrien Beu, ``Introduction to Numerical Programming a

@@ -26,9 +26,10 @@ We are not aware of any Program Verification course in Anna University curriculu
 {{{unit}}}
 | UNIT I | FOUNDATIONS | 9 |
 Propositional Logic: Syntax -- Semantics -- Natural deduction;
-Predicate Logic: Syntax -- Semantics -- Natural deduction; Linear-time Temporal Logic: Syntax --
-Semantics -- Specifications in LTL; Branching-time Logic: Syntax -- Semantics --
-Specifications in CTL; CTL* and the expressive powers of LTL and CTL.
+Predicate Logic: Syntax -- Semantics -- Natural deduction; Linear-time
+Temporal Logic: Syntax -- Semantics -- Specifications in LTL;
+Branching-time Logic: Syntax -- Semantics -- Specifications in CTL;
+CTL* and the expressive powers of LTL and CTL.
 
 {{{unit}}}
 | UNIT II | HOARE LOGIC AND PROGRAM CORRECTNESS | 9 |
@@ -74,12 +75,12 @@ After the completion of this course, students will be able to:
 - Specify and verify simple systems using UPPAAL (K3).
 
 ** TEXTBOOKS
-1. M Huth and M Ryan, ``Logic in Computer Science -- Modeling and
+1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
    Reasoning About Systems'', 2nd Edition, Cambridge University
    Press, 2004. (Units I, II and III)
-2. Edmund Clarke, Orna Grumberg, and Doron Peled, ``Model Checking'',
+2. Edmund Clarke, Orna Grumberg, Doron Peled, ``Model Checking'',
    The MIT Press, 1999. (Units III and IV)
-3. C Baier and J Katoen, ``Principles of Model Checking'', The MIT
+3. C Baier, J Katoen, ``Principles of Model Checking'', The MIT
    Press, 2008. (Unit V)
    
 ** REFERENCES

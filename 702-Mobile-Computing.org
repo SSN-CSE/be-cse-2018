@@ -94,7 +94,9 @@ architecture -- Developing android applications -- Anatomy of android
 applications -- Android SDK; Windows Phone: Platform architecture --
 Silverlight framework; Mobile Web: Being mobile friendly -- WebKit --
 Web vs Native vs Hybrid -- Mobile web application frameworks.
-
+#+BEGIN_COMMENT
+Windows phone: remove (MM)
+#+END_COMMENT
 #+begin_comment
 To meet the industry needs, the whole unit has been re-framed
 #+end_comment

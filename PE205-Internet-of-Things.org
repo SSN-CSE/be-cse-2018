@@ -62,9 +62,11 @@ Case Study: Smart and connected cities.
 ** COURSE OUTCOMES
 After completion of this course, students should be able to:
 - Explain the basics and different architectures of IoT (K2)
-- Discuss various sensors and access protocols for IoT  (K2)
-- Select different transport and application layer protocols based on application’s requirements (K2)
-- Discuss various machine learning and data analytics techniques for IoT applications (K2)
+- Discuss various sensors and access protocols for IoT (K2)
+- Select different transport and application layer protocols based on
+  application’s requirements (K2)
+- Discuss various machine learning and data analytics techniques for
+  IoT applications (K2)
 - Use security aspects in designing real time IoT applications (K3).
 
 
