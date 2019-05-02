@@ -28,7 +28,7 @@ This syllabus is completely independent of any Logic in Computer Science course.
 |UNIT I|PROPOSITIONAL LOGIC|9|
 Foundations: Syntax and semantics -- Mathematical induction -- Soundness
 and completeness; Semantic Entailment: Natural Deduction; Normal
-Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers.
+Forms; PSAT Problem; Horn Logic; DPLL; CDCL; SAT Solvers.
 
 {{{unit}}}
 |UNIT II|PREDICATE LOGIC|9|
