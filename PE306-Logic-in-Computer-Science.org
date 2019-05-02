@@ -97,6 +97,6 @@ After the completion of this course, students will be able to:
 6. Herbert Enderton, ``A Mathematical Introduction to Logic'', 2nd
    edition, Harcourt Academic Press, 2001.
 7. Carla Gomes, Henry Kautz, Ashish Sabharwal and Bart Selman ``Satisfiability Solvers'', 
-	Handbook of Knowledge Representation, Elsevier 2008.
+   Handbook of Knowledge Representation, Elsevier 2008 (Unit IV).
 8. Clark Barrett, Roberto Sebastiani, Sanjit Seshia, Cesare Tinelli, 
-	``Satisfiability Modulo Theories'', Handbook of Satisfiability, IOS Press 2009.
+   ``Satisfiability Modulo Theories'', Handbook of Satisfiability, IOS Press 2009 (Unit IV).
