@@ -56,10 +56,14 @@ Typed variables -- Integer variables and arithmetic -- Arrays.
 {{{unit}}}
 | UNIT V | INPUT/OUTPUT, PROCESS HANDLING AND DEBUGGING | 8 |
 Input/Output and Command-Line Processing: I/O redirectors -- String
-I/O -- Command-line processing; Process Handling: Process IDs & job
-numbers -- Job control -- Signals -- Trap -- Coroutines -- Subshells
+I/O -- Command-line processing; sed and awk; Process Handling: Process IDs & job
+numbers -- Job control -- Trap -- Coroutines -- Subshells
 -- Process substitution; Debugging Shell Programs: Basic debugging
 Aids -- A bash debugger.
+
+#+begin_comment:
+As per the suggestion of BoS, removed signals from Unit V and added sed and awk.
+#+end_comment
 
 \hfill *Total Periods: 30*
 
@@ -69,9 +73,11 @@ Aids -- A bash debugger.
 3. Exercises on security and file permissions.
 4. Exercises on pipes, quotes, aliases and variables.
 5. Exercises on filters.
-6. Exercises on Shell program debugging.
+6. Exercises on sed
+7. Exercises on awk.
+8. Exercises on Shell program debugging.
 
-\hfill *Total Periods: 30*
+*Total Periods: 30*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
