@@ -16,23 +16,23 @@
   them in a high level programming language
 - To understand the concepts of sorting and searching techniques.
 
-{{{unit}}}
 |UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
 Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
+
 
 |UNIT II|   | 6 |
 List ADT -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
 
-{{{unit}}}
+
 |UNIT III | STACK AND QUEUE | 6 |
 Stack ADT: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
 Applications of queues.
 
-{{{unit}}}
+
 |UNIT IV | TREES | 6 |
 Tree ADT: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
 
-{{{unit}}}
+
 |UNIT V | GRAPHS | 6 |
 Graph algorithms: Definitions -- Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm.
 
@@ -63,11 +63,11 @@ Graph algorithms: Definitions -- Representation of graphs -- Breadth first trave
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear data structures and solve problems using them  (K3)
+- Implement various sorting and searching algorithms (K2)
+- Implement list and solve problems using them  (K3)
 - Implement stack and queue and use them to solve problems (K3)
-- Implement trees  and use them to solve problems (K3)
-- Implement graphs and use them to solve problems (K3)
-- Implement various sorting and searching algorithms (K2).
+- Implement trees and use them to solve problems (K3)
+- Implement graphs and use them to solve problems (K3).
 
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',
