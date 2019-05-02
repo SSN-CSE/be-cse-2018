@@ -10,27 +10,26 @@
 | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the concepts of ADT
+- To understand the concepts of sorting and searching techniques
 - To comprehend the notion of linear and non linear data structures
 - To use a suitable data structure for the given problem and implement
-  them in a high level programming language
-- To understand the concepts of sorting and searching techniques.
+  them in a high level programming language.
 
 |UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
 Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
 
 
-|UNIT II|   | 6 |
-List ADT -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
+|UNIT II| LIST  | 6 |
+List -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
 
 
 |UNIT III | STACK AND QUEUE | 6 |
-Stack ADT: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
+Stack: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
 Applications of queues.
 
 
 |UNIT IV | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
+Tree: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
 
 
 |UNIT V | GRAPHS | 6 |
