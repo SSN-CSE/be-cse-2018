@@ -17,35 +17,33 @@
 - To understand the concepts of sorting and searching techniques.
 
 {{{unit}}}
-|UNIT I | LIST | 6 |
-Abstract Data Types (ADT) -- List ADT -- Array implementation --
-Linked lists -- Applications of Lists: Polynomial addition.
+|UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
+Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
+
+|UNIT II|   | 6 |
+List ADT -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
 
 {{{unit}}}
-|UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Array implementation of stack -- Applications: Evaluating
-postfix expressions; Queue ADT: Array implementation of queues --
+|UNIT III | STACK AND QUEUE | 6 |
+Stack ADT: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
 Applications of queues.
 
 {{{unit}}}
-|UNIT III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- Expression trees --
-Binary Search Trees -- Applications of trees.
+|UNIT IV | TREES | 6 |
+Tree ADT: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
 
 {{{unit}}}
-|UNIT IV | GRAPHS | 6 |
-Graph algorithms: Definitions -- Representation of graphs -- Breadth
-first traversal -- Depth first traversal -- Shortest-path algorithm:
-Dijkstra's algorithm.
+|UNIT V | GRAPHS | 6 |
+Graph algorithms: Definitions -- Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm.
 
-{{{unit}}}
-|UNIT V | SORTING AND SEARCHING TECHNIQUES   | 6 |
-Sorting: Insertion sort -- Merge sort -- Quicksort; Searching:
-Linear search -- Binary search.
+
+
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
+- Implement insertion sort and merge sort
+- Implement linear search and binary search.
 - Implement List ADT using arrays.
 - Represent polynomial as a linked list and perform polynomial
   addition
@@ -56,8 +54,7 @@ Linear search -- Binary search.
 - Represent graph using adjacency matrix and perform depth first
   traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
-- Implement insertion sort and merge sort
-- Implement linear search and binary search.
+
 
 
 \hfill *Practical Periods: 30*
