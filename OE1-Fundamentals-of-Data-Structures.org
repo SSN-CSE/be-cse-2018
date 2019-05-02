@@ -3,7 +3,12 @@
 :author: 
 :end:
 
+#+BEGIN_COMMENT
+As per the suggestions made in BoS meeting, all the changes have been done.
+#+END_COMMENT
+
 #+startup: showall
+
 
 {{{credits}}}
 | L | T | P | C |
