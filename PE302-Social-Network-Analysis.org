@@ -11,11 +11,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the social network concepts, measures and data  
-- To learn mathematical representation of social networks
-- To be familiar with community detection methods and applications
-- To understand privacy and security issues in social network
-- To visualize social networks.
+- To understand the concepts of social network analysis and formally represent social network 
+- To practically apply community detection algorithms and visualization to online social network
+- To know the various applications of social network analysis
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
@@ -71,11 +69,11 @@ After the completion of this course, students will be able to:
 
 ** TEXTBOOKS
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
-   Springer, 2007. 
-2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis
-   Methods and Applications'', 1st Edition, Cambridge University
+   Springer, 2007. (Unit I)
+2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
    Press, 1994.
-3. Borko Furht, ``Handbook of Social Network Technologies and
+3. Maksim Tsvetovat and Alexander Kouznetsov, “Social Network Analysis for Startups”, O’Reilly,  2011.
+4. Borko Furht, ``Handbook of Social Network Technologies and
    Applications'', 1st Edition, Springer, 2010.
 
       
