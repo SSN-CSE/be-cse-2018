@@ -79,10 +79,10 @@ After the completion of this course, students will be able to:
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
    Springer, 2007. (Unit I)
 2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
-   Press, 1994.
-3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011.
+   Press, 1994. (Unit I and Unit II)
+3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
 4. Borko Furht, ``Handbook of Social Network Technologies and
-   Applications'', 1st Edition, Springer, 2010.
+   Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
 
       
 ** REFERENCES
