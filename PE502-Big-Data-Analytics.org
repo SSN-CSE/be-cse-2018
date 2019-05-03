@@ -43,7 +43,7 @@ Added: Review of basic data analytic methods using R
 | UNIT II | REGRESSION AND CLASSIFICATION | 9 |
 Advanced analytical theory and methods -- Regression : Linear
 regression -- Logistic regression ; Classification: Decision trees --
-Overview of a decision tree -- General algorithm -- Decision tree
+Overview of a decision tree -- Decision tree
 algorithms -- Evaluating a decision tree -- Decision trees in R --
 Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier in R.
 #+begin_comment
