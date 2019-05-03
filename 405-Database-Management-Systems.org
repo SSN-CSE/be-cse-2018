@@ -80,7 +80,7 @@ NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column-
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 #+begin_comment
-Added as new unit to meet recent trends and industry requirements.
+This is newly added chapter which deal the recent datamodel in the big data/cloud environments.
 #+end_comment
 
 \hfill *Total Periods: 45*
