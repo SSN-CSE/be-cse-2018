@@ -24,8 +24,8 @@ Major Change
 
 ** COURSE OBJECTIVES
 - To understand the concepts of social network analysis and formally represent social network 
-- To practically apply community detection algorithms and visualization to online social network
-- To know the various applications of social network analysis
+- To use SNA tools for applying community detection algorithms and visualization on online social network
+- To know the various applications of social network analysis.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
@@ -71,7 +71,7 @@ networks.
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
 - Represent social networks mathematically (K2)
-- Understand the working of community detection algorithm for online Social networks (K2)
+- Understand the working of community detection algorithms for online Social networks (K2)
 - Use SNA tools for analysing social networks (K3)  
 - Apply Visualization to social networks (K3).
 
