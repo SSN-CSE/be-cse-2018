@@ -76,10 +76,6 @@ and Mobile Device Forensics: Understanding mobile device forensics --
 Understanding acquisition procedures for cell phones and mobile
 devices.
 
-# Mobile Network Forensic: Introduction -- Mobile Network Technology --
-# Investigations -- Collecting Evidence -- Wher in SNU syllabuse to seek Digital Data
-# for further Investigations -- Interpretation of Digital Evidence on
-# Mobile Network.
 
 {{{unit}}}
 |UNIT V | COMPUTER FORENSIC TOOLS| 9 |
@@ -87,8 +83,9 @@ The Investigator's Office and Laboratory: Understanding forensics lab
 certification requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 -- FTK -- Autopsy -- Sleuth kit forensic browser -- FIRE -- Found
-stone forensic toolKit -- WinHex -- Linux and other open source tools.
-
+stone forensic toolKit -- WinHex -- Linux and other open source tools; case studies: forensics accounting - forensics audit.
+# Case study in unit 5
+# https://www.netrika.in/case-study/forensic-accounting-leads-to-improved-business-process 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -116,3 +113,4 @@ After the completion of this course, students will be able to:
 5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
    Manual for Collecting, Examining, and Preserving Evidence of
    Computer Crimes'', Auerbach Publications, 2007.
+   
