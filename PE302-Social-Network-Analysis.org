@@ -1,7 +1,7 @@
 * <<<PE302>>> SOCIAL NETWORK ANALYSIS
 :properties:
-:author: Dr. G. Raghuraman and Dr. V. S. Felix Enigo
-:date: 
+:author: Dr. V. S. Felix Enigo and Dr. G. Raghuraman
+:date: 03/05/2019
 :end:
 
 #+startup: showall
@@ -9,6 +9,18 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+#+BEGIN_COMMENT
+
+Modification
+   Course Objectives was reduced to three objectives.
+Major Change
+  Unit IV was completely replaced with new topics as suggested by BoS Experts
+  Course outcomes was modified reflecting Unit IV
+  New text book was added to cover the topics of Unit IV
+  
+#+END_COMMENT
+
 
 ** COURSE OBJECTIVES
 - To understand the concepts of social network analysis and formally represent social network 
@@ -68,7 +80,7 @@ After the completion of this course, students will be able to:
    Springer, 2007. (Unit I)
 2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
    Press, 1994.
-3. Maksim Tsvetovat and Alexander Kouznetsov, “Social Network Analysis for Startups”, O’Reilly,  2011.
+3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011.
 4. Borko Furht, ``Handbook of Social Network Technologies and
    Applications'', 1st Edition, Springer, 2010.
 
