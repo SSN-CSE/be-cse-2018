@@ -47,18 +47,13 @@ Rule -- Simpson’s Rule.
 
 {{{unit}}}
 | UNIT IV | NUMERICAL SOLUTION FOR ALGEBRAIC EQUATIONS | 9 |
-Direct methods -- Gauss and Gauss–Jordan methods; Iterative methods --
-Gauss-Jacobi and Gausss-Seidel methods -- Relaxation method --
-Newton’s method for nonlinear simultaneous equations -- Power method
-for determination eigen values -- Convergence of Power method.
+Direct methods -- Gauss and Gauss–Jordan methods; Iterative methods -- Gauss-Jacobi and Gausss-Seidel methods -- Relaxation method --
+Newton’s method for nonlinear simultaneous equations -- Power method for determination eigen values -- Convergence of Power method.
 
 {{{unit}}}
 | UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
-Numerical solution of ordinary differential equations; Single step
-methods -- Taylor series method -- Picard’s Method -- Euler and
-Modified Euler methods -- Runge-Kutta methods of 2nd and 4th order;
-Multi-step methods -- Miline’s PredictorCorrector formulas --
-Adam-Bashforth and Adam-Moulton formulas.
+Numerical solution of ordinary differential equations; Single step methods -- Taylor series method -- Picard’s Method -- Euler and
+Modified Euler methods -- Runge-Kutta methods of 2nd and 4th order. 
 
 \hfill *Total Periods: 45*
 
@@ -67,8 +62,7 @@ After the completion of this course, students will be able to:
 - Develop simple applications in C using basic constructs (K3)
 - Understanding the numerical interpolation and integration (K2)
 - Provide numerical solutions for differential equations (K3)
-- Apply numerical methods to solve problems drawn from industry and
-  Engineering (K3)
+- Apply numerical methods to solve problems drawn from sciences (K3)
 - Assess the reliabilty of numerical results (K3).
       
 ** TEXT BOOKS
