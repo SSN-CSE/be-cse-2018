@@ -69,11 +69,12 @@ Removed: Using Graph Analytics for Big Data: Graph Analytics
 Mining frequent itemsets : Market based model -- Apriori algorithm --
 Handling large data sets in main memory -- Limited Pass algorithm --
 Counting frequent itemsets in a stream -- Clustering techniques :
-Hierarchical -- k-Means -- Clustering high dimensional data -- CLIQUE
-and PROCLUS -- Frequent pattern based clustering methods -- Clustering
-in non-euclidean space -- Clustering for streams and parallelism.
+Hierarchical -- k-Means -- Clustering high dimensional data.  
 #+begin_comment
 Modified:  Mining frequent itemsets and Clustering techniques for big data
+Removed: CLIQUE and PROCLUS -- Frequent pattern based clustering methods -- Clustering
+in non-euclidean space -- Clustering for streams and parallelism.
+Removed the above topics from Unit - IV to cover in the given hours.
 #+end_comment
 
 {{{unit}}}
