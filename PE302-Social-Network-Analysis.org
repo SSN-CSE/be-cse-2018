@@ -39,13 +39,10 @@ community mining algorithms -- Multi-Relational characterization of
 dynamic social network communities.
 
 {{{unit}}}
-|UNIT IV | PRIVACY IN ONLINE SOCIAL NETWORKS | 9 |
-Managing Trust in Online Social Networks: Trust in online environment --
-Trust models based on subjective logic -- Trust network analysis -- Trust
-transitivity analysis -- The Dirichlet reputation system -- Combining
-Trust and Reputation -- Security and Privacy in Online Social Networks:
-Security objectives -- Privacy -- Integrity -- Availability -- Attack
-spectrum and countermeasures.
+|UNIT IV | PRACTICAL APPROACH TO SOCIAL NETWORK ANALYSIS | 9 |
+Graph Theory: Adjacency matrices -- Graph Traversals and Distances -- Graph Distance;   SNA Tool: Get oriented with Python and NetworkX -- Centrality; Clique, Clusters and Components: Components and Subgraphs -- Triads -- Cliques -- Hierarchical Clustering; 2-Mode networks; A small dynamic model in python.
+
+
 
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
