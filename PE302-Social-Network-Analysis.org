@@ -62,10 +62,9 @@ networks.
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
 - Represent social networks mathematically (K2)
-- Select appropriate community detection algorithm for online Social
-  networks (K3)
-- Explain the privacy and security concepts in online Social networks (K2) 
-- Apply visualization to social networks (K3).
+- Understand the working of community detection algorithm for online Social networks (K2)
+- Use SNA tools for analysing social networks (K3)  
+- Apply Visualization to social networks (K3).
 
 ** TEXTBOOKS
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
