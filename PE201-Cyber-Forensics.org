@@ -47,7 +47,9 @@ pre-incident preparation -- Identifying risk -- Preparing individual
 hosts -- Preparing a network -- Establishing appropriate policies and
 procedures -- Creating a response toolkit -- Establishing an incident
 response team.
-
+#+begin_comment
+          Unit-1:   AU-Unit I included. 
+#+end_comment
 {{{unit}}}
 |UNIT II | DATA ACQUISITION | 9 |
 After Detection of an Incident: Initial response phase -- Incident
@@ -57,7 +59,10 @@ declaration -- Assembling the CSIRT -- Traditional investigative steps
 Storage formats -- Best acquisition method -- Image acquisitions --
 Acquisition tools -- Validating data acquisitions -- RAID data
 acquisitions -- Remote network acquisition tools.
-
+#+begin_comment
+ Unit-2:  AU-Unit I topics included
+         AU-Unit I data acquisition topics is elaborated 
+#+end_comment   
 {{{unit}}}
 |UNIT III | ANALYSIS AND VALIDATION | 9 |
 Processing Crime and Incident Scenes: Identifying digital evidence --
@@ -66,7 +71,10 @@ Securing CS -- Seizing -- Storing -- Digital hash -- Reviewing a case;
 Working with Windows and DOS Systems: Examining NTFS disks; Computer
 Forensics Analysis and Validation: Data to collect and analyze --
 Validating -- Data hiding techniques -- Remote acquisition.
-
+#+begin_comment
+Unit-3: AU-Unit II topics included
+         AU-Unit III topics included
+#+end_comment
 {{{unit}}}
 |UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
 Network Forensics: Developing standard procedures for network
@@ -75,8 +83,9 @@ e-mail servers -- Using specialized e-mail forensics tools; Cell Phone
 and Mobile Device Forensics: Understanding mobile device forensics --
 Understanding acquisition procedures for cell phones and mobile
 devices.
-
-
+#+begin_comment
+ Unit-4: AU-Unit III topics included 
+ #+end_comment
 {{{unit}}}
 |UNIT V | COMPUTER FORENSIC TOOLS| 9 |
 The Investigator's Office and Laboratory: Understanding forensics lab
@@ -84,6 +93,10 @@ certification requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 -- FTK -- Autopsy -- Sleuth kit forensic browser -- FIRE -- Found
 stone forensic toolKit -- WinHex -- Linux and other open source tools; case studies: forensics accounting - forensics audit.
+#+begin_comment
+Unit-5:  New tools topics included
+         Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
+#+end_comment
 # Case study in unit 5
 # https://www.netrika.in/case-study/forensic-accounting-leads-to-improved-business-process 
 \hfill *Total Periods: 45*
