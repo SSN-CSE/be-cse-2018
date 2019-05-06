@@ -40,32 +40,32 @@ Rearrange text in vi.
 
 {{{unit}}}
 | UNIT III | BASH BASICS | 6 |
-Bash Basics: What is a shell? -- History of UNIX shells -- Interactive
-shell usage -- Input & output -- Background jobs -- Special characters
-and quoting; Command-Line Editing: Enabling command-line editing --
-The history list -- emacs editing mode -- emacs editing mode -- The fc
-command -- Histroy expansion -- readline; Customizing your
-environment; .bash\underline{ }profile, .bash\underline{ }logout,
-.bashrc Files -- Aliases -- Options -- Shell variables --
-Customization and subprocesses.
+Bash Basics: What is a shell? -- Interactive shell usage -- Input &
+output -- Background jobs -- Special characters and quoting;
+Command-Line Editing: Enabling command-line editing -- The history
+list -- emacs editing mode -- emacs editing mode -- The fc command --
+Histroy expansion -- readline; Customizing your environment;
+.bash\underline{ }profile, .bash\underline{ }logout, .bashrc Files --
+Aliases -- Options -- Shell variables -- Customization and
+subprocesses.
 
 {{{unit}}}
 | UNIT IV | SHELL PROGRAMMING | 6 |
 Basic Shell Programming: Shell scripts and functions -- Shell
-variables -- String operators -- Command substitution; Flow control.
+variables -- String operators -- Command substitution; Flow control;
+Command-line options and Typed Variables: Command-line options --
+Typed variables -- Integer variables and arithmetic -- Arrays.
 
 {{{unit}}}
 | UNIT V | INPUT/OUTPUT | 8 |
-Command-line options and Typed Variables: Command-line options --
-Typed variables -- Integer variables and arithmetic -- Arrays;
 Input/Output and Command-Line Processing: I/O redirectors -- String
-I/O -- Command-line processing
+I/O -- Command-line processing; Process Handling: Process IDs & job
+numbers -- Job control -- Trap -- Coroutines -- Subshells -- Process
+substitution.
 
-#+BEGIN_COMMENT
- Process Handling: Process IDs & job numbers -- Job control -- Signals
--- Trap -- Coroutines -- Subshells -- Process substitution; Debugging
-Shell Programs: Basic debugging Aids -- A bash debugger.
-#+END_COMMENT
+#+begin_comment:
+As per the suggestion of BoS, removed signals from Unit V and added sed and awk.
+#+end_comment
 
 \hfill *Total Periods: 30*
 
@@ -75,9 +75,10 @@ Shell Programs: Basic debugging Aids -- A bash debugger.
 3. Exercises on security and file permissions.
 4. Exercises on pipes, quotes, aliases and variables.
 5. Exercises on filters.
-6. Exercises on Shell program debugging.
+6. Exercises on sed
+7. Exercises on awk.
 
-\hfill *Total Periods: 30*
+*Total Periods: 30*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:

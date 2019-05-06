@@ -1,7 +1,7 @@
 * <<<PE302>>> SOCIAL NETWORK ANALYSIS
 :properties:
-:author: Dr. G. Raghuraman and Dr. V. S. Felix Enigo
-:date: 
+:author: Dr. V. S. Felix Enigo and Dr. G. Raghuraman
+:date: 03/05/2019
 :end:
 
 #+startup: showall
@@ -10,12 +10,22 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+BEGIN_COMMENT
+
+Modification
+   Course Objectives was reduced to three objectives.
+Major Change
+  Unit IV was completely replaced with new topics as suggested by BoS Experts
+  Course outcomes was modified reflecting Unit IV
+  New text book was added to cover the topics of Unit IV
+  
+#+END_COMMENT
+
+
 ** COURSE OBJECTIVES
-- To understand the social network concepts, measures and data  
-- To learn mathematical representation of social networks
-- To be familiar with community detection methods and applications
-- To understand privacy and security issues in social network
-- To visualize social networks.
+- To understand the concepts of social network analysis and formally represent social network 
+- To use SNA tools for applying community detection algorithms and visualization on online social network
+- To know the various applications of social network analysis.
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
@@ -41,13 +51,10 @@ community mining algorithms -- Multi-Relational characterization of
 dynamic social network communities.
 
 {{{unit}}}
-|UNIT IV | PRIVACY IN ONLINE SOCIAL NETWORKS | 9 |
-Managing Trust in Online Social Networks: Trust in online environment --
-Trust models based on subjective logic -- Trust network analysis -- Trust
-transitivity analysis -- The Dirichlet reputation system -- Combining
-Trust and Reputation -- Security and Privacy in Online Social Networks:
-Security objectives -- Privacy -- Integrity -- Availability -- Attack
-spectrum and countermeasures.
+|UNIT IV | PRACTICAL APPROACH TO SOCIAL NETWORK ANALYSIS | 9 |
+Graph Theory: Adjacency matrices -- Graph Traversals and Distances -- Graph Distance;   SNA Tool: Get oriented with Python and NetworkX -- Centrality; Clique, Clusters and Components: Components and Subgraphs -- Triads -- Cliques -- Hierarchical Clustering; 2-Mode networks; A small dynamic model in python.
+
+
 
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
@@ -64,19 +71,18 @@ networks.
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
 - Represent social networks mathematically (K2)
-- Select appropriate community detection algorithm for online Social
-  networks (K3)
-- Explain the privacy and security concepts in online Social networks (K2) 
-- Apply visualization to social networks (K3).
+- Understand the working of community detection algorithms for online Social networks (K2)
+- Use SNA tools for analysing social networks (K3)  
+- Apply Visualization to social networks (K3).
 
 ** TEXTBOOKS
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
-   Springer, 2007. 
-2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis
-   Methods and Applications'', 1st Edition, Cambridge University
-   Press, 1994.
-3. Borko Furht, ``Handbook of Social Network Technologies and
-   Applications'', 1st Edition, Springer, 2010.
+   Springer, 2007. (Unit I)
+2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
+   Press, 1994. (Unit I and Unit II)
+3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
+4. Borko Furht, ``Handbook of Social Network Technologies and
+   Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
 
       
 ** REFERENCES

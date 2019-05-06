@@ -7,7 +7,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 0 | 3 |
+| 3 | 2 | 0 | 4 |
 
 ** Course Objectives
 - To construct finite automata for any given pattern and find its
@@ -82,7 +82,7 @@ Undecidable problem that is RE -- Undecidable problems about Turing
 machines -- Post's Correspondence Problem (PCP) -- Other undecidable
 problems.
 
-\hfill *Total Periods: 45*
+\hfill *Total Periods: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -3,49 +3,51 @@
 :author: 
 :end:
 
+#+BEGIN_COMMENT
+As per the suggestions made in BoS meeting, all the changes have been done.
+#+END_COMMENT
+
 #+startup: showall
+
 
 {{{credits}}}
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the concepts of ADT
+- To understand the concepts of sorting and searching techniques
 - To comprehend the notion of linear and non linear data structures
 - To use a suitable data structure for the given problem and implement
-  them in a high level programming language
-- To understand the concepts of sorting and searching techniques.
+  them in a high level programming language.
 
-{{{unit}}}
-|UNIT I | LIST | 6 |
-Abstract Data Types (ADT) -- List ADT -- Array implementation --
-Linked lists -- Applications of Lists: Polynomial addition.
+|UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
+Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
 
-{{{unit}}}
-|UNIT II | STACK AND QUEUE | 6 |
-Stack ADT: Array implementation of stack -- Applications: Evaluating
-postfix expressions; Queue ADT: Array implementation of queues --
+
+|UNIT II| LIST  | 6 |
+List -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
+
+
+|UNIT III | STACK AND QUEUE | 6 |
+Stack: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
 Applications of queues.
 
-{{{unit}}}
-|UNIT III | TREES | 6 |
-Tree ADT: Preliminaries -- Tree traversals -- Expression trees --
-Binary Search Trees -- Applications of trees.
 
-{{{unit}}}
-|UNIT IV | GRAPHS | 6 |
-Graph algorithms: Definitions -- Representation of graphs -- Breadth
-first traversal -- Depth first traversal -- Shortest-path algorithm:
-Dijkstra's algorithm.
+|UNIT IV | TREES | 6 |
+Tree: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
 
-{{{unit}}}
-|UNIT V | SORTING AND SEARCHING TECHNIQUES   | 6 |
-Sorting: Insertion sort -- Merge sort -- Quicksort; Searching:
-Linear search -- Binary search.
+
+|UNIT V | GRAPHS | 6 |
+Graph algorithms: Definitions -- Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm.
+
+
+
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
+- Implement insertion sort and merge sort
+- Implement linear search and binary search.
 - Implement List ADT using arrays.
 - Represent polynomial as a linked list and perform polynomial
   addition
@@ -56,8 +58,7 @@ Linear search -- Binary search.
 - Represent graph using adjacency matrix and perform depth first
   traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
-- Implement insertion sort and merge sort
-- Implement linear search and binary search.
+
 
 
 \hfill *Practical Periods: 30*
@@ -66,11 +67,11 @@ Linear search -- Binary search.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear data structures and solve problems using them  (K3)
+- Implement various sorting and searching algorithms (K2)
+- Implement list and solve problems using them  (K3)
 - Implement stack and queue and use them to solve problems (K3)
-- Implement trees  and use them to solve problems (K3)
-- Implement graphs and use them to solve problems (K3)
-- Implement various sorting and searching algorithms (K2).
+- Implement trees and use them to solve problems (K3)
+- Implement graphs and use them to solve problems (K3).
 
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',

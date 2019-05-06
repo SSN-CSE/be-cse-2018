@@ -1,7 +1,7 @@
 * <<<PE306>>> LOGIC IN COMPUTER SCIENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. R. S. Milton
-:date: 13 November 2018
+:date: 2 May 2019
 :end:
 
 #+startup: showall
@@ -16,27 +16,32 @@ This syllabus is completely independent of any Logic in Computer Science course.
 #+end_comment
 
 ** COURSE OBJECTIVES
-- To understand the role of logic in modeling and reasoning about
-  systems
+- To understand the role of logic in modeling and reasoning about systems
 - To learn the syntax and semantics of various logics
 - To write formal specifications in various logics
 - To learn resolution for propositional and predicate logic
 - To learn natural deduction for modal logic
-- To program in PROLOG.
+- To program using SAT-SMT Solvers.
 
 {{{unit}}}
 |UNIT I|PROPOSITIONAL LOGIC|9|
 Foundations: Syntax and semantics -- Mathematical induction -- Soundness
 and completeness; Semantic Entailment: Natural Deduction; Normal
-Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers.
+Forms; PSAT Problem; Horn Logic; DPLL; CDCL.
+
+#+begin_comment:
+Topic on Resolution moved from Unit I to Unit IV.
+#+end_comment
 
 {{{unit}}}
 |UNIT II|PREDICATE LOGIC|9|
 Foundations: Syntax and semantics; Semantic Entailment: Natural
 deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
-Theory; Resolution: Ground resolution -- Unification; Refinements of
-Resolution: P-resolution -- N-resolution -- Linear resolution -- Unit
-resolution -- SLD resolution -- LUSH resolution.
+Theory; 
+
+#+begin_comment:
+Topics on Resolution moved from Unit II to IV. Extensions of Resolution dropped.
+#+end_comment
 
 {{{unit}}}
 |UNIT III|MODAL LOGIC|9|
@@ -48,11 +53,14 @@ System: Examples -- Modal Logic KT45n -- Natural deduction for KT45n --
 Formalising the examples.
 
 {{{unit}}}
-| UNIT IV | LOGIC PROGRAMMING | 9 |
-Foundations: Answer generation; Horn Clause Programs: Semantics of
-logic program -- Procedural semantics -- Model-theoretic semantics;
-Evaluation Strategies: Swapping lemma -- PROLOG's evaluation strategy --
-DFS -- BFS; Programming in PROLOG.
+| UNIT IV | SAT SMT SOLVERS | 9 |
+Resolution: Ground resolution -- Unification; Satisfiability Solvers: Definitions and Notations --
+SAT solver technology -- Complete methods; Satisfiabilty Modulo Theories: Introduction -- 
+Background -- Eager encoding to SAT -- Integrating theory solvers into SAT engines; 
+
+#+begin_comment:
+Unit on SAT-SMT Solvers introduced in place of Logic Programming.
+#+end_comment
 
 {{{unit}}}
 | UNIT V | MODEL CHECKING | 9 |
@@ -70,7 +78,7 @@ algorithm; CTL* and the expressive powers of LTL and CTL.
 After the completion of this course, students will be able to: 
 - Write specifications in predicate logic and temporal logics (K3)
 - Apply resolution to solve semantic entailment (K3)
-- Write logic programs in PROLOG (K3)
+- Write programs using SAT-SMT Solvers (K3)
 - Specify and Verify simple systems using NuSMV(K3)
 - Use Natural Deduction for modal logic theories(K3).
 
@@ -80,12 +88,16 @@ After the completion of this course, students will be able to:
    Press, 2004. (Units I,II,III and V).
 2. Uwe Schoning ``Logic for Computer Scientists'', Birkhauser , 1989
    (Units I,II,IV).
-3. M. Ben-Ari, ``Mathematical logic for computer science'', 2nd
+3. Carla Gomes, Henry Kautz, Ashish Sabharwal and Bart Selman ``Satisfiability Solvers'', 
+   Handbook of Knowledge Representation, Elsevier 2008 (Unit IV).
+4. Clark Barrett, Roberto Sebastiani, Sanjit Seshia, Cesare Tinelli, 
+   ``Satisfiability Modulo Theories'', Handbook of Satisfiability, IOS Press 2009 (Unit IV).   
+5. M. Ben-Ari, ``Mathematical logic for computer science'', 2nd
    Edition, Springer, 2003.
-4. Arindama Singh, ``Logics for Computer Science'', 2nd edition,
+6. Arindama Singh, ``Logics for Computer Science'', 2nd edition,
    PHI, 2018.
-5. Stanley N Burris, ``Logic for Mathematics & Computer Science'',
+7. Stanley N Burris, ``Logic for Mathematics & Computer Science'',
    Prentice Hall 1998.
-6. Herbert Enderton, ``A Mathematical Introduction to Logic'', 2nd
+8. Herbert Enderton, ``A Mathematical Introduction to Logic'', 2nd
    edition, Harcourt Academic Press, 2001.
 
