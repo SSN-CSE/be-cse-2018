@@ -10,7 +10,7 @@
 |L|T|P|C|
 |2|0|2|3|
 
-#+begin_comment:
+#+begin_comment
 We are not aware of any Unix and Shell Programming course in the Anna University curriculum. 
 We believe it is an entirely new course in our curriculum.
 #+end_comment
@@ -23,18 +23,20 @@ We believe it is an entirely new course in our curriculum.
 - To learn Shell Programming.
 
 {{{unit}}}
-| UNIT I | FOUNDATIONS | 5 |
-Foundations: Why Unix -- Computer system -- The Unix environment --
-UNIX structure -- UNIX commands; Basic vi Editor: Editor concepts --
-The vi Editor -- Modes and commands; Local commands in vi; Range
-commands in vi -- Global commands in vi; Rearrange text in vi.
+| UNIT I  | FILE SYSTEM | 5 |
+Foundations: Computer system -- The UNIX environment -- UNIX
+structure; File Systems: Filenames -- File types -- Regular files --
+Directories -- File system implementation -- Operations on files and
+directories; Security and File Permissions: Users and groups --
+Security levels -- Changing permissions -- User masks -- Changing
+ownership and groups.
 
 {{{unit}}}
-| UNIT II | FILE SYSTEM | 5 |
-File Systems: Filenames -- File types -- Regular files -- Directories
--- File system implementation -- Operations on files and directories;
-Security and File Permissions: Users and groups -- Security levels --
-Changing permissions -- User masks -- Changing ownership and groups.
+| UNIT II | COMMANDS  | 5 |
+UNIX commands; Filters; Regular expressions; grep; sed; awk.  Basic vi
+Editor: Editor concepts -- The vi Editor -- Modes and commands; Local
+commands in vi; Range commands in vi -- Global commands in vi;
+Rearrange text in vi.
 
 {{{unit}}}
 | UNIT III | BASH BASICS | 6 |
@@ -43,23 +45,27 @@ shell usage -- Input & output -- Background jobs -- Special characters
 and quoting; Command-Line Editing: Enabling command-line editing --
 The history list -- emacs editing mode -- emacs editing mode -- The fc
 command -- Histroy expansion -- readline; Customizing your
-environment; .bash_profile, .bash_logout, .bashrc Files -- Aliases --
-Options -- Shell variables -- Customization and subprocesses.
+environment; .bash\underline{ }profile, .bash\underline{ }logout,
+.bashrc Files -- Aliases -- Options -- Shell variables --
+Customization and subprocesses.
 
 {{{unit}}}
 | UNIT IV | SHELL PROGRAMMING | 6 |
 Basic Shell Programming: Shell scripts and functions -- Shell
-variables -- String operators -- Command substitution; Flow control;
-Command-line options and Typed Variables: Command-line options --
-Typed variables -- Integer variables and arithmetic -- Arrays.
+variables -- String operators -- Command substitution; Flow control.
 
 {{{unit}}}
-| UNIT V | INPUT/OUTPUT, PROCESS HANDLING AND DEBUGGING | 8 |
+| UNIT V | INPUT/OUTPUT | 8 |
+Command-line options and Typed Variables: Command-line options --
+Typed variables -- Integer variables and arithmetic -- Arrays;
 Input/Output and Command-Line Processing: I/O redirectors -- String
-I/O -- Command-line processing; Process Handling: Process IDs & job
-numbers -- Job control -- Signals -- Trap -- Coroutines -- Subshells
--- Process substitution; Debugging Shell Programs: Basic debugging
-Aids -- A bash debugger.
+I/O -- Command-line processing
+
+#+BEGIN_COMMENT
+ Process Handling: Process IDs & job numbers -- Job control -- Signals
+-- Trap -- Coroutines -- Subshells -- Process substitution; Debugging
+Shell Programs: Basic debugging Aids -- A bash debugger.
+#+END_COMMENT
 
 \hfill *Total Periods: 30*
 
