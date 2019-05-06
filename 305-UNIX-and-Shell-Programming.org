@@ -23,7 +23,7 @@ We believe it is an entirely new course in our curriculum.
 - To learn Shell Programming.
 
 {{{unit}}}
-| UNIT I  | FILE SYSTEM | 5 |
+| UNIT I  | FILE SYSTEM | 6 |
 Foundations: Computer system -- The UNIX environment -- UNIX
 structure; File Systems: Filenames -- File types -- Regular files --
 Directories -- File system implementation -- Operations on files and
@@ -32,7 +32,7 @@ Security levels -- Changing permissions -- User masks -- Changing
 ownership and groups.
 
 {{{unit}}}
-| UNIT II | COMMANDS  | 5 |
+| UNIT II | COMMANDS  | 6 |
 UNIX commands; Filters; Regular expressions; grep; sed; awk.  Basic vi
 Editor: Editor concepts -- The vi Editor -- Modes and commands; Local
 commands in vi; Range commands in vi -- Global commands in vi;
@@ -57,7 +57,7 @@ Command-line options and Typed Variables: Command-line options --
 Typed variables -- Integer variables and arithmetic -- Arrays.
 
 {{{unit}}}
-| UNIT V | INPUT/OUTPUT | 8 |
+| UNIT V | INPUT/OUTPUT | 6 |
 Input/Output and Command-Line Processing: I/O redirectors -- String
 I/O -- Command-line processing; Process Handling: Process IDs & job
 numbers -- Job control -- Trap -- Coroutines -- Subshells -- Process
