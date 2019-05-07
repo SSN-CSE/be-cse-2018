@@ -47,8 +47,7 @@ E-mail Security: Security Services for E-mail-attacks possible through
 E-mail – Establishing keys privacyauthentication of the source –
 Message Integrity-Non-repudiation – Pretty Good Privacy – S/MIME;
 IPSecurity: Overview of IPSec – IP and IPv6 – Authentication Header –
-Encapsulation Security Payload (ESP) – Internet Key Exchange (Phases
-of IKE, ISAKMP/IKE Encoding); Web Security: SSL/TLS Basic Protocol –
+Encapsulation Security Payload (ESP) – Internet Key Exchange; Web Security: SSL/TLS Basic Protocol –
 Computing the keys – Client authentication – PKI as deployed by
 SSLAttacks fixed in v3 – Exportability-Encoding -  SET.
 
