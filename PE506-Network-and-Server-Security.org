@@ -10,6 +10,11 @@ Topic:
 1. Introduction to web security alone is discussed in unit 3.
 2. Due to limited hours,  indepth topics on Web security cannot be included.
 3. OWASP deals with web application security.
+
+Regarding BoS Comments:
+1. As per suggestions - Unit III is revised. 
+2. Book suggested by BoS - handles Cryptography and it deviates the course content.
+
 #+end_comment
 {{{credits}}}
 | L | T | P | C |
@@ -88,5 +93,7 @@ After the completion of this course, students will be able to:
    Edition, Pearson Education, 2017.
 2. Wenliang Du, ``Computer Security: A Hands-on Approach'',
    CreateSpace Independent Publishing Platform, First Edition, 2017.
+
+
 
 
