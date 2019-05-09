@@ -28,24 +28,44 @@
 
 {{{unit}}}
 | UNIT I | EMBEDDED COMPUTING AND ARM PROCESSORS | 9 |
-Embedded Computing: Complex systems and microprocessors -- Embedded system design process -- Formalisms for system design -- Model train controller; Instruction Sets: Preliminaries -- ARM processor; CPUs: Programming input and output -- Supervisor mode, exceptions and traps -- Co-processors -- Memory system
-mechanisms -- CPU performance -- CPU power consumption.
+Embedded Computing: Complex systems and microprocessors -- Embedded
+system design process -- Formalisms for system design -- Model train
+controller; Instruction Sets: Preliminaries -- ARM processor; CPUs:
+Programming input and output -- Supervisor mode, exceptions and traps
+-- Co-processors -- Memory system mechanisms -- CPU performance -- CPU
+power consumption.
 
 {{{unit}}}
 | UNIT II | EMBEDDED COMPUTING PLATFORM DESIGN | 9 |
-Bus-Based Computer Systems: CPU Bus -- Memory devices and systems -- Designing with computing platforms -- Consumer electronics architecture -- Platform-level performance analysis; Program Design and Analysis: Components for embedded programs -- Models of programs -- Assembly, linking and loading -- Compilation techniques -- Program level performance analysis -- Software performance optimization -- Program level energy and power analysis and optimization -- Analysis and optimization of program size -- Program validation and testing.
+Bus-Based Computer Systems: CPU Bus -- Memory devices and systems --
+Designing with computing platforms -- Consumer electronics
+architecture -- Platform-level performance analysis; Program Design
+and Analysis: Components for embedded programs -- Models of programs
+-- Assembly, linking and loading -- Compilation techniques -- Program
+level performance analysis -- Software performance optimization --
+Program level energy and power analysis and optimization -- Analysis
+and optimization of program size -- Program validation and testing.
 
 {{{unit}}}
 | UNIT III | SENSOR INTERFACING WITH ARDUINO | 9 |
-Basics of hardware design and functions of basic passive components -- Sensors and Actuators -- Arduino code -- Library file for sensor interfacing -- Construction of basic applications.
+Basics of hardware design and functions of basic passive components --
+Sensors and Actuators -- Arduino code -- Library file for sensor
+interfacing -- Construction of basic applications.
 
 {{{unit}}}
 | UNIT IV | EMBEDDED FIRMWARE | 9 |
-Reset Circuit, Brown-out Protection Circuit-Oscillator Unit -- Real Time Clock-Watchdog Timer -- Embedded Firmware Design Approaches and Development Languages.
+Reset Circuit, Brown-out Protection Circuit-Oscillator Unit -- Real
+Time Clock-Watchdog Timer -- Embedded Firmware Design Approaches and
+Development Languages.
 
 {{{unit}}}
 | UNIT V | EMBEDDED C PROGRAMMING | 9 |
-Introduction -- Reading switches -- Adding Structure to the code; Meeting Real-Time Constraints: Creating hardware delays using Timer 0 and Timer 1 --  Generating a Minimum and Maximum delay-Example -- Creating a portable hardware delay -- Timeout mechanisms -- Creating loop timeouts -- Testing loop timeouts -- Hardware timeouts -- Testing a hardware timeout.
+Introduction -- Reading switches -- Adding Structure to the code;
+Meeting Real-Time Constraints: Creating hardware delays using Timer 0
+and Timer 1 -- Generating a Minimum and Maximum delay-Example --
+Creating a portable hardware delay -- Timeout mechanisms -- Creating
+loop timeouts -- Testing loop timeouts -- Hardware timeouts -- Testing
+a hardware timeout.
 
 \hfill *Total Periods: 45*
 

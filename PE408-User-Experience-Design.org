@@ -1,0 +1,98 @@
+* <<<PE408>>> USER EXPERIENCE DESIGN
+:properties:
+:author: Dr A Chamundeeswari
+:date: 
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To develop skills in analyzing the UX in agile development
+- To impart the skills required to create an Information Architecture
+  document for a agile development
+- To establish requirements for User Experience design concepts using
+  techniques such as user stories
+- To learn the agile concepts used by UX team in terms of backlog,
+  feedback, and communication.
+
+{{{unit}}}
+| UNIT I | LIFECYCLE AND PROCESS  | 8 |
+What are UX and UX design: Definition of UX -- UX design -- components
+of UX -- What UX is Not -- Kinds of interaction and UX; UX processes,
+Lifecycles, Methods and Techniques: Basic process components for UX --
+fundamental UX lifecycle activities -- UX design techniques as life
+skills -- Choosing UX processes, methods and techniques; Agile
+lifecycle processes and the funnel model of Agile UX: Embracing an
+agile lifecycle process -- funnel model of Agile UX -- Agile UX case
+study.
+
+{{{unit}}}
+| UNIT II | DATA MODELING AND PROTYPING | 9 |
+Data Modeling: User work role model -- Flow model -- Task structure
+models -- Artifact model -- Physical work environment model --
+Information architecture model -- social model-- Hybrid models --
+Model consolidation; UX design requirements: User stories -- UX Design
+requirements -- validating user stories and requirements; Prototype
+candidate design: Depth and Breadth of a prototype -- fidelity --
+wireframe -- specialized prototypes -- software tools.
+
+{{{unit}}}
+| UNIT III | UX DESIGN | 9 |
+Nature of UX Design: What is Design -- Design lifecycle for the agile
+UX funnel -- Bottom up Design -- Top up design -- Generative design;
+Mental models and conceptual design: Conceptual Design works as a
+connection of mental models; Designing the interaction: Creating an
+interaction design -- storyboards-- wireframes--intermediate
+interaction design -- interaction design production -- case study.
+
+{{{unit}}}
+| UNIT IV | EVALUATION  | 8 |
+UX Evaluation methods: Data Collection techniques -- UX evaluation
+methods; Data analysis: analyze Quantitative data -- analyze
+qualitative UX data -- Reporting different kinds of data; Agile
+concepts for UX teams: creating a user experience backlog -- constant
+feedback and iteration -- thinking and communicating in terms of user
+stories -- defining acceptance criteria.
+
+{{{unit}}}
+| UNIT V | DEVELOPMENT AND TOOLBOX | 10 |
+Iterations: working as a team -- design documentation -- working with
+the product owner -- working in iterations -- continuous improvement;
+Toolbox: As-is experience design review -- as-is/to-be process mapping
+-- camera as documentation -- collaborative design -- competitor
+review -- context scenarios -- customer experience -- customer testing
+-- task analysis -- trade-off sliders -- case study.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Identify the users and learn the entire user experience lifecycle of
+  agile UX design
+- Develop a deep understanding of UX design and evaluation
+- Create efficient prototype to communicate and evaluate the design
+  definition
+- Apply UX design in a case study and learn the customer experience
+  and testing.
+
+** TEXT BOOKS
+1. Rex Hartson, Pardha Pyla, ``The UX book: Agile UX design for a
+   Quality User Experience'', Morgan Kaufmann Publishers, Elsevier,
+   Second edition, 2019 (Unit I, II, III, IV).
+2. Diana DeMarco Brown, ``Agile User Experience Design: A
+   Practitioner's Guide to Making it Work'', Morgan Kaufmann,
+   Elsevier, USA, 2013 (Unit IV).
+3. Lindsay Ratcliffe and Marc McNeill, ``Agile Experience Design: A
+   Digital Designers Guide to Agile, Lean and Continuous'', New
+   riders, Berkeley, CA, 2012 (Unit V).
+
+** REFERENCES
+1. Pieter Jongerlus and Anna offermans, ``Get Agile! Scrum for UX,
+   Design and Development'', BIS publishers, Amsterdam,
+   Netherlands, 2012.
+2. Jeffy Gothelf, Josh Seiden, ``Lean UX Designing Great Products with
+   Agile Teams'', Second edition, O'Reilly Media Inc, CA, 2016.
