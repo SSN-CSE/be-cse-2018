@@ -103,6 +103,7 @@ Upon the completion of the course the students should be able to:
 
 
 #+begin_comment
+
 side channel attacks are more appropriate for network security course rather than introduction to cryptography
 SSL is already the  part of the syllabus
 Entropy is covered under Unit III in Pseudo randomness
