@@ -20,28 +20,32 @@ As per the suggestions made in BoS meeting, all the changes have been done.
 - To use a suitable data structure for the given problem and implement
   them in a high level programming language.
 
+{{{unit}}}
 |UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
-Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
+Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear
+search -- Binary search.
 
-
+{{{unit}}}
 |UNIT II| LIST  | 6 |
-List -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
+List -- Array implementation -- Linked lists -- Applications of Lists:
+Polynomial addition.
 
-
+{{{unit}}}
 |UNIT III | STACK AND QUEUE | 6 |
-Stack: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue ADT: Array implementation of queues --
+Stack: Array implementation of stack -- Applications: Evaluating
+postfix expressions; Queue: Array implementation of queues --
 Applications of queues.
 
-
+{{{unit}}}
 |UNIT IV | TREES | 6 |
-Tree: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
+Tree: Preliminaries -- Tree traversals -- Binary Search Trees --
+Binary Heaps -- Applications of trees.
 
-
+{{{unit}}}
 |UNIT V | GRAPHS | 6 |
-Graph algorithms: Definitions -- Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path algorithm: Dijkstra's algorithm.
-
-
-
+Graph algorithms: Definitions -- Representation of graphs -- Breadth
+first traversal -- Depth first traversal -- Shortest-path algorithm:
+Dijkstra's algorithm.
 
 \hfill *Theory Periods: 30*
 

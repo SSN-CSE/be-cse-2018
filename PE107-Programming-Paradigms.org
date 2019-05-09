@@ -42,7 +42,7 @@ techniques -- Control -- Cuts -- Examples.
 {{{unit}}}
 |UNIT V | CONCURRENT PROGRAMMING       | 9 |
 Concurrency concepts -- Synchronization strategies -- Interleaving --
-Liveness -- Safe access to shared data -- Examples in Ada/Java.
+Liveness -- Safe access to shared data -- Examples in Java.
  
 \hfill *Total Periods: 45*
 

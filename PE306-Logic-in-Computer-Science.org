@@ -25,9 +25,9 @@ This syllabus is completely independent of any Logic in Computer Science course.
 
 {{{unit}}}
 |UNIT I|PROPOSITIONAL LOGIC|9|
-Foundations: Syntax and semantics -- Mathematical induction -- Soundness
-and completeness; Semantic Entailment: Natural Deduction; Normal
-Forms; PSAT Problem; Horn Logic; DPLL; CDCL.
+Foundations: Syntax and semantics -- Mathematical induction --
+Soundness and completeness; Semantic Entailment: Natural Deduction;
+Normal Forms; PSAT Problem; Horn Logic; DPLL; CDCL.
 
 #+begin_comment:
 Topic on Resolution moved from Unit I to Unit IV.
@@ -37,7 +37,7 @@ Topic on Resolution moved from Unit I to Unit IV.
 |UNIT II|PREDICATE LOGIC|9|
 Foundations: Syntax and semantics; Semantic Entailment: Natural
 deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
-Theory; 
+Theory.
 
 #+begin_comment:
 Topics on Resolution moved from Unit II to IV. Extensions of Resolution dropped.
@@ -54,9 +54,10 @@ Formalising the examples.
 
 {{{unit}}}
 | UNIT IV | SAT SMT SOLVERS | 9 |
-Resolution: Ground resolution -- Unification; Satisfiability Solvers: Definitions and Notations --
-SAT solver technology -- Complete methods; Satisfiabilty Modulo Theories: Introduction -- 
-Background -- Eager encoding to SAT -- Integrating theory solvers into SAT engines; 
+Resolution: Ground resolution -- Unification; Satisfiability Solvers:
+Definitions and Notations -- SAT solver technology -- Complete
+methods; Satisfiabilty Modulo Theories: Introduction -- Background --
+Eager encoding to SAT -- Integrating theory solvers into SAT engines.
 
 #+begin_comment:
 Unit on SAT-SMT Solvers introduced in place of Logic Programming.

@@ -92,7 +92,8 @@ The Investigator's Office and Laboratory: Understanding forensics lab
 certification requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 -- FTK -- Autopsy -- Sleuth kit forensic browser -- FIRE -- Found
-stone forensic toolKit -- WinHex -- Linux and other open source tools; case studies: forensics accounting - forensics audit.
+stone forensic toolKit -- WinHex -- Linux and other open source tools;
+case studies: forensics accounting - forensics audit.
 #+begin_comment
 Unit-5:  New tools topics included
          Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.

@@ -1,4 +1,4 @@
-* <<<PE507>>> PROGRAM VERIFICATION
+* <<<PE507>>> FORMAL SYSTEM VERIFICATION
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. R. S. Milton
 :date: 13 November 2018
