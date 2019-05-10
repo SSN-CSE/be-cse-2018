@@ -12,6 +12,13 @@
 5. Not applicable
 #+end_comment
 
+#+begin_comment
+1. Incorporating the suggestions would be difficult because introducing these topics would require extra hours.
+2. Removing few topics to introduce the suggestions can be done only at the cost of eliminating the fundamentals, hence the suggestions has not been included.
+
+#+end_comment
+
+
 #+startup: showall
 
 {{{credits}}}

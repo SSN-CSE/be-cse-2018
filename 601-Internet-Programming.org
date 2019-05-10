@@ -1,11 +1,6 @@
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
-   1. One
-   2. Two
-   3. Three
-      - Three One
-      - Three Two
 :end:
 
 #+BEGIN_COMMENT

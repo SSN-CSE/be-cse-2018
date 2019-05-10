@@ -99,3 +99,13 @@ Upon the completion of the course the students should be able to:
    Edition, Wiley Dreamtech India Pvt Ltd, 2003.
 5. http://nptel.ac.in/courses/106105031/lecture by Dr Debdeep
    Mukhopadhyay, IIT Kharagpur.
+
+
+
+#+begin_comment
+
+side channel attacks are more appropriate for network security course rather than introduction to cryptography
+SSL is already the  part of the syllabus
+Entropy is covered under Unit III in Pseudo randomness
+
+#+end_comment
