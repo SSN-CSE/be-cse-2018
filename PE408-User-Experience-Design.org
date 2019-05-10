@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To develop skills in analyzing the UX in agile development
 - To impart the skills required to create an Information Architecture
   document for a agile development

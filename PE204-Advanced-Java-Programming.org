@@ -1,0 +1,77 @@
+* <<<PE204>>> ADVANCED JAVA PROGRAMMING
+:properties:
+:author: Dr B Bharathi
+:date:  
+:end:
+
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To understand the concepts of design patterns and Java bean
+- To develop application using Hibernate and struts
+- To develop web applications using spring MVC framework
+
+{{{unit}}}
+|UNIT I | JAVA BEANS COMPONENT MODEL | 9 |
+Introduction -- Introspection: design patterns for properties, events,
+methods and design patterns, bean info interface -- persistence --
+customizers -- design programs and appletes using Java bean -- bound and
+constrarined properties -Java bean API -- Example for Java bean.
+
+{{{unit}}}
+| UNIT II | JAVA  DESIGN PATTERNS  | 9 |
+Introduction -- Creational patterns: Singleton -- abstract factory,
+fatory method, builder; Structural patterns: Adapter,
+decorator,facade,bridge; Behavioral patterns: Observer,chain of
+responsibility, iterator, state, proxy.
+
+{{{unit}}}
+| UNIT III | HIBERNATE ORM | 8 |
+Introduction: Architecture of hibernate-HQL -- Hibernate O / R mapping
+-- developing hibernate application.
+
+{{{unit}}}
+| UNIT IV | JAVA STRUTS2 FRAMEWORK | 9 |
+Introduction to struts2 -- actions in structs -- dependency injection
+and inversion of control -- interceptors -- ONGL in struts2 -- struts2
+tags -- validation in struts2.
+
+{{{unit}}}
+|UNIT V |SPRING MVC FRAMEWORK  | 9 |
+Overview of spring -- dependency injection -- spring libraries -
+developing spring application -- spring configuration -- Spring web
+MVC: Spring MVC architecture -- Componenets of MVC -- request mapping
+-- developing spring MVC application -- custom binding -- session
+attributes -- connecting MVC application to the business layer.
+
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+- Design platform independent dynamic component using Java bean (K3)
+- Develop Java applications by selecting and applying appropriate  design patterns (K3)
+- Develop Hibernate applications using object relational mapping (K3)
+- Develop Java enterprise edition web applications using struts framework (K3)
+- Build web applications using spring MVC framework (K3).
+   
+** TEXT BOOKS
+1. ``Core and Advanced Java, Black Book'', Dreamtech press, 2018
+2. Vaskaran Sarcar, ``Java Design Patterns'', Apress, 2016
+   
+** REFERENCES
+1. Herbert Schildt, ``Java: The Complete Reference'', 11th Edition,
+   McGraw-hill education, 2018.
+2. Madhusudhan Konda, ``Just Hibernate -- A Lightweight Introduction
+   to the Hibernate Framework'', O'Reilly Media, 2014.
+3. James Holmes, ``Struts 2: The Complete Reference'', McGraw-hill
+   Education, 2008.
+4. Amudhan G, ``Spring MVC Beginner's Guide'', Packt Publishing, 2014.
+5. Mark Grand, ``Patterns in Java: A Catalog of Reusable Design
+   Patterns Illustrated with UML'', Wiley publishing, Second Edition,
+   2002.

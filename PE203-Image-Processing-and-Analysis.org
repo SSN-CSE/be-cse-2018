@@ -32,7 +32,7 @@
 - To be familiar with object recognition methods.
 
 {{{unit}}}
-|UNIT I | Digital Image Fundamentals | 9 |
+|UNIT I | DIGITAL IMAGE FUNDAMENTALS | 9 |
 Introduction to Digital Image Processing: Components -- Image sensing
 and acquisition -- Image sampling and quantization; Relationships
 between Pixels; 2D Mathematical Preliminaries: Array vs matrix
@@ -40,7 +40,7 @@ operations -- Linear vs nonlinear operations -- Arithmetic -- Logical
 -- Statistical -- Spatial operations.
 
 {{{unit}}}
-|UNIT II | Image Enhancement | 9 |
+|UNIT II | IMAGE ENHANCEMENT | 9 |
 Spatial Domain: Gray level transformations -- Histogram processing;
 Basics of Spatial Filtering: Smoothing and sharpening spatial
 filtering; Frequency Domain: Introduction to fourier transform --
@@ -48,7 +48,7 @@ Smoothing and Sharpening Frequency Domain Filters: Ideal --
 Butterworth -- Gaussian filters; Homomorphic Filtering.
 
 {{{unit}}}
-|UNIT III | Image Restoration | 9 |
+|UNIT III | IMAGE RESTORATION | 9 |
 Image Restoration: Degradation model; Noise models; Restoration in the
 Presence of Noise using Spatial Filtering: Mean filters -- Order
 statistics -- Adaptive filters; Periodic Noise Reduction by Frequency
@@ -57,7 +57,7 @@ filters -- Optimum notch filtering; Inverse filtering; Wiener
 filtering.
 
 {{{unit}}}
-|UNIT IV | Image Segmentation | 9 |
+|UNIT IV | IMAGE SEGMENTATION | 9 |
 Edge Detection: Edge linking via Hough transform; Thresholding:
 Intensity thresholding -- Otsu's thresholding; Region Based
 Segmentation: Region growing -- Region splitting and merging;
@@ -66,7 +66,7 @@ Morphological Watersheds: Basic concepts -- Dam construction --
 Watershed segmentation algorithm.
 
 {{{unit}}}
-|UNIT V | Feature Analysis and Object Recognition | 9 |
+|UNIT V | FEATURE ANALYSIS AND OBJECT RECOGNITION | 9 |
 Boundary representation; Boundary Descriptors: Fourier descriptor;
 Regional descriptors -- Texture; Relational descriptors; Object
 Recognition: Patterns and pattern classes; Recognition based on
