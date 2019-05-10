@@ -93,6 +93,13 @@ After the completion of this course, students will be able to:
    Edition, Pearson Education, 2017.
 2. Wenliang Du, ``Computer Security: A Hands-on Approach'',
    CreateSpace Independent Publishing Platform, First Edition, 2017.
+   
+   
+#+begin_comment
+1. checking validity of certificates, how to interact with Certificate Authorities, Certificate Revocations (CRL
+and OCSP)is already covered in Unit I.
+2. ASN.1 encoding formats will deviate the flow of the syllabus.
+#+end_comment
 
 
 
