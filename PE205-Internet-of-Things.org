@@ -10,6 +10,7 @@
 - 3. BE and ME syllabi are different.
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable.
+- 6. In response to Mr. Karthik Comments:  Since this course is designed to learn the fundamentals of IoT and its concepts, the advanced concepts of IoT Search Engine can be introduced in higher level course.
 #+end_comment
 
 #+startup: showall
