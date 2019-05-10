@@ -5,6 +5,11 @@
 :end:
 
 #+begin_comment
+  1. As the course is focussed towards fundamental resource handling strategies, advanced techniques suggested like RELRO and ASLR are not included
+  2. Since there exists a specific course on security on a higher semester, inclusion of security perspectives for operating systems theory and lab would be too early for second-year students
+#+end_comment
+
+#+begin_comment
  1. Unit V - Windows case study included
  2. Windows was added as a comparative study with Linux
  3. Not Applicable
