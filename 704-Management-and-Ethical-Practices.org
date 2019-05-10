@@ -5,6 +5,12 @@
 
 #+startup: showall
 
+#+begin_comment
+1. Suggestion given by Karthik can be considered to some extent. There is no prescribed books for the suggested topics. Anyhow we have add as a topile <Ethics in AI and Machine Learning > in Unit III.
+2. In Referece section - URL to related to the topic is included.
+
+#+end_comment
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -27,7 +33,7 @@ Nature and purpose of organizing -- Line and staff authority -- Departmentation 
 
 {{{unit}}}
 |UNIT III | ETHICS IN ENGINEERING | 9 |
-Senses of engineering ethics -- Variety of moral issues -- Types of inquiry -- Moral dilemmas -- Moral autonomy -- Kohlberg's theory -- Gilligan's theory -- Consensus and controversy -- Models of professional roles - Theories about right action -- Self-interest -- Customs and religion -- Uses of ethical theories. 
+Senses of engineering ethics -- Variety of moral issues -- Types of inquiry -- Moral dilemmas -- Moral autonomy -- Kohlberg's theory -- Gilligan's theory -- Consensus and controversy -- Models of professional roles - Theories about right action -- Self-interest -- Customs and religion -- Uses of ethical theories - Ethics of AI and Machine Learning 
 
 {{{unit}}}
 |UNIT IV | SAFETY, RESPONSIBILITIES AND RIGHTS | 9 |
@@ -55,3 +61,4 @@ After the completion of this course, students will be able to:
 5. Govindarajan M, Natarajan S, Senthil Kumar V S, ``Engineering Ethics'', Prentice Hall of India, New Delhi, 2004.
 6. Mary Manjikian, "Cybersecurity Ethics An Introduction", Routledge Taylor & Francis Group, 2018.
 7. George Ledin, "Compuer Security, Ethics and Society", McGraw-Hill, 2010.
+8. http://www.cs.bath.ac.uk/~jjb/web/ai.html
