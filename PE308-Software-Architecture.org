@@ -61,14 +61,14 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 1. Develop software applications starting from software architecture
-   and design
-2. Understand and evaluate existing software architectures
+   and design (K2)
+2. Understand and evaluate existing software architectures (K2)
 3. Design methods for improving software quality from the perspective
-   of software architecture
+   of software architecture (K3)
 4. Describe the architecture based on architectural description
-   language
+   language (K2)
 5. Understand the different design methodologies and choose the best
-   from them based on the software being built
+   from them based on the software being built (K2)
 
 ** TEXTBOOKS
  1.  David Budgen, ``Software Design'', Second Edition, Pearson
