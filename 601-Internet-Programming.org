@@ -8,6 +8,7 @@
 2. The syllabi for UG and PG are different to a larger extent
 3. Course outcomes are specified and aligned with the units 
 4. Suggestive experiments are specified in the separate lab course for this subject
+5. In Unit-I, Web server vulnerabilities and solutions has been added as suggested by Mr. Karthik
 #+END_COMMENT
 
 #+startup: showall
@@ -24,13 +25,9 @@
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients -- Servers -- Communication; Basic internet
-protocols -- World wide web -- HTTP Request Message -- HTTP Response
-Message -- Web Clients -- Web Servers -- HTML5: Tables -- Lists --
-Image -- Redefined form elements -- Semantic elements -- Audio and
-video controls -- CSS3: Inline -- Embedded -- External style sheets --
-Rule cascading -- Inheritance -- Adding graphics to web pages --
-Transformations -- Transitions -- Animations.
+Web Essentials: Clients -- Servers -- Communication; Basic internet protocols -- World wide web -- HTTP Request Message -- HTTP Response
+Message -- Web Clients -- Web Servers -- Web server vulnerabilities - Effects and types of attacks - Avoiding attacks on web servers
+ HTML5: Tables -- Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and video controls -- CSS3: Inline -- Embedded -- External style sheets -- Rule cascading -- Inheritance -- Adding graphics to web pages -- Transformations -- Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
