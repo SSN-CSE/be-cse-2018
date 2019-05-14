@@ -26,8 +26,7 @@
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
 Web Essentials: Clients -- Servers -- Communication; Basic internet protocols -- World wide web -- HTTP Request Message -- HTTP Response
-Message -- Web Clients -- Web Servers -- Web server vulnerabilities - Effects and types of attacks - Avoiding attacks on web servers
- HTML5: Tables -- Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and video controls -- CSS3: Inline -- Embedded -- External style sheets -- Rule cascading -- Inheritance -- Adding graphics to web pages -- Transformations -- Transitions -- Animations.
+Message -- Web Clients -- Web Servers; Web Server Security: Web server vulnerabilities -- Effects and types of attacks -- Avoiding attacks on web servers;  HTML5: Tables -- Lists -- Image -- Redefined form elements -- Semantic elements -- Audio and video controls -- CSS3: Inline -- Embedded -- External style sheets -- Rule cascading -- Inheritance -- Adding graphics to web pages -- Transformations -- Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
