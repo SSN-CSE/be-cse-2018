@@ -77,7 +77,7 @@ Deleted: Peephole optimization - Effcient dataflow algorithm
 1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for a simple program using LEX and YACC
-4.Consider a simple program as an input and process this code to
+4. Consider a simple program as an input and process this code to
    print the intermediate code after every phase. It is necessary to
    print the output of lexical, syntax, semantic, intermediate code
    generation, code optimization and code generation phases
