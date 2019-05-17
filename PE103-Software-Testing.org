@@ -97,7 +97,7 @@ Upon the completion of the course the students should be able to:
 1) Gopalaswamy Ramesh, Srinivasan Desikan,``Software Testing:
    Principles and Practices'', Pearson Education, New
    Delhi, 2006 (Units I, IV).
-2) ELlene Burnstein, ''Practical Software Testing'', Springer
+2) Llene Burnstein, ''Practical Software Testing'', Springer
    International Edition, Chennai, 2003 (Units II, III, IV).
 
 ** REFERENCES
