@@ -70,7 +70,7 @@ expanders.
 
 \hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Write precise mathematical definitions of objects in graph theory (K2)
 - Read and analyse proofs on Trees and Bipartite Graph matching (K3)
@@ -78,7 +78,7 @@ After the completion of this course, students will be able to:
 - Read and analyse proofs on Graph Planarity (K3)
 - Read and analyse proofs on Matroids, Ramsey Theory, Graph Eigenvalues (K3).
 
-** References
+** REFERENCES
 1. Douglous West, ``Introduction to Graph Theory'', Pearson Education,
    2nd Edition, 2015.
 2. Narsingh Deo, ``Graph Theory: With Application to Engineering and
