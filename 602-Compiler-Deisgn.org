@@ -63,9 +63,13 @@ strategies: Static, Stack and Heap -- Implementation of symbol table
 
 {{{unit}}}
 |UNIT V | CODE OPTIMIZATION | 9 |
-Principal sources of optimization -- Peephole optimization -- DAG --
-Optimization of basic blocks -- Global data flow analysis -- Efficient
-data flow algorithm
+Principal sources of optimization -- DAG --
+Optimization of basic blocks -- Global data flow analysis -- Introduction to Low Level Virtual Machine (LLVM) -- Design of LLVM -- Core libraries -- Developing plugin in LLVM.
+
+#+begin_comment
+Added:Introduction to Low Level Virtual Machine (LLVM) - Design of LLVM - Core libraries - Developing plugin in LLVM.
+Deleted: Peephole optimization - Effcient dataflow algorithm
+#+end_comment
 
 \hfill *Theory Periods: 45* 
 
@@ -73,15 +77,17 @@ data flow algorithm
 1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for a simple program using LEX and YACC
-4. Extension of the Lexical Analyzer to implement symbol table
-5. Implementation of Simple Code Optimization Techniques (Constant
-   Folding, Strength reduction and Algebraic transformation)
-6. Consider a simple program as an input and process this code to
+4. Consider a simple program as an input and process this code to
    print the intermediate code after every phase. It is necessary to
    print the output of lexical, syntax, semantic, intermediate code
-   generation, code optimization and code generation phases.
+   generation, code optimization and code generation phases
+5. Study of LLVM framework.
+
+
 #+begin_comment
 Changes:Suggestive experiments are changed based on the units.
+Deleted: Extension of the Lexical Analyzer to implement symbol table,Implementation of Simple Code Optimization Techniques 
+Added:Study of LLVM framework. 
 #+end_comment
 \hfill *Practical Periods: 30*
 
@@ -101,6 +107,11 @@ After the completion of this course, students will be able to:
 1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
    Pearson Education, 2009.
+2. Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM Core Libraries'', Packt Publishing, 2014.
+#+begin_comment
+Added: Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM Core Libraries'', Packt Publishing, 2014.
+#+end_comment
+
 
 ** REFERENCE BOOKS
 1. Randy Allen, Ken Kennedy, ``Optimizing Compilers for Modern

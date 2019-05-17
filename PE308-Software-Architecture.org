@@ -61,25 +61,27 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 1. Develop software applications starting from software architecture
-   and design
-2. Understand and evaluate existing software architectures
+   and design (K2)
+2. Understand and evaluate existing software architectures (K2)
 3. Design methods for improving software quality from the perspective
-   of software architecture
+   of software architecture (K3)
 4. Describe the architecture based on architectural description
-   language
+   language (K2)
 5. Understand the different design methodologies and choose the best
-   from them based on the software being built
+   from them based on the software being built (K2)
 
 ** TEXTBOOKS
-   
-** REFERENCES
-1. David Budgen, ``Software Design'', Second Edition, Pearson
+ 1.  David Budgen, ``Software Design'', Second Edition, Pearson
    Education, 2004.
-2. Hong Zhu, ``Software Design Methodology from Principles to
+ 2. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
+   Practice'', Third Edition, Addison Wesley, 2012.
+** REFERENCES
+ 
+1. Hong Zhu, ``Software Design Methodology from Principles to
    Architectural Styles'', Elsevier, 2005.
-3. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
-   Practice'', Third Edition, Addison,Wesley, 2012.
-4. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
+2. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-5. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
+3. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
    Architecture: Foundations, Theory and Practice'', Wiley 2010.
+4. Nick Rozanski, Eoin Woods, “ Software Systems Architecture” Second Edition, 
+   Addison-Wesley , 2012.
