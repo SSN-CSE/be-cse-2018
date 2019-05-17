@@ -88,7 +88,7 @@ After the completion of this course, students will be able to:
    Edition, Payload media,2011.
 
 ** REFERENCES
-1. Ramaz Elmasri, A Gil Carrick, David Levine, ``Operating Systems A
+1. Ramez Elmasri, A Gil Carrick, David Levine, ``Operating Systems A
    Spiral Approach'', Tata McGraw Hill Edition, 2010.
 2. Achyut S Godbole, Atul Kahate, ``Operating Systems'', McGraw Hill
    Education, 2016.
