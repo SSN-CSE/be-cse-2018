@@ -73,7 +73,7 @@ implementations and comparison.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the limitations of single core processors and the study
+- Understand the limitations of single core processors and the concepts behind the
   various multi-core architectures (K2)
 - Identify the issues in programming Parallel Processors (K2)
 - Develop the programs using OpenMP (K3) 
