@@ -13,7 +13,7 @@
 
 ** COURSE OBJECTIVES
 - To understand the concepts of design patterns and Java bean
-- To develop application using Hibernate and struts
+- To develop applications using Hibernate and struts
 - To develop web applications using spring MVC framework
 
 {{{unit}}}
@@ -37,24 +37,24 @@ Introduction: Architecture of hibernate-HQL -- Hibernate O / R mapping
 
 {{{unit}}}
 | UNIT IV | JAVA STRUTS2 FRAMEWORK | 9 |
-Introduction to struts2 -- actions in structs -- dependency injection
-and inversion of control -- interceptors -- ONGL in struts2 -- struts2
+Introduction to struts2 -- actions in strts -- dependency injection
+and inversion of control -- interceptors -- OGNL in struts2 -- struts2
 tags -- validation in struts2.
 
 {{{unit}}}
 |UNIT V |SPRING MVC FRAMEWORK  | 9 |
 Overview of spring -- dependency injection -- spring libraries -
 developing spring application -- spring configuration -- Spring web
-MVC: Spring MVC architecture -- Componenets of MVC -- request mapping
+MVC: Spring MVC architecture -- Components of MVC -- request mapping
 -- developing spring MVC application -- custom binding -- session
-attributes -- connecting MVC application to the business layer.
+attributes -- connecting MVC applications to the business layer.
 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Design platform independent dynamic component using Java bean (K3)
+- Design platform-independent dynamic components using Java bean (K3)
 - Develop Java applications by selecting and applying appropriate  design patterns (K3)
 - Develop Hibernate applications using object relational mapping (K3)
 - Develop Java enterprise edition web applications using struts framework (K3)
