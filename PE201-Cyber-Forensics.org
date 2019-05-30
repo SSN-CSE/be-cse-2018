@@ -76,7 +76,7 @@ Unit-3: AU-Unit II topics included
          AU-Unit III topics included
 #+end_comment
 {{{unit}}}
-|UNIT IV | NETWORK AND MOBILE FORENSIC | 9 |
+|UNIT IV | NETWORK AND MOBILE FORENSICS | 9 |
 Network Forensics: Developing standard procedures for network
 forensics -- Using network tools; E-mail Investigations: Understanding
 e-mail servers -- Using specialized e-mail forensics tools; Cell Phone

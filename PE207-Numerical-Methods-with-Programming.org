@@ -50,7 +50,7 @@ Rule -- Simpson’s Rule.
 Direct methods -- Gauss and Gauss–Jordan methods; Iterative methods --
 Gauss-Jacobi and Gausss-Seidel methods -- Relaxation method --
 Newton’s method for nonlinear simultaneous equations -- Power method
-for determination eigen values -- Convergence of Power method.
+for determination of eigen values -- Convergence of Power method.
 
 {{{unit}}}
 | UNIT V | NUMERICAL SOLUTION FOR DIFFERENTIAL EQUATIONS | 9 |
@@ -63,7 +63,7 @@ Modified Euler methods -- Runge-Kutta methods of 2nd and 4th order.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop simple applications in C using basic constructs (K3)
-- Understanding the numerical interpolation and integration (K2)
+- Understand the numerical interpolation and integration (K2)
 - Provide numerical solutions for differential equations (K3)
 - Apply numerical methods to solve problems drawn from sciences (K3)
 - Assess the reliabilty of numerical results (K3).

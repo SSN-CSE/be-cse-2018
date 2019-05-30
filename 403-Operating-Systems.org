@@ -1,6 +1,6 @@
 * <<<403>>> OPERATING SYSTEMS
 :properties:
-:author: Mr. H. Shaul Hamead and Ms. S. Lakshmi Priya
+:author: Mr. H. Shahul Hamead and Ms. S. Lakshmi Priya
 :date: 13-11-2018
 :end:
 
@@ -22,11 +22,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the structure and functions of OS
-- Learn about Processes, Threads and Scheduling algorithms
-- Understand the principles of concurrency and Deadlocks
-- Learn various memory management schemes
-- Study I/O management and File systems.
+- To understand the structure and functions of OS
+- To learn about Processes, Threads and Scheduling algorithms
+- To understand the principles of concurrency and Deadlocks
+- To learn various memory management schemes
+- To study I/O management and File systems.
 
 
 {{{unit}}}
@@ -45,7 +45,7 @@ Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess communication; Threads: Overview --
 Multithreading models -- Thread issues; Process synchronization --
 Critical section problem -- Mutex locks -- Semophores -- Monitors; CPU
-Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Montonic and EDF
+Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Monotonic and EDF
 scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
@@ -88,7 +88,7 @@ After the completion of this course, students will be able to:
    Edition, Payload media,2011.
 
 ** REFERENCES
-1. Ramaz Elmasri, A Gil Carrick, David Levine, ``Operating Systems A
+1. Ramez Elmasri, A Gil Carrick, David Levine, ``Operating Systems A
    Spiral Approach'', Tata McGraw Hill Edition, 2010.
 2. Achyut S Godbole, Atul Kahate, ``Operating Systems'', McGraw Hill
    Education, 2016.

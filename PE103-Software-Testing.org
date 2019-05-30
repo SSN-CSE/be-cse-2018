@@ -11,7 +11,7 @@
 #+begin_comment
 
 1.Anna University Regulation 2017 has this course. 
-2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) have been newly introduced.
+2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) has been newly introduced.
 3.Not Applicable
 4. Five Course outcomes specified and aligned with units
 5.Not Applicable
@@ -22,7 +22,7 @@
 - To learn the design of test cases using Black box approach and white box approaches
 - To understand and apply the levels of testing 
 - To understand automation methods in software testing
-- Test the product finally to check the product Quality.
+- To test the product to check the product Quality.
 
 {{{unit}}}
 |UNIT I| TESTING FUNDAMENTALS |9| 
@@ -86,7 +86,7 @@ SQA Unit.
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Have a high level understanding of software testing objectives,
+- Understand software testing objectives,
   principles and practices (K2)
 - Apply Black and whitebox approach to design test cases (K3)
 - Understand and apply levels of testing (K3)
@@ -97,7 +97,7 @@ Upon the completion of the course the students should be able to:
 1) Gopalaswamy Ramesh, Srinivasan Desikan,``Software Testing:
    Principles and Practices'', Pearson Education, New
    Delhi, 2006 (Units I, IV).
-2) ELlene Burnstein, ''Practical Software Testing'', Springer
+2) Llene Burnstein, ''Practical Software Testing'', Springer
    International Edition, Chennai, 2003 (Units II, III, IV).
 
 ** REFERENCES

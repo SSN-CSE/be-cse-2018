@@ -27,14 +27,15 @@
 
 
 ** SUGGESTIVE LIST OF EXPERIMENTS
-Draw standard UML diagrams using an UML modeling tool for a given case
-study and map design to code and implement a 3 layered
-architecture. Test the developed code and identify whether the SRS is
-satisfied. This could be done in an incremental way and the next
-increment should undergo the same process of design, coding and
-testing to satisfy the SRS. Any one of the suggested domains could be
-chosen for the mini-project. The student could also choose his own
-interested domain based on the approval from the concerned faculty.
+For a chosen case study, prepare a detailed SRS, draw standard UML diagrams using a UML modeling tool, 
+map the design to code and implement the solution using a 3 layered
+architecture. Test the developed code and verify whether it satisfies the requirements 
+specified in the SRS. As you refine the software using design patterns, keep repeating
+the cycle of design, coding and
+testing to ensure that the refined system also satisfies the requirements specified in SRS. 
+Any one of the suggested domains could be
+chosen for the mini-project. The student can also choose his/her own
+domain of interest and can obtain approval from the concerned faculty.
 
 1. Develop a problem statement.
 2. Document the Software Requirements Specification (SRS) for the
@@ -47,13 +48,12 @@ interested domain based on the approval from the concerned faculty.
    Diagrams
 6. Draw relevant State Chart and Activity Diagrams for the same
    problem.
-7. Implement the problem with the detailed design structure (1-6) and
-   satisfy the SRS.
-8. Test the developed software system. Identify the areas in which
+7. Implement the solution with the detailed design structure (1-6).
+8. Test the developed software system for various scenarios. Identify the areas in which
    refinement is needed.
 9. Refine the design of the modules using appropriate design patterns and implement the same.
-10. Test the software again after refinement to check, whether it
-    satisfies the SRS, and carry over the refinement if needed.
+10. Test the refined software to check, whether it
+    still satisfies the SRS
 
 ** SUGGESTED DOMAINS FOR MINI PROJECT
 1. Passport automation system.
@@ -62,7 +62,7 @@ interested domain based on the approval from the concerned faculty.
 4. Stock maintenance system.
 5. Online course reservation system
 6. E-ticketing
-7. Software personnel management system
+7. Employeel management system
 8. Credit card processing
 9. e-book management system
 10. Recruitment system
