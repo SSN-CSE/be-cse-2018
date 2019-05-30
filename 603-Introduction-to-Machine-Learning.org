@@ -1,0 +1,124 @@
+* <<<603>>> INTRODUCTION TO MACHINE LEARNING
+:properties:
+:author: Ms. S. Rajalakshmi and Ms. M. Saritha
+:end:
+
+#+startup: showall
+
+#+BEGIN_COMMENT
+- AU title is Machine Learning Techniques
+- AU text books is Tom Mitchell. It was printed in 1997 and is not
+  revised since then.
+- The text book is changed to
+  - Stephen Marsland, ``Machine Learning -- An Algorithmic
+    Perspective''
+- Unit I takes a few topics from
+  - Ethem Alpaydin, ``Introduction to Machine Learning''
+- The topics are accordingly changed to follow the flow of Stephen
+  Marsland.
+- Syllabus in M.E and B.E differs in Unit I, IV and V
+#+END_COMMENT
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To understand machine learning problems
+- To study the various supervised, unsupervised and reinforcement
+  learning algorithms in machine learning
+- To study the dimensionality reduction techniques to represent the
+  data and their dependencies
+- To understand the need of optimisation techniques.
+
+{{{unit}}}
+|UNIT I | INTRODUCTION  | 8 |
+Introduction: Machine learning; Examples of Machine Learning
+Applications: Learning associations -- Classification -- Regression --
+Unsupervised learning -- Reinforcement learning; Preliminaries: Weight
+space -- Curse of dimensionality -- Testing machine learning
+algorithms -- Turning data into probabilities -- Basic statistics --
+Bias-variance tradeoff.
+#+BEGIN_COMMENT
+- In AU syllabus Learning problem and decision tree are discussed
+- Here Introduction, types and basic statistics are discussed, decision trees moved to Unit 3
+#+END_COMMENT
+
+{{{unit}}}
+|UNIT II | SUPERVISED LEARNING  | 11 |
+Neural Networks and Linear Discriminants: Brain and the neuron --
+Neural networks -- Perceptron -- Linear separability -- Linear
+regression; Multi-layer Perceptron: Going forward -- Back-propagation
+of error; Support Vector Machines.
+#+BEGIN_COMMENT
+- removed genetic algorithms 
+- Added Linear regression and SVM 
+#+END_COMMENT
+
+{{{unit}}}
+| UNIT III | PROBABILISTIC LEARNING, LEARNING WITH  TREES | 9 |
+Probabilistic Learning: Gaussian mixture models -- Nearest neighbour
+methods; Learning with Trees: Constructing decision trees --
+Classification and Regression trees -- Classification example;
+Ensemble Learning: Boosting -- Bagging -- Random forests.
+#+BEGIN_COMMENT
+- Added decision trees and ensemble methods
+- Removed advanced Bayesian learning
+#+END_COMMENT
+
+{{{unit}}}
+|UNIT IV | UNSUPERVISED LEARNING, REINFORCEMENT LEARNING | 9 |
+Unsupervised: K-means algorithm -- Self-organising feature map;
+Reinforcement learning: State and action space -- Reward function --
+Discounting -- Action selection -- Policy -- Markov decision process
+-- Values -- SARSA and Q-learning.
+#+BEGIN_COMMENT
+- added unsupervised learning and reinforcement learning
+- Moved K-NN to unit III
+#+END_COMMENT
+
+{{{unit}}}
+|UNIT V | DIMENSIONALITY REDUCTION, OPTIMISATION TECHNIQUES| 8 |
+Dimensionlity Reduction Techniques: Linear Discriminant analysis,
+Principal Component Analysis; Optimisation and Search: Least-squares
+optimisation -- Conjugate gradients -- Search approaches --
+Exploitation and exploration.
+
+#+BEGIN_COMMENT
+- Moved reinforcement learning to unit IV
+- Removed rule based learning
+- Added Dimensionality reduction techniques
+#+END_COMMENT
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Understand the basic concepts of machine learning (K2)
+- Apply supervised algorithms for different classification problems (K3)
+- Understand the need of ensemble methods (K2) 
+- Apply unsupervised and reinforcement learning techniques to various
+  problems (K3)
+- Understand the requirement of dimensionality reduction and
+  optimisation techniques (K2)
+      
+** TEXT BOOKS
+1. Stephen Marsland, ``Machine Learning – An Algorithmic
+   Perspective'', 2nd Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2015.
+2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition,
+   The MIT Press, 2014.
+
+
+** REFERENCES
+1. Jason Bell, ``Machine learning – Hands on for Developers and
+   Technical Professionals'', 1st Edition, Wiley, 2014.
+2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
+   that Make Sense of Data'', 1st Edition, Cambridge University
+   Press, 2012.
+3. Richert, Willi, ``Building machine learning systems with Python'',
+   Packt Publishing, 2013.
+4. Tom M Mitchell, ``Machine Learning'', McGraw-Hill Education
+   (India), 2013.
+5. Y S Abu-Mostafa, M Magdon-Ismail, H T Lin, ``Learning from Data'',
+   AMLBook Publishers, 2012.

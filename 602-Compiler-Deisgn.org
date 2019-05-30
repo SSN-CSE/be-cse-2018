@@ -1,4 +1,5 @@
 * <<<602>>> COMPILER DESIGN
+# DESIGN AND IMPLEMENTATION OF COMPILERS
 :properties:
 :author: Dr. B. Bharathi and Dr. B. Prabavathy
 :end:
@@ -63,11 +64,15 @@ strategies: Static, Stack and Heap -- Implementation of symbol table
 
 {{{unit}}}
 |UNIT V | CODE OPTIMIZATION | 9 |
-Principal sources of optimization -- DAG --
-Optimization of basic blocks -- Global data flow analysis -- Introduction to Low Level Virtual Machine (LLVM) -- Design of LLVM -- Core libraries -- Developing plugin in LLVM.
+Principal sources of optimization -- DAG -- Optimization of basic
+blocks -- Global data flow analysis -- Introduction to Low Level
+Virtual Machine (LLVM) -- Design of LLVM -- Core libraries --
+Developing plugin in LLVM.
 
 #+begin_comment
-Added:Introduction to Low Level Virtual Machine (LLVM) - Design of LLVM - Core libraries - Developing plugin in LLVM.
+Added:Introduction to Low Level Virtual Machine (LLVM) - Design of
+LLVM - Core libraries - Developing plugin in LLVM.
+ 
 Deleted: Peephole optimization - Effcient dataflow algorithm
 #+end_comment
 
@@ -83,11 +88,11 @@ Deleted: Peephole optimization - Effcient dataflow algorithm
    generation, code optimization and code generation phases
 5. Study of LLVM framework.
 
-
 #+begin_comment
-Changes:Suggestive experiments are changed based on the units.
-Deleted: Extension of the Lexical Analyzer to implement symbol table,Implementation of Simple Code Optimization Techniques 
-Added:Study of LLVM framework. 
+Changes:Suggestive experiments are changed based on the units.#
+Deleted: Extension of the Lexical Analyzer to implement symbol
+table,Implementation of Simple Code Optimization Techniques.#
+Added:Study of LLVM framework.
 #+end_comment
 \hfill *Practical Periods: 30*
 
@@ -107,9 +112,11 @@ After the completion of this course, students will be able to:
 1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
    Pearson Education, 2009.
-2. Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM Core Libraries'', Packt Publishing, 2014.
+2. Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM Core
+   Libraries'', Packt Publishing, 2014.
 #+begin_comment
-Added: Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM Core Libraries'', Packt Publishing, 2014.
+Added: Rafael Auler, Bruno Cardoso Lopes, ``Getting Started with LLVM
+Core Libraries'', Packt Publishing, 2014.
 #+end_comment
 
 

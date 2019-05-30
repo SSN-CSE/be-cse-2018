@@ -63,7 +63,7 @@ I/O -- Command-line processing; Process Handling: Process IDs & job
 numbers -- Job control -- Trap -- Coroutines -- Subshells -- Process
 substitution.
 
-#+begin_comment:
+#+begin_comment
 As per the suggestion of BoS, removed signals from Unit V and added sed and awk.
 #+end_comment
 

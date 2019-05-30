@@ -1,5 +1,4 @@
 * <<<504>>> ARTIFICIAL INTELLIGENCE
-# PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 :properties:
 :author: Dr. S. Sheerazuddin and Dr. S. Kavitha
 :end:
@@ -11,11 +10,11 @@
 | 3 | 0 | 2 | 4 |
 
 #+begin_comment
-1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
-2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
-3. Not Applicable
-4. Five Course outcomes specified and aligned with units
-5. Lab Exercises are given for each unit.
+- 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
+- 2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Lab Exercises are given for each unit.
 #+end_comment
 
 ** COURSE OBJECTIVES

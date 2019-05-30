@@ -10,7 +10,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-#+begin_comment:
+#+begin_comment
 We are not aware of any Logic in Computer Science course in Anna University curriculum. 
 This syllabus is completely independent of any Logic in Computer Science course.
 #+end_comment
@@ -29,7 +29,7 @@ Foundations: Syntax and semantics -- Mathematical induction --
 Soundness and completeness; Semantic Entailment: Natural Deduction;
 Normal Forms; PSAT Problem; Horn Logic; DPLL; CDCL.
 
-#+begin_comment:
+#+begin_comment
 Topic on Resolution moved from Unit I to Unit IV.
 #+end_comment
 
@@ -39,7 +39,7 @@ Foundations: Syntax and semantics; Semantic Entailment: Natural
 deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
 Theory.
 
-#+begin_comment:
+#+begin_comment
 Topics on Resolution moved from Unit II to IV. Extensions of Resolution dropped.
 #+end_comment
 
@@ -59,7 +59,7 @@ Definitions and Notations -- SAT solver technology -- Complete
 methods; Satisfiabilty Modulo Theories: Introduction -- Background --
 Eager encoding to SAT -- Integrating theory solvers into SAT engines.
 
-#+begin_comment:
+#+begin_comment
 Unit on SAT-SMT Solvers introduced in place of Logic Programming.
 #+end_comment
 

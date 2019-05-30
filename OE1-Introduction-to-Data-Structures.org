@@ -1,4 +1,4 @@
-* <<<OE1>>> FUNDAMENTALS OF DATA STRUCTURES
+* <<<OE1>>> INTRODUCTION TO DATA STRUCTURES
 :properties: Ms M Saritha
 :author: 
 :end:
