@@ -52,17 +52,24 @@ dynamic social network communities.
 
 {{{unit}}}
 |UNIT IV | PRACTICAL APPROACH TO SOCIAL NETWORK ANALYSIS | 9 |
-Graph Theory: Adjacency matrices -- Graph Traversals and Distances -- Graph Distance;   SNA Tool: Get oriented with Python and NetworkX -- Centrality; Clique, Clusters and Components: Components and Subgraphs -- Triads -- Cliques -- Hierarchical Clustering; 2-Mode networks; A small dynamic model in python.
-
+Graph Theory: Introduction;
+# Adjacency matrices -- Graph Traversals and Distances -- Graph
+# Distance;
+SNA Tool:
+# Get oriented with
+Python and NetworkX -- Centrality; Clique, Clusters and Components:
+Components and Subgraphs -- Triads -- Cliques -- Hierarchical
+Clustering; 2-Mode networks; A dynamic model in Python. 
+#  Matrix representation.
 
 
 {{{unit}}}
 |UNIT V | VISUALIZATION AND APPLICATIONS OF SOCIAL NETWORKS | 9 |
-Graph theory -- Centrality -- Clustering -- Node-Edge Diagrams -- Matrix
-representation -- Visualizing online social networks -- Visualizing
-social networks with matrix-based representations -- Matrix and
-Node-Link Diagrams -- Hybrid representations -- Applications -- Covert
-networks -- Community welfare -- Collaboration networks -- Co-Citation
+# Graph theory -- Centrality -- Clustering -- 
+Visualizing online social networks -- Visualizing social networks with
+matrix-based representations -- Node-Edge diagrams -- Matrix and
+Node-Link Diagrams -- Hybrid representations; Applications: Covert
+networks -- Community welfare -- Collaboration networks -- Co-citation
 networks.
 
 \hfill *Total Periods: 45*

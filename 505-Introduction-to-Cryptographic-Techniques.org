@@ -42,27 +42,29 @@ Schemes -- Obtaining Privacy and Message Authentication.
 
 {{{unit}}}
 | UNIT III | BLOCK CIPHERS | 10 |
-Substitution-Permutation Networks -- Feistel Networks -- DES --
- AES -- Differential and Linear Cryptanalysis; One-Way Functions -- From One-Way Functions to 
-Pseudo randomness -- Constructing Pseudorandom Generators --
- Constructing Pseudorandom Permutations -- Necessary Assumptions for Private-Key Cryptography.
+Substitution-Permutation Networks -- Feistel Networks -- DES -- AES --
+Differential and Linear Cryptanalysis; One-Way Functions -- From
+One-Way Functions to Pseudo randomness -- Constructing Pseudorandom
+Generators -- Constructing Pseudorandom Permutations -- Necessary
+Assumptions for Private-Key Cryptography.
 #+begin_comment
 Removed - Increasing the Key Length of a Block Cipher
 Increased the number of hours 
 #+end_comment
 {{{unit}}}
+
 | UNIT IV | NUMBER THEORY & KEY DISTRIBUTION | 8 |
 Number Theory: Preliminaries and Basic Group Theory -- Primes,
-Factoring, and RSA -- Cryptographic
-Applications of Number-Theoretic Assumptions; Private-Key Management
-and the Public-Key Revolution: Limitations of Private-Key Cryptography
--- Key Distribution Centers -- The Public-Key Revolution --
-Diffie-Hellman Key Exchange.
+Factoring, and RSA -- Cryptographic Applications of Number-Theoretic
+Assumptions; Private-Key Management and the Public-Key Revolution:
+Limitations of Private-Key Cryptography -- Key Distribution Centers --
+The Public-Key Revolution -- Diffie-Hellman Key Exchange.
 #+begin_comment
 Removed - Assumptions in Cyclic Groups
 Reduced the number of hours 
 #+end_comment
 {{{unit}}}
+
 | UNIT V | PUBLIC-KEY ENCRYPTION & DIGITAL SIGNATURE | 9 |
 Public-Key Encryption – An Overview -- Definitions -- Hybrid
 encryption -- RSA encryption – The El Gamal Encryption Scheme --

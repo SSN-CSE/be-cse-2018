@@ -25,7 +25,7 @@ in C.
 {{{unit}}}
 |UNIT II | OBJECT ORIENTED PROGRAMMING | 9 |
 Abstract data types -- object model -- object-oriented thinking --
-Examples in Java/Python/C++.
+Examples in Java.
 
 {{{unit}}}
 |UNIT III | FUNCTIONAL PROGRAMMING  | 9 |
@@ -57,7 +57,7 @@ After the completion of this course, students will be able to:
 - Understand logic programming paradigm and explore some examples in
   Prolog (K3)
 - Understand concurrent programming paradigm and explore some examples
-  in Java/Ada (K3).
+  in Java (K3).
 
 ** TEXT BOOKS
 1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and

@@ -6,9 +6,11 @@
 #+startup: showall
 
 #+begin_comment
-1. Suggestion given by Karthik can be considered to some extent. There is no prescribed books for the suggested topics. Anyhow we have add as a topile <Ethics in AI and Machine Learning > in Unit III.
-2. In Referece section - URL to related to the topic is included.
+1. Suggestion given by Karthik can be considered to some extent. There
+is no prescribed books for the suggested topics. Anyhow, we have added
+a topic "Ethics in AI and Machine Learning" in Unit III.
 
+2. In Referece section - URL to related to the topic is included.
 #+end_comment
 
 {{{credits}}}
@@ -25,23 +27,44 @@
 
 {{{unit}}}
 |UNIT I | OVERVIEW OF MANAGEMENT & PLANNING | 9 |
-Organization -- Role of managers -- Evolution of management thought -- Managing globally -- Strategies for international business. Planning process -- Types of plans -- Decision Making -- Types of decision -- Decision making Process -- Rational decision making process -- Decision making under different conditions.
+Organization -- Role of managers -- Evolution of management thought --
+Managing globally -- Strategies for international business. Planning
+process -- Types of plans -- Decision Making -- Types of decision --
+Decision making Process -- Rational decision making process --
+Decision making under different conditions.
 
 {{{unit}}}
 |UNIT II | ORGANIZING AND DIRECTING | 9 |
-Nature and purpose of organizing -- Line and staff authority -- Departmentation -- Centralization and decentralization -- Delegation of authority -- Staffing -- Selection and recruitment -- Orientation -- Performance appraisal; Motivation and Satisfaction -- Motivation theories leadership -- Leadership theories -- Hurdles to effective communication.
+Nature and purpose of organizing -- Line and staff authority --
+Departmentation -- Centralization and decentralization -- Delegation
+of authority -- Staffing -- Selection and recruitment -- Orientation
+-- Performance appraisal; Motivation and Satisfaction -- Motivation
+theories leadership -- Leadership theories -- Hurdles to effective
+communication.
 
 {{{unit}}}
 |UNIT III | ETHICS IN ENGINEERING | 9 |
-Senses of engineering ethics -- Variety of moral issues -- Types of inquiry -- Moral dilemmas -- Moral autonomy -- Kohlberg's theory -- Gilligan's theory -- Consensus and controversy -- Models of professional roles - Theories about right action -- Self-interest -- Customs and religion -- Uses of ethical theories - Ethics of AI and Machine Learning 
+Senses of engineering ethics -- Variety of moral issues -- Types of
+inquiry -- Moral dilemmas -- Moral autonomy -- Kohlberg's theory --
+Gilligan's theory -- Consensus and controversy -- Models of
+professional roles - Theories about right action -- Self-interest --
+Customs and religion -- Uses of ethical theories - Ethics of AI and
+Machine Learning
 
 {{{unit}}}
 |UNIT IV | SAFETY, RESPONSIBILITIES AND RIGHTS | 9 |
-Safety and Risk:  Assessment of safety and risk -- Risk benefit Analysis and reducing risk - Respect for authority -- Collective bargaining -- Confidentiality -- Conflicts of interest -- Occupational crime -- Professional rights -- Employee rights -- Intellectual Property Rights (IPR) -- Discrimination. 
+Safety and Risk: Assessment of safety and risk -- Risk benefit
+Analysis and reducing risk - Respect for authority -- Collective
+bargaining -- Confidentiality -- Conflicts of interest -- Occupational
+crime -- Professional rights -- Employee rights -- Intellectual
+Property Rights (IPR) -- Discrimination.
 
 {{{unit}}}
-|UNIT V | Cybersecurity Ethics | 9 |  
-Introduction -- Controlling Access Flow -- Protecting Privacy -- Dealing with Intrusion -- Managing Distributed Resources -- Encouraging Exploration -- Fostering Responsibility -- Asserting Ownership -- Three Ethical Frameworks
+|UNIT V | CYBERSECURITY ETHICS | 9 |  
+Introduction -- Controlling Access Flow -- Protecting Privacy --
+Dealing with Intrusion -- Managing Distributed Resources --
+Encouraging Exploration -- Fostering Responsibility -- Asserting
+Ownership -- Three Ethical Frameworks
 
 
 \hfill *Total Periods: 45*
@@ -51,14 +74,22 @@ After the completion of this course, students will be able to:
 - Understand basic and applied fields of Management (K2)
 - Understand and practice Managerial skills (K3)
 - Understand and practice Engineering Ethics and Human Values (K3).
-- Understand ethical issues in cypersecurity [K2]
+- Understand ethical issues in cypersecurity (K2).
       
 ** REFERENCES
-1. Hellriegel, Slocum, Jackson, ``Management -A Competency Based Approach'', Thomson South Western, 10th edition, 2007. 
-2. Harold Koontz, Heinz Weihrich, Mark V Cannice, ``Management-A global & Entrepreneurial Perspective'', Tata Mcgraw Hill, 12th edition, 2007.
-3. Stephen P Robbins, Mary Coulter, ``Management'', Prentice Hall of India,8th edition. 
-4. Mike W Martin, Roland Schinzinger, ``Ethics in Engineering'', Tata McGraw Hill, New Delhi, 2003.
-5. Govindarajan M, Natarajan S, Senthil Kumar V S, ``Engineering Ethics'', Prentice Hall of India, New Delhi, 2004.
-6. Mary Manjikian, "Cybersecurity Ethics An Introduction", Routledge Taylor & Francis Group, 2018.
-7. George Ledin, "Compuer Security, Ethics and Society", McGraw-Hill, 2010.
+1. Hellriegel, Slocum, Jackson, ``Management -A Competency Based
+   Approach'', Thomson South Western, 10th edition, 2007.
+2. Harold Koontz, Heinz Weihrich, Mark V Cannice, ``Management-A
+   global & Entrepreneurial Perspective'', Tata Mcgraw Hill, 12th
+   edition, 2007.
+3. Stephen P Robbins, Mary Coulter, ``Management'', Prentice Hall of
+   India,8th edition.
+4. Mike W Martin, Roland Schinzinger, ``Ethics in Engineering'', Tata
+   McGraw Hill, New Delhi, 2003.
+5. Govindarajan M, Natarajan S, Senthil Kumar V S, ``Engineering
+   Ethics'', Prentice Hall of India, New Delhi, 2004.
+6. Mary Manjikian, "Cybersecurity Ethics An Introduction", Routledge
+   Taylor & Francis Group, 2018.
+7. George Ledin, "Compuer Security, Ethics and Society",
+   McGraw-Hill, 2010.
 8. http://www.cs.bath.ac.uk/~jjb/web/ai.html

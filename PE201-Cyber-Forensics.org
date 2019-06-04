@@ -96,10 +96,12 @@ stone forensic toolKit -- WinHex -- Linux and other open source tools;
 case studies: forensics accounting - forensics audit.
 #+begin_comment
 Unit-5:  New tools topics included
-         Ehtical hacking given in AU-Unit IV in SNU syllabus and V is not included in SNU.
+         Ehtical hacking given in AU-Unit IV in SNU syllabus and
+         V is not included in SNU.
 #+end_comment
 # Case study in unit 5
 # https://www.netrika.in/case-study/forensic-accounting-leads-to-improved-business-process 
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES

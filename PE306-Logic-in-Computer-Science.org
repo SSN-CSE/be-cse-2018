@@ -40,7 +40,8 @@ deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand's
 Theory.
 
 #+begin_comment
-Topics on Resolution moved from Unit II to IV. Extensions of Resolution dropped.
+Topics on Resolution moved from Unit II to IV. Extensions of
+Resolution dropped.
 #+end_comment
 
 {{{unit}}}

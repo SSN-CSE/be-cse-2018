@@ -11,8 +11,9 @@
 |2|0|2|3|
 
 #+begin_comment
-We are not aware of any Unix and Shell Programming course in the Anna University curriculum. 
-We believe it is an entirely new course in our curriculum.
+We are not aware of any Unix and Shell Programming course in the Anna
+University curriculum.  We believe it is an entirely new course in our
+curriculum.
 #+end_comment
 
 
@@ -34,20 +35,19 @@ ownership and groups.
 {{{unit}}}
 | UNIT II | COMMANDS  | 6 |
 UNIX commands; Filters; Regular expressions; grep; sed; awk.  Basic vi
-Editor: Editor concepts -- The vi Editor -- Modes and commands; Local
-commands in vi; Range commands in vi -- Global commands in vi;
-Rearrange text in vi.
+Editor: Modes and commands.
+# Local commands in vi; Range commands in vi -- Global commands in vi;
+# Rearrange text in vi.
 
 {{{unit}}}
 | UNIT III | BASH BASICS | 6 |
-Bash Basics: What is a shell? -- Interactive shell usage -- Input &
-output -- Background jobs -- Special characters and quoting;
-Command-Line Editing: Enabling command-line editing -- The history
-list -- emacs editing mode -- emacs editing mode -- The fc command --
-Histroy expansion -- readline; Customizing your environment;
-.bash\underline{ }profile, .bash\underline{ }logout, .bashrc Files --
-Aliases -- Options -- Shell variables -- Customization and
-subprocesses.
+Bash Basics: Interactive shell usage -- Input & output -- Background
+jobs -- Special characters and quoting; Command-Line Editing: Enabling
+command-line editing -- The history list -- emacs editing mode --
+emacs editing mode -- The fc command -- Histroy expansion -- readline;
+Customizing your environment; .bash\underline{ }profile,
+.bash\underline{ }logout, .bashrc Files -- Aliases -- Options -- Shell
+variables -- Customization and subprocesses.
 
 {{{unit}}}
 | UNIT IV | SHELL PROGRAMMING | 6 |
@@ -64,7 +64,8 @@ numbers -- Job control -- Trap -- Coroutines -- Subshells -- Process
 substitution.
 
 #+begin_comment
-As per the suggestion of BoS, removed signals from Unit V and added sed and awk.
+As per the suggestion of BoS, removed signals from Unit V and added
+sed and awk.
 #+end_comment
 
 \hfill *Total Periods: 30*

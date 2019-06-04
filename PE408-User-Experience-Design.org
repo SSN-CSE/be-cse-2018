@@ -1,6 +1,6 @@
 * <<<PE408>>> USER EXPERIENCE DESIGN
 :properties:
-:author: Dr A Chamundeeswari
+:author: Dr A Chamundeeswari, Mr Dinesh
 :date: 
 :end:
 

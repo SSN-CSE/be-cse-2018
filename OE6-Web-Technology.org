@@ -81,7 +81,11 @@ with Handlebars.
 
 #+BEGIN_COMMENT
 
-Important  -  This unit is new and it is not in AU-R2017 - Reason:  For ease,  to learn single language for client and server, instead of differebt Java based server technology as in AU-R2017, server and client end using same technology i.e. Javascript framework for both is added.
+Important - This unit is new and it is not in AU-R2017 - Reason: For
+ease, to learn single language for client and server, instead of
+differebt Java based server technology as in AU-R2017, server and
+client end using same technology i.e. Javascript framework for both is
+added.
 
 #+END_COMMENT
 
@@ -93,7 +97,8 @@ Persistence; Routing; Static Content; Debugging.
 
 #+BEGIN_COMMENT
 
-Important  -  This unit is new and it is not in AU-R2017 - Reason:  same as given in previous unit (Unit IV)
+Important - This unit is new and it is not in AU-R2017 - Reason: same
+as given in previous unit (Unit IV)
 
 #+END_COMMENT
 
