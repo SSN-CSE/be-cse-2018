@@ -90,5 +90,5 @@ After the completion of this course, students will be able to:
 3. James Holmes, ``Struts 2: The Complete Reference'', McGraw-hill
    Education, 2008.
 4. Amudhan G, ``Spring MVC Beginner's Guide'', Packt Publishing, 2014.
-5. Cay S. Horstmann, ``Core Java Volume II-Advanced features'',Tenth edition, Prentice Hall,2017. 
+5. Cay S. Horstmann, ``Core Java Volume II-Advanced features'', Tenth edition, Prentice Hall, 2017. 
 
