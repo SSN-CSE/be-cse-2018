@@ -38,7 +38,8 @@ All the topics are given in first unit of AU syllabus
 Features of Java -- Basics of Java programming: Data types - Variables
 -- Operators -- Control structures -- Arrays -- Strings.
 #+begin_comment
-All the topics are given in first unit of AU syllabus, removed Javadoc comments
+All the topics are given in first unit of AU syllabus, removed Javadoc
+comments
 #+end_comment
 
 {{{unit}}}

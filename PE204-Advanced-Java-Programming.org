@@ -17,22 +17,33 @@
 - To develop web applications using spring MVC framework
 
 {{{unit}}}
+|UNIT I | JAVA | 9 |
+Working with Multiple Threads
+Working with Collections Framework
+Creating Packages, Interfaces, JAR Files, and Annotations 
+Networking and Security with Java
+Working with JDBC
+Event Handling
+#+BEGIN_COMMENT
 |UNIT I | JAVA BEANS COMPONENT MODEL | 9 |
 Introduction -- Introspection: design patterns for properties, events,
 methods and design patterns, bean info interface -- persistence --
 customizers -- design programs and appletes using Java bean -- bound and
 constrarined properties -Java bean API -- Example for Java bean.
+#+END_COMMENT
 
 {{{unit}}}
+| UNIT II | JAVA  | 9 |
+#+BEGIN_COMMENT
 | UNIT II | JAVA  DESIGN PATTERNS  | 9 |
 Introduction -- Creational patterns: Singleton -- abstract factory,
 fatory method, builder; Structural patterns: Adapter,
 decorator,facade,bridge; Behavioral patterns: Observer,chain of
 responsibility, iterator, state, proxy.
-
+#+END_COMMENT
 {{{unit}}}
 | UNIT III | HIBERNATE ORM | 8 |
-Introduction: Architecture of hibernate-HQL -- Hibernate O / R mapping
+Introduction: Architecture of hibernate-HQL -- Hibernate OR mapping
 -- developing hibernate application.
 
 {{{unit}}}
@@ -55,9 +66,11 @@ attributes -- connecting MVC applications to the business layer.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Design platform-independent dynamic components using Java bean (K3)
-- Develop Java applications by selecting and applying appropriate  design patterns (K3)
+- Develop Java applications by selecting and applying appropriate
+  design patterns (K3)
 - Develop Hibernate applications using object relational mapping (K3)
-- Develop Java enterprise edition web applications using struts framework (K3)
+- Develop Java enterprise edition web applications using struts
+  framework (K3)
 - Build web applications using spring MVC framework (K3).
    
 ** TEXT BOOKS

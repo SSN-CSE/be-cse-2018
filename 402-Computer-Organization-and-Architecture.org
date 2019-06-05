@@ -10,7 +10,8 @@
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable. 
-- 6. Since the course is at the basic level,  the suggestion given by Mr Karthik can be incorporated in an advanced course.
+- 6. Since the course is at the basic level,  the suggestion given
+     by Mr Karthik can be incorporated in an advanced course.
 #+end_comment
 
 #+startup: showall
@@ -53,7 +54,8 @@ improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
 #+BEGIN_COMMENT
-1. Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is moved here as Unit IV.
+1. Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
+moved here as Unit IV.
 #+END_COMMENT
 
 {{{unit}}}

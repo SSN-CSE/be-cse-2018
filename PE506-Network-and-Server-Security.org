@@ -100,7 +100,7 @@ After the completion of this course, students will be able to:
    
 #+begin_comment
 1. checking validity of certificates, how to interact with Certificate
-Authorities, Certificate Revocations (CRL and OCSP)is already covered
+Authorities, Certificate Revocations (CRL and OCSP) is already covered
 in Unit I.
 
 2. ASN.1 encoding formats will deviate the flow of the syllabus.

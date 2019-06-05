@@ -20,11 +20,11 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Basic Concepts of Software Architecture -- Architecture business cycle
--- architectural patterns -- reference models -- architectural
-structures, views -- Introduction to Styles -- Simple Styles --
-Distributed and Networked Architectures-Architecture for network based
-applications -- Decentralized Architectures.
+Basic Concepts of Software Architecture -- Architecture Business Cycle
+-- Architectural Patterns -- Reference Models -- Architectural
+Structures, Views; Introduction to Styles -- Simple Styles --
+Distributed and Networked Architectures -- Architecture for network
+based applications -- Decentralized Architectures.
 
 {{{unit}}}
 | UNIT II | DESIGN METHODOLOGIES | 9 |
@@ -38,15 +38,15 @@ Early Architecture Description Languages -- Domain and Style Specific
 ADLs -- Extensible ADLs -- Documenting Software architecture --
 Architecture Evaluation -- ATAM; Understanding Quality Attributes --
 Functionality and Architecture -- Architecture and Quality Attributes
--- System Quality Attributes -- Quality attribute Scenarios in
+-- System Quality Attributes -- Quality Attribute Scenarios in
 Practice.
 
 {{{unit}}}
 | UNIT IV | ARCHITECTURE DESIGN  | 9 |
 Typical Architectural Design -- Data Flow -- Independent Components --
-Call and Return - Using Styles in Design -- choices of styles --
-Architectural design space -- Theory of Design Spaces -- Design space
-of Architectural Elements -- Design space of Architectural styles.
+Call and Return -- Using Styles in Design -- Choices of styles --
+Architectural design space -- Theory of Design Spaces -- Design Space
+of Architectural Elements -- Design Space of Architectural styles.
 
 {{{unit}}}
 | UNIT V | CREATING ARCHITECTURE | 9 |
