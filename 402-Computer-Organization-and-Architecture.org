@@ -10,8 +10,8 @@
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable. 
-- 6. Since the course is at the basic level,  the suggestion given
-     by Mr Karthik can be incorporated in an advanced course.
+- 6. Included problems introduced by predictive branching: Spectre and Meltdown.
+      Since the text books are not available, website links are provided in References.
 #+end_comment
 
 #+startup: showall
@@ -45,7 +45,7 @@ Representation: Floating point operations; Subword parallelism.
 | UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
 A Basic MIPS implementation: Building a datapath -- Control
 implementation scheme; Pipelining: Pipelined datapath and control --
-Handling data hazards & Control hazards -- Exceptions.
+Handling data hazards & Control hazards -- Exceptions -- Issues in predictive branching: Spectre and Meltdown.
 
 {{{unit}}}
 | UNIT IV | MEMORY & I/O SYSTEMS | 9 |
@@ -93,12 +93,15 @@ After the completion of this course, students will be able to:
 1. William Stallings, ``Computer Organization and Architecture –
    Designing for Performance'', 8th Edition, Pearson
    Education, 2010.
-3. John P Hayes, ``Computer Architecture and Organization'', 3rd
+2. John P Hayes, ``Computer Architecture and Organization'', 3rd
    Edition, Tata McGraw Hill, 2012.
-4. John L Hennessey, David A Patterson, ``Architecture – A
+3. John L Hennessey, David A Patterson, ``Architecture – A
    Quantitative Approach'', 5th edition, Morgan Kaufmann /
    Elsevier, 2012 (Units I, III).
-6. Morris Mano M, ``Computer System Architecture'', Revised 3rd
+4. Morris Mano M, ``Computer System Architecture'', Revised 3rd
    Edition, Pearson Publication, 2017.
-7. Chakraborty P, ``Computer Architecture and Organization'', JAICO
+5. Chakraborty P, ``Computer Architecture and Organization'', JAICO
    Publishing House, 2010.
+6. https://www.techrepublic.com/article/spectre-and-meltdown-explained-a-comprehensive-guide-for-professionals/
+7. https://arxiv.org/pdf/1807.07940.pdf   /* Spectre Attack */
+8. https://meltdownattack.com/meltdown.pdf

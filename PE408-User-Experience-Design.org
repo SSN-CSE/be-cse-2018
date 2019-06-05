@@ -20,7 +20,7 @@
   feedback, and communication.
 
 {{{unit}}}
-| UNIT I | LIFECYCLE AND PROCESS  | 8 |
+| UNIT I | CONCEPTUALIZING USER EXPERIENCE DESIGN  | 9 |
 What are UX and UX design: Definition of UX -- UX design -- components
 of UX -- What UX is Not -- Kinds of interaction and UX; UX processes,
 Lifecycles, Methods and Techniques: Basic process components for UX --
@@ -50,7 +50,7 @@ interaction design -- storyboards-- wireframes--intermediate
 interaction design -- interaction design production -- case study.
 
 {{{unit}}}
-| UNIT IV | EVALUATION  | 8 |
+| UNIT IV | UX EVALUATION METHODS  | 8 |
 UX Evaluation methods: Data Collection techniques -- UX evaluation
 methods; Data analysis: analyze Quantitative data -- analyze
 qualitative UX data -- Reporting different kinds of data; Agile
@@ -59,7 +59,7 @@ feedback and iteration -- thinking and communicating in terms of user
 stories -- defining acceptance criteria.
 
 {{{unit}}}
-| UNIT V | DEVELOPMENT AND TOOLBOX | 10 |
+| UNIT V | ITERATION AND CASE STUDIES | 10 |
 Iterations: working as a team -- design documentation -- working with
 the product owner -- working in iterations -- continuous improvement;
 Toolbox: As-is experience design review -- as-is/to-be process mapping
@@ -72,12 +72,12 @@ review -- context scenarios -- customer experience -- customer testing
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Identify the users and learn the entire user experience lifecycle of
-  agile UX design
-- Develop a deep understanding of UX design and evaluation
+  agile UX design [K2]
+- Develop a deep understanding of UX design and evaluation [K2]
 - Create efficient prototype to communicate and evaluate the design
-  definition
+  definition [K3]
 - Apply UX design in a case study and learn the customer experience
-  and testing.
+  and testing.[K4]
 
 ** TEXT BOOKS
 1. Rex Hartson, Pardha Pyla, ``The UX book: Agile UX design for a

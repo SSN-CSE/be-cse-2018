@@ -1,6 +1,6 @@
 * <<<406>>> SOFTWARE ENGINEERING
 :properties:
-:author: Ms. K. Madheswari and Ms. S. Angel Deborah
+:author: Ms. S. Angel Deborah
 :date: 
 :end:
 
@@ -13,9 +13,7 @@
 #+end_comment
 
 #+begin_comment
-1. Incorporating the suggestions would be difficult because introducing these topics would require extra hours.
-2. Removing few topics to introduce the suggestions can be done only at the cost of eliminating the fundamentals, hence the suggestions has not been included.
-
+1. Few Suggestions have been incorporated.
 #+end_comment
 
 
@@ -34,21 +32,20 @@
 
 {{{unit}}}
 | UNIT I | SOFTWARE PROCESS MODELS | 9 |
-Introduction to software engineering; Principles and practices;
-Software Process: Generic process model -- Perspective and specialized
-process models; Introduction to Agility: Agile process model.
+Introduction to software engineering; Principles and practices; Software Process: Generic process model -- Perspective and specialized
+process models -- Secure development lifecycle; Introduction to Agility: Agile process model.
 
 #+begin_comment
 1. Removed: Extreme programming, XP Process
-2. Added: Principles and practices, Generic process model
+2. Added: Principles and practices, Generic process model, Software secure development lifecycle
 #+end_comment
 
+#+begin_comment
+1. Added: Software secure development lifecycle(Karthik's suggestion)
+#+end_comment
 {{{unit}}}
 | UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
-Project planning process; Software Project Estimation: Decomposition
-techniques -- Empirical estimation models -- The make/buy decision --
-Project scheduling; Risk Management: Risk identification -- Risk
-projection -- Risk mitigation.
+Project planning process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation.
 
 #+begin_comment
 1. Removed: CASE TOOLS, RMMM Plan
@@ -57,12 +54,9 @@ projection -- Risk mitigation.
 
 {{{unit}}}
 | UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION | 9 |
-Software Requirements: Functional and non-functional -- User
-requirements -- System requirements -- Software requirements document;
-Requirement Engineering Process: Feasibility studies -- Requirements
-elicitation and analysis -- Requirements validation -- Requirements
-Management; Classical Analysis: Structured system analysis; Petri
-Nets.
+Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document;
+Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements
+Management; Classical Analysis: Structured system analysis; Petri Nets.
 
 #+begin_comment
 1. Removed: Data dictionary
@@ -71,58 +65,51 @@ Nets.
 
 {{{unit}}}
 | UNIT IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Design model --
-Modeling principles; Architectural Design: Architectural Styles
---Architectural Mapping using Dataflow; User Interface Design: The
-Golden rules -- Interface Analysis -- Interface Design; Component
-Level Design: Designing Class based Components -- Traditional
-Components.
+Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles
+--Architectural Mapping using Dataflow; User Interface Design: The Golden rules -- Interface Analysis -- Interface Design; Design for security; Component Level Design: Designing Class based Components -- Traditional Components.
 
 #+begin_comment
 1. Removed: Design Heuristic
+2. Added: Design for security
 2. This unit was third unit in AU R2017
+#+end_comment
+
+#+begin_comment
+1. Added: Design for security(Karthik's suggestion)
 #+end_comment
 
 {{{unit}}}
 | UNIT V | TESTING AND MAINTENANCE | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing:
-White Box Testing -- Basis Path Testing -- Control Structure Testing
--- Black Box Testing -- Unit Testing -- Integration Testing --
-Regression Testing -- Validation Testing -- System Testing; Debugging;
-Software Implementation: Coding Practices and Principles; Maintenance:
-Types -- Reengineering -- Reverse Engineering -- Restructuring.
+Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing -- Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types -- Reengineering -- Reverse Engineering -- Restructuring.
 
 #+begin_comment
 1. Removed: Refactoring, BPR model, Forward Engineering
-2. Added: Coding Principles
+2. Added: Coding Principles, Security testing
 3. This unit was fourth unit in AU R2017
+#+end_comment
+
+
+#+begin_comment
+1. Added: Security testing(Karthik's suggestion)
 #+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand principles of software engineering and choose an
-  appropraite process model (K4)
-- Manage project schedule, estimate project cost and effort required
-  (K3)
+- Understand principles of software engineering and choose an appropraite process model (K4)
+- Manage project schedule, estimate project cost and effort required (K3)
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
-- Compare and contrast the various testing and maintenance activities
-  (K2).
+- Compare and contrast the various testing and maintenance activities (K2).
 
 ** TEXT BOOKS
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', McGraw-Hill International Edition, Seventh
-   Edition, 2010.
-2. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,
-   Nineth Edition, 2011.
+1. Roger S Pressman, ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Seventh Edition, 2010.
+2. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Nineth Edition, 2011.
 
 ** REFERENCES
-1. Rajib Mall, ``Fundamentals of Software Engineering'', PHI Learning
-   Private Limited, Third Edition, 2009.
-2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley
-   India, 2010.
+1. Rajib Mall, ``Fundamentals of Software Engineering'', PHI Learning  Private Limited, Third Edition, 2009.
+2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley  India, 2010.
 3. Kelkar S A,``Software Engineering'', Prentice Hall of India, 2007.
-4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill
-   Publishing Company Limited,2007.
+4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill Publishing Company Limited,2007.
+5. https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-secure-development-lifecycle.pdf
