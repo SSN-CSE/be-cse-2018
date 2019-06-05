@@ -18,7 +18,7 @@
 - To develop web applications using spring MVC framework
 
 {{{unit}}}
-|UNIT I | Multithreading and collections | 9 |
+|UNIT I | MULTITHREADING AND COLLECTIONS | 9 |
 Introduction: Life cycle of a thread, Creating threads -- Synchronization: Code blocks, methods, classes -- Concurrent programming -- Introduction to collection framework -- Collection interfaces: Map, Queue, List, Set -- Collection classes: AbstractCollection, AbstractList,ArrayList,LinkedList,Generic class, HashSet, HashMap, TreeSet, TreeMap -- Legacy classes and interfaces
 
 #+BEGIN_COMMENT
@@ -37,7 +37,7 @@ constrarined properties -Java bean API -- Example for Java bean.
 #+END_COMMENT
 
 {{{unit}}}
-| UNIT II | JDBC  | 9 |
+| UNIT II | JAVA DATABASE CONNECTIVITY  | 9 |
 Introduction: Components, specification, architecture -- JDBC drivers -- JDBC APIs -JDBC classes and interfaces -- JDBC process with sql package -- Working with transactions
 
 
