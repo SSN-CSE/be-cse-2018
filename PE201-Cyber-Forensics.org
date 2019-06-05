@@ -93,11 +93,10 @@ certification requirements -- Determining the physical requirements
 for a computer forensics lab; Computer Forensic tools: Encase -- Helix
 -- FTK -- Autopsy -- Sleuth kit forensic browser -- FIRE -- Found
 stone forensic toolKit -- WinHex -- Linux and other open source tools;
-case studies: forensics accounting - forensics audit.
+Case Study :  Banking Industry Executive Level Financial Fraud .
 #+begin_comment
 Unit-5:  New tools topics included
-         Ehtical hacking given in AU-Unit IV in SNU syllabus and
-         V is not included in SNU.
+         Ehtical hacking given in AU-Unit IV and V is not included in SNU syllabus.
 #+end_comment
 # Case study in unit 5
 # https://www.netrika.in/case-study/forensic-accounting-leads-to-improved-business-process 
@@ -129,4 +128,5 @@ After the completion of this course, students will be able to:
 5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
    Manual for Collecting, Examining, and Preserving Evidence of
    Computer Crimes'', Auerbach Publications, 2007.
+6. https://evestigate.com/Case_Studies/Case%20Study%20Banking%20Industry%20Finacial%20Fraud%20by%20Board%20Member%20Director%20CFO.pdf
    
