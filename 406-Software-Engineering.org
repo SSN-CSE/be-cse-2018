@@ -1,6 +1,6 @@
 * <<<406>>> SOFTWARE ENGINEERING
 :properties:
-:author: Ms. K. Madheswari and Ms. S. Angel Deborah
+:author: Ms. S. Angel Deborah
 :date: 
 :end:
 
