@@ -49,7 +49,7 @@ decorator,facade,bridge; Behavioral patterns: Observer,chain of
 responsibility, iterator, state, proxy.
 #+END_COMMENT
 {{{unit}}}
-| UNIT III | HIBERNATE ORM | 8 |
+| UNIT III | HIBERNATE ORM | 9 |
 Introduction: Architecture of hibernate-HQL -- Hibernate OR mapping
 -- developing hibernate application.
 
