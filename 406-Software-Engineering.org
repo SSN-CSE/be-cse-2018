@@ -36,13 +36,16 @@
 | UNIT I | SOFTWARE PROCESS MODELS | 9 |
 Introduction to software engineering; Principles and practices;
 Software Process: Generic process model -- Perspective and specialized
-process models; Introduction to Agility: Agile process model.
+process models -- Secure development lifecycle; Introduction to Agility: Agile process model.
 
 #+begin_comment
 1. Removed: Extreme programming, XP Process
 2. Added: Principles and practices, Generic process model
 #+end_comment
 
+#+begin_comment
+1. Added: Software secure development lifecycle(Karthik's suggestion)
+#+end_comment
 {{{unit}}}
 | UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
 Project planning process; Software Project Estimation: Decomposition
@@ -74,7 +77,7 @@ Nets.
 Design Concepts: Design process -- Design concepts -- Design model --
 Modeling principles; Architectural Design: Architectural Styles
 --Architectural Mapping using Dataflow; User Interface Design: The
-Golden rules -- Interface Analysis -- Interface Design; Component
+Golden rules -- Interface Analysis -- Interface Design; WebApp Design Quality; Component
 Level Design: Designing Class based Components -- Traditional
 Components.
 
@@ -83,12 +86,15 @@ Components.
 2. This unit was third unit in AU R2017
 #+end_comment
 
+#+begin_comment
+1. Added: WebApp Design Quality(Karthik's suggestion)
+#+end_comment
 {{{unit}}}
 | UNIT V | TESTING AND MAINTENANCE | 9 |
 Software Testing Fundamentals; Internal and External Views of Testing:
 White Box Testing -- Basis Path Testing -- Control Structure Testing
 -- Black Box Testing -- Unit Testing -- Integration Testing --
-Regression Testing -- Validation Testing -- System Testing; Debugging;
+Regression Testing -- Validation Testing -- System Testing -- Security Testing; Debugging;
 Software Implementation: Coding Practices and Principles; Maintenance:
 Types -- Reengineering -- Reverse Engineering -- Restructuring.
 
@@ -96,6 +102,11 @@ Types -- Reengineering -- Reverse Engineering -- Restructuring.
 1. Removed: Refactoring, BPR model, Forward Engineering
 2. Added: Coding Principles
 3. This unit was fourth unit in AU R2017
+#+end_comment
+
+
+#+begin_comment
+1. Added: Security testing(Karthik's suggestion)
 #+end_comment
 
 \hfill *Total Periods: 45*
@@ -126,3 +137,4 @@ After the completion of this course, students will be able to:
 3. Kelkar S A,``Software Engineering'', Prentice Hall of India, 2007.
 4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill
    Publishing Company Limited,2007.
+5. https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-secure-development-lifecycle.pdf
