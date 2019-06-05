@@ -12,19 +12,23 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To understand the concepts of design patterns and Java bean
+- To understand the concepts of multithreading and collections
+- To develop applications with JDBC
 - To develop applications using Hibernate and struts
 - To develop web applications using spring MVC framework
 
 {{{unit}}}
-|UNIT I | JAVA | 9 |
+|UNIT I | Multithreading and collections | 9 |
+Introduction: Life cycle of a thread, Creating threads -- Synchronization: Code blocks, methods, classes -- Concurrent programming -- Introduction to collection framework -- Collection interfaces: Map, Queue, List, Set -- Collection classes: AbstractCollection, AbstractList,ArrayList,LinkedList,Generic class, HashSet, HashMap, TreeSet, TreeMap -- Legacy classes and interfaces
+
+#+BEGIN_COMMENT
 Working with Multiple Threads
 Working with Collections Framework
 Creating Packages, Interfaces, JAR Files, and Annotations 
 Networking and Security with Java
 Working with JDBC
 Event Handling
-#+BEGIN_COMMENT
+
 |UNIT I | JAVA BEANS COMPONENT MODEL | 9 |
 Introduction -- Introspection: design patterns for properties, events,
 methods and design patterns, bean info interface -- persistence --
@@ -33,7 +37,10 @@ constrarined properties -Java bean API -- Example for Java bean.
 #+END_COMMENT
 
 {{{unit}}}
-| UNIT II | JAVA  | 9 |
+| UNIT II | JDBC  | 9 |
+Introduction: Components, specification, architecture -- JDBC drivers -- JDBC APIs -JDBC classes and interfaces -- JDBC process with sql package -- Working with transactions
+
+
 #+BEGIN_COMMENT
 | UNIT II | JAVA  DESIGN PATTERNS  | 9 |
 Introduction -- Creational patterns: Singleton -- abstract factory,
@@ -65,9 +72,8 @@ attributes -- connecting MVC applications to the business layer.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Design platform-independent dynamic components using Java bean (K3)
-- Develop Java applications by selecting and applying appropriate
-  design patterns (K3)
+- Develop Java applications using multithreading (K3)
+- Develop Java applications with Java Database connectivity (K3)
 - Develop Hibernate applications using object relational mapping (K3)
 - Develop Java enterprise edition web applications using struts
   framework (K3)
@@ -75,7 +81,6 @@ After the completion of this course, students will be able to:
    
 ** TEXT BOOKS
 1. ``Core and Advanced Java, Black Book'', Dreamtech press, 2018
-2. Vaskaran Sarcar, ``Java Design Patterns'', Apress, 2016
    
 ** REFERENCES
 1. Herbert Schildt, ``Java: The Complete Reference'', 11th Edition,
