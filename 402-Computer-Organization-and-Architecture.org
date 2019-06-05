@@ -10,8 +10,8 @@
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable. 
-- 6. Since the course is at the basic level,  the suggestion given
-     by Mr Karthik can be incorporated in an advanced course.
+- 6. Included problems introduced by predictive branching: Spectre and Meltdown.
+      Since the text books are not available, website links are provided in References.
 #+end_comment
 
 #+startup: showall
