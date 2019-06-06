@@ -133,3 +133,4 @@ After the completion of this course, students will be able to:
 4. Alex Banks, Eve Porcello, ``Learning React: Functional Web    Development with React and Redux'', O'Reilly Media Inc., May 2017.
 5. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st    Edition, O'Reilly Media, 2012.
 6. Uttam K Roy, ``Web Technologies'', Oxford University Press, 2010.
+7. ''How to Hack a Web Server'', https://www.guru99.com/how-to-hack-web-server.html
