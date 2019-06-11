@@ -2,6 +2,8 @@
 :properties:
 :author: Dr Valli
 :date: 13 November 2018
+:changed by : Dr. Chitra Babu
+:date: 11 June 2019
 :end:
 
 #+startup: showall
@@ -13,33 +15,28 @@
 
 ** COURSE OBJECTIVES
 - To understand the fundamentals of software architecture.
-- To study the various software development methodologies.
-- To learn the architectural evaluation procedure.
-- To learn the various software architecture design components.
+- To learn the architectural views and styles
+- To study the architectural description languages
+- To learn the architectual evaluation techniques
 - To relate software architecture and software quality.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
 Basic Concepts of Software Architecture -- Architecture Business Cycle
 -- Architectural Patterns -- Reference Models -- Architectural
-Structures, Views; Introduction to Styles -- Simple Styles --
-Distributed and Networked Architectures -- Architecture for network
-based applications -- Decentralized Architectures.
+Structures, Views; Module Views, Component-Connector Views, Allocation Views 
 
 {{{unit}}}
-| UNIT II | DESIGN METHODOLOGIES | 9 |
-Structured Design -- Design Practices -- Stepwise Refinement --
-Incremental Design -- Structured System Analysis and Design -- Jackson
-Structured Programming -- Jackson System Development
+| UNIT II |ARCHITECTURAL STYLES | 9 |
+Introduction to Architectural Styles -- Simple Styles --
+Distributed and Networked Architectures -- Architecture for network
+based applications -- Decentralized Architectures.
 
 {{{unit}}}
 | UNIT III | ARCHITECTURE DESCRIPTION, DOCUMENTATION AND EVALUATION | 9 |
 Early Architecture Description Languages -- Domain and Style Specific
 ADLs -- Extensible ADLs -- Documenting Software architecture --
-Architecture Evaluation -- ATAM; Understanding Quality Attributes --
-Functionality and Architecture -- Architecture and Quality Attributes
--- System Quality Attributes -- Quality Attribute Scenarios in
-Practice.
+Architecture Evaluation -- ATAM; 
 
 {{{unit}}}
 | UNIT IV | ARCHITECTURE DESIGN  | 9 |
@@ -50,7 +47,10 @@ of Architectural Elements -- Design Space of Architectural styles.
 
 {{{unit}}}
 | UNIT V | CREATING ARCHITECTURE | 9 |
-Introducing Tactics -- Availability Tactics -- Modifiability Tactics
+Understanding Quality Attributes --
+Functionality and Architecture -- Architecture and Quality Attributes
+-- System Quality Attributes -- Quality Attribute Scenarios in
+Practice -- Introducing Tactics -- Availability Tactics -- Modifiability Tactics
 -- Performance Tactics -- Security Tactics -- Testability Tactics --
 Usability Tactics -- Relationship of Tactics to Architectural Patterns
 -- Architectural Patterns and Styles.
@@ -60,28 +60,22 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-1. Develop software applications starting from software architecture
-   and design (K2)
-2. Understand and evaluate existing software architectures (K2)
-3. Design methods for improving software quality from the perspective
-   of software architecture (K3)
-4. Describe the architecture based on architectural description
-   language (K2)
-5. Understand the different design methodologies and choose the best
-   from them based on the software being built (K2)
+1. Describe various architectural views(K2)
+2. Apply suitable architectural styles based on the software quality requirements (K3)
+3. Define ADLs and evaluate alternate architectural solutions (K4)
+4. Construct new architectures based on the quality atteribute requirements (K4)
+5. (K2)
 
 ** TEXTBOOKS
- 1.  David Budgen, ``Software Design'', Second Edition, Pearson
-   Education, 2004.
- 2. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
+  
+ 1. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
    Practice'', Third Edition, Addison Wesley, 2012.
+ 2. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
+   Architecture: Foundations, Theory and Practice'', Wiley 2010.
 ** REFERENCES
  
-1. Hong Zhu, ``Software Design Methodology from Principles to
-   Architectural Styles'', Elsevier, 2005.
-2. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
+
+1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-3. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
-   Architecture: Foundations, Theory and Practice'', Wiley 2010.
-4. Nick Rozanski, Eoin Woods, “ Software Systems Architecture” Second Edition, 
+2. Nick Rozanski, Eoin Woods, “ Software Systems Architecture” Second Edition, 
    Addison-Wesley , 2012.
