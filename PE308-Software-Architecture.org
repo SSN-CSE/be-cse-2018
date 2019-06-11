@@ -6,6 +6,15 @@
 
 #+startup: showall
 
+#+begin_comment
+- 1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
+- 2. Removed the second unit on Software Desig
+- 3. The unit headings have been suitably changed
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable
+#+end_comment
+
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -22,7 +31,7 @@
 | UNIT I | INTRODUCTION | 9 |
 Basic Concepts of Software Architecture -- Architecture Business Cycle
 -- Architectural Patterns -- Reference Models -- Architectural
-Structures, Views; Module Views, Component-Connector Views, Allocation Views 
+Structures, Views; Module Views, Component-Connector Views, Allocation Views. 
 
 {{{unit}}}
 | UNIT II |ARCHITECTURAL STYLES | 9 |
