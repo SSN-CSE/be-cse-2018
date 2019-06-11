@@ -2,7 +2,7 @@
 :properties:
 :author: Dr Valli
 :date: 13 November 2018
-:changed by : Dr. Chitra Babu
+:author : Dr. Chitra Babu
 :date: 11 June 2019
 :end:
 
