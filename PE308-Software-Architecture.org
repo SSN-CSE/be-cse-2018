@@ -1,6 +1,6 @@
 * <<<PE308>>> SOFTWARE ARCHITECTURE
 :properties:
-:author : Chitra Babu
+:autho: Dr. Chitra Babu
 :date: 11 June 2019
 :end:
 
