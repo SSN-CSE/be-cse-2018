@@ -25,43 +25,29 @@ curriculum.
 
 {{{unit}}}
 | UNIT I  | FILE SYSTEM | 6 |
-Foundations: Computer system -- The UNIX environment -- UNIX
-structure; File Systems: Filenames -- File types -- Regular files --
-Directories -- File system implementation -- Operations on files and
-directories; Security and File Permissions: Users and groups --
-Security levels -- Changing permissions -- User masks -- Changing
-ownership and groups.
+Computer system -- UNIX environment -- UNIX structure; File Systems --
+Security and File Permission; Basic vi Editor: Modes and commands.
 
 {{{unit}}}
 | UNIT II | COMMANDS  | 6 |
-UNIX commands; Filters; Regular expressions; grep; sed; awk.  Basic vi
-Editor: Modes and commands.
+Filters; Regular Expressions; grep; sed: Addresses, Commands; awk:
+Patterns, Actions, Associative Arrays.
 # Local commands in vi; Range commands in vi -- Global commands in vi;
 # Rearrange text in vi.
 
 {{{unit}}}
 | UNIT III | BASH BASICS | 6 |
-Bash Basics: Interactive shell usage -- Input & output -- Background
-jobs -- Special characters and quoting; Command-Line Editing: Enabling
-command-line editing -- The history list -- emacs editing mode --
-emacs editing mode -- The fc command -- Histroy expansion -- readline;
-Customizing your environment; .bash\underline{ }profile,
-.bash\underline{ }logout, .bashrc Files -- Aliases -- Options -- Shell
-variables -- Customization and subprocesses.
+Introduction to Shells; Customizing your environment; Basic Shell
+Programming.
 
 {{{unit}}}
 | UNIT IV | SHELL PROGRAMMING | 6 |
-Basic Shell Programming: Shell scripts and functions -- Shell
-variables -- String operators -- Command substitution; Flow control;
-Command-line options and Typed Variables: Command-line options --
-Typed variables -- Integer variables and arithmetic -- Arrays.
+Flow control; Command-line options and Typed Variables
 
 {{{unit}}}
 | UNIT V | INPUT/OUTPUT | 6 |
-Input/Output and Command-Line Processing: I/O redirectors -- String
-I/O -- Command-line processing; Process Handling: Process IDs & job
-numbers -- Job control -- Trap -- Coroutines -- Subshells -- Process
-substitution.
+Input/Output and Command-Line Processing; Process Handling; bash
+Administration. 
 
 #+begin_comment
 As per the suggestion of BoS, removed signals from Unit V and added

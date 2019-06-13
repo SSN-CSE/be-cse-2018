@@ -3,18 +3,17 @@
 :author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
 :date: 
 :end:
-
-#+begin_comment
-- 1. Almost the same as AU
-- 2. For changes, see the comments below the units, Unit IV and Unit V
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable. 
-- 6. Included problems introduced by predictive branching: Spectre and Meltdown.
-      Since the text books are not available, website links are provided in References.
-#+end_comment
-
 #+startup: showall
+
+** COMMENT REVISION 2018
+   1. Almost the same as AU
+   2. For changes, see the comments below the units, Unit IV and Unit V
+   3. Not Applicable
+   4. Five Course outcomes specified and aligned with units
+   5. Not Applicable. 
+   6. Included problems introduced by predictive branching: Spectre
+      and Meltdown. Since text books are not available, website links
+      are provided in References.
 
 {{{credits}}}
 | L | T | P | C |
@@ -45,7 +44,8 @@ Representation: Floating point operations; Subword parallelism.
 | UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
 A Basic MIPS implementation: Building a datapath -- Control
 implementation scheme; Pipelining: Pipelined datapath and control --
-Handling data hazards & Control hazards -- Exceptions -- Issues in predictive branching: Spectre and Meltdown.
+Handling data hazards & Control hazards -- Exceptions -- Issues in
+predictive branching: Spectre and Meltdown.
 
 {{{unit}}}
 | UNIT IV | MEMORY & I/O SYSTEMS | 9 |
@@ -53,10 +53,11 @@ Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
 improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
-#+BEGIN_COMMENT
-1. Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
+
+:DRAWERNAME:
+Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
 moved here as Unit IV.
-#+END_COMMENT
+:END:
 
 {{{unit}}}
 | UNIT V | PARALLEL PROCESSORS | 9 |
@@ -64,10 +65,13 @@ Parallel processing challenges; Flynn's classification: SISD -- MIMD
 -- SIMD -- SPMD and Vector Architectures; Hardware multithreading;
 Multi-core processors and other shared memory multiprocessors;
 Introduction to Graphics Processing Units.
-#+BEGIN_COMMENT
-1. Unit IV of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is moved here as Unit V with the following observations:
-  + Removed: Clusters; Warehouse Scale Computers and other Message-Passing Multiprocessors.
-#+END_COMMENT
+
+:DRAWERNAME:
+1. Unit IV of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
+   moved here as Unit V with the change:
+2. Removed: Clusters; Warehouse Scale Computers and other
+   Message-Passing Multiprocessors.
+:END:
 
 \hfill *Total Periods: 45*
 
@@ -103,5 +107,5 @@ After the completion of this course, students will be able to:
 5. Chakraborty P, ``Computer Architecture and Organization'', JAICO
    Publishing House, 2010.
 6. https://www.techrepublic.com/article/spectre-and-meltdown-explained-a-comprehensive-guide-for-professionals/
-7. https://arxiv.org/pdf/1807.07940.pdf   /* Spectre Attack */
+7. https://arxiv.org/pdf/1807.07940.pdf
 8. https://meltdownattack.com/meltdown.pdf
