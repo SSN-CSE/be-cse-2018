@@ -82,13 +82,13 @@ After the completion of this course, students will be able to:
    Third Edition, O'Reilly, 2005 (Units III, IV & V).
 
 ** REFERENCES
-1. Richard Blum, Christine Bresnahan, ``Linux Command Line and
-   Shell Scripting Bible'', Wiley, 2015.
+1. Mike Loukides, Tim O'Reilly, Jerry Peek, Shelley Powers, ``Unix
+   Power Tools'', 3rd Edition, O'Reilly, 2009.
 2. Sumitabha Das, ``Unix: Concepts and Applications'', Tata McGraw
    Hill,2017.
-3. Stephen Kochan, Patrick Wood, ``Shell Programming in UNIX, Linux
+3. Richard Blum, Christine Bresnahan, ``Linux Command Line and
+   Shell Scripting Bible'', Wiley, 2015.
+4. Stephen Kochan, Patrick Wood, ``Shell Programming in UNIX, Linux
    and OSX'', Addison Wesley, 2016.
-4. M G Venkateshmurthy, ``Introduction to Unix and Shell
-   Programming'', 1st Edition, Pearson Education, 2005.
 5. Randal K Michael, ``Mastering Unix Shell Scripting'', 2nd Edition,
    Wiley, 2008.
