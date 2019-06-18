@@ -40,13 +40,13 @@ Practice
 {{{unit}}}
 | UNIT II |ARCHITECTURAL STYLES | 9 |
 Introduction to Architectural Styles -- Simple Styles --
-Distributed and Networked Architectures -- Architecture for network
-based applications -- Decentralized Architectures.
+Distributed and Networked Architectures -- Architecture for Network
+based Applications -- Decentralized Architectures.
 
 {{{unit}}}
 | UNIT III | ARCHITECTURE DESCRIPTION, DOCUMENTATION AND EVALUATION | 9 |
 Early Architecture Description Languages -- Domain and Style Specific
-ADLs -- Extensible ADLs -- Documenting Software architectures --
+ADLs -- Extensible ADLs -- Documenting Software Architectures --
 Architecture Evaluation -- ATAM; 
 
 {{{unit}}}
