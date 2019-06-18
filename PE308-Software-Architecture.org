@@ -1,14 +1,14 @@
 * <<<PE308>>> SOFTWARE ARCHITECTURE
 :properties:
 :autho: Dr. Chitra Babu
-:date: 11 June 2019
+:date: 18 June 2019
 :end:
 
 #+startup: showall
 
 #+begin_comment
 - 1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
-- 2. Removed the second unit on Software Desig
+- 2. Removed the second unit on Software Design
 - 3. The unit headings have been suitably changed
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
@@ -22,7 +22,7 @@
 
 ** COURSE OBJECTIVES
 - To understand the various architetural views and quality attributes 
-- To learn the architectural architectural styles
+- To learn the architectural styles
 - To study the architectural description languages
 - To learn the architectual evaluation techniques
 - To relate software architecture and software quality attributes.
@@ -60,7 +60,7 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 | UNIT V | CASE STUDIES | 9 |
 
 Distributed architectures for data-intensive systems that use microservices --
-Architecture of software systems ivoving Internet-of-Things(IoT) 
+Architecture of software systems invoving Internet-of-Things(IoT) 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -69,7 +69,7 @@ After the completion of this course, students will be able to:
 2. Apply suitable architectural styles based on the software quality requirements (K3)
 3. Define ADLs and evaluate alternate architectural solutions (K4)
 4. Construct new architectures based on the quality atteribute requirements (K4)
-5. (K2)
+5. Analyze the architectural decisions for building data-intensive and IoT systems(K4)
 
 ** TEXTBOOKS
   
