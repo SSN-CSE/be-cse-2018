@@ -21,10 +21,10 @@
 
 
 ** COURSE OBJECTIVES
-- To understand the various architetural views and quality attributes 
+- To understand the various architectural views and quality attributes 
 - To learn the architectural styles
 - To study the architectural description languages
-- To learn the architectual evaluation techniques
+- To learn the architecture evaluation techniques
 - To relate software architecture and software quality attributes.
 
 {{{unit}}}
@@ -46,7 +46,7 @@ based applications -- Decentralized Architectures.
 {{{unit}}}
 | UNIT III | ARCHITECTURE DESCRIPTION, DOCUMENTATION AND EVALUATION | 9 |
 Early Architecture Description Languages -- Domain and Style Specific
-ADLs -- Extensible ADLs -- Documenting Software architecture --
+ADLs -- Extensible ADLs -- Documenting Software architectures --
 Architecture Evaluation -- ATAM; 
 
 {{{unit}}}
@@ -59,8 +59,8 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 {{{unit}}}
 | UNIT V | CASE STUDIES | 9 |
 
-Distributed architectures for data-intensive systems that use microservices --
-Architecture of software systems invoving Internet-of-Things(IoT).
+Distributed Architectures for Data-intensive Systems that use Microservices --
+Architecture of Software Systems involving Internet-of-Things(IoT).
 
 \hfill *Total Periods: 45*
 
@@ -69,7 +69,7 @@ After the completion of this course, students will be able to:
 1. Describe various architectural views and quality attributes(K2)
 2. Apply suitable architectural styles based on the software quality requirements (K3)
 3. Define ADLs and evaluate alternate architectural solutions (K4)
-4. Construct new architectures based on the quality atteribute requirements (K4)
+4. Construct new architectures based on the quality attribute requirements (K4)
 5. Analyze the architectural decisions for building data-intensive and IoT systems(K4)
 
 ** TEXTBOOKS
@@ -82,6 +82,6 @@ After the completion of this course, students will be able to:
  
 1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-2. Kai Qian et al., "Software Architecture and Design Illuminated", Jones and Bartlett Publishers, Canada, 2010
-3. Martin Kleppman, "Designing Data-Intensive Applications",  O’Reilly Media, 2017
+2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
+3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
 4. https://www.researchgate.net/publication/260542337_IoT_Reference_Architecture
