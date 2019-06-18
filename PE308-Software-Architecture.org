@@ -21,17 +21,21 @@
 
 
 ** COURSE OBJECTIVES
-- To understand the fundamentals of software architecture.
-- To learn the architectural views and styles
+- To understand the various architetural views and quality attributes 
+- To learn the architectural architectural styles
 - To study the architectural description languages
 - To learn the architectual evaluation techniques
-- To relate software architecture and software quality.
+- To relate software architecture and software quality attributes.
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
+| UNIT I |ARCHITECTURAL VIEWS AND QUALITY ATTRIBUTES | 9 |
 Basic Concepts of Software Architecture -- Architecture Business Cycle
 -- Architectural Patterns -- Reference Models -- Architectural
-Structures, Views; Module Views, Component-Connector Views, Allocation Views. 
+Structures, Views; Module Views, Component-Connector Views, Allocation Views --
+Understanding Quality Attributes --
+Functionality and Architecture -- Architecture and Quality Attributes
+-- System Quality Attributes -- Quality Attribute Scenarios in
+Practice 
 
 {{{unit}}}
 | UNIT II |ARCHITECTURAL STYLES | 9 |
@@ -46,28 +50,22 @@ ADLs -- Extensible ADLs -- Documenting Software architecture --
 Architecture Evaluation -- ATAM; 
 
 {{{unit}}}
-| UNIT IV | ARCHITECTURE DESIGN  | 9 |
-Typical Architectural Design -- Data Flow -- Independent Components --
-Call and Return -- Using Styles in Design -- Choices of styles --
-Architectural design space -- Theory of Design Spaces -- Design Space
-of Architectural Elements -- Design Space of Architectural styles.
-
-{{{unit}}}
-| UNIT V | CREATING ARCHITECTURE | 9 |
-Understanding Quality Attributes --
-Functionality and Architecture -- Architecture and Quality Attributes
--- System Quality Attributes -- Quality Attribute Scenarios in
-Practice -- Introducing Tactics -- Availability Tactics -- Modifiability Tactics
+| UNIT IV | CREATING ARCHITECTURE  | 9 |
+Introducing Tactics -- Availability Tactics -- Modifiability Tactics
 -- Performance Tactics -- Security Tactics -- Testability Tactics --
 Usability Tactics -- Relationship of Tactics to Architectural Patterns
 -- Architectural Patterns and Styles.
 
+{{{unit}}}
+| UNIT V | CASE STUDIES | 9 |
 
+Distributed architectures for data-intensive systems that use microservices --
+Architecture of software systems ivoving Internet-of-Things(IoT) 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-1. Describe various architectural views(K2)
+1. Describe various architectural views and quality attributes(K2)
 2. Apply suitable architectural styles based on the software quality requirements (K3)
 3. Define ADLs and evaluate alternate architectural solutions (K4)
 4. Construct new architectures based on the quality atteribute requirements (K4)
@@ -83,5 +81,6 @@ After the completion of this course, students will be able to:
  
 1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-2. Nick Rozanski, Eoin Woods, “ Software Systems Architecture” Second Edition, 
-   Addison-Wesley , 2012.
+2. Kai Qian et al., "Software Architecture and Design Illuminated", Jones and Bartlett Publishers, Canada, 2010
+3. Martin Kleppman, "Designing Data-Intensive Applications",  O’Reilly Media, 2017
+4. https://www.researchgate.net/publication/260542337_IoT_Reference_Architecture
