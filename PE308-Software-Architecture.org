@@ -60,7 +60,8 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 | UNIT V | CASE STUDIES | 9 |
 
 Distributed architectures for data-intensive systems that use microservices --
-Architecture of software systems invoving Internet-of-Things(IoT) 
+Architecture of software systems invoving Internet-of-Things(IoT).
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
