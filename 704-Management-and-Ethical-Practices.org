@@ -2,11 +2,6 @@
 :properties:
 :author: Dr. J. Suresh and Dr. R. Kanchana
 :end:
-- Understand basic and applied fields of Management (K2)
-- Understand and practice Managerial skills (K3)
-- Understand and practice Engineering Ethics and Human Values (K3).
-Understand safety, responsibility, and rights (K3)
-- Understand ethical issues in cypersecurity (K2).
 #+startup: showall
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -86,11 +81,11 @@ Ownership -- Three Ethical Frameworks
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand basic and applied fields of Management (K2)
-- Understand and practice Managerial skills (K3)
-- Understand and practice Engineering Ethics and Human Values (K3).
-- Understand safety, responsibility, and rights (K3)
-- Understand ethical issues in cypersecurity (K2).
+- Describe basic and applied fields of Management (K2)
+- Describe and practice Managerial skills (K3)
+- Describe and practice Engineering Ethics and Human Values (K3).
+- Describe and use safety, responsibility, and rights (K3)
+- Describe ethical issues in cypersecurity (K2).
       
 ** REFERENCES
 1. Hellriegel, Slocum, Jackson, ``Management -A Competency Based
