@@ -3,9 +3,22 @@
 :author: Mr. B. Senthil Kumar and Dr. S. Sheerazuddin
 :date: 13 November 2018
 :end:
-
+Work in UNIX environment and use VI editor (K3)
+- Use filters, regular expressions, and patterns (K3)
+- Work with the bash Shell (K2)
+- Write Shell programs (K3)
+- Handle I/O and processes (K2)
+- 
 #+startup: showall
-
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K3 |   3 |   0 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
+| CO2            | K3 |   3 |   0 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
+| CO3            | K2 |   2 |   0 |   1 |   1 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    1 |    2 |    1 |
+| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
+| CO5            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    1 |    2 |    1 |
+| Score          |    |  12 |  10 |   8 |   8 |   5 |   0 |   0 |  10 |  15 |   10 |    0 |   15 |    8 |   12 |    5 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
 {{{credits}}}
 |L|T|P|C|
 |2|0|2|3|
@@ -69,11 +82,11 @@ sed and awk.
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Work in UNIX environment using command line (K2)
-- Handle files proficiently (K2)
-- Use vi editor with proficiency (K3)
+- Work in UNIX environment and use VI editor (K3)
+- Use filters, regular expressions, and patterns (K3)
 - Work with the bash Shell (K2)
-- Write Shell programs (K3).
+- Write Shell programs (K3)
+- Handle I/O and processes (K2)
 
 ** TEXTBOOK
 1. Behrouz Forouzan, Richard Gilberg ``UNIX and Shell Programming:
