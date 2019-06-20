@@ -1,6 +1,8 @@
 * <<<507>>> NETWORKS LAB
 :properties:
 :author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
+:date: 20-06-2019
+:date: 12-11-2018
 :end:
 
 #+begin_comment
@@ -15,6 +17,18 @@ Justifications for comments given by Mr. R.Pradeep -
    2. Apart from the topics in IIT Karagpur, we have included Routing algorithms as well.
    
 #+end_comment
+
+** CO PO MAPPING :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
+| CO2            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
+| CO3            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    3 |    1 |
+| CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    3 |    1 |
+| CO5            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
+| Score          |    |  12 |  10 |   7 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |    5 |   12 |    5 |
+| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    3 |    1 |
 
 {{{credits}}}
 | L | T | P |   C |
@@ -43,7 +57,7 @@ Justifications for comments given by Mr. R.Pradeep -
 8. Simulate Distance Vector/ Link State Routing algorithm.
 9. Evaluate the performance of Routing protocols using Simulation
    tool.
-10. Simulate of error correction code (like CRC).
+10. Simulation of error correction code (like CRC).
 
 \hfill *Total Periods: 60*
 
