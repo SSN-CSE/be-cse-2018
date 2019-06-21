@@ -12,9 +12,9 @@
 | CO1            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
 | CO2            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
 | CO3            | K4 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    2 |
-| CO4            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| CO5            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| Score          |    |  13 |  11 |   8 |   0 |   6 |   0 |   0 |   6 |   6 |    6 |    0 |    8 |    8 |   13 |    6 |
+| CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| Score          |    |  15 |  11 |  10 |   0 |   6 |   0 |   0 |   6 |   6 |    6 |    0 |    8 |   10 |   15 |    6 |
 | Course Mapping |    |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    2 |
 
 {{{credits}}}
@@ -53,8 +53,8 @@ After the completion of this course, students will be able to:
 - Implement non-linear data structures and use them for various applications (K3)
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure
   for solving it (K4)
-- Implement sorting and searching algorithms (K2)
-- Implement appropriate hashing techniques for data storage and retrieval (K2).
+- Implement sorting and searching algorithms (K3)
+- Implement hashing techniques for data storage and retrieval (K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
