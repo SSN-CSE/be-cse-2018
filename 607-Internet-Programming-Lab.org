@@ -16,7 +16,8 @@
 | CO2            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | CO3            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| Score          |    |  12 |  8  |  8  |   0 |   4 |   0 |   0 |   4 |   4 |    4 |    0 |    4 |   8  |   12 |    4 |
+| CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| Score          |    |  15 |  10 |  10 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 {{{credits}}}
 | L | T | P | C |
@@ -43,7 +44,8 @@ After the completion of this course, students will be able to:
 - Design websites using HTML5 and CSS3 (K3)
 - Develop multi-tier web application using Servlets (K3)
 - Develop interactive web applications using AJAX (K3)
-- Develop web applications using AngularJS and NodeJS frameworks (K3)
+- Develop web applications using AngularJS framework (K3)
+- Develop web applications using NodeJS framework (K3)
 
 ** REFERENCES
 w3schools.org
