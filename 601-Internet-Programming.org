@@ -128,7 +128,7 @@ After the completion of this course, students will be able to:
       
 ** TEXT BOOKS
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science    Perspective'', Pearson Education, 2011. (Units 1,2,3)
-2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,    August 2011 (Unit 3)
+2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,    August 2011 (Unit 1)
 ** REFERENCE BOOKS
 1. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,    December 2012. (Unit 1)
 2. Alex Banks, Eve Porcello, ``Learning React: Functional Web    Development with React and Redux'', O'Reilly Media Inc., May 2017. (Unit 4)
