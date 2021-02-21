@@ -1,0 +1,116 @@
+#+title: SSN College of Engineering (Autonomous)
+#+title: (Affiliated to Anna University, Chennai)\\
+
+#+TITLE: B.E. COMPUTER SCIENCE AND ENGINEERING
+#+subtitle: Department of Computer Science and Engineering
+#+author:  Regulations 2018
+# #+date: 7 February 2019
+# #+date: 17 April 2019
+# #+date: 10 May 2019
+#+date: 14 June 2019
+#+latex_class: article
+
+#+LATEX: \setlength{\parindent}{0em}
+#+LATEX_HEADER: \usepackage{comment} \usepackage{palatino} \usepackage{array}
+#+LaTeX_HEADER: \usepackage[top=1in, bottom=1.25in, left=1.25in, right=1.25in]{geometry}
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+options: num:nil toc:nil
+# #+options: d:REVISION-2018
+#+macro: unit #+attr_latex: :width 100% :align @{}p{.125\textwidth}p{.755\textwidth}p{.15\textwidth} :font \bf
+#+macro: credits #+attr_latex: :center nil
+
+#+BEGIN_COMMENT
+# #+LATEX: \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+# #+LATEX: \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+# #+LATEX: \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+#+END_COMMENT
+
+#+latex: \newpage
+# * CURRICULUM 
+# #+latex: \pagenumbering{gobble}
+#+include: "curriculum-6.org" 
+# #+latex: \pagenumbering{arabic}
+
+#+latex: \newpage
+* SYLLABUS
+#+include: "./be-cse-2018/301-Discrete-Mathmatics.org"
+#+include: "./be-cse-2018/302-Digital-Principles-and-System-Design.org"
+#+include: "./be-cse-2018/303-Data-Structures.org"
+#+include: "./be-cse-2018/304-Object-Oriented-Programming.org"
+#+include: "./be-cse-2018/305-UNIX-and-Shell-Programming.org"
+#+include: "./be-cse-2018/306-Principles-of-Communication-Engineering.org"
+#+include: "./be-cse-2018/307-Digital-Design-Lab.org"
+#+include: "./be-cse-2018/308-Data-Structures-Lab.org"
+#+include: "./be-cse-2018/309-Object-Oriented-Programming-Lab.org"
+#+include: "./be-cse-2018/401-Probability-and-Statistical-Methods.org"
+#+include: "./be-cse-2018/402-Computer-Organization-and-Architecture.org"
+#+include: "./be-cse-2018/403-Operating-Systems.org"
+#+include: "./be-cse-2018/404-Design-and-Analysis-of-Algorithms.org"
+#+include: "./be-cse-2018/405-Database-Management-Systems.org"
+#+include: "./be-cse-2018/406-Software-Engineering.org"
+#+include: "./be-cse-2018/407-Operating-Systems-Lab.org"
+#+include: "./be-cse-2018/408-Database-Lab.org"
+#+include: "./be-cse-2018/409-Interpersonal-Skills.org"
+#+include: "./be-cse-2018/501-Computer-Networks.org"
+#+include: "./be-cse-2018/502-Microprocessors-and-Interfacing.org"
+#+include: "./be-cse-2018/503-Theory-of-Computation.org"
+#+include: "./be-cse-2018/504-Artificial-Intelligence.org"
+#+include: "./be-cse-2018/505-Introduction-to-Cryptographic-Techniques.org"
+#+include: "./be-cse-2018/507-Networks-Lab.org"
+#+include: "./be-cse-2018/508-Microprocessors-Lab.org"
+#+include: "./be-cse-2018/601-Internet-Programming.org"
+#+include: "./be-cse-2018/602-Compiler-Deisgn.org"
+#+include: "./be-cse-2018/603-Introduction-to-Machine-Learning.org"
+#+include: "./be-cse-2018/604-Object-Oriented-Analysis-and-Design.org"
+#+include: "./be-cse-2018/607-Internet-Programming-Lab.org"
+#+include: "./be-cse-2018/608-Mini-Project.org"
+#+include: "./be-cse-2018/701-Distributed-Systems.org"
+#+include: "./be-cse-2018/702-Mobile-Computing.org"
+#+include: "./be-cse-2018/703-Computer-Graphics-and-Multimedia.org"
+#+include: "./be-cse-2018/704-Management-and-Ethical-Practices.org"
+#+include: "./be-cse-2018/707-Mobile-Application-Development-Lab.org"
+#+include: "./be-cse-2018/708-Graphics-and-Multimedia-Lab.org"
+#+include: "./be-cse-2018/PE101-C#-and-.NET-programming.org"
+#+include: "./be-cse-2018/PE102-Advanced-Database-Management-Systems.org"
+#+include: "./be-cse-2018/PE103-Software-Testing.org"
+#+include: "./be-cse-2018/PE104-Digital-Signal-Processing.org"
+#+include: "./be-cse-2018/PE105-Logic-Programming.org"
+#+include: "./be-cse-2018/PE106-Wireless-Adhoc-and-Sensor-Networks.org"
+#+include: "./be-cse-2018/PE107-Programming-Paradigms.org"
+#+include: "./be-cse-2018/PE201-Cyber-Forensics.org"
+#+include: "./be-cse-2018/PE202-Software-Project-Management.org"
+#+include: "./be-cse-2018/PE203-Image-Processing-and-Analysis.org"
+#+include: "./be-cse-2018/PE204-Advanced-Java-Programming.org"
+#+include: "./be-cse-2018/PE205-Internet-of-Things.org"
+#+include: "./be-cse-2018/PE206-Foundations-of-Data-Science.org"
+#+include: "./be-cse-2018/PE207-Numerical-Methods-with-Programming.org"
+#+include: "./be-cse-2018/PE301-Service-Oriented-Architecture.org"
+#+include: "./be-cse-2018/PE302-Social-Network-Analysis.org"
+#+include: "./be-cse-2018/PE303-Speech-Processing-and-Synthesis.org"
+#+include: "./be-cse-2018/PE304-Deep-Learning.org"
+#+include: "./be-cse-2018/PE305-Multicore-Architecture-and-Programming.org"
+#+include: "./be-cse-2018/PE306-Logic-in-Computer-Science.org"
+#+include: "./be-cse-2018/PE307-Cloud-Computing.org"
+#+include: "./be-cse-2018/PE308-Software-Architecture.org"
+#+include: "./be-cse-2018/PE401-GPU-Computing.org"
+#+include: "./be-cse-2018/PE402-Human-Computer-Interaction.org"
+#+include: "./be-cse-2018/PE403-Data-Warehousing-and-Data-Mining.org"
+#+include: "./be-cse-2018/PE404-Information-Retrieval-Techniques.org"
+#+include: "./be-cse-2018/PE405-Soft-Computing.org"
+#+include: "./be-cse-2018/PE406-Embedded-Systems.org"
+#+include: "./be-cse-2018/PE407-Graph-Theory-and-Applications.org"
+#+include: "./be-cse-2018/PE408-User-Experience-Design.org"
+#+include: "./be-cse-2018/PE501-Parallel-Algorithms.org"
+#+include: "./be-cse-2018/PE502-Big-Data-Analytics.org"
+#+include: "./be-cse-2018/PE503-Agile-Methodologies.org"
+#+include: "./be-cse-2018/PE504-Natural-Language-Processing.org"
+#+include: "./be-cse-2018/PE505-Robotics.org"
+#+include: "./be-cse-2018/PE506-Network-and-Server-Security.org"
+#+include: "./be-cse-2018/PE507-Program-Verification.org"
+#+include: "./be-cse-2018/OE1-Introduction-to-Data-Structures.org"
+#+include: "./be-cse-2018/OE2-Object-Oriented-Programming-Techniques.org"
+#+include: "./be-cse-2018/OE3-Problem-Solving-and-Programming-in-C.org"
+#+include: "./be-cse-2018/OE4-Introduction-to-Big-Data-Analytics.org"
+#+include: "./be-cse-2018/OE5-Machine-Learning-Applications.org"
+#+include: "./be-cse-2018/OE6-Web-Technology.org"
+
