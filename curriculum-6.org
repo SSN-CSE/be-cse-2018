@@ -1,0 +1,382 @@
+#+attr_latex: :environment longtable
+#+attr_latex: :width 100% :centre
+#+name: curriculum
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+| No | Code | Title                                    | Cat | Hrs |  L | T |  P |   C |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester I*                             |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |      | Communicative English                    | HS  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Algebra and Calculus                     | BS  |   4 |  4 | 0 |  0 |   4 |
+|  3 |      | Engineering Physics                      | BS  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Engineering Chemistry                    | BS  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Prob Solving and Programming in Python   | ES  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Engineering Graphics                     | ES  |   5 |  2 | 0 |  3 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |      | Programming in Python Lab                | ES  |   4 |  0 | 0 |  4 | 1.5 |
+|  8 |      | Physics and Chemistry Lab                | BS  |   4 |  0 | 0 |  4 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  29 | 18 | 0 | 11 |  22 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester II*                            |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |      | Technical English                        | HS  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Complex Functions and Laplace Transforms | BS  |   4 |  4 | 0 |  0 |   4 |
+|  3 |      | Physics for Information Science          | BS  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Environmental Science                    | HS  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Basic Elec, Electronics and Measure Eng  | ES  |   3 |  3 | 0 |  0 | 3.5 |
+|  6 |      | Programming in C                         | PC  |   3 |  3 | 0 |  0 | 3.5 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |      | Design Thinking and Eng Practices Lab    | ES  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Programming in C Lab                     | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  25 | 19 | 0 |  6 |  23 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester III*                           |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |  301 | [[file:be-cse-2018/301-Discrete-Mathmatics.org][Discrete Mathematics]]                     | BS  |   5 |  3 | 2 |  0 |   4 |
+|  2 |  302 | [[file:be-cse-2018/302-Digital-Principles-and-System-Design.org][Digital Principles and System Design]]     | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |  303 | [[file:be-cse-2018/303-Data-Structures.org][Data Structures]]                          | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |  304 | [[file:be-cse-2018/304-Object-Oriented-Programming.org][Object Oriented Programming]]              | PC  |   3 |  3 | 0 |  0 |   3 |
+|  5 |  305 | [[file:be-cse-2018/305-UNIX-and-Shell-Programming.org][UNIX and Shell Programming]]               | PC  |   4 |  2 | 0 |  2 |   3 |
+|  6 |  306 | [[file:be-cse-2018/306-Principles-of-Communication-Engineering.org][Principles of Communication Engineering]]  | ES  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |  307 | [[file:be-cse-2018/307-Digital-Design-Lab.org][Digital Design Lab]]                       | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |  308 | [[file:be-cse-2018/308-Data-Structures-Lab.org][Data Structures Lab]]                      | PC  |   4 |  0 | 0 |  4 |   2 |
+|  9 |  309 | [[file:be-cse-2018/309-Object-Oriented-Programming-Lab.org][Object Oriented Programming Lab]]          | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  31 | 17 | 2 | 12 |  24 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester IV*                            |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |  401 | [[file:be-cse-2018/401-Probability-and-Statistical-Methods.org][Probability and Statistical Methods]]      | BS  |   5 |  3 | 2 |  0 |   4 |
+|  2 |  402 | [[file:be-cse-2018/402-Computer-Organization-and-Architecture.org][Computer Organization and Architecture]]   | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |  403 | [[file:be-cse-2018/403-Operating-Systems.org][Operating Systems]]                        | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |  404 | [[file:be-cse-2018/404-Design-and-Analysis-of-Algorithms.org][Design and Analysis of Algorithms]]        | PC  |   5 |  3 | 0 |  2 |   4 |
+|  5 |  405 | [[file:be-cse-2018/405-Database-Management-Systems.org][Database Management Systems]]              | PC  |   3 |  3 | 0 |  0 |   3 |
+|  6 |  406 | [[file:be-cse-2018/406-Software-Engineering.org][Software Engineering]]                     | PC  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |  407 | [[file:be-cse-2018/407-Operating-Systems-Lab.org][Operating Systems Lab]]                    | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |  408 | [[file:be-cse-2018/408-Database-Lab.org][Database Lab]]                             | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  9 |  409 | [[file:be-cse-2018/409-Interpersonal-Skills.org][Interpersonal Skills]]                     | EEC |   2 |  0 | 0 |  2 |   1 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  30 | 18 | 2 | 10 |  24 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester V*                             |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |  501 | [[file:be-cse-2018/501-Computer-Networks.org][Computer Networks]]                        | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |  502 | [[file:be-cse-2018/502-Microprocessors-and-Interfacing.org][Microprocessors and Interfacing]]          | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |  503 | [[file:be-cse-2018/503-Theory-of-Computation.org][Theory of Computation]]                    | PC  |   5 |  3 | 2 |  0 |   4 |
+|  3 |  504 | [[file:be-cse-2018/603-Artificial-Intelligence.org][Artificial Intelligence]]                  | PC  |   5 |  3 | 0 |  2 |   4 |
+|  5 |  505 | [[file:be-cse-2018/505-Introduction-to-Cryptographic-Techniques.org][Introduction to Cryptographic Techniques]] | PC  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Professional Elective 1                  | PE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |  507 | [[file:be-cse-2018/507-Networks-Lab.org][Networks Lab]]                             | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |  508 | [[file:be-cse-2018/508-Microprocessors-Lab.org][Microprocessors Lab]]                      | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  28 | 18 | 2 |  8 |  23 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VI*                            |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |  601 | [[file:be-cse-2018/601-Internet-Programming.org][Internet Programming]]                     | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |  602 | [[file:be-cse-2018/602-Compiler-Deisgn.org][Compiler Design]]                          | PC  |   5 |  3 | 0 |  2 |   4 |
+|  3 |  603 | [[file:be-cse-2018/504-Introduction-to-Machine-Learning.org][Introduction to Machine Learning]]         | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |  604 | [[file:be-cse-2018/604-Object-Oriented-Analysis-and-Design.org][Object Oriented Analysis and Design]]      | PC  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Professional Elective 2                  | PE  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Open Elective 1                          | OE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |  607 | [[file:be-cse-2018/607-Internet-Programming-Lab.org][Internet Programming Lab]]                 | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |  608 | [[file:be-cse-2018/608-Mini-Project.org][Mini Project]]                             | EEC |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  26 | 18 | 0 |  8 |  22 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VII*                           |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |  701 | [[file:be-cse-2018/701-Distributed-Systems.org][Distributed Systems]]                      | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |  702 | [[file:be-cse-2018/702-Mobile-Computing.org][Mobile Computing]]                         | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |  703 | [[file:be-cse-2018/703-Computer-Graphics-and-Multimedia.org][Computer Graphics and Multimedia]]         | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |  704 | [[file:be-cse-2018/704-Management-and-Ethical-Practices.org][Management and Ethical Practices]]         | HS  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Professional Elective 3                  | PE  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Professional Elective 4                  | PE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  7 |  707 | [[file:be-cse-2018/707-Mobile-Application-Development-Lab.org][Mobile Application Developement Lab]]      | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |  708 | [[file:be-cse-2018/708-Graphics-and-Multimedia-Lab.org][Graphics and Multimedia Lab]]              | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                  |     |  24 | 18 | 0 |  6 |  21 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VIII*                          |     |     |    |   |    |     |
+|    |      | /Theory/                                 |     |     |    |   |    |     |
+|  1 |      | Professional Elective 5                  | PE  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Open Elective 2                          | OE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                              |     |     |    |   |    |     |
+|  3 |      | Project Work                             | EEC |  18 |  0 | 0 | 18 |   9 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | Total                                    |     |  24 |  6 | 0 | 18 |  15 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Grand Total*                            |     |     |    |   |    | 174 |
+|----+------+------------------------------------------+-----+-----+----+---+----+-----|
+#+TBLFM: @13$5=vsum(@-9..@-4)+vsum(@-2..@-1)::@13$6=vsum(@-9..@-4)+vsum(@-2..@-1)::@13$7=vsum(@-9..@-4)+vsum(@-2..@-1)::@13$8=vsum(@-9..@-4)+vsum(@-2..@-1)::@13$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @25$5=vsum(@-9..@-4)+vsum(@-2..@-1)::@25$6=vsum(@-9..@-4)+vsum(@-2..@-1)::@25$7=vsum(@-9..@-4)+vsum(@-2..@-1)::@25$8=vsum(@-9..@-4)+vsum(@-2..@-1)::@25$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @38$5=vsum(@-10..@-5)+vsum(@-3..@-1)::@38$6=vsum(@-10..@-5)+vsum(@-3..@-1)::@38$7=vsum(@-10..@-5)+vsum(@-3..@-1)::@38$8=vsum(@-10..@-5)+vsum(@-3..@-1)::@38$9=vsum(@-10..@-5)+vsum(@-3..@-1)
+#+TBLFM: @51$5=vsum(@-10..@-4)+vsum(@-3..@-1)::@51$6=vsum(@-10..@-4)+vsum(@-3..@-1)::@51$7=vsum(@-10..@-4)+vsum(@-3..@-1)::@51$8=vsum(@-10..@-4)+vsum(@-3..@-1)::@51$9=vsum(@-10..@-4)+vsum(@-3..@-1)
+#+TBLFM: @63$5=vsum(@-9..@-4)+vsum(@-2..@-1)::@63$6=vsum(@-9..@-4)+vsum(@-2..@-1)::@63$7=vsum(@-9..@-4)+vsum(@-2..@-1)::@63$8=vsum(@-9..@-4)+vsum(@-2..@-1)::@63$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @75$5=vsum(@-9..@-4)+vsum(@-2..@-1)::@75$6=vsum(@-9..@-4)+vsum(@-2..@-1)::@75$7=vsum(@-9..@-4)+vsum(@-2..@-1)::@75$8=vsum(@-9..@-4)+vsum(@-2..@-1)::@75$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @87$5=vsum(@-9..@-4)+vsum(@-2..@-1)::@87$6=vsum(@-9..@-4)+vsum(@-2..@-1)::@87$7=vsum(@-9..@-4)+vsum(@-2..@-1)::@87$8=vsum(@-9..@-4)+vsum(@-2..@-1)::@87$9=vsum(@-9..@-4)+vsum(@-2..@-1)
+#+TBLFM: @94$5=vsum(@-4..@-3)+@-1::@94$6=vsum(@-4..@-3)+@-1::@94$7=vsum(@-4..@-3)+@-1::@94$8=vsum(@-4..@-3)+@-1::@94$9=vsum(@-4..@-3)+@-1
+#+TBLFM: @97$9=@13+@25+@38+@51+@63+@75+@87+@94
+
+#+NAME: categorywise_courses
+#+HEADER: :colnames yes
+#+BEGIN_SRC python :var curriculum=curriculum :results output raw :exports none
+row_header = ['SNo', 'Code', 'Course', 'Hrs',  'L', 'T', 'P', 'C'];
+category_tab = []
+category_tab.append(row_header)
+categories = ['HS', 'BS', 'ES', 'PC', 'PE', 'OE', 'EEC']
+category_dict = {cat:[] for cat in categories}
+sem = 0
+state = 1
+for row in curriculum:
+    subject = row[2]
+    category = row[3]
+    if state == 1 and 'Semester' in subject:
+        sem += 1
+        state = 2
+    elif state == 2: # 'Theory' in subject
+        state = 3
+    elif state == 3: # Actual subject row
+        state = 4
+    elif state == 4 and 'Practical' in subject:
+        state = 5
+    elif state == 5:
+        state = 6
+    elif state == 6 and 'Total' in subject:
+        state = 1
+    if state == 4 or state == 6:
+        #print (row[1:3]+row[4:])
+        category_dict[category].append(row[1:3]+row[4:])
+#print (category_dict)
+for cat in categories:
+    print ('** '+cat)
+    print('|', end='')
+    print ('|'.join(map(str, row_header)), end='')
+    print ('|')
+    hline = ['-' for row in row_header]
+    print('|', end='')
+    print ('|'.join(map(str, hline)), end='')
+    print ('|')
+    for i, row in enumerate(category_dict[cat]):
+        print ('|', i+1, '|', end='')
+        print ('|'.join(map(str, row)), end='')
+        print('|')
+    print('|', end='')
+    print ('|'.join(map(str, hline)), end='')
+    print ('|')
+    print('|', end='')
+    print ('|'.join([' ' for item in hline]), end='')
+    print ('|')
+    print('|', end='')
+    print ('|'.join(map(str, hline)), end='')
+    print ('|')
+    print ('#+tblfm: @>$3..@>$>=vsum(@1..@>>);N')
+#+END_SRC
+
+#+RESULTS: categorywise_courses
+** HS
+| SNo | Code | Course                           | Hrs |  L | T | P |  C |
+|-----+------+----------------------------------+-----+----+---+---+----|
+|   1 |      | Communicative English            |   3 |  3 | 0 | 0 |  3 |
+|   2 |      | Technical English                |   3 |  3 | 0 | 0 |  3 |
+|   3 |      | Environmental Science            |   3 |  3 | 0 | 0 |  3 |
+|   4 |  704 | [[file:be-cse-2018/704-Management-and-Ethical-Practices.org][Management and Ethical Practices]] |   3 |  3 | 0 | 0 |  3 |
+|-----+------+----------------------------------+-----+----+---+---+----|
+|     |      | 0                                |  12 | 12 | 0 | 0 | 12 |
+|-----+------+----------------------------------+-----+----+---+---+----|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** BS
+| SNo | Code | Course                                   | Hrs |  L | T | P |    C |
+|-----+------+------------------------------------------+-----+----+---+---+------|
+|   1 |      | Algebra and Calculus                     |   4 |  4 | 0 | 0 |    4 |
+|   2 |      | Engineering Physics                      |   3 |  3 | 0 | 0 |    3 |
+|   3 |      | Engineering Chemistry                    |   3 |  3 | 0 | 0 |    3 |
+|   4 |      | Physics and Chemistry Lab                |   4 |  0 | 0 | 4 |  1.5 |
+|   5 |      | Complex Functions and Laplace Transforms |   4 |  4 | 0 | 0 |    4 |
+|   6 |      | Physics for Information Science          |   3 |  3 | 0 | 0 |    3 |
+|   7 |  301 | [[file:be-cse-2018/301-Discrete-Mathmatics.org][Discrete Mathematics]]                     |   5 |  3 | 2 | 0 |    4 |
+|   8 |  401 | [[file:be-cse-2018/401-Probability-and-Statistical-Methods.org][Probability and Statistical Methods]]      |   5 |  3 | 2 | 0 |    4 |
+|-----+------+------------------------------------------+-----+----+---+---+------|
+|     |      | 0                                        |  31 | 23 | 4 | 4 | 26.5 |
+|-----+------+------------------------------------------+-----+----+---+---+------|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** ES
+| SNo | Code | Course                                  | Hrs |  L | T |  P |    C |
+|-----+------+-----------------------------------------+-----+----+---+----+------|
+|   1 |      | Prob Solving and Programming in Python  |   3 |  3 | 0 |  0 |    3 |
+|   2 |      | Engineering Graphics                    |   5 |  2 | 0 |  3 |    3 |
+|   3 |      | Programming in Python Lab               |   4 |  0 | 0 |  4 |  1.5 |
+|   4 |      | Basic Elec, Electronics and Measure Eng |   3 |  3 | 0 |  0 |  3.5 |
+|   5 |      | Design Thinking and Eng Practices Lab   |   3 |  0 | 0 |  3 |  1.5 |
+|   6 |  306 | [[file:be-cse-2018/306-Principles-of-Communication-Engineering.org][Principles of Communication Engineering]] |   3 |  3 | 0 |  0 |    3 |
+|-----+------+-----------------------------------------+-----+----+---+----+------|
+|     |      | 0                                       |  21 | 11 | 0 | 10 | 15.5 |
+|-----+------+-----------------------------------------+-----+----+---+----+------|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** PC
+| SNo | Code | Course                                   | Hrs |  L | T |  P |    C |
+|-----+------+------------------------------------------+-----+----+---+----+------|
+|   1 |      | Programming in C                         |   3 |  3 | 0 |  0 |  3.5 |
+|   2 |      | Programming in C Lab                     |   3 |  0 | 0 |  3 |  1.5 |
+|   3 |  302 | [[file:be-cse-2018/302-Digital-Principles-and-System-Design.org][Digital Principles and System Design]]     |   3 |  3 | 0 |  0 |    3 |
+|   4 |  303 | [[file:be-cse-2018/303-Data-Structures.org][Data Structures]]                          |   3 |  3 | 0 |  0 |    3 |
+|   5 |  304 | [[file:be-cse-2018/304-Object-Oriented-Programming.org][Object Oriented Programming]]              |   3 |  3 | 0 |  0 |    3 |
+|   6 |  305 | [[file:be-cse-2018/305-UNIX-and-Shell-Programming.org][UNIX and Shell Programming]]               |   4 |  2 | 0 |  2 |    3 |
+|   7 |  307 | [[file:be-cse-2018/307-Digital-Design-Lab.org][Digital Design Lab]]                       |   3 |  0 | 0 |  3 |  1.5 |
+|   8 |  308 | [[file:be-cse-2018/308-Data-Structures-Lab.org][Data Structures Lab]]                      |   4 |  0 | 0 |  4 |    2 |
+|   9 |  309 | [[file:be-cse-2018/309-Object-Oriented-Programming-Lab.org][Object Oriented Programming Lab]]          |   3 |  0 | 0 |  3 |  1.5 |
+|  10 |  402 | [[file:be-cse-2018/402-Computer-Organization-and-Architecture.org][Computer Organization and Architecture]]   |   3 |  3 | 0 |  0 |    3 |
+|  11 |  403 | [[file:be-cse-2018/403-Operating-Systems.org][Operating Systems]]                        |   3 |  3 | 0 |  0 |    3 |
+|  12 |  404 | [[file:be-cse-2018/404-Design-and-Analysis-of-Algorithms.org][Design and Analysis of Algorithms]]        |   5 |  3 | 0 |  2 |    4 |
+|  13 |  405 | [[file:be-cse-2018/405-Database-Management-Systems.org][Database Management Systems]]              |   3 |  3 | 0 |  0 |    3 |
+|  14 |  406 | [[file:be-cse-2018/406-Software-Engineering.org][Software Engineering]]                     |   3 |  3 | 0 |  0 |    3 |
+|  15 |  407 | [[file:be-cse-2018/407-Operating-Systems-Lab.org][Operating Systems Lab]]                    |   3 |  0 | 0 |  3 |  1.5 |
+|  16 |  408 | [[file:be-cse-2018/408-Database-Lab.org][Database Lab]]                             |   3 |  0 | 0 |  3 |  1.5 |
+|  17 |  501 | [[file:be-cse-2018/501-Computer-Networks.org][Computer Networks]]                        |   3 |  3 | 0 |  0 |    3 |
+|  18 |  502 | [[file:be-cse-2018/502-Microprocessors-and-Interfacing.org][Microprocessors and Interfacing]]          |   3 |  3 | 0 |  0 |    3 |
+|  19 |  503 | [[file:be-cse-2018/503-Theory-of-Computation.org][Theory of Computation]]                    |   5 |  3 | 2 |  0 |    4 |
+|  20 |  504 | [[file:be-cse-2018/603-Artificial-Intelligence.org][Artificial Intelligence]]                  |   5 |  3 | 0 |  2 |    4 |
+|  21 |  505 | [[file:be-cse-2018/505-Introduction-to-Cryptographic-Techniques.org][Introduction to Cryptographic Techniques]] |   3 |  3 | 0 |  0 |    3 |
+|  22 |  507 | [[file:be-cse-2018/507-Networks-Lab.org][Networks Lab]]                             |   3 |  0 | 0 |  3 |  1.5 |
+|  23 |  508 | [[file:be-cse-2018/508-Microprocessors-Lab.org][Microprocessors Lab]]                      |   3 |  0 | 0 |  3 |  1.5 |
+|  24 |  601 | [[file:be-cse-2018/601-Internet-Programming.org][Internet Programming]]                     |   3 |  3 | 0 |  0 |    3 |
+|  25 |  602 | [[file:be-cse-2018/602-Compiler-Deisgn.org][Compiler Design]]                          |   5 |  3 | 0 |  2 |    4 |
+|  26 |  603 | [[file:be-cse-2018/504-Introduction-to-Machine-Learning.org][Introduction to Machine Learning]]         |   3 |  3 | 0 |  0 |    3 |
+|  27 |  604 | [[file:be-cse-2018/604-Object-Oriented-Analysis-and-Design.org][Object Oriented Analysis and Design]]      |   3 |  3 | 0 |  0 |    3 |
+|  28 |  607 | [[file:be-cse-2018/607-Internet-Programming-Lab.org][Internet Programming Lab]]                 |   3 |  0 | 0 |  3 |  1.5 |
+|  29 |  701 | [[file:be-cse-2018/701-Distributed-Systems.org][Distributed Systems]]                      |   3 |  3 | 0 |  0 |    3 |
+|  30 |  702 | [[file:be-cse-2018/702-Mobile-Computing.org][Mobile Computing]]                         |   3 |  3 | 0 |  0 |    3 |
+|  31 |  703 | [[file:be-cse-2018/703-Computer-Graphics-and-Multimedia.org][Computer Graphics and Multimedia]]         |   3 |  3 | 0 |  0 |    3 |
+|  32 |  707 | [[file:be-cse-2018/707-Mobile-Application-Development-Lab.org][Mobile Application Developement Lab]]      |   3 |  0 | 0 |  3 |  1.5 |
+|  33 |  708 | [[file:be-cse-2018/708-Graphics-and-Multimedia-Lab.org][Graphics and Multimedia Lab]]              |   3 |  0 | 0 |  3 |  1.5 |
+|-----+------+------------------------------------------+-----+----+---+----+------|
+|     |      | 0                                        | 109 | 65 | 2 | 42 | 87.5 |
+|-----+------+------------------------------------------+-----+----+---+----+------|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** PE
+| SNo | Code | Course                  | Hrs |  L | T | P |  C |
+|-----+------+-------------------------+-----+----+---+---+----|
+|   1 |      | Professional Elective 1 |   3 |  3 | 0 | 0 |  3 |
+|   2 |      | Professional Elective 2 |   3 |  3 | 0 | 0 |  3 |
+|   3 |      | Professional Elective 3 |   3 |  3 | 0 | 0 |  3 |
+|   4 |      | Professional Elective 4 |   3 |  3 | 0 | 0 |  3 |
+|   5 |      | Professional Elective 5 |   3 |  3 | 0 | 0 |  3 |
+|-----+------+-------------------------+-----+----+---+---+----|
+|     |      | 0                       |  15 | 15 | 0 | 0 | 15 |
+|-----+------+-------------------------+-----+----+---+---+----|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** OE
+| SNo | Code | Course          | Hrs | L | T | P | C |
+|-----+------+-----------------+-----+---+---+---+---|
+|   1 |      | Open Elective 1 |   3 | 3 | 0 | 0 | 3 |
+|   2 |      | Open Elective 2 |   3 | 3 | 0 | 0 | 3 |
+|-----+------+-----------------+-----+---+---+---+---|
+|     |      | 0               |   6 | 6 | 0 | 0 | 6 |
+|-----+------+-----------------+-----+---+---+---+---|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+** EEC
+| SNo | Code | Course               | Hrs | L | T |  P |    C |
+|-----+------+----------------------+-----+---+---+----+------|
+|   1 |  409 | [[file:be-cse-2018/409-Interpersonal-Skills.org][Interpersonal Skills]] |   2 | 0 | 0 |  2 |    1 |
+|   2 |  608 | [[file:be-cse-2018/608-Mini-Project.org][Mini Project]]         |   3 | 0 | 0 |  3 |  1.5 |
+|   3 |      | Project Work         |  18 | 0 | 0 | 18 |    9 |
+|-----+------+----------------------+-----+---+---+----+------|
+|     |      | 0                    |  23 | 0 | 0 | 23 | 11.5 |
+|-----+------+----------------------+-----+---+---+----+------|
+#+tblfm: @>$3..@>$>=vsum(@1..@>>);N
+
+#+HEADER: :colnames yes
+#+BEGIN_SRC python :var curriculum=curriculum :results output :exports none
+  cat_list = {'HS':[], 'BS':[], 'ES':[], 'PC':[], 'PE':[], 'EEC':[], 'OE':[]}
+  for row in curriculum:
+      cat = row[3]
+      subject = row[2]
+      credits = row[8]
+      if cat in ['HS', 'BS', 'ES', 'PC', 'PE', 'EEC', 'OE']:
+          cat_list[cat].append((subject, credits))
+  total_credits = 0
+  for key in cat_list.keys():
+      cat_credits = sum([sub[1] for sub in cat_list[key]])
+      print(key, len(cat_list[key]), cat_credits, cat_list[key])
+      total_credits += cat_credits
+  print(total_credits)
+#+END_SRC
+
+#+RESULTS:
+: HS 4 12 [('Communicative English', 3), ('Technical English', 3), ('Environmental Science', 3), ('[[file:be-cse-2018/704-Management-and-Ethical-Practices.org][Management and Ethical Practices]]', 3)]
+: BS 8 26.5 [('Algebra and Calculus', 4), ('Engineering Physics', 3), ('Engineering Chemistry', 3), ('Physics and Chemistry Lab', 1.5), ('Complex Functions and Laplace Transforms', 4), ('Physics for Information Science', 3), ('[[file:be-cse-2018/301-Discrete-Mathmatics.org][Discrete Mathematics]]', 4), ('[[file:be-cse-2018/401-Probability-and-Statistical-Methods.org][Probability and Statistical Methods]]', 4)]
+: ES 6 15.5 [('Prob Solving and Programming in Python', 3), ('Engineering Graphics', 3), ('Programming in Python Lab', 1.5), ('Basic Elec, Electronics and Measure Eng', 3.5), ('Design Thinking and Eng Practices Lab', 1.5), ('[[file:be-cse-2018/306-Principles-of-Communication-Engineering.org][Principles of Communication Engineering]]', 3)]
+: PC 33 87.5 [('Programming in C', 3.5), ('Programming in C Lab', 1.5), ('[[file:be-cse-2018/302-Digital-Principles-and-System-Design.org][Digital Principles and System Design]]', 3), ('[[file:be-cse-2018/303-Data-Structures.org][Data Structures]]', 3), ('[[file:be-cse-2018/304-Object-Oriented-Programming.org][Object Oriented Programming]]', 3), ('[[file:be-cse-2018/305-UNIX-and-Shell-Programming.org][UNIX and Shell Programming]]', 3), ('[[file:be-cse-2018/307-Digital-Design-Lab.org][Digital Design Lab]]', 1.5), ('[[file:be-cse-2018/308-Data-Structures-Lab.org][Data Structures Lab]]', 2), ('[[file:be-cse-2018/309-Object-Oriented-Programming-Lab.org][Object Oriented Programming Lab]]', 1.5), ('[[file:be-cse-2018/402-Computer-Organization-and-Architecture.org][Computer Organization and Architecture]]', 3), ('[[file:be-cse-2018/403-Operating-Systems.org][Operating Systems]]', 3), ('[[file:be-cse-2018/404-Design-and-Analysis-of-Algorithms.org][Design and Analysis of Algorithms]]', 4), ('[[file:be-cse-2018/405-Database-Management-Systems.org][Database Management Systems]]', 3), ('[[file:be-cse-2018/406-Software-Engineering.org][Software Engineering]]', 3), ('[[file:be-cse-2018/407-Operating-Systems-Lab.org][Operating Systems Lab]]', 1.5), ('[[file:be-cse-2018/408-Database-Lab.org][Database Lab]]', 1.5), ('[[file:be-cse-2018/501-Computer-Networks.org][Computer Networks]]', 3), ('[[file:be-cse-2018/502-Microprocessors-and-Interfacing.org][Microprocessors and Interfacing]]', 3), ('[[file:be-cse-2018/503-Theory-of-Computation.org][Theory of Computation]]', 4), ('[[file:be-cse-2018/603-Artificial-Intelligence.org][Artificial Intelligence]]', 4), ('[[file:be-cse-2018/505-Introduction-to-Cryptographic-Techniques.org][Introduction to Cryptographic Techniques]]', 3), ('[[file:be-cse-2018/507-Networks-Lab.org][Networks Lab]]', 1.5), ('[[file:be-cse-2018/508-Microprocessors-Lab.org][Microprocessors Lab]]', 1.5), ('[[file:be-cse-2018/601-Internet-Programming.org][Internet Programming]]', 3), ('[[file:be-cse-2018/602-Compiler-Deisgn.org][Compiler Design]]', 4), ('[[file:be-cse-2018/504-Introduction-to-Machine-Learning.org][Introduction to Machine Learning]]', 3), ('[[file:be-cse-2018/604-Object-Oriented-Analysis-and-Design.org][Object Oriented Analysis and Design]]', 3), ('[[file:be-cse-2018/607-Internet-Programming-Lab.org][Internet Programming Lab]]', 1.5), ('[[file:be-cse-2018/701-Distributed-Systems.org][Distributed Systems]]', 3), ('[[file:be-cse-2018/702-Mobile-Computing.org][Mobile Computing]]', 3), ('[[file:be-cse-2018/703-Computer-Graphics-and-Multimedia.org][Computer Graphics and Multimedia]]', 3), ('[[file:be-cse-2018/707-Mobile-Application-Development-Lab.org][Mobile Application Developement Lab]]', 1.5), ('[[file:be-cse-2018/708-Graphics-and-Multimedia-Lab.org][Graphics and Multimedia Lab]]', 1.5)]
+: PE 5 15 [('Professional Elective 1', 3), ('Professional Elective 2', 3), ('Professional Elective 3', 3), ('Professional Elective 4', 3), ('Professional Elective 5', 3)]
+: EEC 3 11.5 [('[[file:be-cse-2018/409-Interpersonal-Skills.org][Interpersonal Skills]]', 1), ('[[file:be-cse-2018/608-Mini-Project.org][Mini Project]]', 1.5), ('Project Work', 9)]
+: OE 2 6 [('Open Elective 1', 3), ('Open Elective 2', 3)]
+: 174.0
+
+#+latex: \newpage
+#+attr_latex: :environment longtable :align @{}p{.04\textwidth}p{.06\textwidth}p{.5\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}
+|    |       |                                        |     |     |   |   |   |   |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+| No | Code  | Title                                  | Cat | Hrs | L | T | P | C |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Professional Elective 1*              |     |     |   |   |   |   |
+|  1 | PE101 | [[file:be-cse-2018/PE101-C#-and-.NET-programming.org][C# and .NET Programming]]                | PE  |   3 | 3 | 0 | 0 | 3 |
+|  2 | PE102 | [[file:be-cse-2018/PE102-Advanced-Database-Management-Systems.org][Advanced Database Management Systems]]   | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE103 | [[file:be-cse-2018/PE103-Software-Testing.org][Software Testing]]                       | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE206 | [[file:be-cse-2018/PE206-Foundations-of-Data-Science.org][Foundations of Data Science]]            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE105 | [[file:be-cse-2018/PE105-Logic-Programming.org][Logic Programming]]                      | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE106 | [[file:be-cse-2018/PE106-Wireless-Adhoc-and-Sensor-Networks.org][Wireless Adhoc and Sensor Networks]]     | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE107 | [[file:be-cse-2018/PE107-Programming-Paradigms.org][Programming Paradigms]]                  | PE  |   3 | 3 | 0 | 0 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Professional Elective 2*              |     |     |   |   |   |   |
+|  1 | PE201 | [[file:be-cse-2018/PE201-Cyber-Forensics.org][Cyber Forensics]]                        | PE  |   3 | 3 | 0 | 0 | 3 |
+|  2 | PE202 | [[file:be-cse-2018/PE202-Software-Project-Management.org][Software Project Management]]            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE203 | [[file:be-cse-2018/PE203-Image-Processing-and-Analysis.org][Image Processing and Analysis]]          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE204 | [[file:be-cse-2018/PE204-Advanced-Java-Programming.org][Advanced Java Programming]]              | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE205 | [[file:be-cse-2018/PE205-Internet-of-Things.org][Internet of Things]]                     | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE206 | [[file:be-cse-2018/PE104-Digital-Signal-Processing.org][Digital Signal Processing]]              | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE207 | [[file:be-cse-2018/PE207-Numerical-Methods-with-Programming.org][Numerical Methods with Programming]]     | PE  |   3 | 3 | 0 | 0 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Professional Elective 3*              |     |     |   |   |   |   |
+|  1 | PE301 | [[file:be-cse-2018/PE301-Service-Oriented-Architecture.org][Service Oriented Architecture]]          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  2 | PE302 | [[file:be-cse-2018/PE302-Social-Network-Analysis.org][Social Network Analysis]]                | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE303 | [[file:be-cse-2018/PE303-Speech-Processing-and-Synthesis.org][Speech Processing and Synthesis]]        | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE304 | [[file:be-cse-2018/PE304-Deep-Learning.org][Deep Learning]]                          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE305 | [[file:be-cse-2018/PE305-Multicore-Architecture-and-Programming.org][Multicore Architecture and Programming]] | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE306 | [[file:be-cse-2018/PE306-Logic-in-Computer-Science.org][Logic in Computer Science]]              | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE307 | [[file:be-cse-2018/PE307-Cloud-Computing.org][Cloud Computing]]                        | PE  |   3 | 3 | 0 | 0 | 3 |
+|  8 | PE308 | [[file:be-cse-2018/PE308-Software-Architecture.org][Software Architecture]]                  | PE  |   3 | 3 | 0 | 0 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Professional Elective 4*              |     |     |   |   |   |   |
+|  1 | PE401 | [[file:be-cse-2018/PE401-GPU-Computing.org][GPU Computing]]                          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  2 | PE402 | [[file:be-cse-2018/PE402-Human-Computer-Interaction.org][Human Computer Interaction]]             | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE403 | [[file:be-cse-2018/PE403-Data-Warehousing-and-Data-Mining.org][Data Warehousing and Data Mining]]       | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE404 | [[file:be-cse-2018/PE404-Information-Retrieval-Techniques.org][Information Retrieval Techniques]]       | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE405 | [[file:be-cse-2018/PE405-Soft-Computing.org][Soft Computing]]                         | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE406 | [[file:be-cse-2018/PE406-Embedded-Systems.org][Embedded Systems]]                       | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE407 | [[file:be-cse-2018/PE407-Graph-Theory-and-Applications.org][Graph Theory and Applications]]          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  8 | PE408 | [[file:be-cse-2018/PE408-User-Experience-Design.org][User Experience Design]]                 | PE  |   3 | 3 | 0 | 0 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Professional Elective 5*              |     |     |   |   |   |   |
+|  1 | PE501 | [[file:be-cse-2018/PE501-Parallel-Algorithms.org][Parallel Algorithms]]                    |     |     |   |   |   |   |
+|  2 | PE502 | [[file:be-cse-2018/PE502-Big-Data-Analytics.org][Big Data Analytics]]                     | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE503 | [[file:be-cse-2018/PE503-Agile-Methodologies.org][Agile Methodologies]]                    | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE504 | [[file:be-cse-2018/PE504-Natural-Language-Processing.org][Natural Language Processing]]            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE505 | [[file:be-cse-2018/PE505-Robotics.org][Robotics]]                               | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE506 | [[file:be-cse-2018/PE506-Network-and-Server-Security.org][Network and Server Security]]            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE507 | [[file:be-cse-2018/PE507-Program-Verification.org][Formal System Verification]]             | PE  |   3 | 3 | 0 | 0 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
+|    |       | *Open Electives*                       |     |     |   |   |   |   |
+|  1 | OE1   | [[file:be-cse-2018/OE1-Introduction-to-Data-Structures.org][Introduction to Data Structures]]        | OE  |   4 | 2 | 0 | 2 | 3 |
+|  2 | OE2   | [[file:be-cse-2018/OE2-Object-Oriented-Programming-Techniques.org][Object Oriented Programming Techniques]] | OE  |   4 | 2 | 0 | 2 | 3 |
+|  3 | OE3   | [[file:be-cse-2018/OE3-Problem-Solving-and-Programming-in-C.org][Problem Solving and Programming in C]]   | OE  |   4 | 2 | 0 | 2 | 3 |
+|  4 | OE4   | [[file:be-cse-2018/OE4-Introduction-to-Big-Data-Analytics.org][Introduction to Big Data Analytics]]     | OE  |   4 | 2 | 0 | 2 | 3 |
+|  5 | OE5   | [[file:be-cse-2018/OE5-Machine-Learning-Applications.org][Machine Learning Applications]]          | OE  |   4 | 2 | 0 | 2 | 3 |
+|  6 | OE6   | [[file:be-cse-2018/OE6-Web-Technology.org][Web Technology]]                         | OE  |   4 | 2 | 0 | 2 | 3 |
+|----+-------+----------------------------------------+-----+-----+---+---+---+---|
