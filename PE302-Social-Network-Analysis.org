@@ -1,7 +1,7 @@
 * <<<PE302>>> SOCIAL NETWORK ANALYSIS
 :properties:
 :author: Dr. V. S. Felix Enigo and Dr. G. Raghuraman
-:date: 03/05/2019
+:date: 19/3/21
 :end:
 
 #+startup: showall
@@ -12,13 +12,14 @@
 
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | k2 |  2  |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   0 |    1 |    0 |    0 |    3 |    1 |    1 |
-| CO2            | k2 |  2  |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   0 |    1 |    0 |    0 |    3 |    1 |    1 |
-| CO3            | k2 |  2  |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   0 |    1 |    0 |    0 |    3 |    1 |    1 |
-| CO4            | K3 |  3  |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   0 |    1 |    0 |    1 |    2 |    0 |    1 |
-| CO5            | K3 |  3  |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   0 |    1 |    0 |    1 |    2 |    0 |    1 |
-| Score          |    |  12 |  10 |   7 |   7 |   5 |   2 |   0 |   5 |   0 |    5 |    0 |    3 |   13 |    3 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   0 |    1 |    0 |    1 |    3 |    1 |    1 |
+| CO1            | k2 |  2  |   2 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    0 |    0 |    0 |    0 |
+| CO2            | k2 |  1  |   2 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
+| CO3            | k2 |  1  |   1 |   0 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    2 |    0 |    0 |
+| CO4            | K3 |  1  |   1 |   0 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    2 |
+| CO5            | K3 |  1  |   1 |   0 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    2 |
+| Score          |    |  6  |   7 |   0 |   6 |   6 |   0 |   0 |   0 |   0 |    1 |    0 |    9 |    9 |    0 |    4 |
+| Course Mapping |    |  1  |   1 |   0 |   2 |   3 |   0 |   0 |   0 |   0 |    1 |    0 |    3 |    3 |    0 |    2 |
+
 
 {{{credits}}}
 | L | T | P | C |
@@ -27,19 +28,20 @@
 #+BEGIN_COMMENT
 
 Modification
-   Course Objectives was reduced to three objectives.
-Major Change
-  Unit IV was completely replaced with new topics as suggested by BoS Experts
-  Course outcomes was modified reflecting Unit IV
-  New text book was added to cover the topics of Unit IV
-  
+  - Course Objectives changed
+  - Course Outcome Changed
+  - CO-PO Mapping Changed
+  - 3 outcomes are made K3 level
+  - Text books Versions updated
 #+END_COMMENT
 
 
 ** COURSE OBJECTIVES
-- To understand the concepts of social network analysis and formally represent social network 
-- To use SNA tools for applying community detection algorithms and visualization on online social network
-- To know the various applications of social network analysis.
+- Understand the fundamentals of social network analysis
+- Represent formally social networks 
+- Understand the working of various community detection algorithms
+- Learn to implement SNA algorithms using SNA tools 
+- Learn to do Visualization using SNA tools
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
@@ -85,33 +87,25 @@ networks.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
-- Represent social networks mathematically (K2)
-- Understand the working of community detection algorithms for online Social networks (K2)
-- Use SNA tools for analysing social networks (K3)  
-- Apply Visualization to social networks (K3).
+- Interpret social networks mathematically (K2)
+- Compare the working of various community detection algorithms for online Social networks (K3)
+- Apply SNA tools for analysing social networks (K3)  
+- Make use of Visualization tools to social networks (K3)
+
 
 ** TEXTBOOKS
-1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
-   Springer, 2007. (Unit I)
-2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
-   Press, 1994. (Unit I and Unit II)
-3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
-4. Borko Furht, ``Handbook of Social Network Technologies and
-   Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
+
+1. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
+   Press, 1999. (Unit I and Unit II)
+2. Borko Furht, ``Handbook of Social Network Technologies and Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
 
       
 ** REFERENCES
-1. John Scott, ``Social Network Analysis'', 4th Edition, SAGE
-   Publications, 2017.
-2. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson,
-   ``Analyzing Social Networks'', SAGE Publications, 2nd
-   Edition, 2018.
-3. Robert A Hanneman, Mark Riddle, ``Introduction to social network
-   methods'', University of California, Riverside, 2005.
-4. Charles Kadushin, ``Understanding Social Networks: Theories,
-   Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
+1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
+   Springer, 2007. (Unit I)
+2. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
+3. Edward L. Platt, ``Network Science with Python and NetworkX Quick Start Guide: Explore and visualize network data effectively'', Packt Publishing, 2019
+4. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson, ``Analyzing Social Networks'', SAGE Publications, 2nd Edition, 2018.
+5. Charles Kadushin, ``Understanding Social Networks: Theories, Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
    University Press, 2012.
-5. Guandong Xu ,Yanchun Zhang, Lin Li, ``Web Mining and Social
-   Networking – Techniques and applications'', 1st Edition
-   Springer, 2011.
 
