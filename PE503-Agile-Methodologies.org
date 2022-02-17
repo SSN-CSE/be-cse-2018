@@ -56,7 +56,7 @@ The topics Iterative and Evolutionary Development is added to differentiate agil
 {{{unit}}}
 | UNIT II | REQUIREMENTS ENGINEERING FOR AGILE METHODS | 9 |
 Traditional and Agile Requirement Engineering; Methods and Tools for
-Agile Practitioners: Requirements eanna ulicitation -- Requirements
+Agile Practitioners: Requirements elicitation -- Requirements
 representation and documentation -- Requirements analysis --
 Requirements management; Agile Approaches to Requirements Engineering:
 The customer -- Requirements evolution -- Non-functional requirements;
