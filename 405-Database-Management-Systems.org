@@ -1,6 +1,6 @@
 * <<<405>>> DATABASE MANAGEMENT SYSTEMS
 :properties:
-:author: Mr. B. Senthil Kumar and Dr. P. Mirunalini
+:author: Mr. B. Senthil Kumar and Dr. P. Mirunalini (new)
 :date: 
 :end:
 
