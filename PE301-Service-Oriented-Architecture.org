@@ -1,4 +1,4 @@
-* <<<PE301>>> SERVICE ORIENTED ARCHITECTURE
+* <<<UCS1721-PE301>>> SERVICE ORIENTED ARCHITECTURE
 :properties:
 :author: Dr. K. Vallidevi and Dr. V. S. Felix Enigo
 :date: 
