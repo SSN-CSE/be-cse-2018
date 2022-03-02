@@ -104,7 +104,7 @@ After the completion of this course, students will be able to:
 - Construct automata, regular expression for any given pattern (K3)
 - Understand the need of formal languages, and grammars (K3)
 - Design pushdown automata for any CFL (K3)
-- Design Turing machines for any Languages (K3)
+- Design Turing machines for any Languages (K3).
 - Explain the Decidability or Undecidability of various problems (K2).
 
 ** Text Books 
