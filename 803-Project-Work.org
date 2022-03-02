@@ -27,6 +27,13 @@
 
 
 ** COURSE OBJECTIVES
+- To develop skills to formulate a complex engineering problem with an awareness of  issues pertaining to  society, health, safety, legal, environment, culture   and examine the impact of the proposed solution on these  issues.
+- To carry out the survey on related literature and find out the research gap
+- To explore use of new tools, algorithms and techniques required to carry out the projects.
+- To enable the students to gain experience in organization and implementation of a project.
+- To follow the guidelines and prepare technical report of the project.
+- To develop team management skills and presentation skills
+
   
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
