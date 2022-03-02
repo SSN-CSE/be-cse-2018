@@ -11,11 +11,11 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
-- To understand data definitions and data manipulation commands
-- To learn about the use of nested and join queries
-- To understand procedural extensions of databases
-- To design a database schema for an application using Normalization
-- To implement typical database applications using Front-end tools
+- To understand data definitions and data manipulation commands(K3)
+- To learn about the use of nested and join queries(K3)
+- To understand procedural extensions of databases(K3)
+- To design a database schema for an application using Normalization(K3)
+- To implement typical database applications using Front-end tools(K3)
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -23,11 +23,11 @@
 |                |    |  K3 |  K6 |  K6 |  K6 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K6 |   K5 |   K6 |
 | CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
 | CO2            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
-| CO3            | K3 |   3 |   3 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO3            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
 | CO4            | K3 |   3 |   2 |     |  2  |     |     |     |     |     |      |      |      |    2 |      |      |
-| CO5            | K3 |   2 |     |     |     |   2 |     |     |     |     |      |      |      |    2 |      |      |
-| Score          |    |  15 |  9  |     |     |     |     |     |     |     |      |      |      |   10 |      |      |
-| Course Mapping |    |   3 |   3 |     |   2 |  2  |     |     |     |     |      |      |      |    2 |      |      |
+| CO5            | K3 |   2 |   2 |     |     |   2 |     |     |     |     |      |      |      |    2 |      |      |
+| Score          |    |  15 |  10 |     |     |     |     |     |     |     |      |      |      |   10 |      |      |
+| Course Mapping |    |   3 |   2 |     |   2 |  2  |     |     |     |     |      |      |      |    2 |      |      |
 
 
 
