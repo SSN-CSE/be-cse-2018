@@ -29,15 +29,17 @@
 ** COURSE OBJECTIVES
   
 ** COURSE OUTCOMES
-CO1:  Formulate complex engineering problems and choose suitable technologies and tools   
+After the completion of this course, students will be able to:
+
+- Formulate complex engineering problems and choose suitable technologies and tools   
            required to solve them effectively (K4)
-CO2: Analyse the related literature on the proposed problem and its feasibility (K4)
-CO3: Construct  suitable solutions by applying software engineering principles (K6)
-CO4: Divide the work appropriately among the team members to manage time and complexity    
+- Analyse the related literature on the proposed problem and its feasibility (K4)
+- Construct  suitable solutions by applying software engineering principles (K6)
+- Divide the work appropriately among the team members to manage time and complexity    
           (K4)
-CO5: Evaluate, document and present the solution (K5)
-CO6: Analyse the issues pertaining to society, health, safety, legal, environment, culture   
+- Evaluate, document and present the solution (K5)
+- Analyse the issues pertaining to society, health, safety, legal, environment, culture   
           applicable to the project and examine the impact of the proposed solution on these issues.       
            (K4)
-CO7:  Apply best practices and follow ethics in developing the solutions (K3)
+- Apply best practices and follow ethics in developing the solutions (K3)
 
