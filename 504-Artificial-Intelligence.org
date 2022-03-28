@@ -1,6 +1,6 @@
 * <<<504>>> ARTIFICIAL INTELLIGENCE
 :properties:
-:author: Dr. S. Sheerazuddin and Dr. S. Kavitha
+:author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
 :end:
 
 #+startup: showall
