@@ -107,8 +107,14 @@ After the completion of this course, students will be able to:
    Automata, Languages and Computation'', Prentice Hall of India, 3rd
    Edition, 2004.
 
-** CO PO MAPPING
-#+NAME: co-po-mapping
-
-
-
+** CO PO PSO MAPPING
+#+NAME: co-po-pso mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 | K6  | K6  |  K6 | K6  |     |     |     |     |      |      |      |  K6  | K5   | K6   |
+| CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO2            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO3            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO4            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO5            | K2 |   2 |   1 |     |     |     |     |     |     |     |      |      |      |    1 |      |      |
+| Score          |    |  14 |   9 |     |     |     |     |     |     |     |      |      |      |    9 |      |      |
+| Course Mapping |    |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
