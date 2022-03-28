@@ -1,6 +1,6 @@
 * <<<404>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
-:author: Dr.S.Kavitha and Mr.V.Balasubramanian
+:author: Dr.S.Kavitha and Dr.V.Balasubramanian
 :end:
 
 #+startup: showall
