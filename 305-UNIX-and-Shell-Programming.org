@@ -77,11 +77,12 @@ sed and awk.
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Work in UNIX environment and use VI editor (K3)
-- Use filters, regular expressions, and patterns (K3)
+- Work in UNIX environment and use VI editor (K2)
+- Handle files proficiently (K2)
+- Use of vi editor with proficiency (K3)
 - Work with the bash Shell (K2)
-- Write Shell programs (K3)
-- Handle I/O and processes (K2)
+- Write Shell programs (K3).
+
 
 ** TEXTBOOK
 1. Behrouz Forouzan, Richard Gilberg ``UNIX and Shell Programming:
