@@ -1,6 +1,6 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
-:author: Ms. A. Beulah and Mr. V. Balasubramanian
+:author: Dr.A.Beulah and Dr.S.Kavitha
 :end:
 
 #+startup: showall
