@@ -10,13 +10,16 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO4            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| CO5            | K2 |   2 |   2 |   1 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| Score          |    |  12 |  10 |   7 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |    7 |   12 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO1            | K2 |   2 |   1 |    |    |    |    |    |    |    |     |     |     |    1 |     |     |
+| CO2            | K3 |   3 |   2 |    |    |    |    |    |    |    |     |     |     |    2 |     |     |
+| CO3            | K3 |   3 |   2 |    |    |    |    |    |    |    |     |     |     |    2 |     |     |
+| CO4            | K2 |   2 |   1 |    |    |    |    |    |    |    |     |     |     |    1 |     |     |
+| CO5            | K2 |   2 |   1 |    |    |    |    |    |    |    |     |     |     |    1 |     |     |
+| Score          |    |  12 |  7 |    |    |    |    |    |    |    |     |     |     |    7 |    |     |
+| Course Mapping |    |   3 |   2 |    |    |   |    |    |    |    |     |     |     |    2 |    |     |
+
+
+
 
 #+begin_comment
 - 1. Almost the same as AU
@@ -79,16 +82,11 @@ SNMP.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the principles, design, terminology and concepts of the
-  network models (K2)
-- Learn the protocols of data link layer and apply error control
-  mechanisms (K3)
-- Understand the core functions of network layer protocols and apply
-  them for data communication (K3)
-- Learn the purpose of Transport Layer Protocols such as UDP and TCP
-  (K2)
-- Understand the Application Layer Protocols and their basic
-  functionalities (K2).
+- Describe the principles, design, terminology and concepts of the network models (K2)
+- Select the protocols of data link layer and apply error control mechanisms (K3)
+- Choose the core functions of network layer protocols and apply them for data communication (K3)
+- Explain the purpose of Transport Layer Protocols such as UDP and TCP (K2)
+- Illustrate the Application Layer Protocols and their basic functionalities (K2).
 
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th
