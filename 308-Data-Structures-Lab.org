@@ -40,8 +40,7 @@
 After the completion of this course, students will be able to: 
 - Implement linear and nonlinear data structures to solve a given problem (K3) 
 - Implement nonlinear data structures and use them for various applications (K3)
-- Analyze a problem statement and suggest an appropriate linear/ nonlinear data structure for
-solving it (K4)
+- Analyze a problem statement and suggest an appropriate linear/ nonlinear data structure for solving it (K4)
 - Implement sorting, searching and hashing algorithms (K2)
 - Implement hashing technique for data storage and retrieval (K3).
 
