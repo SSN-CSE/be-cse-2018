@@ -5,17 +5,6 @@
 :end:
 
 #+startup: showall
-** CO PO MAPPING :noexport:
-#+NAME: co-po-mapping
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    1 |
-| CO3            | K4 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    2 |
-| CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    1 |
-| Score          |    |  15 |  11 |  10 |   0 |   6 |   0 |   0 |  10 |  10 |   10 |    0 |   10 |   10 |   15 |    6 |
-| Course Mapping |    |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   2 |   2 |    2 |    0 |    2 |    2 |    3 |    2 |
 
 {{{credits}}}
 | L | T | P | C |
@@ -49,16 +38,28 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear data structures and apply them to solve a given problem (K3) 
-- Implement non-linear data structures and use them for various applications (K3)
-- Analyze a problem statement and suggest an appropriate linear / non-linear data structure
-  for solving it (K4)
-- Implement sorting and searching algorithms (K3)
-- Implement hashing techniques for data storage and retrieval (K3).
+- Implement linear and nonlinear data structures to solve a given problem (K3) 
+- Implement nonlinear data structures and use them for various applications (K3)
+- Analyze a problem statement and suggest an appropriate linear/ nonlinear data structure for
+solving it (K4)
+- Implement sorting, searching and hashing algorithms (K2)
+- Implement hashing technique for data storage and retrieval (K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
     1. Standalone Systems - 25 Nos 
 Software:\\
     1. C / C++ Compiler 
+    
+** CO PO MAPPING
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 | K6  | K6  |  K6 | K6  |     |     |     |     |      |      |      |  K6  | K5    | K6   |
+| CO1            | K3 |   3 |   2 |  2  |     |     |     |     |     |     |      |      |      |    2 |   2   |      |
+| CO2            | K3 |   3 |   2 |  2  |     |     |     |     |     |     |      |      |      |    2 |   2   |      |
+| CO3            | K4 |   3 |   2 |  2  |     |     |     |     |     |     |      |      |      |    2 |   2   |      |
+| CO4            | K2 |   2 |   1 |     |     |     |     |     |     |     |      |      |      |      |   1   |      |
+| CO5            | K3 |   3 |   2 |  2  |     |     |     |     |     |     |      |      |      |    2 |   2   |      |
+| Score          |    |  14 |   9 |  8  |     |     |     |     |     |     |      |      |      |    8 |   9   |      |
+| Course Mapping |    |   3 |   2 |  2  |     |     |     |     |     |     |      |      |      |    2 |   2   |      |
       
