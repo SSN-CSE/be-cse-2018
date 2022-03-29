@@ -61,7 +61,7 @@
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
+After the completion of this course, students will be able to:  
 - Profile the performance of various CPU Scheduling Algorithms (K3)
 - Implement Deadlock avoidance and Detection Algorithms (K3)
 - Implement Semaphores and IPC (K3)
