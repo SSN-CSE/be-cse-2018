@@ -1,0 +1,120 @@
+* <<<703>>> GRAPHICS AND MULTIMEDIA
+:properties:
+:author: Ms. S. Lakshmi Priya and Mr. N. Sujaudeen
+:date: 13-11-18
+:end:
+
+* CO PO MAPPING :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K6 |   K6 |
+| CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO2            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO3            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO4            | K2 |   2 |   1 |     |     |     |     |     |     |     |      |      |      |    1 |      |      |
+| CO5            | K2 |   2 |   1 |     |     |   1 |     |     |     |     |      |      |      |    1 |      |      |
+| Score          |    |  13 |   8 |     |     |   1 |     |     |     |     |      |      |      |    8 |      |      |
+| Course Mapping |    |   3 |   2 |     |     |   1 |     |     |     |     |      |      |      |    2 |      |      |
+
+#+begin_comment
+1. Unit IV & V differ from AU2017. 
+2. Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
+   Unit III - B splines is removed as under spline representaions topic, Bezier curve is already given. Visible surface detection methods removed.
+   Unit IV - Instead of Multimedia introduction, changed to Illumination models and added Animation. 
+   Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
+3. Not Applicable
+4. Five Course outcomes specified and aligned with units
+5. For Lab, suggestive experiments are clearly defined.
+#+end_comment
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To gain knowledge on different display devices and its working principles
+- To understand the 2D and 3D dimensional graphics representation and object transformations
+- To understand illumination principles and color models used in output devices
+- To understand basic concepts of multimedia
+- To explore Blender graphics tool and design animations.
+
+
+{{{unit}}}
+|UNIT I | DISPLAY SYSTEMS AND OUTPUT PRIMITIVES | 8 |
+Introduction to computer graphics -- Applications; Overview of
+graphics systems: Video display devices -- Raster scan systems --
+Random scan systems; Output primitives: Points and lines -- Loading the
+frame buffer -- Line drawing algorithms: DDA and Bresenham's line
+drawing algorithms -- Circle and ellipse generating algorithms -- Pixel
+addressing and object geometry.
+
+{{{unit}}}
+|UNIT II | TWO DIMENSIONAL GRAPHICS | 9 |
+Two dimensional geometric transformations: Basic transformations --
+Matrix representations and homogeneous coordinates -- Composite
+transformations; Two dimensional viewing: Viewing pipeline -- viewing
+coordinate reference frame -- Window to viewport coordinate
+transformation -- Clipping operations: Point and text clipping -- Line
+and polygon clipping algorithms.
+
+{{{unit}}}
+|UNIT III | THREE DIMENSIONAL GRAPHICS | 10 |
+Three dimensional concepts; Three dimensional object representations:
+Polygon surfaces -- Polygon tables -- Plane equations -- Polygon
+meshes -- Curved lines and surfaces -- Quadratic surfaces-- Blobby
+objects -- Spline representations -- Bezier curves and surfaces; Three
+Dimensional Geometric and Modeling Transformations: Translation --
+Rotation -- Scaling -- Composite transformations; Three Dimensional
+Viewing: Viewing pipeline -- Viewing coordinates -- Projections --
+View volumes -- Clipping.
+
+{{{unit}}}
+|UNIT IV | ILLUMINATION MODELS AND ANIMATION | 8 |
+Light sources -- Basic illumination models: Ambient, Diffuse, Specular
+Components of the Phong model; Color Models: Properties of light --
+Standard primaries and chromaticity diagram -- RGB, YIQ, CMY, HSV and
+HLS color models; Computer Animation: Design of animation sequences --
+Keyframe systems -- Motion specifications.
+
+{{{unit}}}
+|UNIT V | MULTIMEDIA | 10 |
+Multimedia Systems Design: Multimedia elements -- Multimedia
+applications -- Multimedia systems architecture -- Defining objects for
+multimedia systems -- Multimedia data interface standards; Compression
+and decompression; Data and File Format Standards; Hypermedia
+Messaging; Case Study -- Blender Graphics: Fundamentals -- Drawing
+Basic Shapes -- Modelling -- Shading & textures.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+ - Apply the algorithms to manipulate output primitives such as line,
+   circle, ellipse (K3)
+ - Demonstrate transformations, representations and clipping on 2D
+   objects and map window to viewport transformations (K3)
+ - Apply three Dimensional concepts like representations, geometric
+   transformations, and projections (K3)
+ - Understand the working of different illumination and color models
+   used to render an animation scene (K2)
+ - Understand different types of multimedia file formats, compression
+   techniques and design basic 3D Scenes using Blender (K2).
+
+** TEXT BOOKS
+1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
+   Hall, New Delhi, 2007. 
+2. Andleigh P K, Kiran Thakrar, ``Multimedia Systems and
+   Design'', PHI, 2003. 
+
+** REFERENCES
+1. Foley, Vandam, Feiner, Hughes, ``Computer Graphics: Principles
+   and Practice'', 2nd Edition, Pearson Education, 2003.
+2. Jeffrey McConnell, ``Computer Graphics: Theory into Practice'',
+   Jones and Bartlett Publishers, 2006.
+3. Hill F S Jr, ``Computer Graphics'', Maxwell Macmillan, 1990.
+4. Peter Shirley, Michael Ashikhmin, Michael Gleicher, Stephen R
+   Marschner, Erik Reinhard, KelvinSung, AK Peters, ``Fundamentals
+   of Computer Graphics'',CRC Press, 2010.
+5. https://www.blender.org/support/tutorials/
