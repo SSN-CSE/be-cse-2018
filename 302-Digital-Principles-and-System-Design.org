@@ -14,14 +14,14 @@
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO2            | K4 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
-| CO3            | K4 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
-| CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| Score          |    |  15 |  12 |  10 |   0 |   7 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    7 |
-| Course Mapping |    |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |     |     |     |     |      |      |      |   K5 |   K3 |   K6 |
+| CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO2            | K4 |   3 |   2 |   2 |     |     |     |     |     |     |    3 |      |      |    2 |      |      |
+| CO3            | K4 |   3 |   2 |   2 |     |     |     |     |     |     |    3 |      |      |    2 |      |      |
+| CO4            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| CO5            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |      |    2 |      |      |
+| Score          |    |  15 |  10 |   6 |     |     |     |     |     |     |    6 |      |      |   10 |      |      |
+| Course Mapping |    |   3 |   2 |   2 |     |     |     |     |     |     |    3 |      |      |    2 |      |      |
 
 
 {{{credits}}}
@@ -75,8 +75,7 @@ After the completion of this course, students will be able to:
 - Simplify Boolean functions using KMap (K3)
 - Analyze and design Combinational Circuits (K4)
 - Analyze and design Sequential Circuits (K4)
-- Understand various memories and implement Boolean functions using
-  Programmable Logic Devices (K3)
+- Understand various memories and implement Boolean functions using Programmable Logic Devices (K3)
 - Write HDL code for combinational and Sequential Circuits (K3).
 
 ** TEXT BOOKS
