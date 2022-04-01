@@ -31,11 +31,11 @@
 | 3 | 0 | 0 | 3 |
  
 ** COURSE OBJECTIVES
-1. Understand the basic architecture, operation, programming of microprocessor 8086 (K3)
-2. Understand the design of basic and multiprocessor systems and their bus timings (K2)
-3. Design the 8086 interfaces with memory, I/O and other peripheral chips (K3)
-4. Understand the basic architecture and operation of microcontroller 8051 (K2)
-5. Apply programming concepts to implement microcontroller interfaces for different applications (K3).
+- To understand the Architecture of 8086 microprocessor
+- To learn the design aspects of I/O and Memory Interfacing circuits
+- To interface microprocessors with supporting chips
+- To study the Architecture of 8051 microcontroller
+- To design a microcontroller based system.
 
 
 {{{unit}}}
