@@ -15,6 +15,7 @@
 
 
 #+startup: showall
+{{{credits}}}
 
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -106,4 +107,4 @@ After the completion of this course, students will be able to:
 | Score          |    |  12 |   7 |     |  2 |    |    |    |    |    |     |     |     |    7 |    |    |
 | Course Mapping |    |   3 |   2 |     |  2 |    |    |    |    |    |     |     |     |    2 |    |    |
 
-** {{{credits}}}
+
