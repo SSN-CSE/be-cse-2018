@@ -72,12 +72,11 @@ networks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-CO1: Explain Social network concepts, measures and data (K2)
-CO2: Represent social networks mathematically (K2)
-CO3: Understand the working of community detection algorithms for online  
-         Social networks (K2)
-CO4: Use SNA tools for analysing social networks (K3)
-CO5: Apply Visualization to social networks (K3)
+- CO1: Explain Social network concepts, measures and data (K2)
+- CO2: Represent social networks mathematically (K2)
+- CO3: Understand the working of community detection algorithms for online Social networks (K2)
+- CO4: Use SNA tools for analysing social networks (K3)
+- CO5: Apply Visualization to social networks (K3)
 
 
 ** TEXTBOOKS
