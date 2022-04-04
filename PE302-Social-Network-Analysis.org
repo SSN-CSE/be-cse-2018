@@ -86,11 +86,12 @@ networks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain Social network concepts, measures and data (K2)
-- Interpret social networks mathematically (K2)
-- Compare the working of various community detection algorithms for online Social networks (K3)
-- Apply SNA tools for analysing social networks (K3)  
-- Make use of Visualization tools to social networks (K3)
+CO1: Explain Social network concepts, measures and data (K2)
+CO2: Represent social networks mathematically (K2)
+CO3: Understand the working of community detection algorithms for online  
+         Social networks (K2)
+CO4: Use SNA tools for analysing social networks (K3)
+CO5: Apply Visualization to social networks (K3)
 
 
 ** TEXTBOOKS
@@ -108,4 +109,17 @@ After the completion of this course, students will be able to:
 4. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson, ``Analyzing Social Networks'', SAGE Publications, 2nd Edition, 2018.
 5. Charles Kadushin, ``Understanding Social Networks: Theories, Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
    University Press, 2012.
+
+#+NAME: co-po-mapping
+
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11| PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |   - |   - |   - |   - |    - |     |      |   K6 |   K5 |   K6 |
+| CO1            | k2 |  2  |   1 |    |      |    |    |    |    |    |    |     |     |      |  1    |      |      |
+| CO2            | k2 |  2  |   1 |    |      |    |    |    |    |    |     |     |     |     |   1   |      |      | 
+| CO3            | k2 |  2  |   1 |    |     |    |    |    |    |    |     |     |    |     |    1  |      |      |
+| CO4            | K3 |  3  |   2 |    |     |   |    |    |    |    |     |     |    |     |    2  |     |      | 
+| CO5            | K3 |  3  |   2 |    |     |   |    |    |    |    |     |     |    |     |    2  |     |      |
+| Score          |    |  12  |   7 |    |     |   |    |    |    |    |    |     |    |     |   7   |     |      |
+| Course Mapping |    |  3  |   2 |    |     |   |    |    |    |    |    |     |    |     |    2  |     |      |
+
 
