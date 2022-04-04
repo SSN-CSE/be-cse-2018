@@ -85,3 +85,19 @@ After the completion of this course, students will be able to:
    Teach and Use It'', Springer--Verlag, 2011.
 5. W F Clocksin, C S Mellish, ``Programming in PROLOG'',
    Springer-Verlag, 2016.
+   
+   ** CO TO PO/PSO MAPPING
+
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1(K2)| 2 | 1 |   |   |   |   |   |   |   |    |    |    | 1 |   |   |
+| CO2(K2)| 2 | 1 |   |   |   |   |   |   |   |    |    |    | 1 |   |   |
+| CO3(K3)| 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO4(K3)| 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO5(K3)| 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+#+TBLFM: @>$INVALID..$15='(ceiling (/ (+ @2..@7) 6));N
+
+# | Score|13 | 8 |   |   |   |   |   |   |   |    |    |    | 8 |   |   |
