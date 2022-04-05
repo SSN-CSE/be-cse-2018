@@ -1,0 +1,72 @@
+* UCS1201 PROGRAMMING IN C
+:properties:
+:author: R S Milton
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P |   C |
+| 3 | 1 | 0 | 3.5 |
+		
+** COURSE OBJECTIVES
+   - To solve programming problems in C
+   - To use basic programming concepts of C
+   - To develop programs using loops, functions, arrays, pointers,
+     strings, structures and files
+
+{{{unit}}}
+| UNIT I | BASICS | 9 |
+Algorithm -- structure of a C program -- data types: built-in,
+user-defined -- variables and constants -- input and output statements
+-- operators, expressions, assignment statements -- control
+statements.
+
+{{{unit}}}
+| UNIT II | FUNCTIONS | 8 |
+Function prototype -- function definition and call -- passing
+parameters -- built-in functions -- Scope: local, external, static,
+blocks -- recursion; Pre-processor directives.
+
+{{{unit}}}
+|UNIT III|ARRAYS AND POINTERS |10|
+Arrays: declaration, initialization -- one dimensional arrays --
+multi-dimensional arrays; Pointers: pointer operators -- pointer
+operations -- array of pointers, pointer to a function -- passing
+arrays and pointers to functions.
+
+{{{unit}}} 
+|UNIT IV| STRINGS, STRUCTURES AND UNIONS|10|
+Strings: constants and variables, reading and writing strings, string
+operations, string library; Command line arguments; Structures: nested
+structures -- structures and functions -- array of structures --
+pointer to a structure -- unions -- type definition (typedef); Dynamic
+memory allocation.
+
+{{{unit}}}
+|UNIT V| FILES|8|
+Files: opening and closing a data file -- creating a data file --
+processing a data file -- unformatted data files -- formatted input
+and output -- line input and output -- file error handling; Standard
+library functions.
+
+\hfill *Total Hours: 60*
+
+** TEXT BOOKS
+   1. Byron Gottfried, ``Programming with C'' (Schaum's Outlines Series),
+      McGraw-Hill Education, 3rd Edition, 2017
+   2. Brian W Kernighan and Dennis M Ritchie, ``The C Programming
+      Language'', Pearson Education India, 2nd Edition, 2015
+
+** REFERENCES
+   1. Reema Thareja, ``Programming in C'', Oxford University Press,
+      Second Edition, 2016
+   2. Yashwant Kanetkar, ``Let Us C'', BPB Publications, 14th Edition, 2016
+   3. K. N. King, ``C Programming -- A Modern Approach'', W. W. Norton
+      & Company 2nd Edition, 2008
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Write  pseudo-code for solving programming problems (K3)
+2. Represent data with suitable structued data types (K3)
+3. Develop C programs using appropriate programming constructs (K4)
+4. Organize programs into functions and files (K3).

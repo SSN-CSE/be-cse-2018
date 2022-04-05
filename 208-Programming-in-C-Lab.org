@@ -1,0 +1,58 @@
+* UCS1297 PROGRAMMING IN C LAB
+:properties:
+:author: R S Milton
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P |   C |
+| 0 | 0 | 3 | 1.5 |
+		
+** COURSE OBJECTIVES
+   - To develop, implement, and execute C programs.
+   - To use various  programming constructs and features  in C  
+   - To understand  the concept of modular programming  using functions  
+
+** SUGGESTIVE EXERCISES
+   1. Programs using I/O statements and conditional constructs (if,
+      switch, ternary)
+   2. Programs using looping constructs (for, while, do-while)
+   3. Programs using functions with different parameter passing
+      techniques: Call by value (e.g. swapping two numbers), call by
+      reference (e.g. changing the elements of an array), Recursion
+      (e.g. binary search)
+   4. Programs using one dimensional arrays (e.g.  inserting an
+      element after every ith position in an array, Insertion sort)
+   5. Programs using multi-dimensional arrays (e.g. matrix
+      manipulations)
+   6. Programs using strings and their operations (e.g.  concatenation
+      of strings, extracting a substring, checking for palindrome,
+      search for a given string using binary search)
+   7. Programs to demonstrate pointers to functions (e.g. simple
+      arithmetic calculator)
+   8. Programs to demonstrate simple structure manipulations
+      (e.g. generating a transcript with CGPA and class obtained)
+   9. Programs to pass structures to functions (e.g. operations on
+      complex numbers, difference between times)
+   10. Programs to pass array of structures to a function
+       (e.g. generate invites to N parents for a meeting by passing
+       the details of students)
+   11. Programs to demonstrate file operations (e.g. count the number
+       of characters, words and lines in a file, replace a specific
+       word with the given word in the same file)
+
+** MINI PROJECTS
+Develop an application modularly using C programming
+constructs. (Eg. Library management system, Online ticket reservation
+system -- Train/Bus/Airways, Hotel reservation system)
+
+\hfill *Total Hours: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Implement C programs, compile, debug, and execute (K2)
+2. Implement programs in C with correct data representation and
+   appropriate programming constructs (K4)
+3. Compare arrays and pointers in C (K3)
+4. Use structures and files in C (K3)
+5. Develop programs modularly and refine incrementally (K3).

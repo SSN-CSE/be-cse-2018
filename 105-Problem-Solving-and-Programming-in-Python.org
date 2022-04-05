@@ -1,0 +1,86 @@
+* UGE1176 PROBLEM SOLVING AND PROGRAMMING IN PYTHON
+:properties:
+:author: R S Milton
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+   - To solve algorithmic problems.
+   - To abstract and specify problems.
+   - To compose programs in Python using iteration and recursion.
+   - To construct programs in Python using functions.
+
+{{{unit}}}
+| UNIT I | ALGORITHMIC PROBLEM SOLVING | 9 |
+Algorithms, building blocks of algorithms (statements, state, control
+flow, functions); Notation (pseudo code, flow chart, programming
+language); specification, composition, decomposition, iteration,
+recursion.
+
+| UNIT II | DATA, EXPRESSION, STATEMENT, CONDITIONAL | 9 |
+Data and types: int, float, boolean, string, list; variables,
+expressions, statements, simultaneous assignment, precedence of
+operators; comments; in-built modules and functions; Conditional:
+boolean values and operators, conditional (if), alternative (if-else),
+case analysis (if-elif-else).
+
+| UNIT III | ITERATION, FUNCTION, STRINGS | 9 |
+Iteration: while, for, break, continue, pass; Functions: function
+definition, function call, flow of execution, parameters and
+arguments, return values, local and global scope, recursion; Strings:
+string slices, immutability, string functions and methods, string
+module.
+
+| UNIT IV | LISTS, TUPLES | 9 |
+Lists: list operations, list slices, list methods, list loop,
+mutability, aliasing, cloning lists, list parameters, nested lists,
+list comprehension; Tuples: tuple assignment, tuple as return value,
+tuple operations.
+
+| UNIT V | DICTIONARIES, FILES | 9 |
+Dictionaries: operations and methods, looping and dictionaries,
+reverse lookup, dictionaries and lists; Files: Text files, reading and
+writing files, format operator, file names and paths; command line
+arguments.
+
+\hfill *Total Hours:45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+1. Think logically to solve programming problems and write solutions in
+   pseudo code (K3).
+2. Understand and develop simple Python programs using conditionals
+   and loops (K3).
+3. Decompose a program into functions. (K3)
+4. Represent compound data using Python lists, tuples,
+   dictionaries (K3).
+5. Perform input/output with files (K2).
+
+** TEXT BOOKS
+   1. Allen B. Downey, ``Think Python: How to Think Like a Computer
+      Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
+      Publishers, 2016 (http://greenteapress.com/wp/think-python/)
+   2. Guido van Rossum and Fred L. Drake Jr, ``An Introduction to
+      Python -- Revised and updated for Python 3.2'', Network Theory
+      Ltd., 2011.
+
+** REFERENCES
+1. John V Guttag, ``Introduction to Computation and Programming Using
+   Python'', Revised and expanded Edition, MIT Press, 2013
+2. Robert Sedgewick, Kevin Wayne, Robert Dondero, ``Introduction to
+   Programming in Python: An Inter-disciplinary Approach'', Pearson
+   India Education Services Pvt. Ltd., 2016.
+3. Timothy A. Budd, ``Exploring Python'', Mc-Graw Hill Education
+   (India) Private Ltd., 2015.
+4. Kenneth A. Lambert, ``Fundamentals of Python: First Programs'',
+   CENGAGE Learning, 2012.
+5. Charles Dierbach, ``Introduction to Computer Science using Python:
+   A Computational Problem-Solving Focus'', Wiley India Edition, 2013.
+6. Paul Gries, Jennifer Campbell and Jason Montojo, ``Practical
+   Programming: An Introduction to Computer Science using Python 3'',
+   Second edition, Pragmatic Programmers, LLC, 2013.
+

@@ -1,0 +1,51 @@
+* UGE1197 PROGRAMMING IN PYTHON LAB
+:properties:
+:author: R S Milton
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P |   C |
+| 0 | 0 | 3 | 1.5 |
+		
+** COURSE OBJECTIVES
+   - To solve problems using algorithms and flowcharts
+   - To write, test, and debug simple Python programs.
+   - To develop and execute programs using Python programming constructs.
+
+** SUGGESTIVE EXERCISES
+   1. Use Linux shell commands, use Python in interactive mode, and an
+      editor
+   2. Write simple programs (area of a geometric shape, simple
+      interest, solve quadratic equation, net salary).
+   3. Write programs using conditional statements (leap year, maximum
+      of 2 numbers, maximum of 3 numbers, simple calculator, grade of
+      the total mark).
+   4. Develop programs using loops and nested loops (gcd, prime
+      number, integer division, sum of digits of an integer,
+      multiplication table, sum of a series, print patterns, square
+      root using Newton's method).
+   5. Develop programs using function (sine and cosine series,
+      Pythagorean triplets).
+   6. Develop programs using recursion (efficient power of a number,
+      factorial, Fibonacci number).
+   7. Develop programs using strings (palindrome, finding substring)
+      without using in-built functions.
+   8. Develop programs using list and tuples (linear search, binary
+      search, selection sort, insertion sort, quicksort).
+   9. Develop programs using nested lists (matrix manipulations).
+   10. Develop simple programs using dictionaries (frequency
+       histogram, nested dictionary).
+   11. Develop programs using Files (read and write files).
+   12. Develop programs to perform any task by reading arguments from
+       command line.
+
+\hfill *Total Hours: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+1. Write, test, and debug simple Python programs (K2).
+2. Implement Python programs with conditionals and loops  (K3).
+3. Use functions for structuring Python programs (K3).
+4. Represent compound data using Python lists, tuples, and dictionaries (K3).
+5. Read and write data from/to files in Python (K3).
